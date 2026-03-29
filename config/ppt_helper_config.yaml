@@ -1,0 +1,149 @@
+# LiteratureHub PPT 辅助模块配置文件
+# 从 Wind-Aero-Literature-PPT-Helper 适配而来
+
+# ============================================================================
+# 项目信息
+# ============================================================================
+project:
+  name: "LiterHub-PPT-Helper"
+  version: "1.0.0"
+  description: "LiterHub 文献 PPT 辅助系统（适配版）"
+
+# ============================================================================
+# 数据路径配置（⭐ 直接使用 LiteratureHub 现有数据）
+# ============================================================================
+data_paths:
+  # LiteratureHub 项目根目录
+  source_project: "d:/xfs/phd/github项目/LiteratureHub"
+
+  # ⭐ 输入数据路径（直接使用 LiteratureHub 现有数据）
+  source_agent_results: "d:/xfs/phd/github项目/LiteratureHub/data/agent_results"
+  source_markdowns: "d:/xfs/phd/github项目/LiteratureHub/data/projects/wind_aero/markdown"
+  source_database: ""  # LiteratureHub 暂无数据库
+
+  # ⭐ PPT 辅助模块输出路径（直接输出到 processed）
+  processed_data: "data/ppt_helper/processed"
+  domain_results: "data/ppt_helper/processed/by_domain"
+  final_output: "data/ppt_helper/processed/final_ppt_content.json"
+
+# ============================================================================
+# API 配置
+# ============================================================================
+api:
+  provider: "zhipu"  # 智谱 AI
+  model: "glm-4.7"  # GLM-4.7 模型
+  timeout: 300  # 超时时间（秒）
+  max_retries: 3  # 最大重试次数
+
+  # API 密钥文件（每行一个密钥）
+  keys_file: "config/api_keys.txt"
+
+# ============================================================================
+# 分析配置
+# ============================================================================
+analysis:
+  # 时间范围
+  year_range:
+    start: 2018
+    end: 2026
+    focus_start: 2023  # 重点分析起始年
+
+  # 文献筛选
+  paper_selection:
+    method: "score"  # 按评分筛选
+    max_papers: 100  # 最大文献数量（Top N）
+
+  # 评分权重（继承自原项目）
+  scoring:
+    impact_factor_weight: 0.7
+    time_weight: 0.3
+
+  # 时间权重
+  time_weights:
+    2026: 1.0
+    2025: 0.9
+    2024: 0.8
+    2023: 0.7
+    2022: 0.5
+    2021: 0.3
+    2020: 0.1
+    2019: 0.1
+    2018: 0.1
+
+# ============================================================================
+# 领域分类配置
+# ============================================================================
+domain_classification:
+  # 领域数量范围（AI 推断）
+  min_domains: 5
+  max_domains: 10
+
+  # 领域命名风格
+  naming_style: "professional"  # professional | concise
+
+# ============================================================================
+# 输出配置
+# ============================================================================
+output:
+  # PPT 内容格式
+  format: "json"  # json | markdown | both
+
+  # 4 部分 PPT 内容
+  parts:
+    - name: "Literature Review"
+      filename: "part1_literature_review.md"
+      max_slides: 15
+
+    - name: "Innovation Points"
+      filename: "part2_innovation_points.md"
+      max_slides: 20
+
+    - name: "Methodology"
+      filename: "part3_methodology.md"
+      max_slides: 15
+
+    - name: "Future Work"
+      filename: "part4_future_work.md"
+      max_slides: 10
+
+  # 每页 PPT 要点数量
+  bullets_per_slide:
+    min: 3
+    max: 5
+
+# ============================================================================
+# 日志配置
+# ============================================================================
+logging:
+  level: "INFO"  # DEBUG | INFO | WARNING | ERROR
+  file: "logs/ppt_helper.log"
+  console: true
+
+# ============================================================================
+# 缓存配置
+# ============================================================================
+cache:
+  enabled: true
+  directory: "data/ppt_helper/cache"
+  ttl: 86400  # 缓存过期时间（秒）
+
+# ============================================================================
+# 性能配置
+# ============================================================================
+performance:
+  # 批处理大小
+  batch_size: 10  # 每批处理的文献数量
+
+  # 并发控制
+  max_concurrent_requests: 1  # 最大并发请求数（避免限流）
+
+  # API 调用间隔（秒）
+  api_call_interval: 2
+
+# ============================================================================
+# 开发模式
+# ============================================================================
+development:
+  debug: false
+  dry_run: false  # 干运行模式（不实际调用 API）
+  verbose: true

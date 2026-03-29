@@ -1,0 +1,427 @@
+# 风能气动文献分析系统 - 关键词词典
+# Wind-Aero Literature Analysis System - Keywords Dictionary
+
+# ============================================
+# 创新点关键词
+# ============================================
+innovation:
+  # 新现象关键词
+  new_phenomena:
+    - phenomenon
+    - discovery
+    - observed
+    - revealed
+    - found that
+    - show that
+    - demonstrate
+    - for the first time
+    - novel behavior
+    - previously unobserved
+    - new insight
+    - uncover
+    - identify
+    - flow feature
+    - vortex structure
+    - wake characteristic
+    - aerodynamic effect
+    - unsteady phenomenon
+    - flow separation
+    - boundary layer transition
+
+  # 新方法关键词
+  new_methods:
+    - propose
+    - propose a
+    - develop a
+    - present a
+    - introduce a
+    - novel method
+    - new approach
+    - innovative technique
+    - methodology
+    - framework
+    - algorithm
+    - optimization method
+    - numerical scheme
+    - computational method
+    - experimental technique
+    - measurement technique
+    - data processing
+    - machine learning
+    - deep learning
+    - neural network
+    - surrogate model
+    - reduced order model
+    - CFD method
+    - wind tunnel test
+    - field measurement
+
+  # 新对象关键词
+  new_objects:
+    - new type of
+    - novel design
+    - innovative configuration
+    - blade design
+    - airfoil
+    - wind turbine
+    - rotor
+    - offshore wind
+    - floating wind
+    - vertical axis
+    - horizontal axis
+    - darrieus
+    - savonius
+    - small wind turbine
+    - large wind turbine
+    - extreme conditions
+    - complex terrain
+    - wind farm layout
+    - yaw control
+    - pitch control
+
+# ============================================
+# 研究动机关键词
+# ============================================
+motivation:
+  # 问题陈述
+  problem_statement:
+    - challenge
+    - problem
+    - issue
+    - limitation
+    - drawback
+    - deficiency
+    - shortcoming
+    - bottleneck
+    - unsolved
+    - poorly understood
+    - lack of
+    - insufficient
+    - inefficient
+    - expensive
+    - time-consuming
+
+  # 研究目标
+  research_objective:
+    - aim to
+    - objective
+    - goal
+    - purpose
+    - target
+    - focus on
+    - address the
+    - overcome
+    - improve
+    - enhance
+    - optimize
+    - reduce
+    - increase
+    - achieve
+
+  # 研究空白
+  research_gap:
+    - however
+    - nevertheless
+    - yet
+    - despite
+    - although
+    - little attention
+    - few studies
+    - not well understood
+    - remains unclear
+    - lack of research
+    - rarely studied
+    - overlooked
+    - neglected
+    - gap in knowledge
+    - open question
+
+# ============================================
+# 技术路线关键词
+# ============================================
+technical_roadmap:
+  # 数值方法
+  numerical_methods:
+    - CFD
+    - computational fluid dynamics
+    - RANS
+    - LES
+    - DNS
+    - URANS
+    - SST
+    - k-omega
+    - k-epsilon
+    - finite volume
+    - finite element
+    - boundary element
+    - vortex method
+    - panel method
+    - actuator line
+    - actuator disk
+    - BEM
+    - blade element momentum
+
+  # 实验方法
+  experimental_methods:
+    - wind tunnel
+    - field test
+    - measurement
+    - PIV
+    - particle image velocimetry
+    - hot-wire
+    - pressure tap
+    - load cell
+    - strain gauge
+    - laser doppler
+    - flow visualization
+
+  # 优化方法
+  optimization_methods:
+    - genetic algorithm
+    - particle swarm
+    - gradient-based
+    - adjoint method
+    - response surface
+    - Kriging
+    - neural network
+    - surrogate model
+    - multi-objective
+    - Pareto
+
+  # 验证方法
+  validation_methods:
+    - validate
+    - verify
+    - compare with
+    - agreement with
+    - match
+    - experimental data
+    - benchmark
+    - literature
+    - reference
+
+# ============================================
+# 风机类型关键词
+# ============================================
+turbine_types:
+  horizontal_axis:
+    - HAWT
+    - horizontal axis wind turbine
+    - upwind
+    - downwind
+    - stall regulated
+    - pitch regulated
+
+  vertical_axis:
+    - VAWT
+    - vertical axis wind turbine
+    - Darrieus
+    - Savonius
+    - H-rotor
+    - straight-bladed
+    - curved-bladed
+
+  offshore:
+    - offshore wind turbine
+    - floating wind turbine
+    - semi-submersible
+    - spar
+    - TLP
+    - monopile
+    - jacket
+    - tripod
+
+  small_scale:
+    - small wind turbine
+    - micro wind turbine
+    - domestic
+    - building-mounted
+    - urban
+
+# ============================================
+# 研究主题关键词
+# ============================================
+research_topics:
+  aerodynamics:
+    - aerodynamic
+    - airfoil
+    - lift
+    - drag
+    - moment
+    - stall
+    - boundary layer
+    - transition
+    - separation
+    - wake
+    - vortex
+    - tip vortex
+    - root vortex
+    - wake turbulence
+    - wake meandering
+    - wake deficit
+
+  aeroelasticity:
+    - aeroelastic
+    - fluid-structure interaction
+    - FSI
+    - blade deformation
+    - vibration
+    - flutter
+    - divergence
+    - resonance
+    - fatigue
+    - dynamic response
+
+  control:
+    - pitch control
+    - yaw control
+    - torque control
+    - load control
+    - wake steering
+    - individual pitch control
+    - collective pitch control
+    - controller
+    - control strategy
+
+  optimization:
+    - blade optimization
+    - design optimization
+    - aerodynamic optimization
+    - structural optimization
+    - multi-objective optimization
+    - shape optimization
+    - layout optimization
+    - farm optimization
+
+  noise:
+    - aerodynamic noise
+    - trailing edge noise
+    - tip noise
+    - noise reduction
+    - sound pressure level
+    - acoustic
+
+  icing:
+    - icing
+    - ice accretion
+    - ice shedding
+    - anti-icing
+    - de-icing
+    - cold climate
+    - frozen conditions
+
+# ============================================
+# 影响因子关键词（用于期刊分类）
+# ============================================
+impact_indicators:
+  high_impact:
+    - Nature
+    - Science
+    - Nature Energy
+    - Nature Climate Change
+    - Renewable and Sustainable Energy Reviews
+    - Progress in Energy and Combustion Science
+    - Energy and Environmental Science
+    - Journal of Fluid Mechanics
+    - Annual Review of Fluid Mechanics
+
+  medium_impact:
+    - Applied Energy
+    - Energy
+    - Energy Conversion and Management
+    - Renewable Energy
+    - Wind Energy
+    - Journal of Wind Engineering
+    - AIAA Journal
+    - Physics of Fluids
+
+  low_impact:
+    - Elsevier journals (IF < 3)
+    - MDPI journals
+    - Conference proceedings
+    - Local journals
+
+# ============================================
+# 时间相关关键词
+# ============================================
+time_expressions:
+  recent:
+    - recent years
+    - recently
+    - latest
+    - current
+    - nowadays
+    - present
+    - modern
+
+  past:
+    - traditionally
+    - historically
+    - previously
+    - earlier studies
+    - past decades
+    - conventional
+
+  future:
+    - future work
+    - перспективы
+    - further research
+    - upcoming
+    - next generation
+
+# ============================================
+# 机理解释关键词
+# ============================================
+mechanism_keywords:
+  physical_mechanism:
+    - physical mechanism
+    - underlying physics
+    - flow physics
+    - mechanism of
+    - due to
+    - caused by
+    - attributed to
+    - because
+    - reason for
+    - explain
+    - explanation
+    - understanding
+    - insight
+
+  theoretical_basis:
+    - based on
+    - grounded in
+    - theoretical framework
+    - foundation
+    - principle
+    - law
+    - theorem
+    - model
+    - assumption
+
+# ============================================
+# 否定和限制关键词
+# ============================================
+limitation_keywords:
+  limitations:
+    - limitation
+    - restrict
+    - constraint
+    - assumption
+    - simplify
+    - idealize
+    - neglect
+    - ignore
+    - not consider
+    - limitation of this study
+    - scope
+
+  challenges:
+    - challenge
+    - difficulty
+    - obstacle
+    - barrier
+    - hurdle
+    - problem
+    - issue
+    - remain to be solved

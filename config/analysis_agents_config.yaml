@@ -1,0 +1,117 @@
+# Phase 3 智能分析器配置文件
+# Intelligent Analyzers Configuration for Phase 3
+
+# 项目信息
+project:
+  name: "Wind-Aero-Literature-Analysis-System"
+  version: "0.2.0"
+  phase: "Phase 3 - Intelligent Analysis"
+
+# 分析器配置
+analyzers:
+  # 创新点分析器
+  innovation:
+    enabled: true
+    priority: 1
+    agent_type: "ai-engineer"
+    max_concurrent: 3
+    timeout: 120  # 秒
+    prompt_template: "prompts/innovation_analyzer.txt"
+    output_schema: "schemas/innovation_schema.json"
+    description: "识别创新点（新现象、新方法、新对象）"
+
+  # 研究动机分析器
+  motivation:
+    enabled: true
+    priority: 2
+    agent_type: "data-science:business-analyst"
+    max_concurrent: 3
+    timeout: 90
+    prompt_template: "prompts/motivation_detector.txt"
+    output_schema: "schemas/motivation_schema.json"
+    description: "分析研究动机和痛点"
+
+  # 技术路线分析器
+  roadmap:
+    enabled: true
+    priority: 3
+    agent_type: "backend-development:backend-architect"
+    max_concurrent: 3
+    timeout: 90
+    prompt_template: "prompts/roadmap_analyzer.txt"
+    output_schema: "schemas/roadmap_schema.json"
+    description: "分析技术路线和方法论"
+
+  # 机理解析器
+  mechanism:
+    enabled: true
+    priority: 4
+    agent_type: "code-explain"
+    max_concurrent: 2
+    timeout: 120
+    prompt_template: "prompts/mechanism_analyzer.txt"
+    output_schema: "schemas/mechanism_schema.json"
+    description: "解析物理机制和因果关系"
+
+  # 影响评估器
+  impact:
+    enabled: true
+    priority: 5
+    agent_type: "observability-monitoring:performance-engineer"
+    max_concurrent: 2
+    timeout: 60
+    prompt_template: "prompts/impact_assessor.txt"
+    output_schema: "schemas/impact_schema.json"
+    description: "评估学术影响力"
+
+# 执行模式配置
+execution:
+  mode: "parallel"  # parallel | sequential
+
+  # 并行配置
+  parallel:
+    max_concurrent_agents: 3  # 同时运行的最大子智能体数量
+    batch_size: 10  # 每批处理的文献数量
+    delay_between_batches: 1  # 批次之间的延迟（秒）
+
+  # 串行配置（备用）
+  sequential:
+    order: ["innovation", "motivation", "roadmap", "mechanism", "impact"]
+    save_intermediate: true  # 是否保存中间结果
+
+# 错误处理
+error_handling:
+  max_retries: 3  # 失败后的最大重试次数
+  retry_delay: 5  # 重试延迟（秒）
+  continue_on_error: true  # 单个分析器失败是否继续其他分析器
+  log_errors: true  # 是否记录错误日志
+
+# 输出配置
+output:
+  base_dir: "data/analysis_results"
+  save_raw_results: true  # 是否保存原始Agent输出
+  save_processed_results: true  # 是否保存处理后的结果
+  export_format: ["json", "csv"]  # 导出格式
+
+  # 进度报告
+  progress_report:
+    enabled: true
+    interval: 10  # 每10篇文献报告一次进度
+    save_to_file: true  # 是否保存到文件
+
+# 日志配置
+logging:
+  level: "INFO"  # DEBUG | INFO | WARNING | ERROR
+  file: "logs/parallel_analysis.log"
+  console: true
+  agent_logs: "logs/agents/"  # 子智能体日志目录
+
+# 性能优化
+optimization:
+  use_cache: true  # 是否使用缓存
+  cache_dir: "data/cache/agents"
+  cache_ttl: 3600  # 缓存过期时间（秒）
+
+  # 资源限制
+  max_memory_per_agent: 512  # MB
+  max_cpu_per_agent: 1  # CPU核心数

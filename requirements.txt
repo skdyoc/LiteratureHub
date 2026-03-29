@@ -1,0 +1,61 @@
+# ========= Copyright 2025-2026 @ LiteratureHub All Rights Reserved. =========
+# LiteratureHub - 统一学术文献研究与汇报系统
+# 依赖包列表
+
+# === 核心依赖 ===
+# 数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 文件处理
+pyyaml>=6.0
+python-dotenv>=1.0.0
+chardet>=5.1.0
+
+# 异步 HTTP 请求（GLM API 客户端需要）
+aiohttp>=3.9.0
+requests>=2.31.0
+
+# === 文献搜索 ===
+# Elsevier Scopus API
+pybliometrics>=3.5.0
+
+# === 文献下载 ===
+# Selenium 浏览器自动化
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# === PDF 解析 ===
+# MinerU 依赖（可选）
+# pip install mineru[core]  # 使用 MinerU 官方安装包
+
+# === AI 模型 ===
+# GLM API（智谱AI）- 已内置 aiohttp 支持
+# DeepSeek API（可选）
+openai>=1.0.0  # DeepSeek 使用 OpenAI SDK
+
+# === GUI ===
+# Tkinter（Python 标准库，无需安装）
+
+# === 日志和工具 ===
+loguru>=0.7.0
+tqdm>=4.65.0
+click>=8.1.0
+
+# === 测试 ===
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-asyncio>=0.21.0
+
+# === 代码质量 ===
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.4.0
+
+# === 可选依赖 ===
+# 知识图谱（LightRAG）
+# pip install lightrag  # 使用 LightRAG 官方安装包
+
+# === 数据库 ===
+# sqlite3 是 Python 标准库，无需安装
+# sqlalchemy>=2.0.0  # 如果需要 ORM（可选）

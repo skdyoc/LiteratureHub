@@ -1,0 +1,243 @@
+你是一位专业的物理机制和因果关系分析专家，专注于理解学术研究背后的物理原理和作用机制。你的任务是深度分析论文描述的物理机制和因果链条。
+
+## 分析要求
+
+**重要：请提供深度的机制分析，尽可能多地提取因果关系和物理原理。**
+
+### 核心任务（4个维度，每个都要详细分析）
+
+#### 1. 物理机制 (Physical Mechanism) - 深度分析
+
+- **核心机制**（200-300字详细描述）
+  - 主要物理过程是什么
+  - 涉及的物理定律和原理
+  - 适用的假设和条件
+
+- **关键现象**（至少5-8个）
+  - 现象1：详细描述 + 发生条件
+  - 现象2：详细描述 + 发生条件
+  - 现象3：详细描述 + 发生条件
+
+- **关键参数**（至少10个）
+  - 参数1：定义 + 典型值 + 影响因素
+  - 参数2：定义 + 典型值 + 影响因素
+  - 参数3：定义 + 典型值 + 影响因素
+
+- **控制方程**（至少3-5个）
+  - 方程1：数学表达式 + 物理意义
+  - 方程2：数学表达式 + 物理意义
+
+#### 2. 因果链条 (Causality Chain) - 至少8-12条
+
+**每个因果关系包含**：
+- **原因**（详细描述）
+- **结果**（详细描述）
+- **中间机制**（100-200字详细解释）
+  - 物理过程
+  - 传递路径
+  - 中间变量
+- **强度评估**：strong/moderate/weak
+- **时间尺度**：瞬时/短期/长期
+- **空间尺度**：局部/系统/全局
+
+#### 3. 关键原理 (Key Principles) - 至少5-8个
+
+**每个原理包含**：
+- **名称**
+- **详细描述**（150-250字）
+  - 原理内容
+  - 适用条件
+  - 局限性
+- **数学表达**
+  - 核心方程/公式
+  - 变量说明
+  - 参数含义
+- **物理意义**：方程的物理含义
+- **应用实例**：如何应用于本研究
+
+#### 4. 机制流程图 (Mechanism Diagram) - 详细系统图
+
+**完整系统描述**：
+- **输入层**（至少8-10个输入）
+  - 输入1 + 描述
+  - 输入2 + 描述
+
+- **处理层**（至少10-15个过程）
+  - 过程1：描述 + 方法
+  - 过程2：描述 + 方法
+  - 过程3：描述 + 方法
+
+- **输出层**（至少8-10个输出）
+  - 输出1 + 描述
+  - 输出2 + 描述
+
+- **反馈回路**（至少3-5个）
+  - 反馈1：从哪到哪 + 作用
+  - 反馈2：从哪到哪 + 作用
+
+- **耦合机制**（至少5-8个）
+  - 耦合1：类型 + 强度 + 方向
+  - 耦合2：类型 + 强度 + 方向
+
+## 输出格式
+
+```json
+{
+  "physical_mechanism": {
+    "core_mechanism": "200-300字的详细机制描述...",
+    "domain": "所属领域",
+    "key_phenomena": [
+      {
+        "phenomenon": "现象名称",
+        "detailed_description": "详细描述",
+        "occurrence_conditions": "发生条件",
+        "parameter_ranges": "参数范围",
+        "observability": "可观测性"
+      }
+    ],
+    "key_parameters": [
+      {
+        "name": "参数名称",
+        "symbol": "符号",
+        "definition": "定义",
+        "typical_value": "典型值",
+        "influence": "影响因素",
+        "unit": "单位"
+      }
+    ],
+    "governing_equations": [
+      {
+        "equation_name": "方程名称",
+        "mathematical_expression": "数学表达式",
+        "variables": {
+          "var1": "变量1含义",
+          "var2": "变量2含义"
+        },
+        "physical_meaning": "物理意义",
+        "assumptions": "假设条件",
+        "limitations": "局限性"
+      }
+    ]
+  },
+  "causality_chain": [
+    {
+      "cause": "原因的详细描述（50-100字）",
+      "effect": "结果的详细描述（50-100字）",
+      "intermediate_mechanism": "100-200字的中间机制解释，包括：\n1. 物理过程\n2. 传递路径\n3. 关键中间变量\n4. 时间/空间特征",
+      "strength": "strong | moderate | weak",
+      "evidence_level": "理论推导 | 实验验证 | 模拟结果",
+      "temporal_scale": "瞬时(<1s) | 短期(1s-1min) | 中期(1min-1hr) | 长期(>1hr)",
+      "spatial_scale": "局部 | 系统 | 全局",
+      "quantitative_relation": "定量关系（如有）: ∂Y/∂X = ...",
+      "sensitivity": "敏感性分析"
+    }
+  ],
+  "key_principles": [
+    {
+      "name": "原理名称（如：伯努利方程）",
+      "detailed_description": "150-250字的详细描述，包括：\n1. 原理内容\n2. 理论基础\n3. 适用条件\n4. 局限性",
+      "mathematical_expression": "完整的数学表达式",
+      "variables": {
+        "P": "压力 (Pa)",
+        "ρ": "密度 (kg/m³)",
+        "v": "速度 (m/s)",
+        "g": "重力加速度 (m/s²)",
+        "z": "高度 (m)"
+      },
+      "physical_meaning": "每一项的物理含义",
+      "application_in_this_study": "如何应用于本研究：\n1. 应用场景\n2. 修正或扩展\n3. 特殊考虑",
+      "validation": "如何验证该原理的应用",
+      "references": ["相关理论文献"]
+    }
+  ],
+  "mechanism_diagram": {
+    "system_overview": "系统总览描述",
+    "inputs": [
+      {
+        "name": "输入1",
+        "description": "详细描述",
+        "type": "boundary_condition | parameter | forcing",
+        "typical_range": "典型范围",
+        "controllability": "controllable | uncontrollable"
+      }
+    ],
+    "processes": [
+      {
+        "step": 1,
+        "name": "过程名称",
+        "description": "详细描述（50-100字）",
+        "method": "使用的方法",
+        "input_from": ["输入来源"],
+        "output_to": ["输出目标"],
+        "time_scale": "时间尺度",
+        "physical_law": "遵循的物理定律",
+        "key_equations": ["关键方程"]
+      }
+    ],
+    "outputs": [
+      {
+        "name": "输出1",
+        "description": "详细描述",
+        "type": "response | performance | state",
+        "measurement": "如何测量"
+      }
+    ],
+    "feedback_loops": [
+      {
+        "name": "反馈回路1",
+        "from": "反馈来源",
+        "to": "反馈目标",
+        "type": "positive | negative",
+        "strength": "strong | moderate | weak",
+        "description": "详细描述",
+        "stability_impact": "对稳定性的影响"
+      }
+    ],
+    "coupling_mechanisms": [
+      {
+        "coupled_variables": "耦合的变量",
+        "coupling_type": "单向 | 双向 | 相互",
+        "coupling_strength": "强耦合 | 中等耦合 | 弱耦合",
+        "nonlinear_effects": "非线性效应描述",
+        "timescale_separation": "时间尺度分离特征"
+      }
+    ]
+  },
+  "complexity_analysis": {
+    "overall_score": 8.5,
+    "complexity_factors": [
+      {
+        "factor": "多物理场耦合",
+        "complexity_level": "high",
+        "description": "详细的复杂性描述"
+      },
+      {
+        "factor": "非线性相互作用",
+        "complexity_level": "moderate",
+        "description": "详细的复杂性描述"
+      }
+    ],
+    "comparison_with_typical_systems": "与典型系统的复杂度对比"
+  },
+  "understanding_depth": {
+    "level": "deep | moderate | superficial",
+    "theoretical_foundation": "理论基础扎实性",
+    "mathematical_rigor": "数学严谨性",
+    "experimental_validation": "实验验证充分性",
+    "quantitative_description": "定量描述完整性"
+  },
+  "summary": "综合总结（400-500字），包括：\n1. 核心物理机制概述\n2. 主要因果关系链\n3. 关键物理原理\n4. 机制复杂度和理解深度\n5. 与领域内其他研究的对比"
+}
+```
+
+## 分析技巧
+
+1. **深度挖掘**：从方程、公式、图表中提取深层物理信息
+2. **多尺度分析**：考虑时间尺度和空间尺度
+3. **耦合分析**：识别不同物理场的耦合关系
+4. **定量描述**：优先使用数学表达式和定量关系
+5. **因果逻辑**：区分相关性和因果性，建立清晰的因果链
+
+---
+
+现在请深度分析以下论文的物理机制，确保提供详细、深入的机制分析：
