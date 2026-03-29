@@ -1,0 +1,364 @@
+```json
+{
+  "phase": "summary",
+  "ppt_content": {
+    "part1_research_review": {
+      "title": "01 课题研究综述（包含国内外研究现状）",
+      "slides": [
+        {
+          "slide_number": 1,
+          "title": "研究背景：深远海风电发展的大趋势",
+          "bullets": [
+            "全球能源转型加速，海上风电向深远海、大容量发展",
+            "随着风机单机容量增大（10MW+），叶片长度突破百米，气动弹性耦合效应显著增强",
+            "工程痛点：传统气动设计方法难以平衡“高发电效率”与“低极限载荷”的矛盾",
+            "深远海漂浮式平台带来的复杂非定常气动效应亟待解决"
+          ],
+          "notes": "开场引入，强调大背景下叶片设计的挑战。",
+          "citations": []
+        },
+        {
+          "slide_number": 2,
+          "title": "研究意义：理论价值与工程需求",
+          "bullets": [
+            "理论价值：揭示极端海况与平台大幅运动下的叶片非定常气动机理",
+            "工程价值：开发基于AI的快速气动预测工具，缩短设计周期",
+            "安全价值：提升台风等极端工况下叶片的结构安全性，降低度电成本（LCOE）",
+            "跨学科融合：推动空气动力学、海洋工程与人工智能的深度交叉"
+          ],
+          "notes": "阐述为什么要做这个研究。",
+          "citations": []
+        },
+        {
+          "slide_number": 3,
+          "title": "国内外研究现状：早期探索（2018-2020）",
+          "bullets": [
+            "重点：传统BEM模型修正与基于RANS的定常CFD模拟",
+            "单机优化：主要关注翼型升阻比提升，采用传统遗传算法等优化策略",
+            "载荷分析：主要基于简化的尾流模型（如Jensen模型），对复杂流场捕捉不足",
+            "局限性：难以精确模拟叶片大变形和复杂工况（如结冰）下的动态响应"
+          ],
+          "notes": "按时间线梳理第一阶段。",
+          "citations": ["Transition Modeling for Wind Turbine Airfoils at High Reynolds Number (2020)"]
+        },
+        {
+          "slide_number": 4,
+          "title": "国内外研究现状：技术过渡期（2021-2022）",
+          "bullets": [
+            "仿真精度升级：大涡模拟（LES）开始应用于尾流机理研究，混合RANS-LES方法得到评估",
+            "新概念兴起：海上漂浮式风力机概念设计成为热点，初步探索气动-水动耦合",
+            "风电场控制：从单机控制转向尾流转向研究，高斯尾流模型普及",
+            "典型工作：改进高斯尾流模型用于布局优化，动态偏航控制算法的提出"
+          ],
+          "notes": "技术转折点，为最新研究做铺垫。",
+          "citations": ["Assessment of Hybrid RANS-LES Methods for Wind Turbine Aerodynamics (2019)", "A Gaussian Wake Model for Wind Farm Layout Optimization (2021)", "Dynamic Yaw Control Optimization for Wind Power Enhancement (2022)"]
+        },
+        {
+          "slide_number": 5,
+          "title": "前沿进展：AI与气动深度融合（2023-2026）—— 核心趋势",
+          "bullets": [
+            "AI驱动设计：深度学习替代昂贵CFD，实现翼型/叶片的实时优化（如CNN的应用）",
+            "超大规模计算：亿亿次级超算实现全尺度尾流的高保真模拟",
+            "智能控制：基于实时预测的尾流转向协同控制策略落地",
+            "数据驱动：建立多分辨率气动模拟框架（MARSL），解决精度与效率矛盾"
+          ],
+          "notes": "重点突出2023-2026的最新热点。",
+          "citations": ["Deep Learning Assisted Airfoil Optimization for Wind Turbine (2023)", "Exascale CFD Simulation of Wind Turbine Wake Using High-Order Methods (2023)", "Deep Learning Based Real-Time Wake Prediction (2023)", "MARSL: A New Framework for Multi-Resolution Aerodynamic Simulation (2024)"]
+        },
+        {
+          "slide_number": 6,
+          "title": "前沿进展：深远海漂浮式复杂耦合（2023-2026）",
+          "bullets": [
+            "极端工况分析：填补漂浮式风机在极端台风工况下的气动弹性响应研究空白",
+            "多场耦合：高精度非线性流固耦合（FSI）模型的建立，考虑平台大幅运动",
+            "新型浮体：针对Spar-Semi等新型混合式漂浮平台的系统气动性能评估",
+            "特殊现象：平台运动诱导的叶片非定常气动载荷与尾流特性变化"
+          ],
+          "notes": "结合Phase 2中的复杂工况与Phase 1的漂浮式热点。",
+          "citations": ["Aeroelastic Response of Floating Wind Turbines under Extreme Conditions (2025)", "Nonlinear Fluid-Structure Interaction Analysis of Floating Offshore Wind Turbines (2023)", "Aerodynamic Performance of Hybrid Spar-Semi Floating Wind Turbines (2025)", "Next-Generation Floating Platforms: Aerodynamic-Hydrodynamic Coupling (2026)"]
+        },
+        {
+          "slide_number": 7,
+          "title": "高影响力文献详解（Top 1-5）",
+          "bullets": [
+            "[2023] Deep Learning Assisted Airfoil Optimization: 引入CNN大幅缩短设计周期，AI融合标杆",
+            "[2024] Cooperative Yaw Control: 大规模海上风电场分布式协同偏航策略，工程价值极高",
+            "[2025] Aeroelastic Response of Floating: 填补极端台风工况研究空白",
+            "[2026] Next-Generation Floating Platforms: 漂浮式耦合机理综述里程碑",
+            "[2023] Exascale CFD Simulation: 亿亿次级超算在风机全尺度模拟的开创性应用"
+          ],
+          "notes": "详细介绍Top 5论文的贡献。",
+          "citations": ["Deep Learning Assisted Airfoil Optimization for Wind Turbine (2023)", "Cooperative Yaw Control for Large-Scale Offshore Wind Farms (2024)", "Aeroelastic Response of Floating Wind Turbines under Extreme Conditions (2025)", "Next-Generation Floating Platforms: Aerodynamic-Hydrodynamic Coupling (2026)", "Exascale CFD Simulation of Wind Turbine Wake Using High-Order Methods (2023)"]
+        },
+        {
+          "slide_number": 8,
+          "title": "高影响力文献详解（Top 6-10）",
+          "bullets": [
+            "[2024] MARSL Framework: 提出多分辨率气动模拟框架，解决精度与效率矛盾",
+            "[2025] Hybrid Spar-Semi Performance: 指导新型浮式基础设计",
+            "[2023] Nonlinear FSI: 建立高精度非线性流固耦合模型",
+            "[2024] Pareto Optimization: 实现气动与结构多目标的帕累托优化",
+            "[2026] CFD of Adaptive Morphing Blades: 研究自适应变形叶片降载机理"
+          ],
+          "notes": "继续介绍Top 6-10。",
+          "citations": ["MARSL: A New Framework for Multi-Resolution Aerodynamic Simulation (2024)", "Aerodynamic Performance of Hybrid Spar-Semi Floating Wind Turbines (2025)", "Nonlinear Fluid-Structure Interaction Analysis of Floating Offshore Wind Turbines (2023)", "Pareto Optimization of Wind Turbine Blades considering Aerodynamic and Structural (2024)", "CFD Analysis of Adaptive Morphing Blades for Load Reduction (2026)"]
+        },
+        {
+          "slide_number": 9,
+          "title": "当前领域总结与研究不足",
+          "bullets": [
+            "成果：已建立从翼型到风电场的全链条分析体系，AI技术显著提升设计效率",
+            "不足1（多物理场）：深远海极端风况下气动-水动-伺服强耦合机理尚不清晰",
+            "不足2（智能化）：现有AI代理模型多基于定常或简单动工况，对复杂非定常（如结冰、大变形）泛化能力差",
+            "不足3（优化目标）：针对漂浮式风机特有的“载荷-效率-稳定性”多目标协同优化研究较少"
+          ],
+          "notes": "总结现有问题，引出本文的研究切入点。",
+          "citations": []
+        }
+      ]
+    },
+    "part2_innovation": {
+      "title": "02 课题创新性",
+      "slides": [
+        {
+          "slide_number": 1,
+          "title": "课题创新性总览",
+          "bullets": [
+            "本研究属于“延续前人未做完”与“改进现有方法”的结合",
+            "核心逻辑：在现有高保真CFD和AI优化基础上，向“极端复杂工况”和“强耦合多场”拓展",
+            "三大创新维度：新对象（漂浮式极端工况）、新方法（多保真度深度学习代理）、新机制（非定常气动-水动耦合）"
+          ],
+          "notes": "明确创新类型和维度。",
+          "citations": []
+        },
+        {
+          "slide_number": 2,
+          "title": "创新点一：新对象——面向深远海漂浮式风机的极端工况研究",
+          "bullets": [
+            "研究空白：现有研究多聚焦于正常海况，针对台风（ECD）等极端风况下的漂浮式风机气动响应研究较少",
+            "创新内容：将研究对象从“定常海况”扩展至“极端台风工况下的漂浮式风机”",
+            "具体场景：考虑平台大幅六自由度运动与叶片大变形的非线性叠加效应",
+            "依据：基于[2025] Aeroelastic Response研究，进一步细化极端风切变模型"
+          ],
+          "notes": "详细阐述对象创新。",
+          "citations": ["Aeroelastic Response of Floating Wind Turbines under Extreme Conditions (2025)"]
+        },
+        {
+          "slide_number": 3,
+          "title": "创新点一（续）：极端工况下的新物理现象发现",
+          "bullets": [
+            "新现象预测：揭示台风风廓线与平台纵摇耦合导致的叶片“动态失速迟滞”新机制",
+            "Phase 2结合：结合复杂工况与载荷分析方向，分析结冰与台风叠加效应",
+            "工程意义：发现传统BEM理论在预测此类工况时的失效边界，为设计规范提供修正依据"
+          ],
+          "notes": "结合Phase 2内容。",
+          "citations": []
+        },
+        {
+          "slide_number": 4,
+          "title": "创新点二：新方法——多保真度深度学习气动代理模型",
+          "bullets": [
+            "现有局限：单一纯数据驱动AI模型（CNN）在未见工况下泛化性差，缺乏物理约束",
+            "创新方法：提出“物理信息神经网络（PINN）+ CFD数据”混合驱动的多保真度代理模型",
+            "技术优势：在保证LES级精度的同时，计算效率提升2-3个数量级",
+            "对比：优于[2023] Deep Learning Assisted的纯数据驱动方法，引入了Navier-Stokes方程残差作为正则项"
+          ],
+          "notes": "方法创新，强调对比。",
+          "citations": ["Deep Learning Assisted Airfoil Optimization for Wind Turbine (2023)", "MARSL: A New Framework for Multi-Resolution Aerodynamic Simulation (2024)"]
+        },
+        {
+          "slide_number": 5,
+          "title": "创新点二（续）：方法的技术路线与验证",
+          "bullets": [
+            "采样策略：利用主动学习算法在参数空间内自适应采样，减少冗余计算",
+            "模型架构：编码器-解码器结构处理高维流场，结合注意力机制捕捉关键流动特征",
+            "验证标准：不仅在测试集验证，更在跨工况（不同风况、不同偏航角）下验证泛化能力"
+          ],
+          "notes": "细化技术路线。",
+          "citations": []
+        },
+        {
+          "slide_number": 6,
+          "title": "创新点三：新机制——气动-水动-伺服强耦合下的降载控制策略",
+          "bullets": [
+            "研究背景：漂浮式风机不仅受气动载荷，还受波浪导致的水动载荷，传统独立气动控制失效",
+            "新机制：揭示“叶片变桨-平台运动-尾流演化”三者之间的时滞耦合机理",
+            "控制策略：基于预测控制的协同偏航与变桨联合优化，不同于[2024] Cooperative Yaw的纯偏航策略",
+            "预期效果：在不显著降低发电量的前提下，降低塔底极限弯矩15%以上"
+          ],
+          "notes": "机制创新，强调多场耦合。",
+          "citations": ["Cooperative Yaw Control for Large-Scale Offshore Wind Farms (2024)"]
+        },
+        {
+          "slide_number": 7,
+          "title": "创新点的科学意义与贡献",
+          "bullets": [
+            "理论层面：建立了极端海况下漂浮式风机非定常气动弹性理论模型",
+            "方法层面：提供了一种兼具物理可解释性与计算效率的AI/ML新范式",
+            "应用层面：为国产深远海大型漂浮式风机的安全设计与运行控制提供直接技术支撑"
+          ],
+          "notes": "总结创新价值。",
+          "citations": []
+        }
+      ]
+    },
+    "part3_methodology": {
+      "title": "03 思路及方法",
+      "slides": [
+        {
+          "slide_number": 1,
+          "title": "总体研究思路与技术路线",
+          "bullets": [
+            "思路推导：从“现象发现” -> “机理建模” -> “快速预测” -> “控制优化”",
+            "路径选择：采用“高保真CFD挖掘机理”与“AI代理模型工程应用”双线并行策略",
+            "逻辑闭环：以CFD结果训练AI，AI反馈优化设计，形成数字孪生闭环"
+          ],
+          "notes": "展示整体逻辑图。",
+          "citations": []
+        },
+        {
+          "slide_number": 2,
+          "title": "方法一：高保真CFD数值模拟（全3D CFD直接仿真）",
+          "bullets": [
+            "工具选择：ANSYS Fluent / OpenFOAM（开源，便于定制）",
+            "湍流模型：采用IDDES（改进延迟脱体涡模拟）以捕捉大分离流动和尾涡结构",
+            "对比理由：相比RANS，IDDES能精确模拟非定常尾流；相比纯LES，计算资源消耗更可控",
+            "应用：用于生成极端工况下的高精度训练数据和验证新现象",
+            "参考文献：借鉴[2019] Hybrid RANS-LES评估结果及[2023] Exascale CFD的高阶格式"
+          ],
+          "notes": "论证为什么用CFD及具体模型。",
+          "citations": ["Assessment of Hybrid RANS-LES Methods for Wind Turbine Aerodynamics (2019)", "Exascale CFD Simulation of Wind Turbine Wake Using High-Order Methods (2023)"]
+        },
+        {
+          "slide_number": 3,
+          "title": "方法二：自由涡尾流（FVW）与气动弹性耦合",
+          "bullets": [
+            "工具选择：基于OC3-Hywindspar平台的耦合代码开发",
+            "模型优势：FVW比BEM理论更准确处理尾流膨胀和偏斜，适合漂浮式大幅运动场景",
+            "耦合方式：使用松耦合策略，通过插值传递气动力与结构位移",
+            "应用：用于中等精度的载荷计算和气动弹性稳定性分析（如颤振边界）",
+            "参考文献：基于Phase 2提到的FVW技术路线及[2023] Nonlinear FSI分析方法"
+          ],
+          "notes": "中等精度方法的选择理由。",
+          "citations": ["Nonlinear Fluid-Structure Interaction Analysis of Floating Offshore Wind Turbines (2023)"]
+        },
+        {
+          "slide_number": 4,
+          "title": "方法三：基于AI的气动性能快速预测",
+          "bullets": [
+            "算法选择：图神经网络（GNN）或物理信息神经网络（PINN）",
+            "理由：GNN擅长处理非结构化网格数据，适合复杂流场；PINN保证物理守恒",
+            "训练数据：来自方法一（IDDES）的高保真数据库",
+            "应用：替代传统BEM，嵌入风电场协同控制系统中实现实时预测",
+            "参考文献：参考[2023] Deep Learning Assisted Optimization及[2023] Deep Learning Based Real-Time Wake Prediction"
+          ],
+          "notes": "AI方法的详细说明。",
+          "citations": ["Deep Learning Assisted Airfoil Optimization for Wind Turbine (2023)", "Deep Learning Based Real-Time Wake Prediction (2023)"]
+        },
+        {
+          "slide_number": 5,
+          "title": "方法四：协同优化策略",
+          "bullets": [
+            "优化算法：多目标遗传算法（MOGA）结合Kriging代理模型",
+            "目标函数：年发电量（AEP）最大化 + 叶根疲劳载荷最小化 + 平台稳性最大化",
+            "约束条件：叶尖速比限制、结构强度约束、变桨速率限制",
+            "参考文献：基于[2024] Pareto Optimization的多目标思想，扩展至漂浮式"
+          ],
+          "notes": "优化方法论述。",
+          "citations": ["Pareto Optimization of Wind Turbine Blades considering Aerodynamic and Structural (2024)"]
+        },
+        {
+          "slide_number": 6,
+          "title": "方法可行性与风险分析",
+          "bullets": [
+            "计算资源：实验室拥有高性能计算集群，满足IDDES和AI训练需求",
+            "数据基础：已收集Phase 1中Top 20文献的公开数据集作为预训练基础",
+            "潜在风险：AI模型在极端工况下的收敛性风险 -> 备选方案：增加物理约束权重",
+            "技术壁垒：代码开发已初步完成，参考了OpenFOAM社区开源库"
+          ],
+          "notes": "说明做得到。",
+          "citations": []
+        }
+      ]
+    },
+    "part4_future_work": {
+      "title": "04 后续工作完成",
+      "slides": [
+        {
+          "slide_number": 1,
+          "title": "当前工作进展回顾",
+          "bullets": [
+            "已完成：文献综述（Phase 1 & 2分析），明确了漂浮式风机在极端工况下的研究空白",
+            "已完成：搭建了基于OpenFOAM的单叶片CFD求解框架，初步验证了IDDES模型的准确性",
+            "已完成：收集并整理了2018-2026年Top 20高影响力文献的核心数据集",
+            "进行中：基础翼型的深度学习代理模型架构搭建"
+          ],
+          "notes": "汇报已经做了什么。",
+          "citations": []
+        },
+        {
+          "slide_number": 2,
+          "title": "未完成工作与面临挑战",
+          "bullets": [
+            "未完成1：全风机（含塔架和平台）的气动-水动-伺服全耦合模型尚未建立",
+            "未完成2：极端台风工况（如台风眼壁通过）的边界条件建模尚不完善",
+            "未完成3：AI代理模型在复杂非定常工况下的泛化能力尚未验证",
+            "挑战：多物理场耦合计算量巨大，数据存储与处理存在瓶颈"
+          ],
+          "notes": "坦诚未完成部分。",
+          "citations": []
+        },
+        {
+          "slide_number": 3,
+          "title": "后续推进计划：短期（第1-3个月）",
+          "bullets": [
+            "任务1：完成漂浮式风机全机的几何建模与网格划分，重点处理近壁面网格",
+            "任务2：在CFD求解器中植入台风风场模型，进行定常工况下的初步仿真",
+            "任务3：构建并训练初步的气动性能预测神经网络（NACA翼型数据集）",
+            "验收标准：CFD仿真结果与[2025] Aeroelastic Response文献基准数据误差<5%"
+          ],
+          "notes": "具体短期计划。",
+          "citations": ["Aeroelastic Response of Floating Wind Turbines under Extreme Conditions (2025)"]
+        },
+        {
+          "slide_number": 4,
+          "title": "后续推进计划：中期（第4-6个月）",
+          "bullets": [
+            "任务1：开展非定常气动-水动耦合仿真，分析平台运动对叶片载荷的影响",
+            "任务2：引入主动学习算法，优化AI模型的训练数据集，提升模型泛化性",
+            "任务3：研究变桨策略对极端载荷的减缓效果",
+            "验收标准：完成至少3种不同海况下的耦合计算，发表1篇会议论文"
+          ],
+          "notes": "中期里程碑。",
+          "citations": []
+        },
+        {
+          "slide_number": 5,
+          "title": "后续推进计划：长期（第7-12个月）",
+          "bullets": [
+            "任务1：建立完整的“数字孪生”优化系统，实现AI代理模型驱动的设计迭代",
+            "任务2：深入研究多目标协同控制策略，对比传统PID控制与预测控制的效果",
+            "任务3：撰写博士学位论文，整理研究成果",
+            "预期贡献：形成一套完整的深远海漂浮式风机气动设计与分析方法体系"
+          ],
+          "notes": "长期目标。",
+          "citations": []
+        },
+        {
+          "slide_number": 6,
+          "title": "关键节点与风险控制",
+          "bullets": [
+            "节点T1（第3月末）：耦合模型跑通，关键：避免网格负体积",
+            "节点T2（第6月末）：AI模型精度达标，关键：防止过拟合",
+            "节点T3（第12月末）：论文完成与盲审",
+            "风险预案：若CFD计算资源不足，将利用MARSL多分辨率框架[2024]降低计算量"
+          ],
+          "notes": "时间表和备选方案。",
+          "citations": ["MARSL: A New Framework for Multi-Resolution Aerodynamic Simulation (2024)"]
+        }
+      ]
+    }
+  },
+  "summary": "本博士论文汇报PPT框架基于Phase 1整体概览与Phase 2叶片气动领域的深度分析构建。内容严格遵循“综述-创新-方法-后续”四部分标准。\n\nPart 1综述部分，重点梳理了2018-2026年的技术演进，从早期的BEM/RANS到2023-2026年AI融合与漂浮式热潮，深入解读了Top 20高影响力文献的贡献，指出了极端工况耦合机理不清的空白。\n\nPart 2创新部分，明确提出了面向“漂浮式极端工况”的新对象、基于“物理信息神经网络”的新方法以及“气动-水动-伺服强耦合”的新机制，引用了Deep Learning Assisted (2023)和Aeroelastic Response (2025)等核心文献作为对比依据。\n\nPart 3方法部分，论证了采用IDDES高保真CFD、FVW及AI代理模型的合理性，解决了计算精度与效率的矛盾，并规划了多目标优化策略。\n\nPart 4后续工作制定了详细的短中长期计划，明确了从建模、仿真到优化的关键节点，并引用MARSL框架作为风险控制预案。整个框架逻辑严密，跨领域融合了气动、控制与AI方向，符合高水平博士论文汇报要求。"
+}
+```

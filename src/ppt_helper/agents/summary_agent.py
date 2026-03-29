@@ -301,6 +301,9 @@ class SummaryAgent(BaseAgent):
             if dev_history:
                 formatted.append("**发展历程**:")
                 for period, data in dev_history.items():
+                    # ⭐ 检查 data 是否为 None
+                    if data is None:
+                        continue
                     summary = data.get("summary", "")
                     if summary:
                         formatted.append(f"- {period}: {summary[:100]}...")

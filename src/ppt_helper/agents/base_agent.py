@@ -15,6 +15,9 @@ from zhipuai import ZhipuAI
 class APIKeyManager:
     """API 密钥管理器 - 单密钥模式"""
 
+    # 私人信息文件夹路径
+    PRIVATE_INFO_DIR = Path(r"D:\xfs\phd\.私人信息")
+
     def __init__(self, keys_file: str):
         """
         初始化 API 密钥管理器
@@ -25,19 +28,45 @@ class APIKeyManager:
         self.keys_file = keys_file
         self.api_key = self._load_first_key()
 
+    def _get_project_root(self) -> Path:
+        """获取项目根目录"""
+        # 从当前文件向上查找项目根目录（包含 src/ 的目录）
+        current_file = Path(__file__).resolve()
+        for parent in current_file.parents:
+            if (parent / "src").exists() and (parent / "config").exists():
+                return parent
+        return Path.cwd()
+
     def _load_first_key(self) -> Optional[str]:
         """从文件加载第一个 API 密钥"""
-        try:
-            with open(self.keys_file, "r", encoding="utf-8") as f:
-                for line in f:
-                    line = line.strip()
-                    # 跳过空行和注释行
-                    if line and not line.startswith("#"):
-                        return line
-            return None
-        except Exception as e:
-            print(f"❌ 加载 API 密钥失败: {e}")
-            return None
+        project_root = self._get_project_root()
+
+        # 尝试多个可能的密钥文件路径
+        possible_paths = [
+            Path(self.keys_file),  # 原始路径（绝对或相对）
+            project_root / "config" / "api_keys.txt",  # 项目配置
+            self.PRIVATE_INFO_DIR / "glm_api_keys.txt",  # 私人信息文件夹
+            self.PRIVATE_INFO_DIR / "api_keys.txt",  # 私人信息文件夹
+            Path("config/api_keys.txt"),  # 当前工作目录
+        ]
+
+        for key_path in possible_paths:
+            try:
+                if key_path.exists():
+                    with open(key_path, "r", encoding="utf-8") as f:
+                        for line in f:
+                            line = line.strip()
+                            # 跳过空行和注释行
+                            if line and not line.startswith("#"):
+                                print(f"✅ 从 {key_path} 加载 API 密钥")
+                                return line
+            except Exception as e:
+                continue
+
+        print(f"❌ 加载 API 密钥失败：尝试了以下路径")
+        for p in possible_paths:
+            print(f"   - {p}")
+        return None
 
     def get_key(self) -> Optional[str]:
         """

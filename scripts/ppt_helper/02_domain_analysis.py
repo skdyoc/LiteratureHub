@@ -78,7 +78,7 @@ def read_full_md_contents(config, paper_ids: List[str]) -> Dict[str, str]:
 
     for i, paper_id in enumerate(paper_ids, 1):
         # 定位 full.md 文件
-        markdown_path = Path(config['data_paths']['markdowns']) / paper_id / "full.md"
+        markdown_path = Path(config['data_paths']['source_markdowns']) / paper_id / "full.md"
 
         if not markdown_path.exists():
             print(f"  ⚠️ [{i}/{len(paper_ids)}] {paper_id}: 文件不存在")
