@@ -1,0 +1,100 @@
+{
+  "phase": "overview",
+  "domains": [
+    {
+      "name": "浮式海上风电气动弹性与耦合动力学",
+      "description": "研究浮式海上风机平台运动与气动载荷、结构响应的复杂耦合机制，包括非定常气动特性、气动阻尼、疲劳载荷等。",
+      "paper_count": 78
+    },
+    {
+      "name": "风力机气动外形优化与设计",
+      "description": "研究风力机叶片气动外形优化方法，包括翼型设计、叶片几何参数优化、多目标优化等，以提高气动性能和年发电量。",
+      "paper_count": 65
+    },
+    {
+      "name": "尾流效应与风电场布局优化",
+      "description": "研究风力机尾流结构、演化机制及其对下游风机的影响，开发尾流模型和风电场布局优化方法以提高整体发电量。",
+      "paper_count": 52
+    },
+    {
+      "name": "动态失速与非定常气动特性",
+      "description": "研究风力机叶片在动态条件下的气动特性，包括动态失速机理、非定常气动模型、旋转效应等，对载荷预测和控制的影响。",
+      "paper_count": 48
+    },
+    {
+      "name": "极端环境与恶劣条件下的气动性能",
+      "description": "研究风力机在极端环境条件（如台风、结冰、沙尘、盐雾等）下的气动性能退化机制和防护措施。",
+      "paper_count": 42
+    },
+    {
+      "name": "气动流动控制与主动载荷管理",
+      "description": "研究通过各种流动控制技术（如等离子体激励、涡流发生器、襟翼等）主动控制风力机气动特性和载荷分布。",
+      "paper_count": 38
+    },
+    {
+      "name": "高保真数值模拟方法与模型验证",
+      "description": "研究高精度计算流体动力学方法（如LES、DES、URANS）在风力机气动分析中的应用，以及模型验证和不确定性量化方法。",
+      "paper_count": 35
+    },
+    {
+      "name": "垂直轴风力机气动特性",
+      "description": "研究垂直轴风力机的气动性能、流动特性和优化设计，包括Darrieus型、H型等不同构型的气动特性分析。",
+      "paper_count": 28
+    }
+  ],
+  "research_hotspots": [
+    {
+      "topic": "浮式海上风电气动弹性耦合",
+      "frequency": 78,
+      "trend": "上升"
+    },
+    {
+      "topic": "高保真尾流模拟与风电场优化",
+      "frequency": 52,
+      "trend": "上升"
+    },
+    {
+      "topic": "极端环境下的气动性能退化",
+      "frequency": 42,
+      "trend": "稳定"
+    },
+    {
+      "topic": "人工智能与机器学习在气动设计中的应用",
+      "frequency": 35,
+      "trend": "上升"
+    },
+    {
+      "topic": "主动流动控制与智能载荷管理",
+      "frequency": 38,
+      "trend": "稳定"
+    }
+  ],
+  "top_papers": [
+    {
+      "paper_id": "2026_Atmospheric_Turbulence_Modelling_for_Very_Large_Wind_Turbines",
+      "title": "Atmospheric Turbulence Modelling for Very Large Wind Turbines",
+      "year": 2026,
+      "score": 98.5
+    }
+  ],
+  "analysis_summary": {
+    "total_papers_analyzed": 350,
+    "dominant_domains": [
+      "浮式海上风电气动弹性与耦合动力学",
+      "风力机气动外形优化与设计",
+      "尾流效应与风电场布局优化"
+    ],
+    "emerging_trends": [
+      "超大型浮式风电复杂气动弹性问题",
+      "AI驱动的气动优化设计成为主流",
+      "高保真尾流模拟与智能控制",
+      "极端环境下的智能防护技术"
+    ],
+    "research_gaps": [
+      "超大型风机（20MW+）的气动-结构-控制一体化设计理论尚不完善",
+      "极端多因素耦合条件下的气动性能预测精度有待提高",
+      "基于AI的设计优化方法缺乏可解释性和可靠性验证",
+      "浮式风电全尺寸实验验证数据不足"
+    ]
+  }
+}

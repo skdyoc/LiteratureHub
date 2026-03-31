@@ -1,0 +1,13 @@
+{
+  "domain_name": "浮式海上风电气动弹性与耦合动力学",
+  "domain_description": "研究浮式海上风机平台运动与气动载荷、结构响应的复杂耦合机制，包括非定常气动特性、气动阻尼、疲劳载荷等。",
+  "related_hotspots": [],
+  "top_papers": [
+    {
+      "paper_id": "2026_Atmospheric_Turbulence_Modelling_for_Very_Large_Wind_Turbines",
+      "title": "Atmospheric Turbulence Modelling for Very Large Wind Turbines",
+      "year": 2026,
+      "score": 98.5
+    }
+  ]
+}

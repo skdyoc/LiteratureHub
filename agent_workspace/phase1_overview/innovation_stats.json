@@ -1,0 +1,2118 @@
+{
+  "papers": [
+    {
+      "paper_id": "2018_3D_numerical_simulation_of_aerodynamic_performance_of_iced_contaminated_wind_turbine_rotors",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_A_Beddoes_Leishmantype_model_with_an_optimization_based_methodology_and_airfoil_shape_parameters",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_A_CFD_study_of_coupled_aerodynamic_hydrodynamic_loads_on_a_semisubmersible_floating_offshore_wind_tu",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_A_critical_review_of_vertical_axis_wind_turbines_for_urban_applications",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2018_Aerodynamic_modelling_of_wind_turbine_blade_loads_during_extreme_deflection_events",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Aerodynamic_optimization_of_wind_turbine_rotor_using_CFDAD_method",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Airfoil_Blender_for_Blade_Optimizations",
+      "year": 2018,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_An_analytical_model_of_floating_offshore_wind_turbine_blades_considering_bending_torsion_coupling_ef",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_An_integrated_dynamic_analysis_method_for_simulating_installation_of_single_blades_for_wind_turbines",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Application_of_the_Blade_Element_Momentum_Theory_to_Design_Horizontal_Axis_Wind_Turbine_Blades",
+      "year": 2018,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 1
+    },
+    {
+      "paper_id": "2018_Bi_directional_vibration_control_of_offshore_wind_turbines_using_a_3D_pendulum_tuned_mass_damper",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2018_Contribution_to_the_Aerodynamic_Study_of_the_Air_Sand_Flow_Around_a_Wind_Turbine_Blade_Installed_in",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Detecting_wake_performance_of_floating_offshore_wind_turbine",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Effects_of_blade_design_on_ice_accretion_for_horizontal_axis_wind_turbines",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Efficiency_of_a_small_wind_turbine_using_BEM_and_CFD",
+      "year": 2018,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Energy_yield_based_optimization_of_a_H_darrieus_wind_turbine_in_skewed_flow",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Extracting_the_angle_of_attack_on_rotor_blades_from_CFD_simulations",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Fatigue_damage_assessment_of_wind_turbine_composite_blades_using_corrected_blade_element_momentum_th",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Finite_element_analysis_of_aerodynamic_coefficients_of_a_HAWT_blade_using_LBM_method",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Harmonic_balance_Navier_Stokes_aerodynamic_analysis_of_horizontal_axis_wind_turbines_in_yawed_wind",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Health_aware_model_predictive_control_of_wind_turbines_using_fatigue_prognosis",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.7,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2018_Impact_of_the_aerodynamic_model_on_the_modelling_of_the_behaviour_of_a_Floating_Vertical_Axis_Wind_T",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Improving_the_efficiency_of_a_wind_turbine_system_using_a_fuzzy_pid_controller",
+      "year": 2018,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 1
+    },
+    {
+      "paper_id": "2018_Influence_of_vortex_induced_loads_on_the_motion_of_SPARType_wind_turbine_A_coupled_aero_hydro_vortex",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Innovative_methods_for_wind_turbine_power_curve_upgrade_assessment",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Investigations_on_the_fatigue_load_reduction_potential_of_advanced_control_strategies_for_multi_MW_w",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Mitigation_of_offshore_wind_turbine_responses_under_wind_and_wave_loading_Considering_soil_effects_a",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Numerical_analysis_of_unsteady_aerodynamics_of_floating_offshore_wind_turbines",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2018_On_the_sources_of_cyclic_loads_in_horizontal_axis_wind_turbines_The_role_of_blade_section_misalignme",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Optimum_design_of_a_small_wind_turbine_blade_for_maximum_power_production",
+      "year": 2018,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Overall_design_optimization_of_dedicated_outboard_airfoils_for_horizontal_axis_wind_turbine_blades",
+      "year": 2018,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Parameter_sensitivities_analysis_for_classical_flutter_speed_of_a_horizontal_axis_wind_turbine_blade",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Parametric_study_on_impact_of_delamination_on_flutter_velocity_of_wind_turbine_blade_structure",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Performance_predictions_of_multirotor_vehicles_using_a_higher_order_potential_flow_method",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Prediction_of_horizontal_axis_wind_turbine_rotor_performance_Bond_graph_approach_1",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Sliding_Mode_Observers_Based_Wind_Speed_Computation_Method_in_Wind_Energy_Conversion_Systems_Control",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Study_of_the_unsteady_aerodynamics_of_floating_wind_turbines_1",
+      "year": 2018,
+      "np_count": 2,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2018_Tuning_turbine_rotor_design_for_very_large_wind_farms_1",
+      "year": 2018,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 1
+    },
+    {
+      "paper_id": "2018_Unsteady_aerodynamic_analysis_of_different_multi_MW_horizontal_axis_wind_turbine_blade_profiles_on_S",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Vibration_reduction_strategy_of_offshore_wind_turbine_under_wind_and_wave_loads",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Wind_Turbine_Aerodynamic_Load_Fluctuation_Reduction_Using_Model_Based_Iterative_Learning_Control",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2018_Wind_turbine_blade_geometry_design_based_on_multi_objective_optimization_using_metaheuristics",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2018_Wind_turbine_optimization_for_minimum_cost_of_energy_in_low_wind_speed_areas_considering_blade_lengt_1",
+      "year": 2018,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_A_Blade_Load_Feedback_Control_for_Floating_Offshore_Wind_Turbines_1",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_A_Control_Strategy_for_Double_Fed_Induction_Wind_Generator_Participating_in_System_Frequency_Regulat",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_A_New_Method_for_Adjusting_Setting_Angle_of_Rotor_Blade_for_Axial_Fan_in_Wind_Tunnel",
+      "year": 2019,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_A_Reliable_Experimental_Methodology_for_the_Study_of_Wind_Turbine_Rotor_Blade_Aerodynamics",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_A_fully_coupled_frequency_domain_model_for_floating_offshore_wind_turbines",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_A_nonlinear_model_for_aerodynamic_configuration_of_wake_behind_horizontal_axis_wind_turbine",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Aerodynamic_Behavior_Of_A_Floating_Offshore_Wind",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_An_acoustic_source_model_for_applications_in_low_mach_number_turbulent_flows_such_as_a_large_scale_w",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_An_improved_actuator_disc_model_for_the_numerical_prediction_of_the_far_wake_region_of_a_horizontal_",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Application_and_analysis_of_the_moving_mesh_algorithm_AMI_in_a_small_scale_HAWT_Validation_with_fiel",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Comparative_study_on_the_wake_description_using_actuator_disc_model_with_increasing_level_of_complex",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Computational_fluid_dynamics_methodology_for_characterisation_of_leading_edge_erosion_in_whirling_ar",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Design_of_small_horizontal_axis_wind_turbine_for_low_wind_speed_rural_applications",
+      "year": 2019,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Dimensional_analysis_of_horizontal_axis_wind_turbine_scaling_design",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Dynamic_response_analysis_of_Darrieus_wind_turbine_geared_transmission_system_with_unsteady_wind_inf",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Effect_of_Airfoil_Concavity_on_Wind_Turbine_Blade_Performances_1",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2019_Effect_of_platform_motion_on_aerodynamic_performance_and_aeroelastic_behavior_of_floating_offshore_w_1",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Entropy_generation_analysis_of_S825_S822_and_SD7062_offshore_wind_turbine_airfoil_geometries",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Evolution_and_progress_in_the_development_of_savonius_wind_turbine_rotor_blade_profiles_and_shapes",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Experimental_analysis_of_a_wind_turbine_rotor_blade_airfoil_by_means_of_temperature_sensitive_paint",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Fatigue_impact_of_mechanical_and_thermal_residual_stresses_on_the_trailing_edge_bond_line_of_wind_tu",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Flow_around_thick_airfoils_at_very_high_reynolds_number_Stall_and_dynamic_stall_applications_1",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Fluid_structure_interaction_simulations_of_the_NREL_5MW_wind_turbine_Part_I_Aerodynamics_and_blockag",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_IR_thermographic_flow_visualization_for_the_quantification_of_boundary_layer_flow_disturbances_due_t",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Impact_of_aerodynamic_modeling_on_seakeeping_performance_of_a_floating_horizontal_axis_wind_turbine",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Intelligent_Control_Approach_for_Fluid_Power_Transmission_of_a_Wind_Turbine_System",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Investigation_of_laminar_turbulent_transition_on_a_rotating_wind_turbine_blade_of_multimegawatt_clas",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.7,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2019_Modal_analysis_for_optimal_design_of_offshore_wind_turbine_blades",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2019_Multivariable_DMC_based_on_a_wiener_model_with_linearizing_pre_compensation_for_lift_force_control_o",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Numerical_investigation_of_fluid_structure_interaction_of_15MW_wind_turbine_rotor_blade_system",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Numerical_study_on_the_effect_of_blade_surface_deterioration_by_erosion_on_the_performance_of_a_larg",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Optimized_dielectric_barrier_discharge_plasma_actuator_for_active_flow_control_in_wind_turbine",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Powertrain_assessment_of_wind_and_hydrokinetic_turbines_with_diffusers",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Prediction_of_Wind_Speed_Distribution_Using_Artificial_Neural_Network_The_Case_of_Saudi_Arabia",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_RANS_and_DDES_simulations_of_a_horizontal_axis_wind_turbine_under_stalled_flow_condition_using_OpenF",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Research_on_influence_of_ice_induced_vibration_on_offshore_wind_turbines",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Scale_resolving_CFD_modeling_of_a_thick_wind_turbine_airfoil_with_application_of_vortex_generators_V",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Simulative_investigation_of_the_radar_cross_section_of_wind_turbines_1",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Strongly-coupled_aeroelastic_free-vortex_wake_framework_for_floating_offshore_wind_turbine_rotors_Pa",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Study_effect_of_extreme_wind_direction_change_on_3_bladed_horizontal_axis_wind_turbine",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Study_of_adaptive_blades_in_extreme_environment_using_fluidstructure_interaction_method",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2019_Study_on_Rigid_Flexible_Coupling_Effects_of_Floating_Offshore_Wind_Turbines",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2019_THE_INFLUENCE_OF_AERODYNAMIC_CHARACTERISTICS_OF_A_BLADE_PROFILE_ON_THE_ENERGY_CHARACTERISTICS_OF_A_W",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_The_impact_of_the_aerodynamic_model_fidelity_on_the_aeroelastic_response_of_a_multi_megawatt_wind_tu",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_The_increasing_importance_of_leading_edge_erosion_and_a_review_of_existing_protection_solutions",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2019_Vortical_lift_on_retreating_rotor_blades_at_high_advance_ratios_The_aerodynamics_of_the_sharp_edge_v",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2019_Wake_impact_on_aerodynamic_characteristics_of_horizontal_axis_wind_turbine_under_yawed_flow_conditio",
+      "year": 2019,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Active_flow_control_in_Horizontal_Axis_Wind_Turbine_using_PI_R_controllers",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Advanced_image_processing_for_turbulence_wedge_detection_in_thermographic_flow_visualization_on_wind",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Aerodynamic_effects_of_Gurney_flaps_on_the_rotor_blades_of_a_research_wind_turbine",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Aerodynamic_forces_affecting_the_H_rotor_darrieus_wind_turbine",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Aeroelastic_response_of_a_multi_megawatt_upwind_horizontal_axis_wind_turbine_HAWT_based_on_fluid_str",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_An_Efficient_Wind_Speed_Computation_Method_Using_Sliding_Mode_Observers_in_Wind_Energy_Conversion_Sy",
+      "year": 2020,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 1
+    },
+    {
+      "paper_id": "2020_An_improved_dynamic_stall_model_and_its_effect_on_wind_turbine_fatigue_load_prediction",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Analysis_of_platform_motions_effect_on_the_fatigue_loads_and_aerodynamic_unsteadiness_in_floating_of",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Analysis_of_the_aerodynamic_loads_on_a_wind_turbine_in_off_design_conditions",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Analytical_Assessment_of_the_Effects_of_Blade_Cone_Angle_on_the_Aerodynamic_Performance_of_the_Horiz",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Assessing_wind_turbine_energy_losses_due_to_blade_leading_edge_erosion_cavities_with_parametric_CAD",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Computations_of_trailing_edge_fluidic_actuation_for_active_flow_control_at_low_angles_of_attack",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2020_Contactless_localization_of_premature_laminar_turbulent_flow_transitions_on_wind_turbine_rotor_blade",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Coupled_Dynamic_Analysis_of_a_Tension_Leg_Platform_Floating_Offshore_Wind_Turbine",
+      "year": 2020,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 1
+    },
+    {
+      "paper_id": "2020_Cross_comparative_analysis_of_loads_and_power_of_pitching_floating_offshore_wind_turbine_rotors_usin",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Effectiveness_of_Variable_Rotor_Blades_TechniqueVariable_Stator_Vanes_Technique_in_AdjustingAxial_fl",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Experimental_investigation_of_aerodynamic_characteristics_of_bat_carcasses_after_collision_with_a_wi",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2020_Experimental_investigation_of_finite_aspect_ratio_cylindrical_bodies_for_accelerated_wind_applicatio_1",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2020_Fragility_analyses_of_offshore_wind_turbines_subjected_to_aerodynamic_and_sea_wave_loadings",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Hydro_servo_aero_elastic_analysis_of_floating_offshore_wind_turbines",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 9.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Identification_of_airfoil_polars_from_uncertain_experimental_measurements",
+      "year": 2020,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 1
+    },
+    {
+      "paper_id": "2020_Improvement_of_aerodynamic_performance_of_a_small_wind_turbine",
+      "year": 2020,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Influence_of_atmospheric_conditions_on_the_power_production_of_utility_scale_wind_turbines_in_yaw_mi",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Influence_of_limiting_the_projection_region_on_coarse_Large_Eddy_Simulation_Actuator_Line_Model_simu",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Innovative_Blade_Trailing_Edge_Flap_Design_Concept_using_Flexible_Torsion_Bar_and_Worm_Drive",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.7,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2020_Low_Reynolds_number_effects_on_aerodynamic_loads_of_a_small_scale_wind_turbine",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Model_based_displacement_estimation_of_wind_turbine_blades_using_strain_modal_data",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Multi_resolution_wavelet_pitch_controller_for_spar_type_floating_offshore_wind_turbines_including_wa",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_New_vortex_lift_and_tangential_force_models_for_HAWT_aerodynamic_load_prediction",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Nonlinear_model_predictive_control_to_reduce_pitch_actuation_of_floating_offshore_wind_turbines",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Numerical_investigation_of_compressibility_effect_on_dynamic_stall",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Numerical_investigation_of_rain_droplet_impact_on_offshore_wind_turbine_blades_under_different_rainf",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Numerical_modeling_of_aeroacoustic_characteristics_of_different_savonius_blade_profiles",
+      "year": 2020,
+      "np_count": 2,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2020_Numerical_simulation_and_application_of_noise_for_high_power_wind_turbines_with_double_blades_based",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Numerical_simulation_of_the_aeroelastic_response_of_wind_turbines_in_typhoons_based_on_the_mesoscale_1",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Optimization_of_horizontal_axis_wind_turbine_blade_using_FEA",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2020_Performance_of_a_wind_turbine_blade_in_sandstorms_using_a_CFD_BEM_based_neural_network",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Power_prediction_of_wind_farms_via_a_simplified_actuator_disk_model_1",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Reliability_analysis_of_wind_turbine_blades_based_on_non_Gaussian_wind_load_impact_competition_failu",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Research_on_the_effect_of_icing_on_aerodynamic_performance_of_airfoil_and_power_generation_performan",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Stability_analysis_of_offshore_wind_power_monopile_foundation_under_wind_load",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Study_on_the_Influence_of_Baseline_Control_System_on_the_Fragility_of_Large_Scale_Wind_Turbine_consi",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_The_Coriolis_force_and_the_direction_of_rotation_of_the_blades_significantly_affect_the_wake_of_wind",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_The_impact_of_pitch_to_stall_and_pitch_to_feather_control_on_the_structural_loads_and_the_pitch_mech",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Tower_shadow_excitation_of_a_downwind_rotor_blade_of_a_turbine_with_a_tubular_tower",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Tower_shadow_induced_blade_loads_for_an_extreme_scale_downwind_turbine",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.7,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Unsteady_performances_of_a_parked_large_scale_wind_turbine_in_the_typhoon_activity_zones",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Validation_of_a_Numerical_Fluid_Flow_Analysis_for_a_Helicopter_Tail_Rotor_Blade_Using_a_Subsonic_Win",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Vibration_reduction_strategy_for_offshore_wind_turbines_1",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Wake_statistics_of_different_scalewind_turbines_under_turbulent_boundary_layer_inflow",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Wind_induced_response_analysis_of_wind_turbine_tubular_towers_with_consideration_of_rotating_effect",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2020_Wind_turbine_power_curve_upgrades_Methods_for_the_assessment_and_test_cases_study_1",
+      "year": 2020,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_A_numerical_investigation_of_the_effects_of_ice_accretion_on_the_aerodynamic_and_structural_behavior",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2021_Active_flutter_control_of_the_wind_turbines_using_double_pitched_blades",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2021_Aerodynamic_Design_of_Rotor_of_1_Kw_Horizontal_Axis_Wind_Turbine",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2021_Aerodynamic_shape_optimization_of_wind_turbine_blades_for_minimizing_power_production_losses_due_to",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2021_Airfoil_type_and_blade_size_effects_on_the_aerodynamic_performance_of_small_scale_wind_turbines_Comp",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_An_improved_theory_in_the_determination_of_aerodynamic_damping_for_a_horizontal_axis_wind_turbine_HA",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_CFD_SIMULATION_ON_WIND_TURBINE_BLADES_WITH_LEADING_EDGE_EROSION1",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2021_Determination_of_the_geometric_and_material_properties_of_the_NREL_Phase_VI_wind_turbine_blade",
+      "year": 2021,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Efficient_estimation_of_the_nonlinear_aerodynamic_loads_of_floating_offshore_wind_turbines_under_ran",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Experimental_study_on_seismic_vibration_control_of_an_offshore_wind_turbine_with_TMD_considering_soi",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2021_Failure_prediction_monitoring_and_diagnosis_methods_for_slewing_bearings_of_large_scale_wind_turbine",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Individual_Blade_Pitch_Control_of_Floating_Offshore_Wind_Turbines_for_Load_Mitigation_and_Power_Regu",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.7,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Influence_of_the_Solidity_Ratio_on_the_Small_Wind_Turbine_Aerodynamics",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2021_Investigating_the_aeroelasticity_effects_on_aeroacoustics_and_aerodynamics_of_a_MW_class_HAWT",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Laminar_turbulent_transition_localization_in_thermographic_flow_visualization_by_means_of_principal",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Machine_learning_enabled_prediction_of_wind_turbine_energy_yield_losses_due_to_general_blade_leading",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Modeling_and_simulation_of_forces_applied_to_the_horizontal_axis_wind_turbine_rotors_by_the_vortex_m",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Numerical_analysis_of_unsteady_aerodynamic_performance_of_floating_offshore_wind_turbine_under_platf",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Quasi_static_response_of_a_bottom_fixed_wind_turbine_subject_to_various_incident_wind_fields",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Statistical_model_for_fragility_estimates_of_offshore_wind_turbines_subjected_to_aero_hydro_dynamic",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Structural_design_and_analysis_of_a_small_wind_turbine_blade_using_Simple_Load_Model_FAST_MLife_code",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_WindNode_A_long_lasting_and_long_range_bluetooth_wireless_sensor_node_for_pressure_and_acoustic_moni",
+      "year": 2021,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Wind_machine_rotor_acoustic_prediction_method",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2021_Wind_turbine_unsteady_aerodynamics_and_performance_by_a_free_wake_panel_method",
+      "year": 2021,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_A_novel_dynamic_stall_model_based_on_Theodorsen_theory_and_its_application",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_A_review_Approaches_for_aerodynamic_performance_improvement_of_lift_type_vertical_axis_wind_turbine",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2022_Challenges_opportunities_and_a_research_roadmap_for_downwind_wind_turbines",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Evaluation_of_influence_of_turbulence_models_on_the_vortex_formation_processes_modeling_in_wind_powe",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Impact_of_blade_structural_and_aerodynamic_uncertainties_on_wind_turbine_loads",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Influence_of_Reynolds_number_consideration_for_aerodynamic_characteristics_of_airfoil_on_the_blade_d",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Influence_of_Reynolds_number_on_the_performance_of_small_horizontal_axis_wind_turbine_with_fixed_spe",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Offshore_Wind_Turbine_Pitch_Control_with_Aeroelastic_Effect",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.7,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Performance_enhancement_of_straight_bladed_vertical_axis_wind_turbines_via_active_flow_control_strat",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Prediction_of_Wind_Turbine_Airfoil_Performance_Using_Artificial_Neural_Network_and_CFD_Approaches",
+      "year": 2022,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 1
+    },
+    {
+      "paper_id": "2022_Quantifying_the_effects_of_high_speed_shaft_braking_on_the_substructural_dynamics_of_monopile_offsho",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Review_of_Numerical_and_Experimental_Studies_on_Flow_Characteristics_around_A_Straight_bladed_Vertic",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_SIMULATION_BASED_ACCURACY_INVESTIGATION_OF_A_PHOTOGRAMMETRIC_SETUP_TO_MEASURE_A_DYNAMIC_PROCESS",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2022_Theoretical_investigation_of_the_power_curve_of_small_HAWT_by_combining_aerodynamic_and_mechatronic",
+      "year": 2022,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2023_DEVELOPMENT_OF_A_VORTEX_WIND_DEVICE",
+      "year": 2023,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 7.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2023_Noise_simulations_of_flap_devices_for_wind_turbine_rotors",
+      "year": 2023,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2023_Numerical_Investigations_on_the_Fluid_Behavior_in_the_Near_Wake_of_an_Experimental_Wind_Turbine_Mode",
+      "year": 2023,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Advancing_Wind_Energy_Efficiency_A_Systematic_Review_of_Aerodynamic_Optimization_in_Wind_Turbine_Bla",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2024_Aerodynamic_and_Structural_Assessment_of_Floating_Wind_Turbine_Rotor_under_Varying_Tilt_Angle_1",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_An_Engineering_Approach_to_Improve_Performance_Predictions_for_Wind_Turbine_Applications_Comparison",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Analysis_of_performance_improvement_methods_for_offshore_wind_turbine_blades_affected_by_leading_edg",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Comparison_of_aerodynamics_of_vertical_axis_wind_turbine_with_single_and_combine_Darrieus_and_Savoni",
+      "year": 2024,
+      "np_count": 2,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2024_Computational_Fluid_Dynamics_CFD_applications_in_Floating_Offshore_Wind_Turbine_FOWT_dynamics_A_revi",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Computational_Verification_of_Low_Frequency_Broadband_Noise_from_Wind_Turbine_Blades_Using_Semi_Empi",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Current_Trends_and_Innovations_in_Enhancing_the_Aerodynamic_Performance_of_Small_Scale_Horizontal_Ax",
+      "year": 2024,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Development_and_application_of_a_mesh_generator_intended_for_unsteady_vortex_lattice_method_simulati",
+      "year": 2024,
+      "np_count": 0,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Effect_of_surge_motion_on_the_dynamic_stall_of_floating_offshore_wind_turbine_airfoils",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Experimental_Investigation_and_CFD_Analysis_of_Wind_Turbine_Blades_with_Different_Attack_Angles",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 7.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Numerical_investigation_of_the_effect_of_winglet_configurations_with_multiple_cant_angles_on_the_aer",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2024_Qualitative_Investigation_of_Wake_Composition_in_Offshore_Wind_Turbines_A_Combined_Computational_and",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_The_near_wake_development_of_a_wind_turbine_operating_in_stalled_conditions_Part_1_Assessment_of_num",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2024_Wind_turbine_rotors_in_surge_motion_new_insights_into_unsteady_aerodynamics_of_floating_offshore_win",
+      "year": 2024,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Aerodynamic_and_wake_characteristics_for_full_scale_and_model_scale_5_MW_wind_turbines_using_data_dr",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Analysis_of_flutter_characteristics_of_ultra_large_horizontal_axis_wind_turbine_blades_at_low_rotor",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Analysis_of_platform_motion_effects_on_fatigue_loads_and_aerodynamic_unsteadiness_in_15_MW_novel_flo",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Blade_resolved_CFD_analysis_of_a_floating_wind_turbine_new_insights_on_unsteady_aerodynamics_loads_a",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Effect_of_surge_and_sway_combined_motion_on_the_dynamic_stall_of_floating_offshore_wind_turbine_airf",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Effects_of_mooring_line_fracture_on_15_MW_floating_offshore_wind_turbine_under_different_operation_s",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Large_amplitude_rotation_of_floating_offshore_wind_turbines_A_comprehensive_review_of_causes_consequ",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2025_Numerical_simulation_and_performance_analysis_of_in_field_blockage_effect_between_wind_turbines",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.7,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2025_The_effect_of_blade_optimization_on_wind_turbine_performance",
+      "year": 2025,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.0,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2026_Aerodynamic_modeling_and_wake_characterization_of_a_15_MW_offshore_wind_turbine_Insights_from_blade",
+      "year": 2026,
+      "np_count": 2,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.7,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2026_An_Experimental_Study_of_Surface_Icing_Characteristics_on_Offshore_Wind_Turbine_Blades_Effects_of_Sa",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_An_empirical_formulation_for_the_cascade_effect_on_multibladed_horizontal_axis_wind_turbines",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Analysis_of_Structural_Responses_of_a_Horizontal_Axis_Wind_Turbine_at_Maximum_Aerodynamic_Performanc",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Analysis_of_aerodynamic_damping_characteristics_in_floating_wind_turbines_under_stochastic_wind_and",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Blade_icing_characteristics_and_dynamic_response_analysis_of_floating_offshore_wind_turbine_in_cold",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Comparative_analysis_of_numerical_methods_for_predicting_aerodynamic_performance_of_floating_offshor",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Effect_of_Windblown_Sand_Particles_on_Aerodynamic_Efficiency_of_Wind_Turbines_in_Desert_Environments",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Effects_of_wind_turbine_wakes_on_bird_gliding_aerodynamic_performance",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Hybrid_floating_wind_oscillating_water_column_A_numerical_analysis_of_the_coupled_performance_using",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2026_Interaction_between_flow_field_and_blade_forces_on_HAWT_integrating_Lagrangian_interpolation_of_velo",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2026_Modelling_rain_erosion_surface_damage_initiation_in_turbine_blades_based_on_inspection_data_at_wind",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.0,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Prediction_of_coupled_dynamic_performance_of_floating_offshore_wind_turbine_using_unsteady_aerodynam",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Reconstructing_coupled_blade_pitch_moments_of_large_wind_turbines_using_multidimensional_copula_base",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 0,
+      "innovation_score": 8.5,
+      "total_innovations": 2
+    },
+    {
+      "paper_id": "2026_Towards_enhanced_startup_performance_of_Darrieus_vertical_axis_wind_turbines_Key_flow_features_at_mo",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    },
+    {
+      "paper_id": "2026_Trust_Region_Policy_Optimization_based_pitch_control_for_Floating_Offshore_Wind_Turbines_in_above_ra",
+      "year": 2026,
+      "np_count": 1,
+      "nm_count": 1,
+      "no_count": 1,
+      "innovation_score": 8.5,
+      "total_innovations": 3
+    }
+  ],
+  "year_distribution": {
+    "2018": 43,
+    "2019": 47,
+    "2020": 52,
+    "2021": 24,
+    "2022": 14,
+    "2023": 3,
+    "2024": 15,
+    "2025": 9,
+    "2026": 16
+  },
+  "top_phenomena": {
+    "覆冰对风力机转子气动性能的三维非均匀退化效应": 1,
+    "基于翼型几何参数的Beddoes-Leishman模型时间常数相关性": 1,
+    "浮式风机平台运动与叶片旋转耦合下的非定常气动-水动力强耦合现象": 1,
+    "城市风环境下的垂直轴风力机特殊气动性能": 1,
+    "大挠度下叶片截面气动载荷的显著非线性耦合效应": 1,
+    "基于二维轴对称CFD/AD模型准确表征三维旋转流场的新现象": 1,
+    "漂浮式海上风机叶片在平台运动激励下的非线性弯扭耦合振动现象": 1,
+    "单叶片吊装过程中的主导性摆锤运动模态": 1,
+    "风-浪-地震荷载错位耦合下的三维双向振动现象": 1,
+    "沙漠风沙环境下风力机叶片前缘非均匀侵蚀与气动性能耦合劣化现象": 1,
+    "平台耦合运动（俯仰与纵荡）下的非对称复杂尾流现象": 1,
+    "不同NREL翼型家族在结冰条件下气动性能退化的系统性差异": 1,
+    "偏斜流条件下H型达里厄风力机能量捕获的强非线性耦合效应": 1,
+    "三维非定常流场中尾迹与脱落涡对攻角提取的差异化影响现象": 1,
+    "修正BEM理论下复合材料叶片疲劳损伤的时空演化特性": 1,
+    "基于LBM的叶片气动系数在特定湍流模型下的高精度捕捉现象": 1,
+    "谐波平衡法在偏航风力机三维湍流周期流中展现的高效收敛特性": 1,
+    "基于疲劳损伤累积的部件健康状态动态演化现象": 1,
+    "漂浮式垂直轴风力机在非定常来流与运动耦合下的气动迟滞效应": 1,
+    "漂浮式海上风机在洋流作用下的涡激运动-内部共振耦合现象": 1,
+    "风电场微观尺度风况对功率曲线升级效果的显著调制现象": 1,
+    "基于不同气动模型预测的疲劳载荷与变桨行为系统性差异": 1,
+    "考虑土-结构相互作用及结构损伤耦合效应的海上风机动力响应频率迁移现象": 1,
+    "平台纵荡运动诱导的非定常气动载荷迟滞效应": 1,
+    "叶片截面不对准诱导的周期性气动-结构耦合振荡": 1,
+    "水平轴风力机叶片经典颤振速度对扭转刚度与挥舞刚度的非对称敏感性": 1,
+    "分层损伤对风力机叶片颤振速度的特定模态耦合效应": 1,
+    "高阶势流方法在复杂多旋翼气动干扰中的高精度预测现象": 1,
+    "基于键合图的多域能量流耦合现象的系统性建模与表征": 1,
+    "基于滑模观测器的风速估计中，观测误差在有限时间内收敛并呈现强鲁棒性的现象": 1
+  },
+  "top_methods": {
+    "基于MRF和k-ω SST模型的三维结冰风力机转子气动性能评估框架": 1,
+    "基于优化与几何参数关联的简化Beddoes-Leishman模型标定与构建方法": 1,
+    "基于重叠网格与用户自定义场函数的全耦合高保真FOWT CFD-DSA仿真框架": 1,
+    "面向城市应用的VAWT性能评估与集成设计框架": 1,
+    "基于坐标变换的、耦合几何非线性的大挠度BEM建模方法": 1,
+    "基于CFD/AD模型与高效全局优化（EGO）算法的风轮气动优化框架": 1,
+    "基于径向基函数（RBF）的多变量非结构化网格翼型数据插值与融合方法（Airfoil Blender）": 1,
+    "基于哈密顿原理的漂浮式海上风机叶片非线性弯扭耦合动力学解析建模方法": 1,
+    "SIMO-Aero集成仿真工具（用于单叶片吊装动力学分析）": 1,
+    "基于BEM理论的HAWT叶片全自动化优化设计程序": 1,
+    "三维摆式调谐质量阻尼器（3D-PTMD）设计与优化方法": 1,
+    "基于真实沙漠环境参数的风沙两相流耦合气动-侵蚀数值模拟框架": 1,
+    "基于CFD的FOWT耦合平台运动气动特性提取与参数反演方法": 1,
+    "基于翼型家族的系统性结冰敏感性筛选与评估框架": 1,
+    "基于SWRDC工具与CFD多模型协同的混合气动效率评估方法": 1,
+    "基于年发电量（AEP）与偏斜流耦合的H型达里厄风力机系统化设计优化方法": 1,
+    "基于四分之一弦点对称闭合路径的线平均法（Line Average Method）": 1,
+    "基于修正BEM-FE-FFT-Goodman-Miner的复合材料叶片疲劳寿命评估集成方法链": 1,
+    "LBM-FEA耦合分析框架用于风力机叶片气动弹性系数预测": 1,
+    "基于谐波平衡法的水平轴风力机偏航非定常气动高效求解框架": 1,
+    "集成疲劳预后与模型预测控制的健康感知控制框架": 1,
+    "基于自由涡尾迹（FVW）理论与多体动力学耦合的漂浮式VAWT高保真仿真框架": 1,
+    "基于模糊PID的风力发电系统效率优化控制方法": 1,
+    "考虑洋流涡激力与系泊非线性耦合的FOWT全耦合时域仿真方法": 1,
+    "基于长期后验数据与合成对照的功率曲线升级评估框架": 1,
+    "基于高-低保真气动模型交叉验证的疲劳载荷与控制潜力评估框架": 1,
+    "集成土-结构-损伤耦合效应的海上风机全系统动力响应分析与振动控制评估框架": 1,
+    "基于多保真度数值方法协同的漂浮式风机气动分析框架": 1,
+    "基于“假设场景解构”的周期性载荷源贡献分析方法": 1,
+    "基于BEM理论的多约束线性化叶片优化设计方法": 1
+  },
+  "top_objects": {
+    "城市集成式垂直轴风力机系统": 1,
+    "优化友好型翼型数据库系统（含Airfoil Blender插值器）": 1,
+    "三维摆式调谐质量阻尼器（3D-PTMD）装置": 1,
+    "基于SWRDC工具优化设计的小型三叶片水平轴风力机转子": 1,
+    "作为控制决策变量的“部件未来损伤增量”": 1,
+    "“数值测试台”：用于研究纵荡运动气动响应的参数化仿真模型": 1,
+    "基于线性化几何的低成本小型风力机叶片": 1,
+    "针对特定需求优化的风力机叶片外段专用翼型（案例1和案例2）": 1,
+    "面向巴西特定风况的2.5MW风力机叶片基准设计集": 1,
+    "集成式在线叶片安装角智能调整执行机构": 1,
+    "针对低风速农村应用的2kW小型水平轴风力发电机概念设计": 1,
+    "集成凹面特征的创新型小型水平轴风力机叶片": 1,
+    "适用于兆瓦级风力机叶片现场测试的集成化气动手套": 1,
+    "针对5 MW漂浮式风机的抗共振优化叶片铺层模型": 1,
+    "面向台风极端环境的复合弯扭耦合自适应叶片（几何与材料耦合结合型）": 1,
+    "考虑高阶轴向位移的非线性耦合动力学模型（作为分析对象）": 1,
+    "集成化金属前缘侵蚀护盾的概念设计": 1,
+    "面向低攻角力矩控制的集成式尾缘流体致动器概念设计": 1,
+    "作为气动研究对象的“新鲜蝙蝠尸体”标准化实验样本": 1,
+    "用于加速风应用的波纹（沟槽）圆柱体概念设计": 1,
+    "针对11kW小型水平轴风力机优化的新型专用翼型": 1,
+    "集成螺旋缝隙的薄壁柔性扭力杆": 1,
+    "基于非均匀铺层优化的10层玻璃纤维/环氧树脂复合材料风力机叶片结构模型": 1,
+    "具有明确几何与材料属性的“冰层-复合材料叶片”一体化分析模型": 1,
+    "面向颤振抑制的双独立变桨叶片系统": 1,
+    "针对低风速区域优化的1 kW级高气动效率复合材料转子": 1,
+    "针对特定结冰工况优化的抗冰翼型族": 1,
+    "参数化风力机叶片前缘侵蚀特征模型库": 1,
+    "NREL Phase VI风力机叶片的高保真壳单元结构数字孪生模型": 1,
+    "集成于 jacket 支撑海上风机缩尺模型的实验用TMD系统": 1
+  }
+}

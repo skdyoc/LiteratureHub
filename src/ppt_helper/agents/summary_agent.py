@@ -1,16 +1,14 @@
 """
-综合总结 Agent（Phase 3: 总）
+综合总结 Agent（Phase 3）
 
-职责：将多个领域的分析结果综合成完整的博士论文汇报 PPT
-输入：Phase 1 概览 + Phase 2 领域分析 + 重点论文 agent_results
-输出：4 部分 PPT 内容（Literature Review, Innovation Points, Methodology, Future Work）
+职责：跨领域综合，生成 4 部分 PPT 内容框架
+输入：Phase 2 的所有领域分析结果 + Phase 1 概览
+输出：4 部分 PPT 内容（Literature Review, Innovation, Methodology, Future Work）
 
 ⚠️ 关键要求：必须充分利用 Phase 1 的 research_hotspots, time_trends, top_papers
 """
 
-import json
 from typing import Dict, Any, List
-from pathlib import Path
 from .base_agent import BaseAgent
 from ..prompts import SUMMARY_PROMPT
 
@@ -18,145 +16,21 @@ from ..prompts import SUMMARY_PROMPT
 class SummaryAgent(BaseAgent):
     """综合总结 Agent - Phase 3 总"""
 
-    def __init__(self, keys_file: str, model: str = "glm-5"):
+    def __init__(self, keys_file: str, model: str = "glm-4.7"):
         super().__init__(keys_file, model)
         self.agent_name = "SummaryAgent"
 
-    def _load_phase1_overview(self, phase1_path: str) -> Dict[str, Any]:
-        """
-        加载 Phase 1 概览结果
-
-        Args:
-            phase1_path: Phase 1 结果文件路径
-
-        Returns:
-            Phase 1 概览数据
-        """
-        try:
-            with open(phase1_path, 'r', encoding='utf-8') as f:
-                phase1_data = json.load(f)
-
-            self.log_progress(f"✅ Phase 1 概览加载成功")
-            self.log_progress(f"   - 识别领域: {len(phase1_data.get('domains', []))}")
-            self.log_progress(f"   - 研究热点: {len(phase1_data.get('research_hotspots', []))}")
-            self.log_progress(f"   - Top 文献: {len(phase1_data.get('top_papers', []))}")
-
-            return phase1_data
-
-        except Exception as e:
-            self.log_progress(f"❌ Phase 1 概览加载失败: {e}")
-            return {}
-
-    def _load_domain_analyses(self, domain_results_dir: str) -> List[Dict[str, Any]]:
-        """
-        加载所有领域的分析结果
-
-        Args:
-            domain_results_dir: 领域分析结果目录
-
-        Returns:
-            领域分析列表
-        """
-        domain_analyses = []
-        domain_dir = Path(domain_results_dir)
-
-        if not domain_dir.exists():
-            self.log_progress(f"❌ 领域分析目录不存在: {domain_results_dir}")
-            return domain_analyses
-
-        # 遍历所有领域目录
-        for domain_subdir in domain_dir.iterdir():
-            if not domain_subdir.is_dir():
-                continue
-
-            analysis_file = domain_subdir / "domain_analysis.json"
-
-            if not analysis_file.exists():
-                continue
-
-            try:
-                with open(analysis_file, 'r', encoding='utf-8') as f:
-                    domain_data = json.load(f)
-
-                domain_analyses.append(domain_data)
-                self.log_progress(f"✅ 加载领域: {domain_data.get('domain_name', 'Unknown')}")
-
-            except Exception as e:
-                self.log_progress(f"⚠️ 领域分析加载失败 {analysis_file}: {e}")
-                continue
-
-        self.log_progress(f"✅ 共加载 {len(domain_analyses)} 个领域的分析")
-        return domain_analyses
-
-    def _load_key_papers_agent_results(
-        self,
-        agent_results_path: str,
-        paper_ids: List[str]
-    ) -> Dict[str, Dict[str, Any]]:
-        """
-        加载重点论文的 agent_results
-
-        Args:
-            agent_results_path: agent_results 目录
-            paper_ids: 重点论文明细
-
-        Returns:
-            论文 agent_results 字典 {paper_id: {analyzer: result}}
-        """
-        agent_results = {}
-        agent_dir = Path(agent_results_path)
-
-        if not agent_dir.exists():
-            self.log_progress(f"⚠️ agent_results 目录不存在: {agent_results_path}")
-            return agent_results
-
-        self.log_progress(f"开始加载 {len(paper_ids)} 篇重点论文的 agent_results...")
-
-        for paper_id in paper_ids:
-            paper_dir = agent_dir / paper_id
-
-            if not paper_dir.exists():
-                self.log_progress(f"⚠️ 论文目录不存在: {paper_id}")
-                continue
-
-            # 读取 5 个子智能体的分析结果
-            paper_results = {}
-
-            for analyzer_name in ["innovation", "motivation", "mechanism", "impact", "roadmap"]:
-                analyzer_file = paper_dir / f"{analyzer_name}.json"
-
-                if not analyzer_file.exists():
-                    continue
-
-                try:
-                    with open(analyzer_file, 'r', encoding='utf-8') as f:
-                        analyzer_result = json.load(f)
-
-                    paper_results[analyzer_name] = analyzer_result
-
-                except Exception as e:
-                    self.log_progress(f"⚠️ 读取失败 {analyzer_file}: {e}")
-                    continue
-
-            if paper_results:
-                agent_results[paper_id] = paper_results
-                self.log_progress(f"✅ {paper_id}: {len(paper_results)} 个分析器")
-
-        self.log_progress(f"✅ 共加载 {len(agent_results)} 篇论文的 agent_results")
-        return agent_results
-
     def analyze(self, input_data: Dict[str, Any]) -> Dict[str, Any]:
         """
-        执行综合总结分析（Phase 3）
+        执行综合总结
 
         ⚠️ 关键：必须充分利用 Phase 1/2 的输出和智能加载的 agent_results
 
         Args:
             input_data: 包含以下字段
-                - phase1_path: Phase 1 结果文件路径（或 phase1_overview 直接传数据）
-                - domain_results_dir: Phase 2 领域分析结果目录（或 domain_analyses 直接传数据）
-                - agent_results_path: agent_results 目录（用于加载重点论文）
-                - max_key_papers: 最大重点论文数量（可选，默认20）
+                - domain_analyses: Phase 2 的所有领域分析 {domain_name: analysis_result}
+                - phase1_overview: Phase 1 的概览分析（包含 research_hotspots, time_trends, top_papers）
+                - agent_results_json: 智能加载的 agent_results（根据 Phase 1/2 判断重点）
 
         Returns:
             4 部分 PPT 内容框架：
@@ -165,67 +39,23 @@ class SummaryAgent(BaseAgent):
                 - part3_methodology: 方法论
                 - part4_future_work: 未来工作
         """
+        domain_analyses = input_data.get("domain_analyses", {})
+        phase1_overview = input_data.get("phase1_overview", {})
+        agent_results_json = input_data.get("agent_results_json", {})  # ⭐ 新增
+
         self.log_progress("开始 Phase 3 综合总结...")
-
-        # 支持两种输入方式：文件路径或已加载的数据
-        # 方式1：从文件路径加载（推荐）
-        if "phase1_path" in input_data:
-            phase1_data = self._load_phase1_overview(input_data["phase1_path"])
-            if not phase1_data:
-                self.log_progress("❌ Phase 1 数据加载失败")
-                return self._get_empty_result()
-        else:
-            # 方式2：直接使用传入的数据
-            phase1_data = input_data.get("phase1_overview", {})
-            if not phase1_data:
-                self.log_progress("❌ 缺少 Phase 1 数据")
-                return self._get_empty_result()
-
-        # 加载 Phase 2 领域分析
-        if "domain_results_dir" in input_data:
-            domain_analyses_list = self._load_domain_analyses(input_data["domain_results_dir"])
-            if not domain_analyses_list:
-                self.log_progress("❌ Phase 2 领域分析加载失败")
-                return self._get_empty_result()
-            # 转换为字典格式（兼容旧代码）
-            domain_analyses = {
-                d.get("domain_name", "Unknown"): d
-                for d in domain_analyses_list
-            }
-        else:
-            domain_analyses = input_data.get("domain_analyses", {})
-            if not domain_analyses:
-                self.log_progress("❌ 缺少 Phase 2 领域分析数据")
-                return self._get_empty_result()
-
-        # 提取重点论文 ID 并加载 agent_results
-        agent_results_json = input_data.get("agent_results_json", {})
-        max_key_papers = input_data.get("max_key_papers", 20)
-
-        if not agent_results_json and "agent_results_path" in input_data:
-            # 从 Phase 1 Top 文献中提取重点论文 ID
-            top_papers = phase1_data.get("top_papers", [])
-            key_paper_ids = [p.get("paper_id") for p in top_papers[:max_key_papers] if p.get("paper_id")]
-
-            # 加载 agent_results
-            if key_paper_ids:
-                agent_results_json = self._load_key_papers_agent_results(
-                    input_data["agent_results_path"],
-                    key_paper_ids
-                )
-
         self.log_progress(f"  - 领域数量: {len(domain_analyses)}")
-        self.log_progress(f"  - agent_results JSON: {len(agent_results_json)} 篇")
+        self.log_progress(f"  - agent_results JSON: {len(agent_results_json)} 篇")  # ⭐ 新增
 
         # 准备领域分析文本
         domain_analyses_text = self._prepare_domain_analyses(domain_analyses)
         self.log_progress(f"  - 领域分析内容: {len(domain_analyses_text)} 字符")
 
         # 准备 Phase 1 概览文本
-        phase1_overview_text = self._prepare_phase1_overview(phase1_data)
+        phase1_overview_text = self._prepare_phase1_overview(phase1_overview)
         self.log_progress(f"  - Phase 1 概览: {len(phase1_overview_text)} 字符")
 
-        # 准备 agent_results 文本（智能加载的重点内容）
+        # ⭐ 准备 agent_results 文本（智能加载的重点内容）
         agent_results_text = self._prepare_agent_results_text(agent_results_json)
         self.log_progress(f"  - agent_results 内容: {len(agent_results_text)} 字符")
 
@@ -233,24 +63,23 @@ class SummaryAgent(BaseAgent):
         prompt = SUMMARY_PROMPT.format(
             domain_analyses=domain_analyses_text,
             phase1_overview=phase1_overview_text,
-            agent_results=agent_results_text
+            agent_results=agent_results_text  # ⭐ 添加 agent_results
         )
 
         # 检查 Prompt 长度
         prompt_length = len(prompt)
         self.log_progress(f"  - Prompt 长度: {prompt_length} 字符")
 
-        estimated_tokens = int(prompt_length / 2)
-        self.log_progress(f"  - 预估 token 数: ~{estimated_tokens}")
-
-        if estimated_tokens > 150000:
-            self.log_progress(f"⚠️ 警告：Prompt 预估 {estimated_tokens} tokens")
-            self.log_progress(f"💡 建议：减少重点论文数量")
+        if prompt_length > 400000:
+            self.log_progress(f"⚠️ 警告：Prompt 过长（{prompt_length} 字符），可能需要截断")
+        elif prompt_length > 800000:
+            self.log_progress(f"❌ 错误：Prompt 太长（{prompt_length} 字符）")
+            return self._get_empty_result()
 
         self.log_progress(f"调用 {self.model} API...")
 
-        # 调用 API（超时设置为 18000 秒 = 5 小时）
-        response = self._call_glm_api(prompt, timeout=18000)
+        # 调用 API
+        response = self._call_glm_api(prompt)
 
         if not response:
             self.log_progress("API 调用失败，返回空结果")
@@ -269,7 +98,7 @@ class SummaryAgent(BaseAgent):
             self.log_progress("结果验证失败")
             return self._get_empty_result()
 
-        self.log_progress("✅ Phase 3 综合总结完成")
+        self.log_progress("综合总结完成")
         return result
 
     def _prepare_domain_analyses(self, domain_analyses: Dict[str, Any]) -> str:
@@ -301,9 +130,6 @@ class SummaryAgent(BaseAgent):
             if dev_history:
                 formatted.append("**发展历程**:")
                 for period, data in dev_history.items():
-                    # ⭐ 检查 data 是否为 None
-                    if data is None:
-                        continue
                     summary = data.get("summary", "")
                     if summary:
                         formatted.append(f"- {period}: {summary[:100]}...")
@@ -500,25 +326,195 @@ class SummaryAgent(BaseAgent):
         return {
             "phase": "summary",
             "ppt_content": {
-                "part1_research_review": {
-                    "title": "01 课题研究综述（包含国内外研究现状）",
-                    "slides": []
+                "part1_literature_review": {
+                    "title": "Literature Review",
+                    "slides": [],
+                    "summary": "生成失败"
                 },
-                "part2_innovation": {
-                    "title": "02 课题创新性",
-                    "slides": []
+                "part2_innovation_points": {
+                    "title": "Innovation Points",
+                    "slides": [],
+                    "summary": "生成失败"
                 },
                 "part3_methodology": {
-                    "title": "03 思路及方法",
-                    "slides": []
+                    "title": "Methodology",
+                    "slides": [],
+                    "summary": "生成失败"
                 },
                 "part4_future_work": {
-                    "title": "04 后续工作完成",
-                    "slides": []
+                    "title": "Future Work",
+                    "slides": [],
+                    "summary": "生成失败"
                 }
             },
             "summary": "综合总结失败"
         }
+
+    def generate_literature_review(
+        self, domain_analyses: List[Dict], overview: Dict
+    ) -> Dict[str, Any]:
+        """
+        生成 Part 1: Literature Review
+
+        Args:
+            domain_analyses: 领域分析结果列表
+            overview: Phase 1 概览
+
+        Returns:
+            文献综述内容
+        """
+        # TODO: AI 调用
+        return {"title": "Literature Review", "slides": []}
+
+    def generate_innovation_points(self, domain_analyses: List[Dict]) -> Dict[str, Any]:
+        """
+        生成 Part 2: Innovation Points
+
+        Args:
+            domain_analyses: 领域分析结果列表
+
+        Returns:
+            创新点分析内容
+        """
+        # TODO: AI 调用
+        return {"title": "Innovation Points", "slides": []}
+
+    def generate_methodology(self, domain_analyses: List[Dict]) -> Dict[str, Any]:
+        """
+        生成 Part 3: Methodology
+
+        Args:
+            domain_analyses: 领域分析结果列表
+
+        Returns:
+            方法论内容
+        """
+        # TODO: AI 调用
+        return {"title": "Methodology", "slides": []}
+
+    def generate_future_work(
+        self, domain_analyses: List[Dict], overview: Dict
+    ) -> Dict[str, Any]:
+        """
+        生成 Part 4: Future Work
+
+        Args:
+            domain_analyses: 领域分析结果列表
+            overview: Phase 1 概览
+
+        Returns:
+            未来工作内容
+        """
+        # TODO: AI 调用
+        return {"title": "Future Work", "slides": []}
+
+
+# ============================================================================
+# Prompt 模板
+# ============================================================================
+
+SUMMARY_PROMPT_TEMPLATE = """
+你是一个学术写作专家，需要将多个领域的分析结果综合成一份完整的博士论文汇报 PPT。
+
+## 输入数据
+
+**Phase 1 概览**:
+{overview}
+
+**Phase 2 领域分析**:
+{domain_analyses}
+
+## 任务
+
+生成 4 部分 PPT 内容框架，每部分包含多个 PPT 页面。
+
+### Part 1: Literature Review（文献综述）
+
+**目标**：建立领域研究的整体认知
+
+**内容要求**：
+- 领域整体发展脉络（2018-2026）
+- 主要研究方向和子领域
+- 研究热点的演变趋势
+- 高影响力文献和作者
+
+### Part 2: Innovation Points（创新点分析）
+
+**目标**：提炼领域核心创新贡献
+
+**内容要求**：
+- 新现象（New Phenomena）
+- 新方法（New Methods）
+- 新对象（New Objects）
+- 每个创新点要有原文引用
+
+### Part 3: Methodology（方法论与技术路线）
+
+**目标**：总结领域研究方法和工具
+
+**内容要求**：
+- 主流研究方法分类
+- 关键技术路线对比
+- 工具和算法的发展
+- 方法的优缺点评估
+
+### Part 4: Future Work（未来研究方向）
+
+**目标**：指明领域发展方向和研究空白
+
+**内容要求**：
+- 当前研究的局限性
+- 未来发展的关键问题
+- 有潜力的研究方向
+- 跨学科融合机会
+
+## 输出格式（JSON）
+
+```json
+{{
+  "part1_literature_review": {{
+    "title": "Literature Review",
+    "slides": [
+      {{
+        "slide_number": 1,
+        "title": "页面标题",
+        "content": ["要点1", "要点2", "要点3"],
+        "notes": "演讲者备注"
+      }}
+    ],
+    "summary": "部分总结"
+  }},
+  "part2_innovation_points": {{...}},
+  "part3_methodology": {{...}},
+  "part4_future_work": {{...}},
+  "overall_summary": "整体总结（用于开场或结尾）"
+}}
+```
+
+## PPT 设计原则
+
+1. **每页 3-5 个要点**：不要堆砌内容
+2. **图文并茂**：为图表、流程图预留空间
+3. **逻辑清晰**：每页之间有清晰的逻辑递进
+4. **突出重点**：用加粗、颜色等方式突出关键信息
+5. **引用准确**：每个关键结论都要有文献引用
+
+## 示例 PPT 页面
+
+```json
+{{
+  "slide_number": 1,
+  "title": "研究背景与意义",
+  "content": [
+    "风能是全球重要的可再生能源",
+    "风力发电效率提升 15% 可带来显著经济效益",
+    "气动优化是提升风机效率的关键技术"
+  ],
+  "notes": "开场白要简明扼要，快速切入主题",
+  "visual_suggestions": "建议添加风能发电趋势图"
+}}
+```
+"""
 
 
 # ============================================================================
@@ -526,64 +522,23 @@ class SummaryAgent(BaseAgent):
 # ============================================================================
 
 if __name__ == "__main__":
-    import sys
-    import io
-
-    # Windows UTF-8 支持
-    if sys.platform == "win32":
-        sys.stdout = io.TextIOWrapper(
-            sys.stdout.buffer, encoding="utf-8", errors="replace"
-        )
-        sys.stderr = io.TextIOWrapper(
-            sys.stderr.buffer, encoding="utf-8", errors="replace"
-        )
-
     # 使用示例
-    try:
-        agent = SummaryAgent(keys_file="config/api_keys.txt", model="glm-5")
+    agent = SummaryAgent(keys_file="config/api_keys.txt", model="glm-4.7")
 
-        # 方式1：从文件路径加载（推荐）
-        input_data = {
-            "phase1_path": "data/ppt_helper/processed/phase1_overview.json",
-            "domain_results_dir": "data/ppt_helper/processed/by_domain",
-            "agent_results_path": "data/agent_results",
-            "max_key_papers": 20,
-        }
+    # 模拟输入数据
+    input_data = {
+        "domain_analyses": [
+            {"domain_name": "Aerodynamic Optimization", "data": "..."},
+            {"domain_name": "CFD Simulation", "data": "..."},
+        ],
+        "overview": {"domains": [], "data": "..."},
+    }
 
-        # 方式2：直接传入数据（用于测试）
-        # input_data = {
-        #     "phase1_overview": {...},
-        #     "domain_analyses": {...},
-        #     "agent_results_json": {...},
-        # }
+    # 执行分析
+    result = agent.analyze(input_data)
 
-        # 执行分析
-        result = agent.analyze(input_data)
-
-        print(f"\n📊 Phase 3 分析结果:")
-        ppt_content = result.get("ppt_content", {})
-
-        # 按照博士论文汇报框架显示
-        part_mapping = {
-            "part1_research_review": "01 课题研究综述",
-            "part2_innovation": "02 课题创新性",
-            "part3_methodology": "03 思路及方法",
-            "part4_future_work": "04 后续工作完成"
-        }
-
-        for part_key, part_name in part_mapping.items():
-            if part_key in ppt_content:
-                slides = ppt_content[part_key].get("slides", [])
-                print(f"  {part_name}: {len(slides)} 页")
-
-        # 保存结果
-        output_path = "data/ppt_helper/processed/final_ppt_content.json"
-        agent.save_result(result, output_path)
-        print(f"\n✅ 结果已保存到: {output_path}")
-
-    except Exception as e:
-        print(f"❌ 错误: {e}")
-        import traceback
-
-        traceback.print_exc()
-
+    print(f"PPT 内容框架:")
+    print(f"  Part 1: {len(result['part1_literature_review']['slides'])} 页")
+    print(f"  Part 2: {len(result['part2_innovation_points']['slides'])} 页")
+    print(f"  Part 3: {len(result['part3_methodology']['slides'])} 页")
+    print(f"  Part 4: {len(result['part4_future_work']['slides'])} 页")

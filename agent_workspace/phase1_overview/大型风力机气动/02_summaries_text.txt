@@ -1,0 +1,4163 @@
+
+[1] Paper ID: 2025_Aerodynamic_Design_and_Performance_Analysis_of_a_Large_Scale_Composite_Blade_for_Wind_Turbines
+   - 标题: Aerodynamic Design and Performance Analysis of a Large-Scale Composite Blade for Wind Turbines
+   - 作者: Semyoung Lim, Sungjin Ahn, Hyunbum Park
+   - 年份: 2025
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 98.50
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[2] Paper ID: 2026_Atmospheric_Turbulence_Modelling_for_Very_Large_Wind_Turbines
+   - 标题: Atmospheric Turbulence Modelling for Very Large Wind Turbines
+   - 作者: 
+   - 年份: 2026
+   - 期刊: AIAA Science and Technology Forum and Exposition AIAA Scitech Forum 2026
+   - 评分: 98.50
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 海洋大气湍流模型下超大功率风机低速轴疲劳载荷的显著增加
+        本研究发现，当采用基于FINO1实测数据拟合的Syed-Mann海洋大气湍流模型（2D+3D谱张量模型）时，相较于采用相同湍流强度（TI）但使用IEC标准中陆基参数（L3D=34m，Γ=3.9）的Ma...
+   - 新方法（前2个）:
+     1. 面向超大柔性转子的、考虑旋转效应的叶片平均与转子平均风速谱理论推导与验证框架
+        本论文提出并验证了一套完整的理论框架，用于推导和计算在任意湍流谱模型下，考虑风机旋转采样效应的叶片平均风速和转子平均风速的功率谱密度（PSD）。该方法首先将旋转采样过程建模为风速时间序列与一个狄拉克梳...
+
+
+[3] Paper ID: 2026_Highly_Efficient_Vertical_Axis_Wind_Turbine_Concept_Structural_Design_Theoretical_Basis_and_Practica
+   - 标题: Highly Efficient Vertical-Axis Wind Turbine: Concept, Structural Design, Theoretical Basis, and Practical Tests Results
+   - 作者: Janis Zakis, Oleg Efanov, Alexander Scerbina et al.
+   - 年份: 2026
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 98.50
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[4] Paper ID: 2025_Advanced_multi_physics_modeling_of_floating_offshore_wind_turbines_for_aerodynamic_design_and_load_m
+   - 标题: Advanced multi-physics modeling of floating offshore wind turbines for aerodynamic design and load management
+   - 作者: Haoda Huang, Qingsong Liu, Gregorio Iglesias et al.
+   - 年份: 2025
+   - 期刊: Energy Conversion and Management
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[5] Paper ID: 2025_Aerodynamic_and_structural_Co_optimization_of_offshore_wind_turbine_blades_using_a_novel_adaptive_su
+   - 标题: Aerodynamic and structural Co-optimization of offshore wind turbine blades using a novel adaptive surrogate-based optimization method
+   - 作者: Rui Meng, Xuhui Chen, Liangliang Chen et al.
+   - 年份: 2025
+   - 期刊: Ocean Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[6] Paper ID: 2025_Aerodynamic_and_wake_characteristics_for_full_scale_and_model_scale_5_MW_wind_turbines_using_data_dr
+   - 标题: Aerodynamic and wake characteristics for full-scale and model-scale 5 MW wind turbines using data-driven modal decomposition
+   - 作者: Xiaohui Zhang, Mengyun Tao, Meng Zhang et al.
+   - 年份: 2025
+   - 期刊: Ocean Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于模态分解的尾流演化多尺度动态行为解耦
+        该研究通过结合POD（本征正交分解）和DMD（动态模态分解）两种数据驱动方法，首次系统性地揭示了全尺寸与缩比模型风力机尾流在涡旋生成、脱落、增长、发展和破碎全过程中的多尺度动态行为。研究发现，尾流并非...
+   - 新方法（前2个）:
+     1. 基于重叠网格与自适应网格加密（AMR）耦合的高保真度风力机尾流POD/DMD分析框架
+        本研究提出并实施了一个集成了高保真度CFD模拟与先进数据驱动模态分解的完整方法框架。其核心是使用SST k-ω湍流模型，结合重叠网格技术处理旋转的叶片与静止的塔架/流域之间的相对运动，并引入自适应网格...
+
+
+[7] Paper ID: 2025_Aerodynamic_performance_degradation_of_offshore_wind_turbine_blades_under_icing_with_varying_angles
+   - 标题: Aerodynamic performance degradation of offshore wind turbine blades under icing with varying angles of attack
+   - 作者: Zhongqiu Mu, Guizhong Tian, Xiaoming Feng et al.
+   - 年份: 2025
+   - 期刊: Ocean Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[8] Paper ID: 2025_An_experimental_comparative_study_of_aerodynamic_thrust_modeling_in_basin_testing_of_floating_wind_t
+   - 标题: An experimental comparative study of aerodynamic thrust modeling in basin testing of floating wind turbines: Real-time hybrid method and thrust-scaled blade model
+   - 作者: Tiancheng Yao, Yipin Wang, Yongsheng Zhao et al.
+   - 年份: 2025
+   - 期刊: Energy
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[9] Paper ID: 2025_Analysis_of_platform_motion_effects_on_fatigue_loads_and_aerodynamic_unsteadiness_in_15_MW_novel_flo
+   - 标题: Analysis of platform motion effects on fatigue loads and aerodynamic unsteadiness in 15 MW novel floating offshore wind turbines with transient impact
+   - 作者: Huiwen Meng, Yongqian Liu, De Tian et al.
+   - 年份: 2025
+   - 期刊: Ocean Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮动平台运动对超大型FOWT瞬态工况下疲劳载荷的差异化影响现象
+        该研究揭示了一个在超大型（15 MW）半潜式浮动海上风机（FOWT）中，平台运动对结构疲劳载荷产生复杂且非直观影响的新现象。传统认知中，平台运动通常被视为增加系统动态性和载荷的负面因素。然而，本研究通...
+   - 新方法（前2个）:
+     1. 面向超大型FOWT瞬态疲劳评估的高保真全耦合仿真框架
+        本研究开发并应用了一套专用于分析超大型浮动海上风机在瞬态工况下疲劳行为的高保真度、全耦合仿真框架。该框架并非简单拼凑现有工具，而是进行了深度集成与流程化创新。其核心是串联了三个专业工具：TurbSim...
+
+
+[10] Paper ID: 2025_Bionic_inspired_flutter_suppression_method_for_offshore_ultra_long_wind_turbine_blades
+   - 标题: Bionic inspired flutter suppression method for offshore ultra-long wind turbine blades
+   - 作者: Xu Zhang, Lijun Zhang, Kaifei Wang et al.
+   - 年份: 2025
+   - 期刊: Renewable Energy
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[11] Paper ID: 2026_Analysis_of_aerodynamic_damping_characteristics_in_floating_wind_turbines_under_stochastic_wind_and
+   - 标题: Analysis of aerodynamic damping characteristics in floating wind turbines under stochastic wind and wave conditions
+   - 作者: Jiyuan Men, Zuli Nie, Yao Luo et al.
+   - 年份: 2026
+   - 期刊: Ocean Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 大偏航角下FOWT叶片气动阻尼矩阵的时变特性与符号反转现象
+        该论文首次系统性地揭示了在随机风浪载荷下，特别是存在30°大偏航角时，漂浮式海上风机叶片气动阻尼矩阵的复杂时变行为。研究发现，随着风速增加，叶片挥舞方向和摆振方向的对角线阻尼系数（C_{11}, C_...
+   - 新方法（前2个）:
+     1. 基于连续小波变换的时变气动阻尼矩阵识别方法
+        本文提出了一种创新的、基于连续小波变换（CWT）的系统识别方法，用于从FOWT在随机风浪载荷下的非线性、非平稳响应数据中，直接提取时变的气动阻尼矩阵。该方法的核心思想是将叶片的多自由度运动方程（挥舞、...
+
+
+[12] Paper ID: 2026_Dynamic_response_of_large_scale_offshore_wind_turbine_considering_spatiotemporal_typhoon_impact
+   - 标题: Dynamic response of large-scale offshore wind turbine considering spatiotemporal typhoon impact
+   - 作者: Hao Wang, Fa Li, Zhitong Lv et al.
+   - 年份: 2026
+   - 期刊: Marine Structures
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[13] Paper ID: 2026_Experimental_investigation_of_partial_span_slot_effects_on_small_scale_horizontal_axis_wind_turbines
+   - 标题: Experimental investigation of partial-span slot effects on small-scale horizontal-axis wind turbines
+   - 作者: Himmet Erdi Tanürün, Abdussamed Y?ld?z, Mehmet Seyhan
+   - 年份: 2026
+   - 期刊: Sustainable Energy Technologies and Assessments
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[14] Paper ID: 2026_Fully_coupled_aero_hydrodynamic_analysis_of_a_twin_rotor_floating_offshore_wind_turbine
+   - 标题: Fully coupled aero-hydrodynamic analysis of a twin-rotor floating offshore wind turbine
+   - 作者: Zhen Zhang, Yang Yang, Yangtian Yan et al.
+   - 年份: 2026
+   - 期刊: Ocean Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[15] Paper ID: 2026_Interaction_between_flow_field_and_blade_forces_on_HAWT_integrating_Lagrangian_interpolation_of_velo
+   - 标题: Interaction between flow field and blade forces on HAWT integrating Lagrangian interpolation of velocities with an actuator volume technique
+   - 作者: P. García Regodeseves, C. Santolaria Morros
+   - 年份: 2026
+   - 期刊: Renewable Energy
+   - 评分: 96.40
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 基于拉格朗日插值重构的无涡污染诱导速度场
+        该论文并未报告一个全新的、未被发现的物理现象，而是识别并解决了一个在经典致动体/致动线方法（ALM/AVM）模拟中普遍存在但未被明确、系统性地量化或解决的**计算现象**：由近场涡量引起的速度场“污染...
+   - 新方法（前2个）:
+     1. 耦合拉格朗日插值与致动体技术的混合高保真数值模拟方法
+        本文提出了一种创新的混合数值模拟框架，该框架整合了三种关键技术：1）用于表示叶片的**致动体方法（Actuator Volume Method, AVM）**；2）用于精确捕捉塔筒和机舱扰动的**显式...
+
+
+[16] Paper ID: 2026_Modular_structural_design_and_performance_analysis_of_multi_blade_Darrieus_wind_turbines
+   - 标题: Modular structural design and performance analysis of multi-blade Darrieus wind turbines
+   - 作者: Biyi Cheng, Leya Lao, Xueming Yin et al.
+   - 年份: 2026
+   - 期刊: Results in Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[17] Paper ID: 2026_Numerical_simulation_of_the_aerodynamic_characteristics_floating_offshore_wind_turbine_under_inflow
+   - 标题: Numerical simulation of the aerodynamic characteristics floating offshore wind turbine under inflow turbulence
+   - 作者: Zhanpu Xue, Yimeng Zhang, Long He et al.
+   - 年份: 2026
+   - 期刊: Results in Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[18] Paper ID: 2026_Prediction_of_coupled_dynamic_performance_of_floating_offshore_wind_turbine_using_unsteady_aerodynam
+   - 标题: Prediction of coupled dynamic performance of floating offshore wind turbine using unsteady aerodynamic model and nonlinear self-excited hydrodynamic model
+   - 作者: Yuhao Zhang, Tian Li, Qingshan Yang et al.
+   - 年份: 2026
+   - 期刊: Energy
+   - 评分: 96.40
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮式平台运动诱导的旋转风机非定常气动特性耦合现象
+        该论文揭示了一个关键的新现象：当浮式平台在风浪流联合作用下产生刚体运动（特别是纵摇和纵荡）时，这种平台运动会被传递到上方的旋转风机，从而显著改变其气动性能。传统分析通常将风机气动载荷视为独立于平台运动...
+   - 新方法（前2个）:
+     1. 基于CFD强迫振动法的非定常气动与非线性自激水动力耦合建模方法
+        本研究提出了一种创新的集成建模方法，用于预测FOWT在风浪流条件下的耦合动力性能。该方法的核心是结合计算流体动力学（CFD）与强迫振动技术。具体分为两部分：1）**非定常气动力模型**：对旋转的风机转...
+
+
+[19] Paper ID: 2026_Synergistic_effect_of_the_small_VAWTs_and_large_HAWTs_for_forced_wake_recovery_of_wind_farm
+   - 标题: Synergistic effect of the small VAWTs and large HAWTs for forced wake recovery of wind farm
+   - 作者: Jiaxin Shen, Jian Chen, Chun Li et al.
+   - 年份: 2026
+   - 期刊: Ocean Engineering
+   - 评分: 96.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[20] Paper ID: 2023_Investigation_of_the_Impact_of_Airfoil_Geometry_Alteration_on_Horizontal_Axis_Wind_Turbine_Performan
+   - 标题: Investigation of the Impact of Airfoil Geometry Alteration on Horizontal Axis Wind Turbine Performance by CFD Method
+   - 作者: Hakan ?nan, Mahmut Kaplan
+   - 年份: 2023
+   - 期刊: El Cezeri Journal of Science and Engineering
+   - 评分: 95.50
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 对标准翼型进行全局比例缩放（特别是上下表面同时缩放）可系统性地提升风力机整体气动性能
+        本研究并未报告一个全新的、未预期的物理现象，而是揭示了一种经过设计的几何修改策略与整体性能提升之间的系统性关联。现象的核心在于：对基准NACA 63-415翼型的几何外形进行特定比例的全局缩放（如下表...
+   - 新方法（前2个）:
+     1. 基于简单几何缩放与经典BEM理论的两阶段风力机叶片快速设计与验证流程
+        本文提出并实施了一个结构清晰、工程实用的两阶段风力机叶片设计与性能评估流程。**第一阶段（翼型生成）**：摒弃复杂的参数化优化，采用最简单的几何操作——对基准翼型（NACA 63-415）的坐标进行固...
+
+
+[21] Paper ID: 2023_Optimizing_Airfoil_Aerodynamic_Characteristics_by_Using_Proposed_CSA_KJ_Method
+   - 标题: Optimizing Airfoil Aerodynamic Characteristics by Using Proposed CSA-KJ Method
+   - 作者: 
+   - 年份: 2023
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 95.50
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 基于CSA-KJ优化的翼型在零攻角下升阻比提升最显著的现象
+        该研究通过提出的CSA-KJ优化方法对NACA4412翼型进行优化后，发现一个关键现象：优化效果（升阻比提升）与来流风速正相关，并且在0°攻角（即零攻角）下具有最佳性能。具体表现为，在相同的雷诺数（R...
+   - 新方法（前2个）:
+     1. 基于库塔-茹科夫斯基定理与布谷鸟搜索算法的耦合优化框架（CSA-KJ Method）
+        该方法是一种用于翼型气动外形优化的新颖框架。其核心是将经典的库塔-茹科夫斯基（KJ）升力定理直接构造为优化问题的目标函数，并采用布谷鸟搜索算法（CSA）作为迭代更新和全局寻优的引擎。具体流程如下：首先...
+
+
+[22] Paper ID: 2025_A_synthetic_approach_for_high_fidelity_aerodynamic_performance_optimization_of_large_scale_wind_turb
+   - 标题: A synthetic approach for high-fidelity aerodynamic performance optimization of large-scale wind turbine blades based on hybrid deep learning networks
+   - 作者: Jingliang Gong, Haijun Zhou, Chulong Yuan et al.
+   - 年份: 2025
+   - 期刊: Physics of Fluids
+   - 评分: 93.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[23] Paper ID: 2026_A_comprehensive_review_of_engineered_surface_roughness_on_the_aerodynamic_performance_of_horizontal
+   - 标题: A comprehensive review of engineered surface roughness on the aerodynamic performance of horizontal-axis and vertical-axis wind turbine blades
+   - 作者: Mohsen Seify Davari, Hossein Seifi Davari, Efstratios L. Ntantis
+   - 年份: 2026
+   - 期刊: Physics of Fluids
+   - 评分: 93.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[24] Paper ID: 2026_Aero_structural_design_optimization_of_wind_turbine_blade_under_quasi_smoothness_constraints
+   - 标题: Aero-structural design optimization of wind turbine blade under quasi-smoothness constraints
+   - 作者: Guoqiang Gao, Jun Li, Jianjun Li et al.
+   - 年份: 2026
+   - 期刊: Structural and Multidisciplinary Optimization
+   - 评分: 93.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[25] Paper ID: 2026_Aerodynamic_modeling_and_wake_characterization_of_a_15_MW_offshore_wind_turbine_Insights_from_blade
+   - 标题: Aerodynamic modeling and wake characterization of a 15-MW offshore wind turbine: Insights from blade-resolved URANS simulations
+   - 作者: Cong Yi, Shenglei Fu, Shangru Jia et al.
+   - 年份: 2026
+   - 期刊: Applied Ocean Research
+   - 评分: 93.60
+   - 创新点统计: 现象 2, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 超大型风机近尾流区轮毂与叶尖涡恢复机制的分离现象
+        论文通过高精度URANS模拟，首次明确揭示了15MW级超大型海上风机在近尾流区（约1-5倍转子直径范围内）存在两种截然不同的速度恢复机制。在轮毂区域，尾流速度恢复主要由粘性耗散和湍流扩散主导，这是一个...
+     2. 远尾流区叶尖涡与轮毂涡的相互作用与合并现象
+        研究进一步发现，在远尾流区（约5倍转子直径以远），原本在近尾流区分立的叶尖涡和轮毂涡系开始发生显著的相互作用，并最终趋向于合并。这种涡间相互作用导致了尾流结构宏观形态的改变，并加速了整体尾流动量亏损的...
+   - 新方法（前2个）:
+     1. 基于叶片解析URANS的15MW级风机高保真度气动-尾流一体化评估框架
+        本文构建并实施了一套针对15MW级超大型海上风机的全三维、非定常雷诺平均Navier-Stokes（URANS）高保真度模拟框架。其核心是采用“叶片解析”（Blade-Resolved）方法，即对IE...
+
+
+[26] Paper ID: 2026_An_aerodynamic_measurement_system_to_improve_the_efficiency_of_wind_turbine_rotor_blades
+   - 标题: An aerodynamic measurement system to improve the efficiency of wind turbine rotor blades
+   - 作者: Julien Deparday, Yuriy Marykovskiy, Imad Abdallah et al.
+   - 年份: 2026
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 93.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[27] Paper ID: 2026_Analysis_of_Structural_Responses_of_a_Horizontal_Axis_Wind_Turbine_at_Maximum_Aerodynamic_Performanc
+   - 标题: Analysis of Structural Responses of a Horizontal Axis Wind Turbine at Maximum Aerodynamic Performance
+   - 作者: Ahmed Taibaoui, Tahar Benmessaoud, Cheikh Kezrane
+   - 年份: 2026
+   - 期刊: Journal of Applied and Computational Mechanics
+   - 评分: 93.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于材料弹性模量变化的叶片气动-结构耦合非线性响应现象
+        本研究发现，在水平轴风力机（HAWT）运行过程中，叶片材料的弹性模量（Young's Modulus）变化会引发显著的非线性气动-结构耦合响应。具体表现为，当叶片材料的弹性模量在特定范围内（如从70 ...
+   - 新方法（前2个）:
+     1. 基于弹性模量参数化的系统性双向流固耦合对比分析方法
+        本文提出并应用了一套完整的、系统性的分析方法，用于量化评估材料弹性模量对HAWT整体性能的影响。该方法的核心是：首先，建立一个参数化的高保真度计算模型，其中叶片材料的弹性模量作为关键输入参数在一个宽范...
+
+
+[28] Paper ID: 2026_Blade_icing_characteristics_and_dynamic_response_analysis_of_floating_offshore_wind_turbine_in_cold
+   - 标题: Blade icing characteristics and dynamic response analysis of floating offshore wind turbine in cold marine environments
+   - 作者: Haojie Zheng, Siming Zheng, Yang Yang et al.
+   - 年份: 2026
+   - 期刊: Cold Regions Science and Technology
+   - 评分: 93.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮式海上风机叶片在运行状态下的非对称结冰动态响应
+        该论文首次系统揭示了浮式海上风机（FOWT）在运行状态下，其叶片结冰对整机动态响应的复杂影响机制。与传统固定式风机不同，FOWT的结冰响应是一个气动-水动-伺服-结构完全耦合的非线性过程。研究发现，结...
+   - 新方法（前2个）:
+     1. 面向浮式海上风机结冰评估的“CFD结冰模拟-气动修正-全耦合动态分析”集成框架
+        本论文构建并应用了一套完整的、分层次的数值仿真框架，用于系统评估结冰对浮式海上风机性能与安全的影响。该方法并非单一算法，而是一个集成工作流：首先，基于CFD方法（可能结合了Messinger模型等）模...
+
+
+[29] Paper ID: 2026_Comparative_analysis_of_numerical_methods_for_predicting_aerodynamic_performance_of_floating_offshor
+   - 标题: Comparative analysis of numerical methods for predicting aerodynamic performance of floating offshore wind turbines in tilted conditions
+   - 作者: Qian Gao, Youjun Yang, Changqing Jiang et al.
+   - 年份: 2026
+   - 期刊: Applied Ocean Research
+   - 评分: 93.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 数值方法对FOWT气动载荷预测的线性依赖现象
+        该研究发现，在浮式风机经历纵荡和纵摇运动时，所有四种数值方法（CFD、ALM、BEM、FVW）预测的气动载荷（推力和扭矩）均表现出对运动幅值和频率的线性依赖关系。这一现象在论文的对比分析中被明确揭示。...
+   - 新方法（前2个）:
+     1. 基于高保真CFD验证的跨精度数值方法系统性对比与评估框架
+        本文提出并实施了一套系统性的方法论框架，用于在浮式风机倾斜及运动条件下，对从高保真到中低保真的四种核心气动数值方法（CFD, ALM, BEM, FVW）进行严格的、量化的对比评估。该框架的核心流程是...
+
+
+[30] Paper ID: 2026_Design_optimisation_of_an_open_source_reference_rotor_library_for_multi_rotor_development_and_innova
+   - 标题: Design optimisation of an open-source reference rotor library for multi-rotor development and innovation
+   - 作者: Abdirahman Sheik Hassan, Neha Chandarana, Rainer Groh et al.
+   - 年份: 2026
+   - 期刊: Wind Energy Science
+   - 评分: 93.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[31] Paper ID: 2026_Harnessing_Energy_and_Engineering_A_Review_of_Design_Transition_of_Bio_Inspired_and_Conventional_Bla
+   - 标题: Harnessing Energy and Engineering: A Review of Design Transition of Bio-Inspired and Conventional Blade Concepts for Wind and Marine Energy Harvesting
+   - 作者: Revathi Ramakrishnan, Mohamed Kamra, Saeed Al Nuaimi
+   - 年份: 2026
+   - 期刊: Energies
+   - 评分: 93.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[32] Paper ID: 2026_High_fidelity_aero_elastic_decoupling_approach_for_dynamic_response_analysis_of_offshore_wind_turbin
+   - 标题: High-fidelity aero-elastic decoupling approach for dynamic response analysis of offshore wind turbines
+   - 作者: Yongqing Lai, Ben He, Gen Xiong et al.
+   - 年份: 2026
+   - 期刊: Soil Dynamics and Earthquake Engineering
+   - 评分: 93.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[33] Paper ID: 2023_The_coupling_of_tower_shadow_effect_and_surge_motion_intensifies_aerodynamic_load_variability_in_dow
+   - 标题: The coupling of tower-shadow effect and surge motion intensifies aerodynamic load variability in downwind floating offshore wind turbines
+   - 作者: 
+   - 年份: 2023
+   - 期刊: Energy
+   - 评分: 93.40
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 塔影效应与纵荡运动耦合导致气动载荷变异性增强
+        本研究揭示了一个在下风式浮式海上风力发电机（Downwind FOWT）中首次被系统性描述和量化的新现象：浮式平台的纵荡运动（Surge motion）与塔筒阴影效应（Tower-shadow eff...
+   - 新方法（前2个）:
+     1. 基于全尺度CFD-RANS的下风式FOWT气动耦合分析框架
+        本研究并未提出一个全新的、普适性的算法或模型，而是在**方法论的应用层面**实现了重要创新：首次构建并系统应用了一个高保真度、全尺度的非定常计算流体力学（CFD）分析框架，专门用于解析下风式浮式海上风...
+
+
+[34] Paper ID: 2024_A_new_similarity_criterion_for_wind_tunnel_testing_of_floating_wind_turbines_achieving_dynamic_aerod
+   - 标题: A new similarity criterion for wind tunnel testing of floating wind turbines achieving dynamic aerodynamic characteristics similarity
+   - 作者: Tianxiao Luo, Guangxing Wu, Pan Zhang et al.
+   - 年份: 2024
+   - 期刊: Energy Conversion and Management
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[35] Paper ID: 2024_Aerodynamic_rotor_design_for_a_25_MW_offshore_downwind_turbine
+   - 标题: Aerodynamic rotor design for a 25 MW offshore downwind turbine
+   - 作者: Michael Jeong, Eric Loth, Chris Qin et al.
+   - 年份: 2024
+   - 期刊: Applied Energy
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[36] Paper ID: 2024_An_inverse_CFD_actuator_disk_method_for_aerodynamic_design_and_performance_optimization_of_Horizonta
+   - 标题: An inverse CFD actuator disk method for aerodynamic design and performance optimization of Horizontal Axis Wind Turbine blades
+   - 作者: M. N. Hamlaoui, A. Bouhelal, A. Smaili et al.
+   - 年份: 2024
+   - 期刊: Energy Conversion and Management
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[37] Paper ID: 2024_Analysis_of_performance_improvement_methods_for_offshore_wind_turbine_blades_affected_by_leading_edg
+   - 标题: Analysis of performance improvement methods for offshore wind turbine blades affected by leading edge erosion
+   - 作者: Yinan Zhang, Chaofeng Zhang, Huipeng You et al.
+   - 年份: 2024
+   - 期刊: Ocean Engineering
+   - 评分: 93.40
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 前缘侵蚀诱导的功率额定点滞后与载荷稳定性解耦现象
+        该研究发现，在海上大功率风力机叶片发生前缘侵蚀（LEE）后，出现了一种新的耦合现象：叶片气动性能的恶化不仅导致风力机达到额定功率的时间点滞后，还同时引发了叶片表面流动分离范围的扩大，从而增加了失速风险...
+   - 新方法（前2个）:
+     1. 基于载荷安全裕度评估的扭角优化决策方法
+        本文提出了一种针对LEE影响下的叶片性能改进的系统性决策框架。其核心不是一种具体的算法，而是一种方法论创新：将“扭角优化”这一传统气动补偿手段的应用，与风力机实时的“载荷安全裕度”评估进行强关联。该方...
+
+
+[38] Paper ID: 2024_CFD_simulation_of_the_aerodynamic_performance_of_co_axial_multi_rotor_wind_turbines_using_the_actuat
+   - 标题: CFD simulation of the aerodynamic performance of co-axial multi-rotor wind turbines using the actuator line method
+   - 作者: Saixian Bian, Yuan Zhang, Xin Cai et al.
+   - 年份: 2024
+   - 期刊: Ocean Engineering
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[39] Paper ID: 2024_Effect_of_surge_motion_on_the_dynamic_stall_of_floating_offshore_wind_turbine_airfoils
+   - 标题: Effect of surge motion on the dynamic stall of floating offshore wind turbine airfoils
+   - 作者: Yan Liu, Zhenzhou Zhao, Junxin Feng et al.
+   - 年份: 2024
+   - 期刊: Sustainable Energy Technologies and Assessments
+   - 评分: 93.40
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 耦合运动诱导的非对称动态失速迟滞响应
+        本文通过数值模拟，系统研究了S809翼型在俯仰与纵荡耦合运动下的动态失速特性。研究发现，纵荡运动方向对动态失速的起始、发展和迟滞响应具有决定性影响。具体表现为：当翼型进行向上纵荡（US）运动时，翼型周...
+   - 新方法（前2个）:
+     1. 浮式风电翼型多自由度耦合运动动态失速数值分析框架
+        本文建立了一套针对FOWT翼型气动特性的专用数值分析框架。其核心是构建一个能够精确模拟翼型同时进行俯仰和纵荡两种规定耦合运动的计算流体动力学（CFD）模型。该框架通过用户自定义函数（UDF）或动网格技...
+
+
+[40] Paper ID: 2024_Investigation_of_aero_hydro_elastic_mooring_behavior_of_a_H_type_floating_vertical_axis_wind_turbine
+   - 标题: Investigation of aero-hydro-elastic-mooring behavior of a H-type floating vertical axis wind turbine using coupled CFD-FEM method.
+   - 作者: Qingsong Liu, Musa Bashir, Gregorio Iglesias et al.
+   - 年份: 2024
+   - 期刊: Applied Energy
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[41] Paper ID: 2024_The_aero_hydrodynamic_interference_impact_on_the_NREL_5_MW_floating_wind_turbine_experiencing_surge
+   - 标题: The aero-hydrodynamic interference impact on the NREL 5-MW floating wind turbine experiencing surge motion
+   - 作者: Ali Alkhabbaz, Hudhaifa Hamza, Ahmed M. Daabo et al.
+   - 年份: 2024
+   - 期刊: Ocean Engineering
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[42] Paper ID: 2024_Unsteady_aerodynamics_of_the_floating_offshore_wind_turbine_due_to_the_trailing_vortex_induction_and
+   - 标题: Unsteady aerodynamics of the floating offshore wind turbine due to the trailing vortex induction and airfoil dynamic stall
+   - 作者: Le Zhou, Xin Shen, Lu Ma et al.
+   - 年份: 2024
+   - 期刊: Energy
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[43] Paper ID: 2024_Wake_redirection_control_for_offshore_wind_farm_power_and_fatigue_multi_objective_optimisation_based
+   - 标题: Wake redirection control for offshore wind farm power and fatigue multi-objective optimisation based on a wind turbine load indicator
+   - 作者: Jili Sun, Jingqing Yang, Zezhong Jiang et al.
+   - 年份: 2024
+   - 期刊: Energy
+   - 评分: 93.40
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[44] Paper ID: 2021_Aerodynamic_performance_analysis_of_a_modified_joukowsky_airfoil_Parametric_control_of_trailing_edge
+   - 标题: Aerodynamic performance analysis of a modified joukowsky airfoil: Parametric control of trailing edge thickness
+   - 作者: 
+   - 年份: 2021
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 91.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 钝尾缘翼型气动性能改善的攻角依赖性反转现象
+        论文通过数值模拟发现，对Joukowsky对称翼型进行钝尾缘参数化增厚时，其气动性能的改善效果并非单调不变，而是强烈依赖于攻角，并存在一个性能转折点。在低到中等攻角（0°-8°）下，增加尾缘厚度（增大...
+   - 新方法（前2个）:
+     1. 基于解析函数的Joukowsky翼型尾缘参数化精确修改方法
+        本文提出了一种新颖的、基于经典Joukowsky保角变换的翼型尾缘厚度参数化直接修改方法。该方法的核心不是对已有坐标数据进行后处理（如截断、叠加函数），而是从翼型生成的源头——复变函数变换入手进行修改...
+
+
+[45] Paper ID: 2021_Aerodynamic_shape_optimization_of_nrel_s809_airfoil_for_wind_turbine_blades_using_reynolds_averaged
+   - 标题: Aerodynamic shape optimization of nrel s809 airfoil for wind turbine blades using reynolds-averaged navier stokes model—part ii
+   - 作者: Md Tausif Akram, Man Hoe Kim
+   - 年份: 2021
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 91.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 基于CST参数化的优化翼型在特定攻角下产生的高升力/升阻比特性包线
+        该论文通过遗传算法结合CST参数化方法优化NREL S809翼型，优化后的翼型在0°和6.2°攻角下展现出一组新的气动特性组合。具体而言，优化翼型在这两个关键设计点（对应翼展不同位置的工作状态）上，不...
+   - 新方法（前2个）:
+     1. 基于CST/PARSEC参数化、遗传算法与多保真度分析集成的气动外形优化框架
+        本论文提出并实现了一套完整的、针对风力机翼型的自动化气动外形优化（ASO）框架。该框架的核心创新在于“端到端”的集成：1) 使用Class Shape Transformation (CST) 和 P...
+
+
+[46] Paper ID: 2021_Bionic_coupling_design_and_aerodynamic_analysis_of_horizontal_axis_wind_turbine_blades
+   - 标题: Bionic coupling design and aerodynamic analysis of horizontal axis wind turbine blades
+   - 作者: Kun Chen, Wei wei Yao, Jian hui Wei et al.
+   - 年份: 2021
+   - 期刊: Energy Science and Engineering
+   - 评分: 91.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 仿生前缘凸起结构在水平轴风力机叶片上诱导的增强流动附着现象
+        该论文研究发现，在设计的仿生耦合风力机叶片（结合了猫头鹰翼型和非光滑前缘）的高尖速比（TSR=5）工况下，叶片吸力面上出现了显著的增强流动附着现象，并伴随着失速区的减少。具体表现为：气流在流经具有特定...
+   - 新方法（前2个）:
+     1. 基于正交优化的生物翼型与非光滑前缘耦合设计方法
+        本论文提出了一套完整的、用于水平轴风力机叶片气动设计的仿生耦合设计方法。该方法并非简单复制生物特征，而是包含三个核心步骤的工程化流程：1）**生物特征提取与数字化**：使用3D激光扫描仪对猫头鹰翅膀进...
+
+
+[47] Paper ID: 2021_CFD_analysis_and_shape_optimization_of_airfoils_using_class_shape_transformation_and_genetic_algorit_1
+   - 标题: CFD analysis and shape optimization of airfoils using class shape transformation and genetic algorithm—part i
+   - 作者: Md Tausif Akram, Man Hoe Kim
+   - 年份: 2021
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 91.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[48] Paper ID: 2021_Laminar_turbulent_transition_localization_in_thermographic_flow_visualization_by_means_of_principal
+   - 标题: Laminar-turbulent transition localization in thermographic flow visualization by means of principal component analysis
+   - 作者: Daniel Gleichauf, Felix Oehme, Michael Sorg et al.
+   - 年份: 2021
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 91.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于时间温度波动的流态特征分离现象
+        该论文揭示了一个关键现象：在热成像流场可视化中，层流和湍流区域的时间温度波动模式存在本质差异，这种差异可以通过主成分分析（PCA）进行有效分离和增强。具体而言，在稳态流动条件下，虽然层流和湍流区域的绝...
+   - 新方法（前2个）:
+     1. 基于主成分分析（PCA）的热成像流场可视化增强图像处理方法
+        该方法提出将经典的主成分分析（PCA）应用于热成像流场可视化的时间图像序列处理中。核心流程是：首先，将一段连续拍摄的热成像视频的每一帧图像拉直为列向量，所有帧的向量组成一个二维数据矩阵（空间像素×时间...
+
+
+[49] Paper ID: 2021_Numerical_investigation_of_threedimensional_and_vortical_flow_phenomena_to_enhance_the_power_perform
+   - 标题: Numerical investigation of three‐dimensional and vortical flow phenomena to enhance the power performance of a wind turbine blade
+   - 作者: Jae Ho Jeong, Kwangtae Ha
+   - 年份: 2021
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 91.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[50] Paper ID: 2021_Vortex_ring_theoryAn_alternative_to_the_existing_actuator_disk_and_rotating_annular_stream_tube_theo
+   - 标题: Vortex ring theory—An alternative to the existing actuator disk and rotating annular stream tube theories
+   - 作者: James Agbormbai, Weidong Zhu, Liang Li
+   - 年份: 2021
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 91.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 实度诱导因子（a_s）与尾流旋转诱导因子（a_w）的解耦与叠加
+        该论文深入揭示并建模了一个在传统动量理论中被简化的关键物理现象：风力机转子处和尾流中的轴向速度衰减，其根源并非单一机制，而是由两个物理上可区分且可叠加的效应共同导致。第一个效应是流体流经具有有限叶片数...
+   - 新方法（前2个）:
+     1. 基于Biot-Savart定律与锥形螺旋控制体的涡环理论（VRT）建模方法
+        本论文提出了一套全新的、系统性替代传统动量理论的风力机空气动力学分析方法——涡环理论。该方法的核心思想是完全摒弃基于轴向动量定理和“平均速度假设”的公理化推导路径，转而从纯粹的势流理论和涡动力学基本原...
+
+
+[51] Paper ID: 2023_A_comprehensive_review_of_the_application_of_bio_inspired_tubercles_on_the_horizontal_axis_wind_turb
+   - 标题: A comprehensive review of the application of bio-inspired tubercles on the horizontal axis wind turbine blade
+   - 作者: S. Roy, B. Das, A. Biswas
+   - 年份: 2023
+   - 期刊: International Journal of Environmental Science and Technology
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[52] Paper ID: 2023_A_large_scale_wind_turbine_model_installed_on_a_floating_structure_experimental_validation_of_the_nu
+   - 标题: A large-scale wind turbine model installed on a floating structure: experimental validation of the numerical design
+   - 作者: Federico Taruffi, Simone Di Carlo, Sara Muggiasca et al.
+   - 年份: 2023
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[53] Paper ID: 2023_Comparison_of_aerodynamic_models_for_horizontal_axis_wind_turbine_blades_accounting_for_curved_tip_s
+   - 标题: Comparison of aerodynamic models for horizontal axis wind turbine blades accounting for curved tip shapes
+   - 作者: Sergio González Horcas, Néstor Ramos-García, Ang Li et al.
+   - 年份: 2023
+   - 期刊: Wind Energy
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[54] Paper ID: 2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami
+   - 标题: Large eddy simulations of a utility-scale horizontal axis wind turbine including unsteady aerodynamics and fluid-structure interaction modelling
+   - 作者: Giacomo Della Posta, Stefano Leonardi, Matteo Bernardini
+   - 年份: 2023
+   - 期刊: Wind Energy
+   - 评分: 90.60
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 大型风力机叶片内段非定常气动现象的主导性
+        该研究通过高保真模拟揭示了一个关键现象：对于兆瓦级大型水平轴风力机，在考虑非定常空气动力学（UA）模型后，叶片沿展向的物理主导机制存在明确的空间分区。具体表现为：叶片的外侧半段（靠近叶尖）的气动载荷和...
+   - 新方法（前2个）:
+     1. 基于执行器线模型与大涡模拟的Beddoes-Leishman非定常气动模型集成框架
+        本论文提出并实现了一个创新的高保真数值模拟框架。该方法的核心是将一个二维、时域的**半经验Beddoes-Leishman非定常空气动力学（UA）模型**，深度集成到一个基于**三维大涡模拟（LES）...
+
+
+[55] Paper ID: 2023_Noise_simulations_of_flap_devices_for_wind_turbine_rotors
+   - 标题: Noise simulations of flap devices for wind turbine rotors
+   - 作者: Alexandre Suryadi, Florian Nils Schmidt, Christina Appel et al.
+   - 年份: 2023
+   - 期刊: Wind Energy
+   - 评分: 90.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 襟翼侧缘噪声在非设计工况下的显著增强与上风向辐射特性
+        论文通过数值模拟揭示了一个关键现象：在风力机转子襟翼装置中，当处于非设计工况（高风速条件）时，襟翼侧缘产生的气动噪声不仅整体声压级显著增加，其辐射方向性也呈现出强烈的上风向（upwind）集中特性。这...
+   - 新方法（前2个）:
+     1. 基于FRPM/FMCAS与RANS耦合的风力机复杂部件气动噪声高效预测工具链
+        本文提出并验证了一套完整的数值预测工具链，用于高效评估风力机转子（尤其是带有襟翼、缝翼等非常规设计）的气动噪声。该工具链的核心创新在于将计算流体力学（CFD）与计算气动声学（CAA）方法进行高效、精准...
+
+
+[56] Paper ID: 2023_OF2_coupling_OpenFAST_and_OpenFOAM_for_high_fidelity_aero_hydro_servo_elastic_FOWT_simulations
+   - 标题: OF2: coupling OpenFAST and OpenFOAM for high-fidelity aero-hydro-servo-elastic FOWT simulations
+   - 作者: Guillén Campa?a-Alonso, Raquel Martín-San-Román, Beatriz Méndez-López et al.
+   - 年份: 2023
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[57] Paper ID: 2023_On_the_laminar_Turbulent_transition_mechanism_on_megawatt_wind_turbine_blades_operating_in_atmospher
+   - 标题: On the laminar-Turbulent transition mechanism on megawatt wind turbine blades operating in atmospheric flow
+   - 作者: Brandon Arthur Lobo, ?zge Sinem ?z?akmak, Helge Aagaard Madsen et al.
+   - 年份: 2023
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 2, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 方位角依赖的动态转捩机制切换（Dynamic Transition Regime Switching with Azimuth Angle）
+        论文通过DAN-AERO现场实验，首次在兆瓦级风力机叶片上观测到，在一个旋转周期内，边界层转捩机制会随着叶片方位角的变化而发生动态、快速的切换。具体表现为：当叶片旋转进入上游尾迹区时，受增强的入流湍流...
+     2. 大气湍流诱导的边界层剪切屏蔽效应（Atmospheric-Turbulence-Induced Shear-Sheltering Effect）
+        在论文进行的大涡模拟（LES）中，通过引入各向异性的合成大气湍流作为入口条件，明确观察并分析了‘剪切屏蔽’（Shear Sheltering）效应在风力机翼型边界层转捩中的作用。该效应描述了边界层内存...
+   - 新方法（前2个）:
+     1. 基于高保真CFD与现场实验联动的系统性转捩机制鉴别框架
+        本文并非提出一个单一的新算法，而是构建并示范了一套系统性的方法论框架，用于鉴别和验证兆瓦级风力机叶片在真实大气环境中的复杂转捩机制。该框架的核心是**将高保真计算流体动力学（CFD）模拟与独特的现场实...
+
+
+[58] Paper ID: 2024_An_experimental_study_on_the_aerodynamic_loads_of_a_floating_offshore_wind_turbine_under_imposed_mot
+   - 标题: An experimental study on the aerodynamic loads of a floating offshore wind turbine under imposed motions
+   - 作者: Federico Taruffi, Felipe Novais, Axelle Viré
+   - 年份: 2024
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[59] Paper ID: 2024_Computational_Fluid_Dynamics_CFD_applications_in_Floating_Offshore_Wind_Turbine_FOWT_dynamics_A_revi
+   - 标题: Computational Fluid Dynamics (CFD) applications in Floating Offshore Wind Turbine (FOWT) dynamics: A review
+   - 作者: Wenzhe Zhang, Javier Calderon-Sanchez, Daniel Duque et al.
+   - 年份: 2024
+   - 期刊: Applied Ocean Research
+   - 评分: 90.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. FOWT耦合气动水动力相互作用中的尺度效应非线性特征
+        本综述论文并非直接报告新现象，而是通过系统梳理和综合，揭示并强调了在浮式海上风机（FOWT）动力学中，由计算流体力学（CFD）研究揭示的一系列复杂且非线性的耦合现象。其中，一个被重点归纳和凸显的“新现...
+   - 新方法（前2个）:
+     1. 基于高保真CFD的FOWT全耦合数值模拟与验证框架
+        本综述系统性地提炼并论证了一种应用于FOWT研发的综合性方法框架：即采用高保真计算流体力学（CFD）工具，建立包含详细风轮几何、平台及系泊系统的全耦合数值模型，在“数值波浪水池”和“数值风洞”中，对F...
+
+
+[60] Paper ID: 2024_Development_and_application_of_a_mesh_generator_intended_for_unsteady_vortex_lattice_method_simulati
+   - 标题: Development and application of a mesh generator intended for unsteady vortex-lattice method simulations of wind turbines and wind farms
+   - 作者: Bruno A. Roccia, Luis R. Ceballos, Marcos L. Verstraete et al.
+   - 年份: 2024
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 1, 对象 1
+   - 新方法（前2个）:
+     1. 面向非定常涡格法（UVLM）的交互式通用网格生成器
+        本文提出了一种专门为非定常涡格法（UVLM）模拟风电机组和风电场而开发的交互式、通用型网格生成方法。该方法的核心在于将复杂的几何建模与计算网格生成流程集成到一个完全基于MATLAB?（兼容GNU OC...
+
+
+[61] Paper ID: 2024_Hybrid_Lambda_a_low_specific_rating_rotor_concept_for_offshore_wind_turbines
+   - 标题: Hybrid-Lambda: a low-specific-rating rotor concept for offshore wind turbines
+   - 作者: Daniel Ribnitzky, Frederik Berger, Vlaho Petrovi? et al.
+   - 年份: 2024
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[62] Paper ID: 2024_Influence_of_rotor_blade_flexibility_on_the_near_wake_behavior_of_the_NREL_5MW_wind_turbine
+   - 标题: Influence of rotor blade flexibility on the near-wake behavior of the NREL 5MW wind turbine
+   - 作者: Leo H?ning, Laura J. Lukassen, Bernhard Stoevesandt et al.
+   - 年份: 2024
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[63] Paper ID: 2024_Numerical_investigation_of_the_coupled_aero_hydrodynamic_performances_of_a_semi_submersible_floating
+   - 标题: Numerical investigation of the coupled aero-hydrodynamic performances of a semi-submersible floating offshore wind turbine with inclined columns
+   - 作者: Ying Jie Xue, Xiao Long Yang, Wei Wen Zhao et al.
+   - 年份: 2024
+   - 期刊: Journal of Hydrodynamics
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[64] Paper ID: 2024_The_near_wake_development_of_a_wind_turbine_operating_in_stalled_conditions_Part_1_Assessment_of_num
+   - 标题: The near-wake development of a wind turbine operating in stalled conditions - Part 1: Assessment of numerical models
+   - 作者: Pascal Weihing, Marion Cormier, Thorsten Lutz et al.
+   - 年份: 2024
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 失速工况下风力机近尾流湍流结构的精细化演化
+        该论文通过高分辨率尺度解析模拟，首次系统性地揭示了风力机叶片在深度失速工况下，其近尾流区域（约0.5倍弦长至2倍弦长范围内）湍流结构的精细化生成、发展和演化过程。传统研究多关注远尾流或设计工况，而本文...
+   - 新方法（前2个）:
+     1. 基于多保真度CFD模型的失速近尾流系统评估框架
+        本文提出并实践了一套系统性的方法框架，用于评估不同复杂度和保真度的计算流体力学（CFD）模型在预测风力机失速近尾流方面的能力。该框架的核心思想是“阶梯式验证与交叉对比”。它并非单一的新算法，而是一种方...
+
+
+[65] Paper ID: 2024_Unsteady_CFD_simulation_of_a_rotor_blade_under_various_wind_conditions
+   - 标题: Unsteady CFD simulation of a rotor blade under various wind conditions
+   - 作者: Sa Kasmaiee, Si Kasmaiee, A. Farshad
+   - 年份: 2024
+   - 期刊: Scientific Reports
+   - 评分: 90.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[66] Paper ID: 2024_Wind_turbine_rotors_in_surge_motion_new_insights_into_unsteady_aerodynamics_of_floating_offshore_win
+   - 标题: Wind turbine rotors in surge motion: new insights into unsteady aerodynamics of floating offshore wind turbines (FOWTs) from experiments and simulations
+   - 作者: Christian W. Schulz, Stefan Netzband, Umut ?zinan et al.
+   - 年份: 2024
+   - 期刊: Wind Energy Science
+   - 评分: 90.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮式风机在纵荡运动下非定常气动响应的双峰迟滞特性
+        该论文通过实验和数值模拟，首次系统性地揭示并量化了浮式海上风力发电机（FOWT）在平台周期性纵荡（Surge）运动下，其转子气动性能表现出的复杂双峰迟滞现象。该现象表现为，在平台运动的一个完整周期内，...
+   - 新方法（前2个）:
+     1. 面向浮式风机的工程化修正叶素动量法（BEM）
+        论文提出并验证了一种对经典叶素动量法（BEM）的工程化修正框架，旨在以可接受的计算成本，显著提升BEM对浮式风机纵荡运动诱导的非定常气动力预测精度。该方法的核心理念不是完全抛弃BEM，而是通过引入物理...
+
+
+[67] Paper ID: 2025_Aerodynamic_Design_of_Wind_Turbine_Blades_Using_Multi_Fidelity_Analysis_and_Surrogate_Models_
+   - 标题: Aerodynamic Design of Wind Turbine Blades Using Multi-Fidelity Analysis and Surrogate Models ?
+   - 作者: 
+   - 年份: 2025
+   - 期刊: International Journal of Turbomachinery Propulsion and Power
+   - 评分: 90.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 无全新物理现象的发现
+        通览全文，本文是一篇关于方法论和应用的设计类论文，其核心贡献在于提出并验证一套新的设计优化框架，而非发现或报告了全新的气动物理现象（如新的流动分离模式、失速机理、涡系结构等）。论文的重点在于如何利用计...
+   - 新方法（前2个）:
+     1. 面向浮式海上风电叶片设计的智能多保真度代理模型优化框架
+        本文提出一个模块化的、集成的气动设计优化框架，其核心创新在于为解决浮式海上风电（特别是地中海深水低风速场景）叶片设计难题，而系统性地整合了三个关键技术层：1) **多保真度分析**：将高精度但昂贵的计...
+
+
+[68] Paper ID: 2025_Analysis_of_flutter_characteristics_of_ultra_large_horizontal_axis_wind_turbine_blades_at_low_rotor
+   - 标题: Analysis of flutter characteristics of ultra-large horizontal axis wind turbine blades at low rotor speed
+   - 作者: Lu Ma, Ming Qin, Xianfeng Zhang et al.
+   - 年份: 2025
+   - 期刊: Frontiers in Energy Research
+   - 评分: 90.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 低转速下大型风力机叶片的多自由度耦合颤振
+        该论文揭示了一种在大型风力机（以IEA 15 MW为研究对象）低转速运行工况下出现的新型气动弹性不稳定现象。具体表现为，在风速较高但转子转速仅为额定转速73%的工况下，叶片会发生挥舞-摆振-扭转三个自...
+   - 新方法（前2个）:
+     1. 基于非定常BEMT与几何精确梁理论耦合的风力机气动弹性分析框架
+        本文构建并应用了一个用于分析大型风力机非线性气动弹性特性的高保真耦合数值仿真框架。该框架的核心是将**非定常叶素动量理论（Unsteady BEMT）** 与**几何精确梁理论（Geometrical...
+
+
+[69] Paper ID: 2026_An_Experimental_Study_of_Surface_Icing_Characteristics_on_Offshore_Wind_Turbine_Blades_Effects_of_Sa
+   - 标题: An Experimental Study of Surface Icing Characteristics on Offshore Wind Turbine Blades: Effects of Salinity and Liquid Water Content
+   - 作者: Qinghui Wang, Yuxiao Dong, Jincheng Li et al.
+   - 年份: 2026
+   - 期刊: Coatings
+   - 评分: 90.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 盐度与液态水含量（LWC）对结冰的协同抑制效应
+        该研究通过系统的风洞实验，首次在海上风力机翼型（S809）结冰研究中，定量揭示了盐度与液态水含量（LWC）之间存在的非线性协同作用。传统认知中，盐度（通过降低冰点）和LWC（通过提供更多过冷水滴）通常...
+   - 新方法（前2个）:
+     1. 基于盐度与LWC双变量控制的系统性海上结冰风洞实验方法
+        本文提出并实施了一套针对海上风力机叶片结冰研究的、高度可控的风洞实验方法。其核心创新在于将“盐度”作为一个独立且精确可控的关键变量，与传统的液态水含量（LWC）变量进行正交实验设计，系统研究两者单独及...
+
+
+[70] Paper ID: 2026_Detection_of_Wind_Turbine_Blade_Erosion_and_Power_Loss_Analysis_Using_the_Pressure_Coefficient_and_M
+   - 标题: Detection of Wind Turbine Blade Erosion and Power Loss Analysis Using the Pressure Coefficient and Machine Learning
+   - 作者: Javier Carmona, Marco Arjona, Josué Enríquez Zárate et al.
+   - 年份: 2026
+   - 期刊: Journal of Failure Analysis and Prevention
+   - 评分: 90.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[71] Paper ID: 2026_Effect_of_Windblown_Sand_Particles_on_Aerodynamic_Efficiency_of_Wind_Turbines_in_Desert_Environments
+   - 标题: Effect of Windblown Sand Particles on Aerodynamic Efficiency of Wind Turbines in Desert Environments: A 3D Eulerian-Lagrangian Approach
+   - 作者: A. Bouhelal, M. N. Hamlaoui, A. Smaili et al.
+   - 年份: 2026
+   - 期刊: Journal of Applied Fluid Mechanics
+   - 评分: 90.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 沙粒浓度与粒径对风力机气动效率的耦合非线性影响
+        该研究通过三维欧拉-拉格朗日方法，首次系统揭示了在沙漠风沙环境中，沙粒粒径与浓度对水平轴风力机气动效率的耦合非线性影响机制。研究发现，气动效率的下降并非与沙粒浓度或粒径呈简单的线性关系，而是存在显著的...
+   - 新方法（前2个）:
+     1. 面向沙漠风沙环境的三维欧拉-拉格朗日高保真气动分析框架
+        本研究构建并应用了一个专门用于分析沙粒对风力机气动性能影响的高保真度三维计算框架。该方法的核心是采用欧拉-拉格朗日方法对气固两相流进行建模：连续流体相（空气）通过求解RANS方程（结合湍流模型）进行欧...
+
+
+[72] Paper ID: 2021_Active_flutter_control_of_the_wind_turbines_using_double_pitched_blades
+   - 标题: Active flutter control of the wind turbines using double-pitched blades
+   - 作者: Bei Chen, Xugang Hua, Zili Zhang et al.
+   - 年份: 2021
+   - 期刊: Renewable Energy
+   - 评分: 88.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 小型水平轴风力机在低风速下的经典颤振现象
+        该论文指出，经典颤振这一灾难性的气动弹性失稳现象，并非如传统认知仅发生在大型、高速运行的风力机上。一个关键的新现象是，早在1986年，在中国内蒙古牧民使用的额定功率仅为50W、转子直径仅1.65米的小...
+   - 新方法（前2个）:
+     1. 基于双独立变桨（Double-Pitched Blade）的主动振动控制策略
+        论文的核心创新方法是一种针对水平轴风力机叶片经典颤振的主动振动控制策略。该方法的核心思想是通过对单个叶片实施独立的、主动控制的变桨动作，实时产生额外的气动力矩来抵消或干扰导致颤振的不稳定气动阻尼。与传...
+
+
+[73] Paper ID: 2021_An_object_oriented_method_for_fully_coupled_analysis_of_floating_offshore_wind_turbines_through_mapp
+   - 标题: An object-oriented method for fully coupled analysis of floating offshore wind turbines through mapping of aerodynamic coefficients
+   - 作者: Omar El Beshbichi, Yihan Xing, Muk Chen Ong
+   - 年份: 2021
+   - 期刊: Marine Structures
+   - 评分: 88.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[74] Paper ID: 2021_Dynamic_stall_of_the_wind_turbine_airfoil_and_blade_undergoing_pitch_oscillations_A_comparative_stud
+   - 标题: Dynamic stall of the wind turbine airfoil and blade undergoing pitch oscillations: A comparative study
+   - 作者: Chengyong Zhu, Yingning Qiu, Tongguang Wang
+   - 年份: 2021
+   - 期刊: Energy
+   - 评分: 88.90
+   - 创新点统计: 现象 2, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 旋转增强对三维旋转叶片动态失速特性的双重影响
+        本论文系统性地识别并量化了旋转增强（Rotational Augmentation）效应对三维旋转风力机叶片动态失速行为的双重影响。这一现象的核心在于，由于叶片旋转引入的离心力和科里奥利力，从根本上改...
+     2. 旋转增强诱导的负气动俯仰阻尼及对扭转稳定性的影响
+        论文揭示了一个被长期忽视的、由旋转增强效应衍生出的潜在风险：在三维旋转叶片的内段区域，动态失速过程可能产生负的气动俯仰阻尼（Negative Aerodynamic Pitch Damping）。这意...
+   - 新方法（前2个）:
+     1. 基于系统性比较与参数化研究的3D动态失速机理剖析方法
+        本论文并未提出全新的计算流体力学（CFD）算法或工程模型，而是在研究方法论上做出了重要创新。其核心方法是：构建一个从“2D翼型”到“3D非旋转叶片”再到“3D旋转叶片”的、控制变量清晰的系统性对比研究...
+
+
+[75] Paper ID: 2021_Effect_of_blade_pitch_control_on_dynamic_characteristics_of_a_floating_offshore_wind_turbine_under_p
+   - 标题: Effect of blade pitch control on dynamic characteristics of a floating offshore wind turbine under platform pitching motion
+   - 作者: Zhanwei Li, Binrong Wen, Xingjian Dong et al.
+   - 年份: 2021
+   - 期刊: Ocean Engineering
+   - 评分: 88.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[76] Paper ID: 2021_Improvement_of_wind_turbine_aerodynamic_performance_by_vanquishing_stall_with_active_multi_air_jet_b
+   - 标题: Improvement of wind turbine aerodynamic performance by vanquishing stall with active multi air jet blowing
+   - 作者: Morteza Mohammadi, Mohammad Javad Maghrebi
+   - 年份: 2021
+   - 期刊: Energy
+   - 评分: 88.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[77] Paper ID: 2021_Machine_learning_enabled_prediction_of_wind_turbine_energy_yield_losses_due_to_general_blade_leading
+   - 标题: Machine learning-enabled prediction of wind turbine energy yield losses due to general blade leading edge erosion
+   - 作者: Lorenzo Cappugi, Alessio Castorrini, Aldo Bonfiglioli et al.
+   - 年份: 2021
+   - 期刊: Energy Conversion and Management
+   - 评分: 88.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 几何侵蚀主导的功率损失机制
+        该论文通过高保真计算流体动力学（CFD）模拟揭示了一个关键现象：在风力机叶片前缘侵蚀（LEE）过程中，由侵蚀导致的几何形状改变（如凹坑、分层、沟槽）所引起的空气动力损失，显著超过了仅由表面粗糙度增加导...
+   - 新方法（前2个）:
+     1. 基于CFD-ANN-BEM的混合快速预测框架
+        本文提出并验证了一个三层级混合模拟框架，用于快速、准确地预测因前缘侵蚀导致的风力机年发电量损失。该框架的核心创新在于有机融合了三种不同保真度和速度的技术：1) **高保真层**：使用二维和三维RANS...
+
+
+[78] Paper ID: 2021_Nonlinear_effects_and_dynamic_coupling_of_floating_offshore_wind_turbines_using_geometrically_exact
+   - 标题: Nonlinear effects and dynamic coupling of floating offshore wind turbines using geometrically-exact blades and momentum-based methods
+   - 作者: Shanran Tang, Bert Sweetman, Ju Gao
+   - 年份: 2021
+   - 期刊: Ocean Engineering
+   - 评分: 88.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[79] Paper ID: 2021_Numerical_analysis_of_unsteady_aerodynamic_performance_of_floating_offshore_wind_turbine_under_platf
+   - 标题: Numerical analysis of unsteady aerodynamic performance of floating offshore wind turbine under platform surge and pitch motions
+   - 作者: Ziwen Chen, Xiaodong Wang, Yize Guo et al.
+   - 年份: 2021
+   - 期刊: Renewable Energy
+   - 评分: 88.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 平台复合运动（纵荡-纵摇）对浮式风机气动性能的非线性耦合效应
+        论文深入研究了浮式海上风机（FOWT）在平台单自由度（纵荡或纵摇）及复合运动（纵荡-纵摇）下的非定常气动特性。研究发现，平台运动不仅引起叶片入流角、相对风速的周期性变化，更重要的是，纵荡与纵摇运动之间...
+   - 新方法（前2个）:
+     1. 基于动态网格与滑移网格耦合技术的FOWT全耦合非定常CFD模拟方法
+        本文提出并应用了一套针对浮式风机气动分析的高保真数值模拟方法。该方法的核心是耦合了动态网格（Dynamic Mesh）与滑移网格（Sliding Mesh）技术，以精确模拟平台大范围刚体运动与风机转子...
+
+
+[80] Paper ID: 2021_Numerical_study_on_the_aerodynamics_of_an_experimental_wind_turbine_Influence_of_nacelle_and_tower_o
+   - 标题: Numerical study on the aerodynamics of an experimental wind turbine: Influence of nacelle and tower on the blades and near-wake
+   - 作者: P. García Regodeseves, C. Santolaria Morros
+   - 年份: 2021
+   - 期刊: Energy Conversion and Management
+   - 评分: 88.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[81] Paper ID: 2021_Wind_turbine_unsteady_aerodynamics_and_performance_by_a_free_wake_panel_method
+   - 标题: Wind turbine unsteady aerodynamics and performance by a free-wake panel method
+   - 作者: Luca Greco, Claudio Testa
+   - 年份: 2021
+   - 期刊: Renewable Energy
+   - 评分: 88.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于边界元法的自由尾迹面板方法在风能气动中的高精度预测现象
+        该论文揭示了一个在风能气动领域被长期忽视的现象：基于边界元法（BEM）的自由尾迹面板方法，在无严重流动分离的条件下，能够以远低于计算流体力学（CFD）的计算成本，对水平轴风力机的非定常气动载荷和尾迹场...
+   - 新方法（前2个）:
+     1. 应用于水平轴风力机的非定常三维自由尾迹面板方法（FUNAERO）
+        论文提出并应用了一种名为FUNAERO的非定常三维自由尾迹面板方法，专门用于水平轴风力机的气动性能分析。该方法的核心思想是将势流理论中的边界元法（面板法）与自由尾迹模型相结合。具体而言：1）将每个风力...
+
+
+[82] Paper ID: 2022_A_review_Approaches_for_aerodynamic_performance_improvement_of_lift_type_vertical_axis_wind_turbine
+   - 标题: A review: Approaches for aerodynamic performance improvement of lift-type vertical axis wind turbine
+   - 作者: Zhenzhou Zhao, Dingding Wang, Tongguang Wang et al.
+   - 年份: 2022
+   - 期刊: Sustainable Energy Technologies and Assessments
+   - 评分: 88.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 垂直轴风力机动态失速与涡流相互作用的增强效应
+        该综述论文系统性地揭示并整合了在提升型垂直轴风力机（VAWT）运行中，由几何参数优化、流动控制及叶片形状修改所诱发的一系列复杂且相互关联的新气动现象。其中，一个核心新现象是动态失速与叶片尾迹涡流之间非...
+   - 新方法（前2个）:
+     1. 基于多目标协同优化的VAWT气动性能系统提升框架
+        本文虽为综述，但其核心贡献在于提出并实践了一种系统性的分析框架，用于评估和整合VAWT气动性能提升的多种途径。这不是一个具体的算法，而是一种方法论层面的创新。该方法将提升途径归纳为六个相互关联的维度：...
+
+
+[83] Paper ID: 2023_Active_control_of_the_edgewise_vibrations_in_wind_turbine_blade_by_optimization_of_the_number_and_lo
+   - 标题: Active control of the edgewise vibrations in wind turbine blade by optimization of the number and locations of the intermediate actuators
+   - 作者: Baher Pishbahar, Hamed Moradi
+   - 年份: 2023
+   - 期刊: International Journal of Dynamics and Control
+   - 评分: 87.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[84] Paper ID: 2023_Aerodynamic_Noise_Reduction_Based_on_Bionic_Blades_with_Non_Smooth_Leading_Edges_and_Curved_Serrated
+   - 标题: Aerodynamic Noise Reduction Based on Bionic Blades with Non-Smooth Leading Edges and Curved Serrated Trailing Edges
+   - 作者: W. Feng, K. Chen, H. Gui et al.
+   - 年份: 2023
+   - 期刊: Journal of Applied Fluid Mechanics
+   - 评分: 87.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 组合仿生结构在三维旋转叶片上诱导的协同降噪流场现象
+        本研究发现，将猫头鹰翅膀的非光滑正弦前缘与羽毛的曲线锯齿尾缘同时应用于三维旋转风力机叶片的外段（70%-100%展长），会产生一种协同流场调控现象，有效抑制中高频气动噪声。该现象的物理机制是分步、协同...
+   - 新方法（前2个）:
+     1. 面向三维旋转叶片的耦合仿生结构参数化设计与性能评估数值工作流
+        本文提出了一套完整的、针对三维旋转风力机叶片气动噪声优化的方法流程。该方法的核心创新在于将生物原型特征（猫头鹰前缘、羽毛锯齿）进行定量参数化提取，并基于声源定位结果，智能地将其耦合应用于三维旋转叶片的...
+
+
+[85] Paper ID: 2023_Airfoil_Shape_Optimization_of_a_Horizontal_Axis_Wind_Turbine_Blade_using_a_Discrete_Adjoint_Solver
+   - 标题: Airfoil Shape Optimization of a Horizontal Axis Wind Turbine Blade using a Discrete Adjoint Solver
+   - 作者: A. Boudis, D. Hamane, O. Guerri et al.
+   - 年份: 2023
+   - 期刊: Journal of Applied Fluid Mechanics
+   - 评分: 87.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 雷诺数依赖的翼型几何-性能协同演化规律
+        该研究在优化S809翼型的过程中，发现当设定相同的设计攻角（6.1°）但采用不同的来流雷诺数（Re = 3e5, 4.8e5, 1e6）作为优化条件时，得到的最终优化翼型（Opt A, B, C）在几...
+   - 新方法（前2个）:
+     1. 基于商用软件Fluent离散伴随求解器的水平轴风力机翼型单点气动优化框架
+        该方法构建了一个完整的、基于ANSYS Fluent商业CFD平台及其内置离散伴随求解器的翼型自动化化工作流程。核心思想是：以最大化特定攻角和雷诺数下的翼型升阻比（CL/CD）为设计目标，将定义翼型轮...
+
+
+[86] Paper ID: 2023_Numerical_Investigations_on_the_Fluid_Behavior_in_the_Near_Wake_of_an_Experimental_Wind_Turbine_Mode
+   - 标题: Numerical Investigations on the Fluid Behavior in the Near Wake of an Experimental Wind Turbine Model in the Presence of the Nacelle
+   - 作者: A. Bouhelal, A. Smaili, O. Guerri et al.
+   - 年份: 2023
+   - 期刊: Journal of Applied Fluid Mechanics
+   - 评分: 87.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 机舱诱导的叶片流动分离增强效应
+        论文通过CFD模拟发现，在包含机舱的完整风轮几何模型中，机舱的存在会显著增强叶片吸力面尾缘附近的流动分离。这一现象在高速来流条件下尤为明显。具体表现为：机舱产生的阻塞效应改变了转子盘面前方的来流分布，...
+   - 新方法（前2个）:
+     1. 基于完整几何与转捩湍流模型的近尾流高精度RANS评估框架
+        本文提出并实践了一套针对水平轴风力机近尾流分析的系统性CFD方法框架。其核心是采用包含详细叶片、轮毂和机舱的完整几何模型，运用多参考系（MRF）方法处理旋转域，并关键性地采用了k-kl-ω转捩湍流模型...
+
+
+[87] Paper ID: 2024_Aerodynamic_shape_optimization_of_wind_turbine_rotor_blades_using_the_continuous_adjoint_method
+   - 标题: Aerodynamic shape optimization of wind turbine rotor blades using the continuous adjoint method
+   - 作者: M. Erfan Farhikhteh, E. M. Papoutsis-Kiachagias, K. C. Giannakoglou
+   - 年份: 2024
+   - 期刊: Optimization and Engineering
+   - 评分: 87.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[88] Paper ID: 2024_An_Engineering_Approach_to_Improve_Performance_Predictions_for_Wind_Turbine_Applications_Comparison
+   - 标题: An Engineering Approach to Improve Performance Predictions for Wind Turbine Applications: Comparison with Full Navier-Stokes Model and Experimental Measurements
+   - 作者: M. N. Hamlaoui, A. Bouhelal, A. Smaili et al.
+   - 年份: 2024
+   - 期刊: Journal of Applied Fluid Mechanics
+   - 评分: 87.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于三维升力系数演化的失速延迟现象及其径向递减规律
+        该论文通过深入分析转子叶片上三维升力系数的演化过程，揭示了一种与经典二维翼型理论显著不同的失速延迟现象。在旋转的HAWT叶片上，特别是在靠近叶根的区域，由于强烈的三维旋转效应（如离心力和科里奥利力），...
+   - 新方法（前2个）:
+     1. 融合失速延迟修正的增强型作动盘方法（ADM）
+        本文提出了一种创新的工程建模方法，核心是在传统的作动盘方法（ADM）框架内，集成一个基于物理的失速延迟修正模型。传统ADM将转子简化为一个施加动量汇的盘，无法解析叶片尺度的三维旋转效应。新方法通过深入...
+
+
+[89] Paper ID: 2024_An_Experimental_Study_of_Surface_Icing_Characteristics_on_Blade_Airfoil_for_Offshore_Wind_Turbines_E
+   - 标题: An Experimental Study of Surface Icing Characteristics on Blade Airfoil for Offshore Wind Turbines: Effects of Chord Length and Angle of Attack
+   - 作者: Dong Liang, Pengyu Zhao, He Shen et al.
+   - 年份: 2024
+   - 期刊: Coatings
+   - 评分: 87.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[90] Paper ID: 2024_Numerical_Analysis_of_Leading_Edge_Roughness_Effects_on_the_Aerodynamic_Performance_of_a_Thick_Wind
+   - 标题: Numerical Analysis of Leading-Edge Roughness Effects on the Aerodynamic Performance of a Thick Wind Turbine Airfoil
+   - 作者: Wei Zhang, Kuichao Ma, Chang Cai et al.
+   - 年份: 2024
+   - 期刊: Journal of Marine Science and Engineering
+   - 评分: 87.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[91] Paper ID: 2024_Numerical_investigation_of_the_effect_of_winglet_configurations_with_multiple_cant_angles_on_the_aer
+   - 标题: Numerical investigation of the effect of winglet configurations with multiple cant angles on the aerodynamic performance of wind turbine blade
+   - 作者: Bayu K. Wardhana, Byeongrog Shin
+   - 年份: 2024
+   - 期刊: International Journal of Sustainable Energy
+   - 评分: 87.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 多段折角翼梢小翼对叶尖涡的协同抑制效应
+        本文研究发现，在水平轴风力机叶片末端采用具有多个折角（cant angles）的翼梢小翼配置时，会产生一种新的气动现象：多段折角结构能够对叶尖涡产生协同抑制效应。具体表现为，当翼梢小翼由多个不同折角的...
+   - 新方法（前2个）:
+     1. 基于等展长/等高约束的多折角翼梢小翼性能对比评估方法
+        本文提出并应用了一套系统性的数值研究方法，用于在公平比较的前提下，评估多折角翼梢小翼的气动性能。该方法的核心在于：在设计和评估多种翼梢小翼构型（包括单折角和本文重点研究的多折角构型）时，严格保持所有构...
+
+
+[92] Paper ID: 2021_Aerodynamic_shape_optimization_of_wind_turbine_blades_for_minimizing_power_production_losses_due_to
+   - 标题: Aerodynamic shape optimization of wind turbine blades for minimizing power production losses due to icing
+   - 作者: Ozcan Yirtici, Ismail H. Tuncer
+   - 年份: 2021
+   - 期刊: Cold Regions Science and Technology
+   - 评分: 86.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 特定结冰条件下翼型气动性能退化的量化关联与优化潜力
+        该研究并非发现一个全新的物理现象，而是首次系统性地揭示并量化了在特定结冰条件下（如1小时暴露时间），通过主动优化原始翼型几何形状，可以显著抵消因结冰导致的气动性能退化。传统研究将结冰视为纯粹的负面外部...
+   - 新方法（前2个）:
+     1. 基于梯度的、耦合结冰预测与BEM的气动外形优化框架
+        本文开发了一套完整的、针对结冰工况的风力机叶片气动外形优化方法。该方法的核心是将三个独立模块进行序列耦合：1) 参数化翼型几何；2) 基于预设气象条件的冰 accretion 预测工具；3) 基于叶片...
+
+
+[93] Paper ID: 2021_An_improved_theory_in_the_determination_of_aerodynamic_damping_for_a_horizontal_axis_wind_turbine_HA
+   - 标题: An improved theory in the determination of aerodynamic damping for a horizontal axis wind turbine (HAWT)
+   - 作者: Yisu Chen, Di Wu, Yuguo Yu et al.
+   - 年份: 2021
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 86.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 多因素耦合下的气动阻尼非线性衰减现象
+        该论文揭示了一个在更接近真实工况的风力机中观察到的关键现象：当同时考虑叶片柔性、主轴倾斜角和偏航角等实际因素时，风力机（特别是塔架）的气动阻尼水平会呈现显著的非线性衰减，而非传统理论预测的恒定或简单线...
+   - 新方法（前2个）:
+     1. 基于多因素修正因子的气动阻尼解析理论改进方法
+        本文提出了一种改进的气动阻尼解析理论方法，其核心不是从头构建一个全新理论，而是对现有经典理论（基于叶素动量理论的线性化方法）进行系统性修正。该方法通过引入一系列物理意义明确的修正因子，将叶片柔性、主轴...
+
+
+[94] Paper ID: 2021_Design_and_aerodynamic_performance_analysis_of_a_finite_span_double_split_S809_configuration_for_pas
+   - 标题: Design and aerodynamic performance analysis of a finite span double-split S809 configuration for passive flow control in wind turbines and comparison with single-split geometries
+   - 作者: Mohammad Moshfeghi, Morteza Ramezani, Nahmkeon Hur
+   - 年份: 2021
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 86.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 双分裂翼型的中等攻角性能反转现象
+        该研究发现，与单分裂翼型相比，双分裂翼型的气动性能在0°至25°的攻角范围内呈现出高度非线性和分段的特性，而非单调变化。具体表现为：在低攻角范围（0° < AOA < 17°），双分裂构型的气动性能最...
+   - 新方法（前2个）:
+     1. 基于瞬态高精度模拟的被动控制设计方法学
+        本文提出并实践了一套从单分裂构型性能评估到双分裂构型设计的系统方法学。其核心流程是：首先，对两个系列（S809-3090-x和S809-4090-x）的单分裂三维有限翼展模型进行详细的非定常DES模拟...
+
+
+[95] Paper ID: 2021_Implementation_and_validation_of_an_advanced_wind_energy_controller_in_aero_servo_elastic_simulation
+   - 标题: Implementation and validation of an advanced wind energy controller in aero-servo-elastic simulations using the lifting line free vortex wake model
+   - 作者: Sebastian Perez-Becker, David Marten, Christian Navid Nayeri et al.
+   - 年份: 2021
+   - 期刊: Energies
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[96] Paper ID: 2021_Individual_Blade_Pitch_Control_of_Floating_Offshore_Wind_Turbines_for_Load_Mitigation_and_Power_Regu
+   - 标题: Individual Blade Pitch Control of Floating Offshore Wind Turbines for Load Mitigation and Power Regulation
+   - 作者: Saptarshi Sarkar, Breiffni Fitzgerald, Biswajit Basu
+   - 年份: 2021
+   - 期刊: IEEE Transactions on Control Systems Technology
+   - 评分: 86.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 漂浮式风机平台-叶片-塔筒耦合气动弹性失稳现象
+        该论文深入揭示了一种在漂浮式海上风力发电机（FOWT）运行中特有的、由平台六自由度运动与叶片气动载荷、塔筒结构动力学强耦合引发的复杂失稳现象。这种现象并非传统固定式风机或仅考虑单一自由度运动的简化模型...
+   - 新方法（前2个）:
+     1. 基于多变量频域分析与平台运动前馈补偿的鲁棒独立变桨控制综合设计方法
+        论文提出了一套针对FOWT的IBPC系统化设计方法。该方法的核心创新在于将控制器设计过程明确分为两个层级：第一层是**多变量频域分析与综合**，第二层是**平台运动干扰前馈补偿**。在第一层，作者不再...
+
+
+[97] Paper ID: 2021_Investigating_the_aeroelasticity_effects_on_aeroacoustics_and_aerodynamics_of_a_MW_class_HAWT
+   - 标题: Investigating the aeroelasticity effects on aeroacoustics and aerodynamics of a MW-class HAWT
+   - 作者: Hamid R. Kaviani, Amir Nejat
+   - 年份: 2021
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 86.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 气动弹性变形对气动声学的耦合衰减效应
+        该论文揭示了一个在兆瓦级水平轴风力机（HAWT）中观察到的关键新现象：叶片的气动弹性变形（Aeroelastic Deformation）不仅影响气动性能，还会显著改变其气动声学（Aeroacoust...
+   - 新方法（前2个）:
+     1. 基于瞬态双向分区FSI与IDDES的高保真气动-声学全耦合分析框架
+        本文提出并实施了一套用于兆瓦级HAWT气动弹性与气动声学耦合分析的高保真数值模拟框架。该框架的核心是集成三个关键模块：1）使用改进的延迟分离涡模拟（IDDES）方法进行高分辨率瞬态CFD计算，精确捕捉...
+
+
+[98] Paper ID: 2021_UNAFLOW_A_holistic_wind_tunnel_experiment_about_the_aerodynamic_response_of_floating_wind_turbines_u_1
+   - 标题: UNAFLOW: A holistic wind tunnel experiment about the aerodynamic response of floating wind turbines under imposed surge motion
+   - 作者: Alessandro Fontanella, Ilmas Bayati, Robert Mikkelsen et al.
+   - 年份: 2021
+   - 期刊: Wind Energy Science
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[99] Paper ID: 2021_Wind_tunnel_testing_of_a_swept_tip_shape_and_comparison_with_multi_fidelity_aerodynamic_simulations
+   - 标题: Wind tunnel testing of a swept tip shape and comparison with multi-fidelity aerodynamic simulations
+   - 作者: Thanasis Barlas, Georg Raimund Pirrung, Néstor Ramos-García et al.
+   - 年份: 2021
+   - 期刊: Wind Energy Science
+   - 评分: 86.10
+   - 创新点统计: 现象 2, 方法 2, 对象 1
+   - 新现象（前2个）:
+     1. 扫掠叶尖（Swept Tip）在静态三维流动中表现出的显著气动耦合与非线性载荷分布
+        该论文通过风洞实验揭示并验证了在静态（非旋转）条件下，具有高度扫掠中心线和负扭角分布的优化叶尖所表现出的复杂三维流动现象。与传统直叶尖或小翼不同，该扫掠叶尖的几何形状（高后掠角、细长弦长分布、向叶尖方...
+     2. 扫掠叶尖几何诱导的失速延迟现象（Stall Delay）
+        实验和CFD（EllipSys3D）结果均表明，在扫掠叶尖的外侧截面（如S3， S4），其最大法向力系数（Cn,max）对应的攻角点相比输入的二维翼型数据有所延迟，且Cn,max值可能高于二维数据。这...
+   - 新方法（前2个）:
+     1. 针对复杂叶尖几何的多保真度模拟系统性验证框架
+        本文核心方法创新在于构建并实施了一个系统的、阶梯式的多保真度模拟验证框架，用于评估和比较不同复杂度的气动模型在预测先进扫掠叶尖性能时的能力与局限。该框架以高精度的风洞实验数据为基准，自上而下地集成了从...
+     2. 用于定量评估风洞壁面干扰的升力线镜像涡方法（LLTunnel）
+        LLTunnel是一个专门的升力线求解器，其核心创新功能是能够精确模拟风洞试验段所有四个壁面对模型气动力的干扰效应。与常规仅模拟对称壁面（即模型安装壁）的方法不同，LLTunnel通过“镜像涡方法”在...
+
+
+[100] Paper ID: 2022_Assessment_of_an_actuator_disk_based_approach_for_the_prediction_of_fatigue_loads_in_a_perspective_o
+   - 标题: Assessment of an actuator disk-based approach for the prediction of fatigue loads in a perspective of wind farm-scale application
+   - 作者: Maud Moens, Matthieu Duponcheel, Philippe Chatelain
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[101] Paper ID: 2022_Atmospheric_rotating_rig_testing_of_a_swept_blade_tip_and_comparison_with_multi_fidelity_aeroelastic
+   - 标题: Atmospheric rotating rig testing of a swept blade tip and comparison with multi-fidelity aeroelastic simulations
+   - 作者: Thanasis Barlas, Georg Raimund Pirrung, Néstor Ramos-García et al.
+   - 年份: 2022
+   - 期刊: Wind Energy Science
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[102] Paper ID: 2022_Challenges_opportunities_and_a_research_roadmap_for_downwind_wind_turbines
+   - 标题: Challenges, opportunities, and a research roadmap for downwind wind turbines
+   - 作者: Pietro Bortolotti, Hristo Ivanov, Nick Johnson et al.
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 下风式风轮在载荷下的扫掠面积缩减现象
+        该论文通过多学科设计、分析与优化（MDAO）研究，系统性地揭示了一个关键现象：与上风式配置相比，下风式风轮在承受气动载荷和重力载荷时，其有效扫掠面积会显著减小。这一现象并非简单的几何投影变化，而是由叶...
+   - 新方法（前2个）:
+     1. 面向下风式风机的多学科设计分析与优化（MDAO）对比研究框架
+        本文提出并应用了一套系统性的MDAO框架，专门用于在公平、一致的基础上，对上风式和下风式风机配置进行全系统级的对比。该框架的核心思想是将气动、结构、控制和成本模型紧密集成，在一个统一的优化循环中，同时...
+
+
+[103] Paper ID: 2022_Development_of_a_passive_adaptive_slat_for_a_wind_turbine_airfoil
+   - 标题: Development of a passive-adaptive slat for a wind turbine airfoil
+   - 作者: Florian N. Schmidt, Jochen Wild
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[104] Paper ID: 2022_Experimental_and_numerical_investigation_of_the_yaw_moment_of_a_downwind_coned_wind_turbine_rotor
+   - 标题: Experimental and numerical investigation of the yaw moment of a downwind coned wind turbine rotor
+   - 作者: Christian W. Schulz, Keqi Wang, Klaus Wieczorek et al.
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[105] Paper ID: 2022_Experimental_investigation_of_mini_Gurney_flaps_in_combination_with_vortex_generators_for_improved_w
+   - 标题: Experimental investigation of mini Gurney flaps in combination with vortex generators for improved wind turbine blade performance
+   - 作者: J?rg Alber, Marinos Manolesos, Guido Weinzierl-Dlugosch et al.
+   - 年份: 2022
+   - 期刊: Wind Energy Science
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[106] Paper ID: 2022_Impact_of_blade_structural_and_aerodynamic_uncertainties_on_wind_turbine_loads
+   - 标题: Impact of blade structural and aerodynamic uncertainties on wind turbine loads
+   - 作者: Paulo Gonzaga, Henrik Toft, Keith Worden et al.
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 气动粗糙度沿叶片展向的随机空间演化现象
+        该论文揭示了一个关键现象：风力机叶片表面的气动粗糙度（如由前缘侵蚀、污染或结冰引起）并非均匀分布，其退化程度沿叶片展向呈现一种随机、非线性的空间演化模式。传统模型通常假设粗糙度在叶片上是均匀的或遵循简...
+   - 新方法（前2个）:
+     1. 基于蒙特卡洛与拉丁超立方采样的结构-气动耦合不确定性传播综合框架
+        本文提出了一种系统性的、分两步走的不确定性量化与传播框架，用于评估结构（复合材料层压板性能）和气动（翼型系数及表面粗糙度）不确定性对整机载荷的综合影响。方法的核心是采用蒙特卡洛模拟（MCS）与拉丁超立...
+
+
+[107] Paper ID: 2022_Investigation_of_the_floating_IEA_Wind_15_MW_RWT_using_vortex_methods_Part_I_Flow_regimes_and_wake_r
+   - 标题: Investigation of the floating IEA Wind 15 MW RWT using vortex methods Part I: Flow regimes and wake recovery
+   - 作者: Néstor Ramos-García, Stavros Kontos, Antonio Pegalajar-Jurado et al.
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[108] Paper ID: 2022_The_significance_of_bypass_transition_on_the_annual_energy_production_of_an_offshore_wind_turbine
+   - 标题: The significance of bypass transition on the annual energy production of an offshore wind turbine
+   - 作者: Aidan Duffy, Grant Ingram, Simon Hogg
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[109] Paper ID: 2022_Wind_tunnel_study_on_natural_instability_of_the_normal_force_on_a_full_scale_wind_turbine_blade_sect
+   - 标题: Wind tunnel study on natural instability of the normal force on a full-scale wind turbine blade section at Reynolds number 4.7?·?106
+   - 作者: Ingrid Neunaber, Frédéric Danbon, Antoine Soulier et al.
+   - 年份: 2022
+   - 期刊: Wind Energy
+   - 评分: 86.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[110] Paper ID: 2021_A_Review_on_Modeling_of_Bionic_Flow_Control_Methods_for_Large_Scale_Wind_Turbine_Blades
+   - 标题: A Review on Modeling of Bionic Flow Control Methods for Large-Scale Wind Turbine Blades
+   - 作者: Mingming Zhang, Yi’nan Zhang, Chang Cai et al.
+   - 年份: 2021
+   - 期刊: Journal of Thermal Science
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[111] Paper ID: 2021_A_numerical_investigation_of_the_effects_of_ice_accretion_on_the_aerodynamic_and_structural_behavior
+   - 标题: A numerical investigation of the effects of ice accretion on the aerodynamic and structural behavior of offshore wind turbine blade
+   - 作者: Oumnia Lagdani, Mostapha Tarfaoui, Mourad Nachtane et al.
+   - 年份: 2021
+   - 期刊: Wind Engineering
+   - 评分: 82.60
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 冰层厚度对叶片结构失效模式的非线性影响
+        论文通过有限元分析，系统揭示了在特定冰层厚度（100mm）下，风力机叶片结构失效模式发生的非线性转变。研究发现，冰层积聚不仅增加了叶片表面的静载荷，更重要的是改变了叶片截面的气动外形和刚度分布，从而引...
+   - 新方法（前2个）:
+     1. 基于QBlade与ABAQUS的序列化气动-结构耦合分析框架
+        本文提出并实施了一种针对覆冰叶片性能评估的两阶段序列化耦合分析框架。第一阶段，使用基于叶素动量理论（BEM）和XFOIL内核的QBlade软件，计算清洁和覆冰翼型（NACA 4412）的二维气动系数（...
+
+
+[112] Paper ID: 2021_Effect_of_Growth_in_Turbine_Size_on_Rotor_Aerodynamic_Performance_of_Modern_Commercial_Large_Scale_W
+   - 标题: Effect of Growth in Turbine Size on Rotor Aerodynamic Performance of Modern Commercial Large-Scale Wind Turbines
+   - 作者: Mehmet Bilgili, Sergen Tumse, Mehmet Tontu et al.
+   - 年份: 2021
+   - 期刊: Arabian Journal for Science and Engineering
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[113] Paper ID: 2021_Effect_of_the_coupled_pitchyaw_motion_on_the_unsteady_aerodynamic_performance_and_structural_respons
+   - 标题: Effect of the coupled pitch–yaw motion on the unsteady aerodynamic performance and structural response of a floating offshore wind turbine
+   - 作者: Ziwen Chen, Xiaodong Wang, Shun Kang
+   - 年份: 2021
+   - 期刊: Processes
+   - 评分: 82.60
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 俯仰-偏航耦合运动下气动载荷的非对称性与主导机制分离
+        该论文揭示了一个关于浮动式海上风力发电机（FOWT）在平台复合运动下的关键新现象：功率波动主要受平台俯仰运动主导，而叶片剖面攻角（AOA）的变化对平台偏航运动更为敏感。这一现象表明，FOWT在复杂海洋...
+   - 新方法（前2个）:
+     1. 基于URANS与动态网格的FOWT耦合运动气动-结构响应解耦分析框架
+        该方法并非提出一个全新的CFD算法，而是构建了一个系统性的数值分析框架，用于深入剖析FOWT在复杂平台运动下的气动机理。其核心在于采用高保真的非定常雷诺平均Navier-Stokes（URANS）方程...
+
+
+[114] Paper ID: 2021_Efficient_estimation_of_the_nonlinear_aerodynamic_loads_of_floating_offshore_wind_turbines_under_ran
+   - 标题: Efficient estimation of the nonlinear aerodynamic loads of floating offshore wind turbines under random waves and wind in frequency domain
+   - 作者: Leandro S.P.da Silva, Benjamin S. Cazzolato, Nataliia Y. Sergiienko et al.
+   - 年份: 2021
+   - 期刊: Journal of Ocean Engineering and Marine Energy
+   - 评分: 82.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 风湍流作用于浮式平台引发的低频运动效应
+        该论文揭示并建模了一个在浮式海上风机（FOWT）动力学中常被忽略的关键耦合现象：作用于浮式平台塔筒和机舱的风湍流，能够激发平台在波浪频率之外的显著低频运动。传统分析通常假设风载荷仅作用于旋转的叶片，而...
+   - 新方法（前2个）:
+     1. 基于统计线性化(SL)的频域非线性气动载荷高效估计方法
+        该方法的核心是提出并验证了一套完整的频域求解框架，用于高效估计FOWT在随机风浪下的非线性气动载荷与系统响应。其创新点在于将统计线性化技术系统性地应用于FOWT的耦合动力学问题。具体流程为：首先建立包...
+
+
+[115] Paper ID: 2021_Numerical_investigation_of_active_flow_control_with_co_flowing_jet_in_a_horizontal_axis_wind_turbine
+   - 标题: Numerical investigation of active flow control with co-flowing jet in a horizontal axis wind turbine
+   - 作者: Fangrui Shi, Yingqiao Xu, Xiaojing Sun
+   - 年份: 2021
+   - 期刊: Wind Engineering
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[116] Paper ID: 2021_Study_on_the_aerodynamic_performance_of_floating_offshore_wind_turbine_considering_the_tower_shadow
+   - 标题: Study on the aerodynamic performance of floating offshore wind turbine considering the tower shadow effect
+   - 作者: Danmei Hu, Liwei Deng, Li Zeng
+   - 年份: 2021
+   - 期刊: Processes
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[117] Paper ID: 2022_Design_fabrication_and_testing_of_an_active_camber_rotor_blade_tip
+   - 标题: Design, fabrication, and testing of an active camber rotor blade tip
+   - 作者: Etana Ferede, Farhan Gandhi
+   - 年份: 2022
+   - 期刊: Journal of Intelligent Material Systems and Structures
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[118] Paper ID: 2022_Effect_of_pitching_motion_on_production_in_a_OFWT
+   - 标题: Effect of pitching motion on production in a OFWT
+   - 作者: Lorenzo Cottura, Riccardo Caradonna, Riccardo Novo et al.
+   - 年份: 2022
+   - 期刊: Journal of Ocean Engineering and Marine Energy
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[119] Paper ID: 2022_Improved_Stall_Delay_Model_for_HAWT_Performance_Predictions_using_3D_Navier_Stokes_Solver_and_Actuat
+   - 标题: Improved Stall Delay Model for HAWT Performance Predictions using 3D Navier-Stokes Solver and Actuator Disk Method
+   - 作者: M. N. Hamlaoui, A. Smaili, H. Fellouah
+   - 年份: 2022
+   - 期刊: Journal of Applied Fluid Mechanics
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[120] Paper ID: 2022_Parameter_varying_control_of_wind_turbine_smart_rotor_for_structural_load_mitigation
+   - 标题: Parameter varying control of wind turbine smart rotor for structural load mitigation
+   - 作者: Majid Ebrahimi, Farzad A. Shirazi, Kobra Gharali
+   - 年份: 2022
+   - 期刊: European Journal of Control
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[121] Paper ID: 2022_Prediction_of_Wind_Turbine_Airfoil_Performance_Using_Artificial_Neural_Network_and_CFD_Approaches
+   - 标题: Prediction of Wind Turbine Airfoil Performance Using Artificial Neural Network and CFD Approaches
+   - 作者: Mojtaba Moshtaghzadeh, Mohammad Reza Aligoodarz
+   - 年份: 2022
+   - 期刊: International Journal of Engineering and Technology Innovation
+   - 评分: 82.60
+   - 创新点统计: 现象 0, 方法 1, 对象 0
+   - 新方法（前2个）:
+     1. 基于CFD-ANN混合框架的翼型性能快速预测方法
+        该方法构建了一个结合计算流体动力学（CFD）与人工神经网络（ANN）的混合预测框架，用于快速、准确地预测风力涡轮机翼型的空气动力学性能。其核心流程是：首先，利用基于有限体积法的CFD方法，在包含转捩模...
+
+
+[122] Paper ID: 2022_Research_on_Unsteady_Wake_Characteristics_of_the_NREL_5MW_Wind_Turbine_Under_Yaw_Conditions_Based_on
+   - 标题: Research on Unsteady Wake Characteristics of the NREL 5MW Wind Turbine Under Yaw Conditions Based on a LBM-LES Method
+   - 作者: 
+   - 年份: 2022
+   - 期刊: Frontiers in Energy Research
+   - 评分: 82.60
+   - 创新点统计: 现象 2, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 快速与慢速动态偏航下尾流演化的非对称性差异
+        该论文系统性地揭示并区分了风力机在快速动态偏航（yaw rate = 5°/s）与慢速动态偏航（yaw rate = 0.3°/s）条件下，尾流结构演化呈现出的截然不同的非定常、非对称特性。在快速动态...
+     2. 动态偏航尾流恢复的加速效应与非对称诱导
+        论文发现，在动态偏航条件下，风力机的尾流速度亏损恢复速度比无偏航（对风）状态下的尾流恢复更快。这意味着偏航引起的尾流横向膨胀和动量掺混过程更为剧烈。更进一步的发现是，快速动态偏航产生的尾流具有显著的非...
+   - 新方法（前2个）:
+     1. 基于LBM-LES方法的大型风力机动态偏航高保真数值模拟框架
+        本论文并非首次提出LBM或LES方法，但其核心创新在于成功构建并验证了一套将格子玻尔兹曼方法（LBM）与大涡模拟（LES）湍流模型相结合，并应用于兆瓦级大型风力机（NREL 5MW）在动态偏航（包含快...
+
+
+[123] Paper ID: 2018_Computational_modelling_of_rectangular_sub_boundary_layer_vortex_generators
+   - 标题: Computational modelling of rectangular sub-boundary layer vortex generators
+   - 作者: Unai Fernandez-Gamiz, I?igo Errasti, Ruben Gutierrez-Amo et al.
+   - 年份: 2018
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[124] Paper ID: 2018_Development_of_a_CFD_based_wind_turbine_rotor_optimization_tool_in_considering_wake_effects
+   - 标题: Development of a CFD-based wind turbine rotor optimization tool in considering wake effects
+   - 作者: Jiufa Cao, Weijun Zhu, Wenzhong Shen et al.
+   - 年份: 2018
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[125] Paper ID: 2018_Optimize_rotating_wind_energy_rotor_blades_using_the_adjoint_approach_1
+   - 标题: Optimize rotating wind energy rotor blades using the adjoint approach
+   - 作者: Lena Vorspel, Bernhard Stoevesandt, Joachim Peinke
+   - 年份: 2018
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[126] Paper ID: 2018_Research_on_Dynamic_Response_Characteristics_of_6MW_Spar_Type_Floating_Offshore_Wind_Turbine
+   - 标题: Research on Dynamic Response Characteristics of 6MW Spar-Type Floating Offshore Wind Turbine
+   - 作者: Long Meng, Yanping He, Tao Zhou et al.
+   - 年份: 2018
+   - 期刊: Journal of Shanghai Jiaotong University Science
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[127] Paper ID: 2018_Simulating_free_surface_FSI_and_fatigue_damage_in_wind_turbine_structural_systems
+   - 标题: Simulating free-surface FSI and fatigue damage in wind-turbine structural systems
+   - 作者: Y. Bazilevs, J. Yan, X. Deng et al.
+   - 年份: 2018
+   - 期刊: Modeling and Simulation in Science Engineering and Technology
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[128] Paper ID: 2018_Theoretical_and_computational_investigations_of_the_optimal_tip_speed_ratio_of_horizontal_axis_wind
+   - 标题: Theoretical and computational investigations of the optimal tip-speed ratio of horizontal-axis wind turbines
+   - 作者: Mehmet Bak?rc?, Sezayi Y?lmaz
+   - 年份: 2018
+   - 期刊: Engineering Science and Technology an International Journal
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[129] Paper ID: 2018_Tuning_turbine_rotor_design_for_very_large_wind_farms_1
+   - 标题: Tuning turbine rotor design for very large wind farms
+   - 作者: Takafumi Nishino, William Hunter
+   - 年份: 2018
+   - 期刊: Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 1, 对象 0
+   - 新方法（前2个）:
+     1. 基于致动盘与叶素动量理论的多尺度风电场气动优化方法
+        该方法的核心思想是将风电场的气动设计问题分解为两个相互关联的尺度：宏观的‘风电场尺度’和微观的‘单机尺度’。在风电场尺度，采用致动盘模型（Actuator Disc Model, ADM）来模拟整个风...
+
+
+[130] Paper ID: 2019_Development_and_validation_of_aerodynamic_measurement_on_a_horizontal_axiswind_turbine_in_the_field
+   - 标题: Development and validation of aerodynamic measurement on a horizontal axiswind turbine in the field
+   - 作者: Guangxing Wu, Lei Zhang, Ke Yang
+   - 年份: 2019
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[131] Paper ID: 2019_Effect_of_yaw_angle_on_the_global_performances_of_Horizontal_Axis_Wind_Turbine_QBlade_simulation
+   - 标题: Effect of yaw angle on the global performances of Horizontal Axis Wind Turbine - QBlade simulation
+   - 作者: D. E. Husaru, P. D. B rsǎnescu, D. Zahariea
+   - 年份: 2019
+   - 期刊: Iop Conference Series Materials Science and Engineering
+   - 评分: 82.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 偏航角影响功率输出的非线性阈值效应
+        论文通过QBlade软件的系统性模拟，揭示了一个关于水平轴风力机（HAWT）在偏航流中性能下降的非线性阈值现象。具体而言，研究观察到，当偏航角从0度开始增加时，风力机的功率输出并非呈简单的线性或均匀的...
+   - 新方法（前2个）:
+     1. 基于开源软件QBlade的、用于快速评估偏航影响的系统化BEM模拟与参数化修正流程
+        本论文提出并实践了一套完整的方法流程，用于高效、系统地评估偏航角对HAWT全局性能的影响。该方法的核心是利用开源软件QBlade，集成Blade Element Momentum (BEM)理论、翼型...
+
+
+[132] Paper ID: 2019_Evaluation_of_tip_loss_corrections_to_ADNS_simulations_of_wind_turbine_aerodynamic_performance
+   - 标题: Evaluation of tip loss corrections to AD/NS simulations of wind turbine aerodynamic performance
+   - 作者: Wei Zhong, Tong Guang Wang, Wei Jun Zhu et al.
+   - 年份: 2019
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 82.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 叶尖损失修正对尾流速度发展的系统性影响
+        本文揭示了一个在叶尖损失修正研究中常被忽视但至关重要的新现象：修正模型不仅显著影响叶片载荷（尤其是叶尖区域）的预测精度，还会对转子下游的整个尾流速度场产生系统性、全局性的影响。传统研究多聚焦于载荷修正...
+   - 新方法（前2个）:
+     1. 针对AD/NS框架的叶尖损失修正系统性评估与移植方法论
+        本文提出了一套系统的、针对Actuator Disc/Navier-Stokes (AD/NS) 方法的叶尖损失修正评估与移植方法论。其核心不是发明一个全新的修正公式，而是解决一个关键的应用科学问题：...
+
+
+[133] Paper ID: 2020_Aerodynamic_Design_of_Megawatt_Wind_Turbine_Blades_with_NPU_WA_Airfoils
+   - 标题: Aerodynamic Design of Megawatt Wind Turbine Blades with NPU-WA Airfoils
+   - 作者: Jianhua Xu, Zhonghua Han, Xiaochao Yan et al.
+   - 年份: 2020
+   - 期刊: Iop Conference Series Earth and Environmental Science
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[134] Paper ID: 2020_Analytical_Assessment_of_the_Effects_of_Blade_Cone_Angle_on_the_Aerodynamic_Performance_of_the_Horiz
+   - 标题: Analytical Assessment of the Effects of Blade Cone Angle on the Aerodynamic Performance of the Horizontal Axis Wind Turbine
+   - 作者: Ghanim M. Hachim, Jaafar A. Mahdi
+   - 年份: 2020
+   - 期刊: Iop Conference Series Materials Science and Engineering
+   - 评分: 82.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 锥角诱导的叶片投影长度与截面几何耦合效应
+        本文深入探究了在水平轴风力机（HAWT）中引入锥角（Cone Angle）后，引发的一系列耦合气动现象。核心现象是：当叶片安装平面（即桨毂平面）不再垂直于主轴，而是形成一个向后的锥角时，这并非一个简单...
+   - 新方法（前2个）:
+     1. 基于投影几何修正的BEM锥角效应分析方法
+        本文提出并实施了一套完整的数值分析流程，用于量化评估锥角对HAWT气动性能的影响。该方法的核心创新在于处理锥角的方式：并非直接在三维空间中模拟倾斜的叶片，而是将锥角效应转化为对输入到经典BEM求解器（...
+
+
+[135] Paper ID: 2020_Contactless_localization_of_premature_laminar_turbulent_flow_transitions_on_wind_turbine_rotor_blade
+   - 标题: Contactless localization of premature laminar-turbulent flow transitions on wind turbine rotor blades in operation
+   - 作者: Daniel Gleichauf, Michael Sorg, Andreas Fischer
+   - 年份: 2020
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 82.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 由表面污染（如昆虫、灰尘、雨水）引发的层流-湍流提前转捩现象
+        该论文深入观测并分析了在运行中的风力机叶片上，由于前缘表面污染（如昆虫残骸、灰尘、雨水或冰雹侵蚀）而引发的层流-湍流边界层提前转捩现象。这种现象表现为，在叶片表面原本应保持层流的区域（通常位于前缘附近...
+   - 新方法（前2个）:
+     1. 基于二维图像局部梯度最大值识别的层流-湍流转捩线定位方法
+        论文提出了一种全新的热成像图像处理算法，专门用于精准定位运行中风力机叶片上（包括存在提前转捩的复杂情况）的层流-湍流转捩线。该方法的核心思想是摒弃传统的一维梯度分析法，转而采用二维图像处理策略。它通过...
+
+
+[136] Paper ID: 2020_Design_and_CFD_analysis_of_Horizontal_Axis_Wind_Turbine_Blade_with_Microtab
+   - 标题: Design and CFD analysis of Horizontal Axis Wind Turbine Blade with Microtab
+   - 作者: Manu S. Nair, V. Arihant, D. Bhanu Priya et al.
+   - 年份: 2020
+   - 期刊: Iop Conference Series Materials Science and Engineering
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[137] Paper ID: 2020_Further_study_on_the_effects_ofwind_turbine_yaw_operation_for_aiding_active_wake_management
+   - 标题: Further study on the effects ofwind turbine yaw operation for aiding active wake management
+   - 作者: Juchuan Dai, Xin Yang, Wenxian Yang et al.
+   - 年份: 2020
+   - 期刊: Applied Sciences Switzerland
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[138] Paper ID: 2020_Multi_site_aerodynamic_optimization_of_wind_turbine_blades_for_maximum_annual_energy_production_in_E
+   - 标题: Multi-site aerodynamic optimization of wind turbine blades for maximum annual energy production in East Iran
+   - 作者: Mahdi Azizi, Alireza Jahangirian
+   - 年份: 2020
+   - 期刊: Energy Science and Engineering
+   - 评分: 82.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 多址设计下叶片几何的折衷与普适性特征
+        本研究发现，在为多个不同风况地点（伊朗东部的Binalood、Khaf和Zabol三地）设计统一的最优风轮叶片时，最终得到的叶片几何（扭角和弦长分布）呈现出一种独特的“折衷”特征。该叶片并非针对任一特...
+   - 新方法（前2个）:
+     1. 面向区域最大年发电量的风轮叶片多址协同优化设计框架
+        本论文提出了一套完整的气动优化设计方法框架，其核心创新在于将优化问题的定义从传统的“单一风况/单一地点”拓展为“多地点风况概率分布下的总体性能最优”。该方法框架包含以下几个关键步骤：1) **多址风况...
+
+
+[139] Paper ID: 2020_Over_Speed_Protection_of_Horizontal_Axis_Wind_Turbine_Using_Slot_in_the_Turbine_Blade
+   - 标题: Over Speed Protection of Horizontal Axis Wind Turbine Using Slot in the Turbine Blade
+   - 作者: B. Navin Kumar, J. Vijayarangam, R. Pandiyarajan et al.
+   - 年份: 2020
+   - 期刊: Iop Conference Series Materials Science and Engineering
+   - 评分: 82.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[140] Paper ID: 2018_Building_a_Digital_Wind_Farm
+   - 标题: Building a Digital Wind Farm
+   - 作者: Sam Hewitt, Lee Margetts, Alistair Revell
+   - 年份: 2018
+   - 期刊: Archives of Computational Methods in Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[141] Paper ID: 2018_Comparisons_of_the_dynamical_characteristics_of_a_semi_submersible_floating_offshore_wind_turbine_ba
+   - 标题: Comparisons of the dynamical characteristics of a semi-submersible floating offshore wind turbine based on two different blade concepts
+   - 作者: Jiahao Chen, Zhiqiang Hu, Decheng Wan et al.
+   - 年份: 2018
+   - 期刊: Ocean Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[142] Paper ID: 2018_Influence_of_an_off_surface_small_structure_on_the_flow_control_effect_on_horizontal_axis_wind_turbi
+   - 标题: Influence of an off-surface small structure on the flow control effect on horizontal axis wind turbine at different relative inflow angles
+   - 作者: Ying Wang, Gaohui Li, Sheng Shen et al.
+   - 年份: 2018
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 分段微圆柱体流动控制中的非局部相互作用与全局最优解缺失现象
+        论文发现，将沿叶片展向各截面独立寻优得到的最优微圆柱体片段，简单连接成一个整体（集成微圆柱体A）并安装后，无法复现各截面独立优化时的最佳控制效果。这表明，在三维旋转叶片这一复杂流场中，流动控制装置的作...
+   - 新方法（前2个）:
+     1. 基于相对流入角与三维流场耦合分析的分段微圆柱体优化与验证方法
+        本文提出了一套针对水平轴风力机叶片被动流动控制装置的系统化研究与应用方法。其核心思想是：摒弃将控制装置（微圆柱体）视为一个整体进行单一参数优化的传统思路，转而承认并应对叶片三维旋转流场的非均匀性。方法...
+
+
+[143] Paper ID: 2018_Investigation_on_aerodynamic_performance_of_horizontal_axis_wind_turbine_by_setting_micro_cylinder_i
+   - 标题: Investigation on aerodynamic performance of horizontal axis wind turbine by setting micro-cylinder in front of the blade leading edge
+   - 作者: Ying Wang, Gaohui Li, Sheng Shen et al.
+   - 年份: 2018
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[144] Paper ID: 2018_Noise_reduction_of_a_horizontal_wind_turbine_using_different_blade_shapes
+   - 标题: Noise reduction of a horizontal wind turbine using different blade shapes
+   - 作者: M. Maizi, M. H. Mohamed, R. Dizene et al.
+   - 年份: 2018
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[145] Paper ID: 2018_Reduced_frequency_effects_on_combined_oscillations_angle_of_attack_and_free_stream_oscillations_for
+   - 标题: Reduced frequency effects on combined oscillations, angle of attack and free stream oscillations, for a wind turbine blade element
+   - 作者: Kobra Gharali, Eshagh Gharaei, M. Soltani et al.
+   - 年份: 2018
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 特定相位差下，减缩频率对动态失速气动载荷的显著非线性调制效应
+        该论文研究发现，在俯仰振荡（AoA）与非定常来流（UFS）耦合作用下，减缩频率（k）对动态失速（DS）过程中的气动载荷（如升力系数Cl）的影响，在特定的相位差（φ）下表现出强烈的非线性依赖性。具体表现...
+   - 新方法（前2个）:
+     1. 用于非定常气动模拟的修正O型滑移网格生成与计算框架
+        本文提出并实施了一套针对“俯仰振荡翼型+非定常来流”耦合问题的CFD模拟新方法框架。其核心创新在于网格策略和边界处理：1）**网格创新**：摒弃了此类问题中常见的C型结构化网格或多层动网格方法，转而采...
+
+
+[146] Paper ID: 2018_Study_of_the_unsteady_aerodynamics_of_floating_wind_turbines_1
+   - 标题: Study of the unsteady aerodynamics of floating wind turbines
+   - 作者: Xin Shen, Jinge Chen, Ping Hu et al.
+   - 年份: 2018
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 2, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮式平台纵荡运动诱导的非定常气动性能增益现象
+        该研究发现，在特定浮式平台纵荡运动条件下，风力涡轮机可以获得比稳态条件下更多的气动功率输出。这是一个反直觉的现象，因为通常认为平台的额外运动会增加气动载荷的复杂性并可能降低性能。具体表现为，当平台以特...
+     2. 平台纵荡运动下由流动分离和变桨控制耦合引发的不稳定条件
+        论文指出，在特定的平台纵荡运动过程中，叶片表面的流动分离与风力机的桨距控制行为之间存在潜在的耦合机制，这种耦合可能将浮式风力机引导至不稳定状态。这是一种动态失稳现象，不同于静态失速或经典颤振。它描述了...
+   - 新方法（前2个）:
+     1. 用于浮式风力机非定常气动性能分析的带自由尾迹的非定常升力面法
+        本文开发了一种结合了非定常升力面理论（Unsteady Lifting Surface Method）与自由尾迹模型（Free Wake Model）的数值方法，专门用于分析浮式平台运动（特别是纵荡运...
+
+
+[147] Paper ID: 2018_Transient_response_of_the_flexible_blade_of_horizontal_axis_wind_turbines_in_wind_gusts_and_rapid_ya
+   - 标题: Transient response of the flexible blade of horizontal-axis wind turbines in wind gusts and rapid yaw changes
+   - 作者: Abbas Ebrahimi, Mahmood Sekandari
+   - 年份: 2018
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[148] Paper ID: 2018_Wind_turbine_blade_geometry_design_based_on_multi_objective_optimization_using_metaheuristics
+   - 标题: Wind turbine blade geometry design based on multi-objective optimization using metaheuristics
+   - 作者: Júlio Xavier Vianna Neto, Elci José Guerra Junior, Sinvaldo Rodrigues Moreno et al.
+   - 年份: 2018
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 多目标进化算法在气动-结构协同设计中的帕累托前沿涌现现象
+        论文通过应用四种不同的多目标进化算法（NSGA-II、QMEA、MOEA/D、MODE）对风力机叶片进行气动-结构协同优化，发现了一种新的设计空间涌现现象：算法能够自动生成一系列在年发电量（AEP）和...
+   - 新方法（前2个）:
+     1. 基于多目标进化算法的气动-结构协同设计集成框架
+        本文提出并评估了一个完整的、自动化的风力机叶片设计方法框架。该框架的核心是将叶素动量理论（BEM）气动分析模型与参数化叶片质量估算模型，同时集成到多种多目标进化算法（MOEA）的优化循环中。设计变量为...
+
+
+[149] Paper ID: 2019_A_new_aero_structural_optimization_method_for_wind_turbine_blades_used_in_low_wind_speed_areas
+   - 标题: A new aero-structural optimization method for wind turbine blades used in low wind speed areas
+   - 作者: Han Yang, Jin Chen, Xiaoping Pang et al.
+   - 年份: 2019
+   - 期刊: Composite Structures
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[150] Paper ID: 2019_A_stall_regulated_wind_turbine_design_to_reduce_fatigue
+   - 标题: A stall-regulated wind turbine design to reduce fatigue
+   - 作者: Terence Macquart, Alireza Maheri
+   - 年份: 2019
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[151] Paper ID: 2019_Active_flow_control_for_power_enhancement_of_vertical_axis_wind_turbines_Leading_edge_slot_suction
+   - 标题: Active flow control for power enhancement of vertical axis wind turbines: Leading-edge slot suction
+   - 作者: Abdolrahim Rezaeiha, Hamid Montazeri, Bert Blocken
+   - 年份: 2019
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 通过精确前缘缝隙吸气对垂直轴风力机动态失速的深度抑制现象
+        本研究发现，通过在叶片吸力面（运行前半周期内转为内侧）前缘特定位置施加小幅度（As低至0.5%）的边界层吸气，能够以前所未有的方式从根本上干预并重塑垂直轴风力机低叶尖速比下的非定常空气动力学过程。具体...
+   - 新方法（前2个）:
+     1. 基于层流分离泡位置识别的垂直轴风力机前缘缝隙吸气最优化定位与控制策略
+        本文提出了一套系统性的研究方法与策略，用于确定垂直轴风力机叶片上前缘缝隙吸气控制的最优参数。其核心创新在于，它并非简单地将吸气作为一种通用手段施加于叶片，而是建立了一个以无控制状态下LSB的动态行为为...
+
+
+[152] Paper ID: 2019_Aerodynamic_performance_and_wind_induced_effect_of_large_scale_wind_turbine_system_under_yaw_and_win
+   - 标题: Aerodynamic performance and wind-induced effect of large-scale wind turbine system under yaw and wind-rain combination action
+   - 作者: Shitang Ke, Wenlin Yu, Tongguang Wang et al.
+   - 年份: 2019
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[153] Paper ID: 2019_An_improved_actuator_disc_model_for_the_numerical_prediction_of_the_far_wake_region_of_a_horizontal_
+   - 标题: An improved actuator disc model for the numerical prediction of the far-wake region of a horizontal axis wind turbine and its performance
+   - 作者: Ali Behrouzifar, Masoud Darbandi
+   - 年份: 2019
+   - 期刊: Energy Conversion and Management
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 网格厚度对作动盘模型预测精度与收敛速率的非单调影响现象
+        该研究发现，在经典的固定厚度作动盘模型中，存在一个特定的网格厚度值，能够使远尾流区域的预测精度达到最高，但与此同时，该厚度值会导致计算收敛速率显著下降。这一现象揭示了模型精度与计算效率之间存在一个内在...
+   - 新方法（前2个）:
+     1. 基于真实叶片厚度还原的改进型作动盘模型
+        本文提出了一种创新的作动盘模型，其核心思想是在计算流体动力学模拟中，还原风轮机叶片的真实物理厚度，而非使用一个统一的、人为设定的固定网格厚度。该方法不是简单地将叶片几何实体化，而是通过一种数值手段，使...
+
+
+[154] Paper ID: 2019_Computer_Modeling_of_Wind_Turbines_2_Free_Surface_FSI_and_Fatigue_Damage
+   - 标题: Computer Modeling of Wind Turbines: 2. Free-Surface FSI and Fatigue-Damage
+   - 作者: Yuri Bazilevs, Jinhui Yan, Xiaowei Deng et al.
+   - 年份: 2019
+   - 期刊: Archives of Computational Methods in Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[155] Paper ID: 2019_Coupled_aero_hydro_servo_elastic_methods_for_floating_wind_turbines
+   - 标题: Coupled aero-hydro-servo-elastic methods for floating wind turbines
+   - 作者: Jiahao Chen, Zhiqiang Hu, Geliang Liu et al.
+   - 年份: 2019
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[156] Paper ID: 2019_Effects_of_root_Gurney_flaps_on_the_aerodynamic_performance_of_a_horizontal_axis_wind_turbine
+   - 标题: Effects of root Gurney flaps on the aerodynamic performance of a horizontal axis wind turbine
+   - 作者: Ye Zhang, Varun Ramdoss, Zohaib Saleem et al.
+   - 年份: 2019
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[157] Paper ID: 2019_Entropy_generation_analysis_of_S825_S822_and_SD7062_offshore_wind_turbine_airfoil_geometries
+   - 标题: Entropy generation analysis of S825, S822, and SD7062 offshore wind turbine airfoil geometries
+   - 作者: Amir Reza Mamouri, Abdolamir Bak Khoshnevis, Esmail Lakzian
+   - 年份: 2019
+   - 期刊: Ocean Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 流动分离对熵产率分布的戏剧性影响
+        该论文通过数值模拟，首次系统性地揭示了在特定雷诺数（Re=10^6）下，三种海上风力机专用翼型（S822, S825, SD7062）在不同攻角（0°至20°）下的熵产率分布规律。研究发现，熵产率并非...
+   - 新方法（前2个）:
+     1. 基于熵产积分与第二定律效率的海上风电翼型气动性能对比评估框架
+        本文提出并实践了一套完整的、基于热力学第二定律的翼型气动性能评估框架。该框架的核心流程是：首先，通过CFD数值模拟获取流场详细信息（速度、压力、剪切应力等）；其次，利用这些信息计算整个计算域内（重点是...
+
+
+[158] Paper ID: 2019_IR_thermographic_flow_visualization_for_the_quantification_of_boundary_layer_flow_disturbances_due_t
+   - 标题: IR thermographic flow visualization for the quantification of boundary layer flow disturbances due to the leading edge condition
+   - 作者: Christoph Dollinger, Nicholas Balaresque, Nicholas Gaudern et al.
+   - 年份: 2019
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于红外热成像的边界层转捩位置量化扰动现象
+        该论文揭示并量化了一种新的现象：风力机叶片前缘污染或侵蚀导致的边界层流动扰动，具体表现为层流-湍流转捩位置的前移。传统上，前缘粗糙度对气动性能的影响是已知的，但该研究首次在真实运行的多兆瓦级水平轴风力...
+   - 新方法（前2个）:
+     1. 基于红外热成像的边界层流场扰动量化与年发电量损失评估方法
+        本文提出了一套完整的方法论，用于量化运行中风力机叶片前缘状态对边界层流动的扰动，并最终评估其对年发电量（AEP）的影响。该方法的核心流程包括：1) **数据采集**：使用红外热像仪对旋转中的风力机叶片...
+
+
+[159] Paper ID: 2019_Nonlinear_aeroelastic_response_of_wind_turbines_using_Simo_Vu_Quoc_rods
+   - 标题: Nonlinear aeroelastic response of wind turbines using Simo-Vu-Quoc rods
+   - 作者: Aditya Sabale, K. V.Nagendra Gopal
+   - 年份: 2019
+   - 期刊: Applied Mathematical Modelling
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[160] Paper ID: 2019_Numerical_investigation_of_the_aerodynamics_and_wake_structures_of_horizontal_axis_wind_turbines_by
+   - 标题: Numerical investigation of the aerodynamics and wake structures of horizontal axis wind turbines by using nonlinear vortex lattice method
+   - 作者: Hakjin Lee, Duck Joo Lee
+   - 年份: 2019
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[161] Paper ID: 2019_Powertrain_assessment_of_wind_and_hydrokinetic_turbines_with_diffusers
+   - 标题: Powertrain assessment of wind and hydrokinetic turbines with diffusers
+   - 作者: Jerson R.P. Vaz, Alexandre L.A. Mesquita, André L. Amarante Mesquita et al.
+   - 年份: 2019
+   - 期刊: Energy Conversion and Management
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 扩压器诱导的轴向载荷增强对启动扭矩的复合影响
+        该论文揭示了一个在带扩压器风力/水力涡轮机研究中被相对忽视的现象：扩压器在通过下游压力降加速流体、提升转子功率捕获的同时，会显著增加作用在转子叶片上的轴向气动/水动力载荷。这一增强的轴向载荷会直接传导...
+   - 新方法（前2个）:
+     1. 考虑扩压器作用与传动损失的准稳态动态系统建模与评估方法
+        本文提出了一种集成化的系统级建模与评估方法，用于分析带扩压器涡轮机的瞬态（特别是启动）和稳态性能。该方法的核心是将三个子模型耦合：1) 基于叶片元动量理论（BEM）并经过修正以考虑扩压器诱导流速增加的...
+
+
+[162] Paper ID: 2019_RANS_and_DDES_simulations_of_a_horizontal_axis_wind_turbine_under_stalled_flow_condition_using_OpenF
+   - 标题: RANS and DDES simulations of a horizontal-axis wind turbine under stalled flow condition using OpenFOAM
+   - 作者: Ye Zhang, Shuanghou Deng, Xiaofang Wang
+   - 年份: 2019
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 失速状态下水平轴风力机尾迹的复杂非定常涡旋演化与能量耗散机制
+        该论文通过DDES（延迟分离涡模拟）方法，首次在较高雷诺数（基于叶尖速度）下，系统性地揭示并量化了水平轴风力机在深度失速工况下，其尾迹流场中存在的极端复杂的非定常涡旋结构演化过程及其伴随的强烈能量耗散...
+   - 新方法（前2个）:
+     1. 基于OpenFOAM平台的高保真度DDES方法用于风力机失速非定常流场模拟
+        本研究建立并验证了一套完整的、基于开源CFD平台OpenFOAM的延迟分离涡模拟（DDES）工作流，专门用于模拟水平轴风力机在失速等复杂流动状态下的高雷诺数、非定常、三维分离流动。该方法的核心是将RA...
+
+
+[163] Paper ID: 2019_Scale_resolving_CFD_modeling_of_a_thick_wind_turbine_airfoil_with_application_of_vortex_generators_V
+   - 标题: Scale-resolving CFD modeling of a thick wind turbine airfoil with application of vortex generators: Validation and sensitivity analyses
+   - 作者: Riccardo Mereu, Stefano Passoni, Fabio Inzoli
+   - 年份: 2019
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于尺度解析模拟的厚翼型失速涡演化新机制
+        论文通过DES（分离涡模拟）和SDES（应力延迟分离涡模拟）等尺度解析方法，首次在计算流体动力学（CFD）层面高精度地捕捉并揭示了DU97-W-300厚翼型（相对厚度30%）在高雷诺数（Re=2×10...
+   - 新方法（前2个）:
+     1. 面向厚翼型失速模拟的DES/SDES敏感性分析及最佳实践框架
+        本文提出并系统实践了一套针对厚翼型高雷诺数失速模拟的尺度解析CFD（DES/SDES）的完整方法论，其核心创新不在于DES/SDES模型本身，而在于对其进行系统性、定量化的**敏感性分析**和**验证...
+
+
+[164] Paper ID: 2019_Shape_optimization_under_uncertainty_for_rotor_blades_of_horizontal_axis_wind_turbines
+   - 标题: Shape optimization under uncertainty for rotor blades of horizontal axis wind turbines
+   - 作者: Vahid Keshavarzzadeh, Roger G. Ghanem, Daniel A. Tortorelli
+   - 年份: 2019
+   - 期刊: Computer Methods in Applied Mechanics and Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[165] Paper ID: 2019_Strongly-coupled_aeroelastic_free-vortex_wake_framework_for_floating_offshore_wind_turbine_rotors_Pa
+   - 标题: Strongly-coupled aeroelastic free-vortex wake framework for floating offshore wind turbine rotors. Part 1: Numerical framework
+   - 作者: Steven N. Rodriguez, Justin W. Jaworski
+   - 年份: 2019
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 漂浮式风机转子在波浪诱导运动下的非定常气动弹性耦合现象
+        该论文首次系统性地揭示了漂浮式海上风力发电机（FOWT）转子在波浪诱导的六自由度平台运动下，其气动弹性响应与近尾迹涡流结构之间的强耦合作用。具体表现为：平台周期性的俯仰、横摇等运动导致转子入流条件发生...
+   - 新方法（前2个）:
+     1. 基于自由涡尾迹法（FVM）的强耦合气动弹性数值框架
+        该论文提出并开发了一个全新的数值仿真框架，其核心是将高保真的自由涡尾迹法（FVM）与多体结构动力学求解器进行强耦合集成，专门用于模拟FOWT转子的气动弹性响应。框架采用松耦合迭代流程：在每一个时间步，...
+
+
+[166] Paper ID: 2019_Wake_impact_on_aerodynamic_characteristics_of_horizontal_axis_wind_turbine_under_yawed_flow_conditio
+   - 标题: Wake impact on aerodynamic characteristics of horizontal axis wind turbine under yawed flow conditions
+   - 作者: Hakjin Lee, Duck Joo Lee
+   - 年份: 2019
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 偏航条件下尾迹与叶根涡的强相互作用
+        该论文通过数值模拟揭示，在偏航流动条件下，水平轴风力机的尾迹结构不仅发生偏斜，更重要的是，叶尖涡与叶根涡之间产生了强烈的非对称相互作用。这种相互作用导致尾迹涡系在空间上不均匀地膨胀和耗散。具体表现为：...
+   - 新方法（前2个）:
+     1. 非线性涡格法（NVLM）与涡粒子法（VPM）的紧耦合时域求解框架
+        本文提出并应用了一种创新的数值模拟框架，用于求解偏航等复杂非定常工况下的风力机气动与尾迹问题。该框架的核心是将非线性涡格法（NVLM）与涡粒子法（VPM）进行紧耦合、时间精确的联合求解。NVLM负责模...
+
+
+[167] Paper ID: 2019_Wind_shear_effect_on_aerodynamic_performance_and_energy_production_of_horizontal_axis_wind_turbines
+   - 标题: Wind shear effect on aerodynamic performance and energy production of horizontal axis wind turbines with developing blade element momentum theory
+   - 作者: Ghazale Kavari, Mojtaba Tahani, Mojtaba Mirhosseini
+   - 年份: 2019
+   - 期刊: Journal of Cleaner Production
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[168] Paper ID: 2020_Aerodynamic_performance_enhancement_of_horizontal_axis_wind_turbines_by_dimples_on_blades_Numerical
+   - 标题: Aerodynamic performance enhancement of horizontal axis wind turbines by dimples on blades: Numerical investigation
+   - 作者: Hamed Sedighi, Pooria Akbarzadeh, Ali Salavatipour
+   - 年份: 2020
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[169] Paper ID: 2020_Aerodynamic_performance_prediction_of_NREL_phase_VI_blade_adopting_biplane_airfoil
+   - 标题: Aerodynamic performance prediction of NREL phase VI blade adopting biplane airfoil
+   - 作者: Junwei Zhong, Jingyin Li
+   - 年份: 2020
+   - 期刊: Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[170] Paper ID: 2020_An_improved_dynamic_stall_model_and_its_effect_on_wind_turbine_fatigue_load_prediction
+   - 标题: An improved dynamic stall model and its effect on wind turbine fatigue load prediction
+   - 作者: Xiong Liu, Shi Liang, Gangqiang Li et al.
+   - 年份: 2020
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 厚翼型动态失速迟滞环的修正特性
+        论文发现，对于相对厚度大于15%的风力机专用翼型（如S809），在动态失速过程中，其气动力迟滞环特性与传统航空薄翼型存在系统性差异。具体表现为：在失速攻角附近，法向力系数和力矩系数的迟滞环形状、宽度和...
+   - 新方法（前2个）:
+     1. 面向风力机厚翼型的修正Beddoes-Leishman动态失速模型
+        该方法在经典B-L模型框架内，针对风力机翼型的低马赫数、大厚度比特性，系统修正了三个核心子模型：1）非定常附着流模型：调整了环量项的时间常数，以反映厚翼型非定常势流响应的差异；2）分离点位置模型：重新...
+
+
+[171] Paper ID: 2020_Coupled_aerostructural_shape_and_topology_optimization_of_horizontal_axis_wind_turbine_rotor_blades
+   - 标题: Coupled aerostructural shape and topology optimization of horizontal-axis wind turbine rotor blades
+   - 作者: Zhijun Wang, Akke S.J. Suiker, Hèrm Hofmeyer et al.
+   - 年份: 2020
+   - 期刊: Energy Conversion and Management
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[172] Paper ID: 2020_Effect_of_morphed_trailing_edge_flap_on_aerodynamic_load_control_for_a_wind_turbine_blade_section
+   - 标题: Effect of morphed trailing-edge flap on aerodynamic load control for a wind turbine blade section
+   - 作者: Chen Zhuang, Gang Yang, Yawei Zhu et al.
+   - 年份: 2020
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[173] Paper ID: 2020_Experimental_study_of_the_effective_parameters_on_the_offshore_wind_turbines_airfoil_in_pitching_cas
+   - 标题: Experimental study of the effective parameters on the offshore wind turbine's airfoil in pitching case
+   - 作者: Amir Reza Mamouri, Abdolamir Bak Khoshnevis, Esmail Lakzian
+   - 年份: 2020
+   - 期刊: Ocean Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[174] Paper ID: 2020_High_order_redesign_method_for_wind_turbine_blade_optimization_in_model_test_considering_aerodynamic
+   - 标题: High-order redesign method for wind turbine blade optimization in model test considering aerodynamic similarity
+   - 作者: Zhe Chen, Yanping He, Yongsheng Zhao et al.
+   - 年份: 2020
+   - 期刊: Ocean Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[175] Paper ID: 2020_Improvement_of_aerodynamic_performance_of_an_offshore_wind_turbine_blade_by_moving_surface_mechanism
+   - 标题: Improvement of aerodynamic performance of an offshore wind turbine blade by moving surface mechanism
+   - 作者: Erfan Salimipour, Shima Yazdani
+   - 年份: 2020
+   - 期刊: Ocean Engineering
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[176] Paper ID: 2020_Numerical_investigation_of_rain_droplet_impact_on_offshore_wind_turbine_blades_under_different_rainf
+   - 标题: Numerical investigation of rain droplet impact on offshore wind turbine blades under different rainfall conditions: A parametric study
+   - 作者: Amrit Shankar Verma, Saullo G.P. Castro, Zhiyu Jiang et al.
+   - 年份: 2020
+   - 期刊: Composite Structures
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 极端降雨强度下特定冲击角度范围（50°-90°）对涂层侵蚀损伤的临界效应
+        论文通过参数化研究发现，在模拟非常强降雨（I > 25 mm/hr）条件下，雨滴冲击角度在50°至90°范围内变化时，对风力机叶片前缘涂层系统的冲击响应（包括峰值接触力、冲量和损伤）具有临界性的影响。...
+   - 新方法（前2个）:
+     1. 基于LS-DYNA的FEM-SPH强耦合流体结构相互作用（FSI）数值模型，用于模拟雨滴对复合材料涂层的冲击侵蚀
+        本文开发并验证了一套全新的三维数值模拟方法，用于高保真度模拟雨滴对风力机叶片前缘涂层的冲击过程。该方法的核心是强耦合的流体-结构相互作用（FSI）框架。其中，**结构域**（涂层及基底）采用传统的有限...
+
+
+[177] Paper ID: 2020_Performance_improvement_of_horizontal_axis_wind_turbines_by_aerodynamic_shape_optimization_including
+   - 标题: Performance improvement of horizontal axis wind turbines by aerodynamic shape optimization including aeroealstic deformation
+   - 作者: Hak Min Lee, Oh Joon Kwon
+   - 年份: 2020
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[178] Paper ID: 2020_Predicting_the_stochastic_aerodynamic_loads_on_blades_of_two_yawed_downwind_hawts_in_uncontrolled_co
+   - 标题: Predicting the stochastic aerodynamic loads on blades of two yawed downwind hawts in uncontrolled conditions using a bem algorithm
+   - 作者: Moutaz Elgammi, Tonio Sant, Moftah Alshaikh
+   - 年份: 2020
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[179] Paper ID: 2020_Simulation_and_analysis_of_wind_turbine_ice_accretion_under_yaw_condition_via_an_Improved_Multi_Shot
+   - 标题: Simulation and analysis of wind turbine ice accretion under yaw condition via an Improved Multi-Shot Icing Computational Model
+   - 作者: Qiang Wang, Xian Yi, Yu Liu et al.
+   - 年份: 2020
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 偏航结冰条件下冰角旋转现象 (Ice Horn Rotation Phenomenon under Yaw Condition)
+        论文通过提出的改进模型（IMSICM）对NREL Phase VI风力机进行偏航结冰模拟，发现了一种在偏航条件下特有的冰形演变现象。当风力机处于偏航状态时，由于来流方向与风轮旋转平面不垂直，叶片各剖面...
+   - 新方法（前2个）:
+     1. 改进的多镜头结冰计算模型 (Improved Multi-Shot Icing Computational Model, IMSICM)
+        IMSICM是一个专门为高效模拟风力机偏航结冰这一强非定常、多时间尺度耦合问题而设计的计算框架。其核心思想是将复杂的连续结冰过程离散为多个连续的“镜头（Shot）”，在每个“镜头”内，根据物理过程变化...
+
+
+[180] Paper ID: 2020_Strongly_coupled_aeroelastic_free_vortex_wake_framework_for_floating_offshore_wind_turbine_rotors_Pa
+   - 标题: Strongly-coupled aeroelastic free-vortex wake framework for floating offshore wind turbine rotors. Part 2: Application
+   - 作者: Steven N. Rodriguez, Justin W. Jaworski
+   - 年份: 2020
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 相位差桨叶通过频率引起的动态载荷波动
+        该论文通过其强耦合气动弹性框架，首次在浮式海上风力机（FOWT）的数值模拟中，捕获并深入揭示了由浮体平台运动诱导的、与“桨叶通过频率”相位不同步（out-of-phase）所引起的功率、推力和扭矩的独...
+   - 新方法（前2个）:
+     1. 面向浮式海上风力机的强耦合气动弹性自由涡尾迹数值框架
+        本文（及其第一部分）的核心创新是开发并应用了一个全新的、自包含的（self-contained）、强耦合的（strongly-coupled）气动弹性数值模拟框架。该框架将高保真的自由涡尾迹方法（FV...
+
+
+[181] Paper ID: 2020_The_Coriolis_force_and_the_direction_of_rotation_of_the_blades_significantly_affect_the_wake_of_wind
+   - 标题: The Coriolis force and the direction of rotation of the blades significantly affect the wake of wind turbines
+   - 作者: Reza Nouri, Ahmad Vasel-Be-Hagh, Cristina L. Archer
+   - 年份: 2020
+   - 期刊: Applied Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 偏航不对称性现象
+        该论文揭示了一个在风电场主动偏航控制中未被充分认识的新现象：在北半球，对前排风力机施加正向偏航角（根据定义，通常指使尾流向右偏转）与施加负向偏航角（使尾流向左偏转）对整列风力机总功率输出的影响存在显著...
+   - 新方法（前2个）:
+     1. 基于大涡模拟的科里奥利力与旋转方向耦合效应隔离分析法
+        本文提出并应用了一种系统性的数值实验方法，旨在隔离并量化科里奥利力与风力机叶片旋转方向这两个因素对偏航尾流不对称性的独立贡献。该方法的核心是设计一组对比鲜明的大涡模拟算例：基准算例（北半球、顺时针旋转...
+
+
+[182] Paper ID: 2020_Unsteady_performances_of_a_parked_large_scale_wind_turbine_in_the_typhoon_activity_zones
+   - 标题: Unsteady performances of a parked large-scale wind turbine in the typhoon activity zones
+   - 作者: Di Tang, Min Xu, Jianfeng Mao et al.
+   - 年份: 2020
+   - 期刊: Renewable Energy
+   - 评分: 79.90
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 台风环境下停机风机塔架与叶片尾迹的强非线性相互作用
+        该论文通过高保真数值模拟，首次系统揭示了在台风极端风况下，处于停机状态的大型风力机，其塔架与三个叶片之间存在的复杂、非定常的尾迹相互作用现象。这种现象的核心在于，台风带来的高湍流度、大偏航角以及极端风...
+   - 新方法（前2个）:
+     1. 基于超台风观测数据的多参数耦合非定常风场建模与CFD分析框架
+        本文提出了一套针对台风环境下停机风机气动性能分析的集成方法。该方法的核心是构建一个高保真度的、非定常的数值风洞环境。首先，**风场建模**：并非使用标准的IEC风谱或简单的均匀流，而是基于对超台风的实...
+
+
+[183] Paper ID: 2018_3D_numerical_simulation_of_aerodynamic_performance_of_iced_contaminated_wind_turbine_rotors
+   - 标题: 3D numerical simulation of aerodynamic performance of iced contaminated wind turbine rotors
+   - 作者: Lichun Shu, Hantao Li, Qin Hu et al.
+   - 年份: 2018
+   - 期刊: Cold Regions Science and Technology
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 覆冰对风力机转子气动性能的三维非均匀退化效应
+        该论文通过三维数值模拟，系统揭示了风力机转子叶片在覆冰条件下，其气动性能的退化并非沿展向均匀分布，而是呈现出强烈的径向位置依赖性。研究发现，在约62%-89%的径向位置（即叶片的中外段），覆冰对翼型前...
+   - 新方法（前2个）:
+     1. 基于MRF和k-ω SST模型的三维结冰风力机转子气动性能评估框架
+        本文提出并验证了一套完整的、用于评估覆冰风力机转子三维气动性能的数值模拟框架。该框架的核心是采用商业CFD软件ANSYS Fluent，结合多重参考系（MRF）模型来处理转子的旋转运动，使用雷诺平均N...
+
+
+[184] Paper ID: 2018_A_Beddoes_Leishmantype_model_with_an_optimization_based_methodology_and_airfoil_shape_parameters
+   - 标题: A Beddoes-Leishman–type model with an optimization-based methodology and airfoil shape parameters
+   - 作者: Abdulqadir Aziz Singapore Wala, Eddie Y.K. Ng, Srikanth Narasimalu
+   - 年份: 2018
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于翼型几何参数的Beddoes-Leishman模型时间常数相关性
+        本文发现并系统分析了经典Beddoes-Leishman（B-L）半经验动态失速模型中8个无量纲时间常数与翼型几何形状参数之间的潜在关联性。传统B-L模型将这些时间常数视为需要通过实验数据拟合的通用或...
+   - 新方法（前2个）:
+     1. 基于优化与几何参数关联的简化Beddoes-Leishman模型标定与构建方法
+        本文提出了一套系统性的方法，用于简化和提升经典Beddoes-Leishman（B-L）动态失速模型的精度与实用性。该方法包含三个核心步骤：首先，**大规模参数优化**：针对10种不同翼型在多种非定常...
+
+
+[185] Paper ID: 2018_A_CFD_study_of_coupled_aerodynamic_hydrodynamic_loads_on_a_semisubmersible_floating_offshore_wind_tu
+   - 标题: A CFD study of coupled aerodynamic-hydrodynamic loads on a semisubmersible floating offshore wind turbine
+   - 作者: Thanh Toan Tran, Dong Hyun Kim
+   - 年份: 2018
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮式风机平台运动与叶片旋转耦合下的非定常气动-水动力强耦合现象
+        该研究通过高保真流固耦合模拟，首次在CFD层面完整揭示了半潜式浮式风机在六自由度平台运动与叶片旋转同时作用下的复杂非定常气动-水动力耦合现象。现象的核心在于，平台在波浪作用下的纵摇、横摇、垂荡等运动，...
+   - 新方法（前2个）:
+     1. 基于重叠网格与用户自定义场函数的全耦合高保真FOWT CFD-DSA仿真框架
+        本研究构建并实施了一套创新的高保真数值仿真框架，用于求解浮式风机完全耦合的气动-水动力-结构动力学问题。该方法的核心是采用计算流体动力学（CFD）直接求解包含空气和水的多相流场，并耦合动力学结构分析（...
+
+
+[186] Paper ID: 2018_Aero_elastic_wind_turbine_design_with_active_flaps_for_AEP_maximization
+   - 标题: Aero-elastic wind turbine design with active flaps for AEP maximization
+   - 作者: Michael K. McWilliam, Thanasis K. Barlas, Helge A. Madsen et al.
+   - 年份: 2018
+   - 期刊: Wind Energy Science
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[187] Paper ID: 2018_Aerodynamic_performance_of_a_horizontal_axis_wind_turbine_with_forward_and_backward_swept_blades
+   - 标题: Aerodynamic performance of a horizontal axis wind turbine with forward and backward swept blades
+   - 作者: Mehmet Numan Kaya, Faruk Kose, Derek Ingham et al.
+   - 年份: 2018
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[188] Paper ID: 2018_Application_of_rod_vortex_generators_for_flow_separation_reduction_on_wind_turbine_rotor
+   - 标题: Application of rod vortex generators for flow separation reduction on wind turbine rotor
+   - 作者: Javier Martinez Suarez, Pawel Flaszynski, Piotr Doerffer
+   - 年份: 2018
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[189] Paper ID: 2018_Effects_of_blade_design_on_ice_accretion_for_horizontal_axis_wind_turbines
+   - 标题: Effects of blade design on ice accretion for horizontal axis wind turbines
+   - 作者: G. M. Ibrahim, K. Pope, Y. S. Muzychka
+   - 年份: 2018
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 不同NREL翼型家族在结冰条件下气动性能退化的系统性差异
+        论文通过数值模拟，首次系统性地揭示了NREL系列翼型（S801至S835）在结冰条件下气动性能退化的显著差异。研究发现，结冰导致的升力系数下降幅度在10%到65%之间，这一巨大差异主要取决于翼型的原始...
+   - 新方法（前2个）:
+     1. 基于翼型家族的系统性结冰敏感性筛选与评估框架
+        本文提出并实践了一种针对水平轴风力机叶片抗冰设计的系统性数值研究框架。该方法的核心不是开发新的结冰模拟算法，而是创新性地应用现有高保真工具（FENSAP-ICE），对完整的、具有工程代表性的翼型家族（...
+
+
+[190] Paper ID: 2018_Enhancement_of_flutter_stability_in_wind_turbines_with_a_new_type_of_passive_damper_of_torsional_rot
+   - 标题: Enhancement of flutter stability in wind turbines with a new type of passive damper of torsional rotation of blades
+   - 作者: Bei Chen, Zili Zhang, Xugang Hua et al.
+   - 年份: 2018
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[191] Paper ID: 2018_Experimental_assessment_of_an_active_L_shaped_tab_for_dynamic_stall_control
+   - 标题: Experimental assessment of an active L-shaped tab for dynamic stall control
+   - 作者: A. Zanotti, G. Gibertini
+   - 年份: 2018
+   - 期刊: Journal of Fluids and Structures
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[192] Paper ID: 2018_Extracting_the_angle_of_attack_on_rotor_blades_from_CFD_simulations
+   - 标题: Extracting the angle of attack on rotor blades from CFD simulations
+   - 作者: Eva Jost, Levin Klein, Hagen Leipprand et al.
+   - 年份: 2018
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 三维非定常流场中尾迹与脱落涡对攻角提取的差异化影响现象
+        论文通过对比四种攻角提取方法在复杂工况下的表现，揭示了一个关键现象：不同方法对尾迹涡（trailing vortices）和脱落涡（shed vortices）的考虑方式，会显著影响从三维计算流体力学...
+   - 新方法（前2个）:
+     1. 基于四分之一弦点对称闭合路径的线平均法（Line Average Method）
+        本文提出了一种新的从三维CFD流场中提取叶片局部攻角（AoA）和入流速度的方法，称为线平均法（LineAve）。其核心思想是：在叶片每个展向站位的二维切片上，定义一个以该站位四分之一弦点（Quarte...
+
+
+[193] Paper ID: 2018_Harmonic_balance_Navier_Stokes_aerodynamic_analysis_of_horizontal_axis_wind_turbines_in_yawed_wind
+   - 标题: Harmonic balance Navier-Stokes aerodynamic analysis of horizontal axis wind turbines in yawed wind
+   - 作者: Jernej Drofelnik, Andrea Da Ronch, Michele Sergio Campobasso
+   - 年份: 2018
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 谐波平衡法在偏航风力机三维湍流周期流中展现的高效收敛特性
+        该论文揭示了一个关键现象：对于水平轴风力机在偏航风况下产生的三维、周期性、非定常湍流，采用谐波平衡（Harmonic Balance, HB）方法在频域内求解雷诺平均Navier-Stokes（RAN...
+   - 新方法（前2个）:
+     1. 基于谐波平衡法的水平轴风力机偏航非定常气动高效求解框架
+        该方法是一个完整的、面向水平轴风力机在偏航风况下三维周期性湍流分析的频域计算流体动力学（CFD）框架。其核心是将时间域的非定常雷诺平均Navier-Stokes（URANS）方程，通过假设解为有限阶傅...
+
+
+[194] Paper ID: 2018_Horizontal_AxisWind_Turbine_Blade_Design_Methodologies_for_Efficiency_Enhancement_A_Review
+   - 标题: Horizontal AxisWind Turbine Blade Design Methodologies for Efficiency Enhancement A Review
+   - 作者: Shafiqur Rehman, Md Mahbub Alam, Luai M. Alhems et al.
+   - 年份: 2018
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 风机旋转效应对失速延迟现象的深入整合与统一阐述
+        本文虽为综述，但其核心价值在于系统性地整合并强调了“旋转效应”这一在风力机特定运行条件下出现的关键空气动力学现象。传统上，对翼型性能的分析多基于静态或二维风洞实验数据，其失速特性（升力系数骤降）在特定...
+   - 新方法（前2个）:
+     1. 面向效率增强的多维度风力机叶片设计分析框架
+        本文的核心方法论创新并非提出某个单一的新算法，而是构建了一个全面、系统且层次分明的“效率增强”分析框架。该框架将纷繁复杂的风力机叶片性能提升技术，按照“设计方法-性能分析-流动控制-启停行为-新材料”...
+
+
+[195] Paper ID: 2018_Numerical_Validation_of_Floating_OffshoreWind_Turbine_Scaled_Rotors_for_Surge_Motion
+   - 标题: Numerical Validation of Floating OffshoreWind Turbine Scaled Rotors for Surge Motion
+   - 作者: Krishnamoorthi Sivalingam, Steven Martin, Abdulqadir Aziz Singapore Wala
+   - 年份: 2018
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[196] Paper ID: 2018_Overall_design_optimization_of_dedicated_outboard_airfoils_for_horizontal_axis_wind_turbine_blades
+   - 标题: Overall design optimization of dedicated outboard airfoils for horizontal axis wind turbine blades
+   - 作者: Xingxing Li, Ke Yang, Caicai Liao et al.
+   - 年份: 2018
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 1, 对象 1
+   - 新方法（前2个）:
+     1. 基于气动性能评估指标的翼型整体优化数学模型与集成设计平台
+        本文提出了一种针对水平轴风力机叶片外段专用翼型的整体性能优化方法。该方法的核心在于建立了一个新的数学模型，该模型将翼型性能评估指标参数化，并整合到一个多目标优化框架中。该方法不是孤立地追求单一气动性能...
+
+
+[197] Paper ID: 2018_Parameter_sensitivities_analysis_for_classical_flutter_speed_of_a_horizontal_axis_wind_turbine_blade
+   - 标题: Parameter sensitivities analysis for classical flutter speed of a horizontal axis wind turbine blade
+   - 作者: Qiang Gao, Xin Cai, Xing wen Guo et al.
+   - 年份: 2018
+   - 期刊: Journal of Central South University
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 水平轴风力机叶片经典颤振速度对扭转刚度与挥舞刚度的非对称敏感性
+        该论文通过建立的叶片截面气动弹性模型和V-g方法，系统地揭示了NREL 5-MW基准风力机叶片经典颤振速度对不同结构参数的敏感性存在显著的非对称性。具体而言，研究发现叶片扭转刚度对颤振速度的影响远大于...
+   - 新方法（前2个）:
+     1. 基于V-g方法与拉格朗日方程的风力机叶片截面经典颤振速度参数灵敏度系统分析框架
+        本论文提出并实施了一套完整的、用于分析水平轴风力机叶片经典颤振速度参数灵敏度的集成化数值分析框架。该框架的核心是将航空领域成熟的V-g颤振求解方法，与针对风力机叶片特性建立的结构动力学模型（基于拉格朗...
+
+
+[198] Paper ID: 2019_A_Competitive_Cooperative_Game_Method_for_Multi_Objective_Optimization_Design_of_a_Horizontal_Axis_W
+   - 标题: A Competitive-Cooperative Game Method for Multi-Objective Optimization Design of a Horizontal Axis Wind Turbine Blade
+   - 作者: Rui Meng, Neng Gang Xie
+   - 年份: 2019
+   - 期刊: IEEE Access
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 设计变量影响力排序在博弈迭代过程中的动态迁移现象
+        在本论文提出的动态策略空间竞争合作博弈框架中，观察到一个核心新现象：设计变量相对于不同目标函数（年发电量AEP与叶片质量）的敏感度排序，并非固定不变，而是随着博弈迭代的进行和叶片形状的改变而发生动态迁...
+   - 新方法（前2个）:
+     1. 基于模糊k均值聚类与竞争合作博弈模式的多目标优化方法
+        本文提出了一种全新的、完整的多目标优化方法框架，包含两个首创的核心技术环节：1) **策略空间探索方法**：名为“基于模糊k均值聚类的相关性分析”。该方法首先通过有限差分计算每个设计变量对每个目标函数...
+
+
+[199] Paper ID: 2019_An_acoustic_source_model_for_applications_in_low_mach_number_turbulent_flows_such_as_a_large_scale_w
+   - 标题: An acoustic source model for applications in low mach number turbulent flows, such as a large-scale wind turbine blade
+   - 作者: Hui Tang, Yulong Lei, Xingzhong Li
+   - 年份: 2019
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 低马赫数弱可压缩湍流中速度散度物质导数作为主导声源的现象
+        该论文通过重新排列连续性方程和Navier-Stokes方程，推导出一个包含速度散度物质导数（D(?·u)/Dt）和速度散度平方（(?·u)?）等源项的波动方程。在应用于NACA0012翼型的低马赫数...
+   - 新方法（前2个）:
+     1. 基于连续性方程和Navier-Stokes方程重组的新型声学源项模型
+        该方法通过数学重构连续性方程和Navier-Stokes方程，推导出一个新型的波动方程形式，其源项集中包含了速度散度的物质导数（D(?·u)/Dt）和速度散度平方（(?·u)?）。这一重构过程不是简单...
+
+
+[200] Paper ID: 2019_Combined_effect_of_rotational_augmentation_and_dynamic_stall_on_a_horizontal_axis_wind_turbine_1
+   - 标题: Combined effect of rotational augmentation and dynamic stall on a horizontal axis wind turbine
+   - 作者: Chengyong Zhu, Tongguang Wang, Wei Zhong
+   - 年份: 2019
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[201] Paper ID: 2019_Effect_of_platform_motion_on_aerodynamic_performance_and_aeroelastic_behavior_of_floating_offshore_w_1
+   - 标题: Effect of platform motion on aerodynamic performance and aeroelastic behavior of floating offshore wind turbine blades
+   - 作者: Youngjin Kim, Oh Joon Kwon
+   - 年份: 2019
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 平台运动诱导的柔性叶片复杂振动行为
+        该研究揭示了一种在漂浮式海上风机（FOWT）运行中特有的、由平台六自由度运动（横荡、纵荡、升沉、横摇、纵摇、艏摇）与气动、惯性及重力载荷共同作用所激发的柔性叶片复杂振动现象。当平台运动时，叶片不仅承受...
+   - 新方法（前2个）:
+     1. 面向FOWT叶片气动弹性分析的紧耦合数值框架
+        本研究开发了一个专用于预测漂浮式海上风机转子叶片气动性能和气动弹性行为的集成数值仿真框架。其核心在于实现了气动分析模块与结构分析模块在**每个时间步长上的紧耦合（Tightly Coupled）** ...
+
+
+[202] Paper ID: 2019_High_solidity_straight_bladed_vertical_axis_wind_turbine_Aerodynamic_force_measurements
+   - 标题: High-solidity straight-bladed vertical axis wind turbine: Aerodynamic force measurements
+   - 作者: Yi Xin Peng, You Lin Xu, Sheng Zhan et al.
+   - 年份: 2019
+   - 期刊: Journal of Wind Engineering and Industrial Aerodynamics
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 高实度直叶片VAWT在低叶尖速比下的独特气动特性与流场复杂性增强现象
+        本研究发现并详细测量了高实度直叶片垂直轴风力发电机在低叶尖速比工况下展现出的一种非传统的、优势与复杂性并存的气动现象。传统VAWT的性能优化多集中于中等叶尖速比范围，而本研究通过直接气动力测量，系统揭...
+   - 新方法（前2个）:
+     1. 用于旋转VAWT叶片的直接、同步气动力与方位角测量系统及方法
+        本研究创新性地设计并实现了一套完整的实验方法体系，用于直接、高精度地测量高速旋转状态下垂直轴风力发电机单个叶片所受的气动力（切向力与法向力），并实现与叶片实时方位角的高同步采集。该方法的核心理念是将高...
+
+
+[203] Paper ID: 2019_Impact_of_aerodynamic_modeling_on_seakeeping_performance_of_a_floating_horizontal_axis_wind_turbine
+   - 标题: Impact of aerodynamic modeling on seakeeping performance of a floating horizontal axis wind turbine
+   - 作者: Vincent Leroy, Jean Christophe Gilloteaux, Mattias Lynch et al.
+   - 年份: 2019
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮式风机平台运动诱导的非定常气动阻尼特性
+        论文通过对比准定常BEM模型与非定常自由涡尾迹（FVW）模型，揭示了一个关键新现象：在浮式水平轴风力机（FWT）受到平台纵荡和纵摇运动激励时，其气动阻尼特性表现出强烈的非定常性和自由度依赖性。传统基于...
+   - 新方法（前2个）:
+     1. 基于自由涡尾迹（FVW）理论与耐波性求解器的耦合仿真框架
+        论文开发并应用了一种新的FWT耦合仿真设计工具。该方法的核心是将一个高保真的非定常气动求解器（基于自由涡尾迹理论）与一个浮式平台耐波性（Seakeeping）求解器进行紧密耦合。FVW方法通过离散并跟...
+
+
+[204] Paper ID: 2019_Influence_of_microcylinders_with_different_vibration_laws_on_the_flow_control_effect_of_a_horizontal
+   - 标题: Influence of microcylinders with different vibration laws on the flow control effect of a horizontal axis wind turbine
+   - 作者: Ying Wang, Gaohui Li, Dahai Luo et al.
+   - 年份: 2019
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 振动微圆柱诱导的增强型反旋涡对及其对叶片流动分离的主动抑制现象
+        该论文揭示了一种由离面振动微圆柱主动诱导的新型涡动力学现象。当微圆柱被置于水平轴风力机（HAWT）叶片前缘附近的特定位置（如L=1.35E-2, Δ=1.35E-2），并按照特定规律（如45°斜向或垂...
+   - 新方法（前2个）:
+     1. 基于分段主动控制的离面振动微圆柱流动控制方法
+        本论文提出并系统验证了一种针对水平轴风力机叶片流动分离的创新型主动流动控制方法。该方法的核心是在叶片前缘外部安装一个或多个微圆柱，并使其按照预设的、非流致振动的主动控制律进行分段式振动。方法超越了该课...
+
+
+[205] Paper ID: 2019_Investigation_of_laminar_turbulent_transition_on_a_rotating_wind_turbine_blade_of_multimegawatt_clas
+   - 标题: Investigation of laminar-turbulent transition on a rotating wind-turbine blade of multimegawatt class with thermography and microphone array
+   - 作者: Torben Reichstein, Alois Peter Schaffarczyk, Christoph Dollinger et al.
+   - 年份: 2019
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 大型风力机叶片启动过程中的不规则大范围层流区
+        论文在2兆瓦风力机叶片启动过程中（转速从0到9 rpm），观测到吸力面上存在大范围但形状不规则的层流边界层区域。这一现象通过麦克风阵列和地面红外热像仪两种独立方法同时确认，表明在非稳态运行条件下，叶片...
+   - 新方法（前2个）:
+     1. 基于气动手套的多模态融合现场测量与验证方法
+        本论文提出并实践了一种创新的现场测量方法，核心是将一个集成化的“气动手套”安装在运行中兆瓦级风力机叶片上，作为多传感器平台。该手套集成了48个麦克风阵列，用于高分辨率捕捉边界层噪声以识别层流/湍流状态...
+
+
+[206] Paper ID: 2019_Investigations_on_the_unsteady_aerodynamic_characteristics_of_a_horizontal_axis_wind_turbine_during
+   - 标题: Investigations on the unsteady aerodynamic characteristics of a horizontal-axis wind turbine during dynamic yaw processes
+   - 作者: Xiaodong Wang, Zhaoliang Ye, Shun Kang et al.
+   - 年份: 2019
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[207] Paper ID: 2019_Large_eddy_simulation_of_an_onshore_wind_farm_with_the_actuator_line_model_including_wind_turbines_c
+   - 标题: Large eddy simulation of an onshore wind farm with the actuator line model including wind turbine’s control below and above rated wind speed
+   - 作者: Andrés Guggeri, Martín Draper
+   - 年份: 2019
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 主动功率控制下风电场机组间及尾流与大气边界层的非线性耦合动态
+        本文通过高保真的大涡模拟-致动线模型（LES-ALM）框架，结合完整的风机控制器（扭矩与集体变桨），首次在真实风电场的尺度上，系统地揭示了风机在主动降额（de-rate）控制下，其动态响应与大气边界层...
+   - 新方法（前2个）:
+     1. 集成高保真扭矩与变桨控制器的全耦合大涡模拟-致动线模型框架
+        本文提出并实现了一种创新的数值模拟方法：将适用于额定风速以下（区域2）的扭矩控制器和适用于额定风速以上（区域3）的集体变桨控制器，完全集成到基于CFD求解器Caffa3d的大涡模拟-致动线模型（LES...
+
+
+[208] Paper ID: 2019_Locating_and_tracking_sound_sources_on_a_horizontal_axis_wind_turbine_using_a_compact_microphone_arr
+   - 标题: Locating and tracking sound sources on a horizontal axis wind turbine using a compact microphone array based on beamforming
+   - 作者: Cui Qing Zhang, Zhi Ying Gao, Yong Yan Chen et al.
+   - 年份: 2019
+   - 期刊: Applied Acoustics
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 旋转噪声源在非定常转速与结构振动下的复合定位误差现象
+        论文在实验验证过程中，观察并定量分析了一种在实时跟踪旋转风力涡轮机叶片声源时出现的系统性误差现象。该现象表现为：在设定固定方位角步长（例如60°）进行离散化跟踪时，算法计算出的连续两个方位角之间的实际...
+   - 新方法（前2个）:
+     1. 基于瞬时速度补偿与延迟方位角旋转校正的波束成形跟踪算法
+        本论文提出了一种创新的声源定位与跟踪算法，专门用于解决旋转风力涡轮机叶片气动噪声源的实时、高精度识别问题。该方法以经典时域波束成形（Delay-and-Sum Beamforming）为核心框架，但进...
+
+
+[209] Paper ID: 2019_Multipoint_high_fidelity_CFD_based_aerodynamic_shape_optimization_of_a_10_MW_wind_turbine
+   - 标题: Multipoint high-fidelity CFD-based aerodynamic shape optimization of a 10 MW wind turbine
+   - 作者: Mads H.Aa Madsen, Frederik Zahle, Niels N. S?rensen et al.
+   - 年份: 2019
+   - 期刊: Wind Energy Science
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[210] Paper ID: 2019_Predictions_of_ice_formations_on_wind_turbine_blades_and_power_production_losses_due_to_icing
+   - 标题: Predictions of ice formations on wind turbine blades and power production losses due to icing
+   - 作者: Ozcan Yirtici, Serkan Ozgen, Ismail H. Tuncer
+   - 年份: 2019
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 叶片展向冰型混合演变现象
+        本论文明确识别并系统分析了在风力机叶片不同展向位置上，霜冰和明冰两种类型的冰可能同时形成的现象。这一现象源于叶片沿展向变化的局部气动条件：从叶根到叶尖，相对风速、攻角、有效温度等关键参数连续变化。在特...
+   - 新方法（前2个）:
+     1. 基于BEM与2D结冰预测的耦合性能评估框架
+        本文提出并实现了一个统一、全耦合的数值分析框架，用于预测结冰及其导致的功率损失。该框架的核心是将一个二维冰 accretion 预测工具（包含势流面元法、水滴轨迹拉格朗日追踪和热力学模型）与基于叶片元...
+
+
+[211] Paper ID: 2019_Study_of_adaptive_blades_in_extreme_environment_using_fluidstructure_interaction_method
+   - 标题: Study of adaptive blades in extreme environment using fluid–structure interaction method
+   - 作者: Weipao Miao, Chun Li, Yuanbo Wang et al.
+   - 年份: 2019
+   - 期刊: Journal of Fluids and Structures
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 台风极端环境下自适应叶片的被动气动弹性变形与载荷缓解耦合现象
+        该论文揭示了一种在台风极端风况下，具有弯扭耦合（Bend-Twist Coupling, BTC）特性的自适应叶片所表现出的特殊气动弹性现象。当叶片遭遇远超额定风速的极端来流时，传统的主动变桨和偏航控...
+   - 新方法（前2个）:
+     1. 面向弯扭耦合自适应叶片的高保真参数化流固耦合建模与仿真流程
+        本文提出了一套完整的、高保真的、参数化的流固耦合分析流程，专门用于快速设计和评估不同弯扭耦合叶片在极端环境下的性能。该流程始于参数化建模，能够系统性地生成具有不同几何耦合（如后掠）和材料耦合（复合材料...
+
+
+[212] Paper ID: 2019_Wake_effect_of_a_horizontal_axis_wind_turbine_on_the_performance_of_a_downstream_turbine_1
+   - 标题: Wake effect of a horizontal axis wind turbine on the performance of a downstream turbine
+   - 作者: Haojun Tang, Kit Ming Lam, Kei Man Shum et al.
+   - 年份: 2019
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[213] Paper ID: 2020_Aerodynamic_analysis_of_coning_effects_on_the_dtu_10_mw_wind_turbine_rotor_1
+   - 标题: Aerodynamic analysis of coning effects on the dtu 10 mw wind turbine rotor
+   - 作者: Zhenye Sun, Wei Jun Zhu, Wen Zhong Shen et al.
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[214] Paper ID: 2020_Aerodynamic_investigation_of_a_horizontal_axis_wind_turbine_with_split_winglet_using_computational_f_1
+   - 标题: Aerodynamic investigation of a horizontal axis wind turbine with split winglet using computational fluid dynamics
+   - 作者: Miguel Sumait Sy, Binoe Eugenio Abuan, Louis Angelo Macapili Danao
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[215] Paper ID: 2020_Aeroelastic_response_of_a_multi_megawatt_upwind_horizontal_axis_wind_turbine_HAWT_based_on_fluid_str
+   - 标题: Aeroelastic response of a multi-megawatt upwind horizontal axis wind turbine (HAWT) based on fluid-structure interaction simulation
+   - 作者: Yasir Shkara, Martin Cardaun, Ralf Schelenz et al.
+   - 年份: 2020
+   - 期刊: Wind Energy Science
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 考虑叶片-塔筒气动弹性耦合的塔筒非对称动态位移与气动阻尼演化现象
+        该论文通过高保真的流固耦合（FSI）模拟，首次在5 MW大型上风向风力机全工况下，系统揭示了考虑叶片-塔筒相互作用时，塔筒呈现出的非对称动态位移模式及其伴随的气动阻尼非线性演化现象。传统分析通常将塔筒...
+   - 新方法（前2个）:
+     1. 基于分区式耦合策略的高保真CFD-CSD双向流固耦合数值模拟框架（用于大型上风向HAWT）
+        本文提出并实施了一套完整的、针对多兆瓦级上风向水平轴风力机的双向流固耦合数值模拟框架。该方法的核心是将计算流体力学（CFD）求解器与计算结构动力学（CSD）求解器通过一个分区式（partitioned...
+
+
+[216] Paper ID: 2020_Design_of_a_robust_adaptive_controller_for_the_pitch_and_torque_control_of_wind_turbines_1
+   - 标题: Design of a robust adaptive controller for the pitch and torque control of wind turbines
+   - 作者: Srikanth Bashetty, Joaquin I. Guillamon, Shanmukha S. Mutnuri et al.
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[217] Paper ID: 2020_Dynamic_response_of_articulated_offshore_wind_turbines_under_different_water_depths
+   - 标题: Dynamic response of articulated offshore wind turbines under different water depths
+   - 作者: Pei Zhang, Shugeng Yang, Yan Li et al.
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[218] Paper ID: 2020_Effect_of_air_ducted_blade_design_on_horizontal_axis_wind_turbine_performance
+   - 标题: Effect of air-ducted blade design on horizontal axis wind turbine performance
+   - 作者: Cemil Yigit
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[219] Paper ID: 2020_Effect_of_platform_disturbance_on_the_performance_of_offshore_wind_turbine_under_pitch_control
+   - 标题: Effect of platform disturbance on the performance of offshore wind turbine under pitch control
+   - 作者: Saeed Karimian Aliabadi, Sepehr Rasekh
+   - 年份: 2020
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[220] Paper ID: 2020_Experimental_study_of_ice_accretion_on_S826_S832_wind_turbine_blade_profiles
+   - 标题: Experimental study of ice accretion on S826 & S832 wind turbine blade profiles
+   - 作者: Jia Yi Jin, Muhammad Shakeel Virk
+   - 年份: 2020
+   - 期刊: Cold Regions Science and Technology
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. S832翼型在湿冰条件下独特的“集中单一大冰角”结构与流场分离现象
+        本研究发现，在相同的湿冰（过冷水滴、-5°C）条件下，具有不同几何外形的S826和S832翼型呈现出截然不同的积冰形态及流场响应。S832翼型展现出一种独特的“集中单一大冰角”积冰结构。该冰角主要形成...
+   - 新方法（前2个）:
+     1. 基于真实积冰形状的CFD气动性能精准评估方法
+        本文提出并实践了一种“实验-模拟解耦协同”的高置信度气动性能评估方法。其核心创新在于摒弃了传统的、误差较大的“人工模拟冰形”或“CFD预测冰形+气动评估”的单一路径，转而采用一种“双通道”验证策略。具...
+
+
+[221] Paper ID: 2020_Identification_of_airfoil_polars_from_uncertain_experimental_measurements
+   - 标题: Identification of airfoil polars from uncertain experimental measurements
+   - 作者: Chengyu Wang, Filippo Campagnolo, Carlo L. Bottasso
+   - 年份: 2020
+   - 期刊: Wind Energy Science
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 1, 对象 0
+   - 新方法（前2个）:
+     1. 基于贝叶斯推理和马尔可夫链蒙特卡洛（MCMC）的不确定实验测量翼型极曲线识别方法
+        该方法旨在从包含不确定性的风洞实验测量数据中，稳健地识别出翼型的空气动力学极曲线（升力系数Cl、阻力系数Cd与攻角α的关系）。其核心思想是将翼型极曲线的识别问题构建为一个贝叶斯推断问题。该方法不直接寻...
+
+
+[222] Paper ID: 2020_Is_the_Blade_Element_Momentum_theory_overestimating_wind_turbine_loads_An_aeroelastic_comparison_bet
+   - 标题: Is the Blade Element Momentum theory overestimating wind turbine loads?-An aeroelastic comparison between OpenFAST's AeroDyn and QBlade's Lifting-Line Free Vortex Wake method
+   - 作者: Sebastian Perez-Becker, Francesco Papi, Joseph Saverin et al.
+   - 年份: 2020
+   - 期刊: Wind Energy Science
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[223] Paper ID: 2020_New_vortex_lift_and_tangential_force_models_for_HAWT_aerodynamic_load_prediction
+   - 标题: New vortex-lift and tangential-force models for HAWT aerodynamic load prediction
+   - 作者: Moutaz Elgammi, Gerard Schepers, Salem Osta-Omar
+   - 年份: 2020
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 旋转叶片三维动态失速与失速延迟的耦合效应
+        该论文深入研究了水平轴风力机（HAWT）旋转叶片在三维、非定常流动条件下的复杂气动现象。核心现象是失速延迟（stall delay）与动态失速（dynamic stall）在旋转叶片上的耦合作用及其对...
+   - 新方法（前2个）:
+     1. 集成三维旋转效应的动态失速涡模型与非线性切向力系数模型
+        论文提出了一套创新的工程气动建模方法，核心是开发了两个新的模块：1) 动态失速涡模型：该模型在传统动态失速模型（描述前缘涡的产生、对流和脱落）中，显式地嵌入了三维旋转效应的影响。2) 非线性切向力系数...
+
+
+[224] Paper ID: 2020_Study_of_ice_accretion_on_horizontal_axis_wind_turbine_blade_using_2d_and_3d_numerical_approach
+   - 标题: Study of ice accretion on horizontal axis wind turbine blade using 2d and 3d numerical approach
+   - 作者: Jia Yi Jin, Muhammad Shakeel Virk, Qin Hu et al.
+   - 年份: 2020
+   - 期刊: IEEE Access
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 2D与3D结冰模拟中流场与结冰特性的系统性差异现象
+        本研究发现，对于同一风力机叶片结冰过程，采用2D（截面）和3D（全尺寸）CFD数值模拟方法，在流场特性、水滴碰撞行为以及最终的冰形与冰厚预测上存在显著且系统性的差异。在流场方面，2D模拟预测了更高的来...
+   - 新方法（前2个）:
+     1. 面向风力机叶片结冰评估的2D与3D CFD模拟系统对比方法
+        本文提出并实施了一套系统性的、用于评估风力机叶片结冰的2D与3D全尺度CFD对比研究方法论。该方法的核心不是开发一种全新的结冰算法，而是创新性地设计并执行了一个严格控制变量的对比实验框架。该框架选取同...
+
+
+[225] Paper ID: 2020_The_effect_of_a_leading_edge_erosion_shield_on_the_aerodynamic_performance_of_a_wind_turbine_blade
+   - 标题: The effect of a leading edge erosion shield on the aerodynamic performance of a wind turbine blade
+   - 作者: Ryan Kyle, Fan Wang, Brian Forbes
+   - 年份: 2020
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[226] Paper ID: 2020_The_impact_of_pitch_to_stall_and_pitch_to_feather_control_on_the_structural_loads_and_the_pitch_mech
+   - 标题: The impact of pitch-to-stall and pitch-to-feather control on the structural loads and the pitch mechanism of a wind turbine
+   - 作者: Arash E. Samani, Jeroen D.M. de Kooning, Nezmin Kayedpour et al.
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 失速控制下特定叶型在湍流风场中挥舞弯矩的异常增加
+        论文研究发现，在采用失速控制（Pitch-to-Stall）时，对于失速调节型（stall-regulated）叶片设计，在均匀风场中，其叶根挥舞弯矩（flapwise moment）相较于顺桨控制（...
+   - 新方法（前2个）:
+     1. 面向多目标对比的Pitch-to-Stall与Pitch-to-Feather控制统一分析与验证框架
+        本文提出并实施了一套系统性的对比分析方法，用于在统一平台上评估失速控制与顺桨控制对水平轴风力机的综合影响。该方法的核心不是发明一种全新的控制器，而是构建一个涵盖气动、结构、控制的完整仿真环境，并定义一...
+
+
+[227] Paper ID: 2020_Tower_shadow_induced_blade_loads_for_an_extreme_scale_downwind_turbine
+   - 标题: Tower shadow induced blade loads for an extreme-scale downwind turbine
+   - 作者: Carlos Noyes, Chao Qin, Eric Loth
+   - 年份: 2020
+   - 期刊: Wind Energy
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 锁数主导的塔影疲劳损伤尺度效应
+        该论文揭示了一个关于下风向风力机塔影效应重要性的新现象：塔影引起的叶片疲劳损伤的相对重要性并非简单地随叶片尺寸增大而线性增加，而是由叶片的锁数（Lock Number）这一无量纲参数主导。锁数定义为气...
+   - 新方法（前2个）:
+     1. 基于锁数参数的塔影效应重要性跨尺度普适性评估框架
+        本文提出了一种新的方法论框架，用于系统评估塔影效应在不同尺度下风向风力机疲劳损伤中的重要性。该方法的核心不是针对单一机型进行复杂的流固耦合仿真，而是通过引入锁数这一关键气弹相似参数，将不同尺寸、不同设...
+
+
+[228] Paper ID: 2020_Wake_statistics_of_different_scalewind_turbines_under_turbulent_boundary_layer_inflow
+   - 标题: Wake statistics of different-scalewind turbines under turbulent boundary layer inflow
+   - 作者: Xiaolei Yang, Daniel Foti, Christopher Kelley et al.
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 不同尺度风力机在相同湍流边界层来流下的尾流统计特性差异
+        该研究通过大涡模拟（LES）和致动器表面模型（ASM），首次系统揭示了在完全相同的湍流边界层来流条件下，几何、运动学相似但尺寸不同的风力机（全尺度T80，转子直径80米；子尺度T27，转子直径27米）...
+   - 新方法（前2个）:
+     1. 基于VFS-Wind代码的“控制变量法”高保真度尾流尺度效应数值实验框架
+        本研究构建了一套创新的数值实验方法，核心在于利用高保真度的大涡模拟（LES）结合致动器表面模型（ASM），在严格“控制变量”的条件下，孤立地研究“风力机物理尺度”对尾流的影响。该方法的关键步骤包括：1...
+
+
+[229] Paper ID: 2020_Wind_turbine_blade_optimal_design_considering_multi_parameters_and_response_surface_method
+   - 标题: Wind turbine blade optimal design considering multi-parameters and response surface method
+   - 作者: Sang Lae Lee, Sang Joon Shin
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 多参数协同交互对全局气动效率的非线性提升现象
+        该论文在研究过程中揭示了一个关键现象：当同时、系统地调整叶片多个宏观几何参数（弦长、最大弦长位置、扭角）时，其对风轮整体气动效率（Cp）的提升效果并非各参数独立优化效果的简单线性叠加，而是呈现出显著的...
+   - 新方法（前2个）:
+     1. 基于二阶响应面法（RSM）与BEMT的多参数同步优化框架
+        本文提出了一种将经典气动分析工具（Blade Element Momentum Theory, BEMT）与实验设计及响应面法（Response Surface Methodology, RSM）相结...
+
+
+[230] Paper ID: 2020_Wind_turbines_with_truncated_blades_may_be_a_possibility_for_dense_wind_farms_1
+   - 标题: Wind turbines with truncated blades may be a possibility for dense wind farms
+   - 作者: Shyuan Cheng, Yaqing Jin, Leonardo P. Chamorro
+   - 年份: 2020
+   - 期刊: Energies
+   - 评分: 77.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[231] Paper ID: 2018_Aerodynamic_optimization_of_wind_turbine_rotor_using_CFDAD_method
+   - 标题: Aerodynamic optimization of wind turbine rotor using CFD/AD method
+   - 作者: Jiufa Cao, Weijun Zhu, Tongguang Wang et al.
+   - 年份: 2018
+   - 期刊: Modern Physics Letters B
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于二维轴对称CFD/AD模型准确表征三维旋转流场的新现象
+        该论文揭示了一个重要的新现象：通过将叶素动量理论（BEM）与二维计算流体动力学（CFD）结合，并引入额外的体积力源项（Actuator Disc, AD），可以在二维轴对称假设下，准确模拟和表征风轮旋...
+   - 新方法（前2个）:
+     1. 基于CFD/AD模型与高效全局优化（EGO）算法的风轮气动优化框架
+        本文提出了一种全新的风轮气动优化设计方法框架。该方法的核心是将前述的CFD/AD气动分析模型（作为高保真、中等成本的目标函数计算器）与高效全局优化（Efficient Global Optimizat...
+
+
+[232] Paper ID: 2018_Application_of_a_turbulent_vortex_core_model_in_the_free_vortex_wake_scheme_to_predict_wind_turbine
+   - 标题: Application of a turbulent vortex core model in the free vortex wake scheme to predict wind turbine aerodynamics
+   - 作者: Bofeng Xu, Junheng Feng, Tongguang Wang et al.
+   - 年份: 2018
+   - 期刊: Journal of Renewable and Sustainable Energy
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[233] Paper ID: 2018_Development_of_thick_airfoils_for_outboard_sections_and_investigation_into_their_application_for_lar
+   - 标题: Development of thick airfoils for outboard sections and investigation into their application for large rotors
+   - 作者: Marco Caboni, Koen Boorsma, Stoyan Kanev
+   - 年份: 2018
+   - 期刊: Wind Engineering
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[234] Paper ID: 2018_Numerical_simulations_of_a_large_offshore_wind_turbine_exposed_to_turbulent_inflow_conditions
+   - 标题: Numerical simulations of a large offshore wind turbine exposed to turbulent inflow conditions
+   - 作者: Galih Bangga, Giorgia Guma, Thorsten Lutz et al.
+   - 年份: 2018
+   - 期刊: Wind Engineering
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[235] Paper ID: 2018_Unsteady_aerodynamic_modeling_and_control_of_the_wind_turbine_with_trailing_edge_flap
+   - 标题: Unsteady aerodynamic modeling and control of the wind turbine with trailing edge flap
+   - 作者: Wenguang Zhang, Yifeng Wang, Ruijie Liu et al.
+   - 年份: 2018
+   - 期刊: Journal of Renewable and Sustainable Energy
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[236] Paper ID: 2018_Wind_induced_fatigue_of_large_HAWT_coupled_towerblade_structures_considering_aeroelastic_and_yaw_eff
+   - 标题: Wind-induced fatigue of large HAWT coupled tower–blade structures considering aeroelastic and yaw effects
+   - 作者: Shitang Ke, Tongguang Wang, Yaojun Ge et al.
+   - 年份: 2018
+   - 期刊: Structural Design of Tall and Special Buildings
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 偏航状态下风力机塔架-叶片耦合系统的多模态耦合疲劳损伤加剧现象
+        该论文揭示了一个在风力机疲劳分析中未被充分量化的重要现象：当风力机处于偏航状态时，其塔架与叶片耦合系统的动态响应会呈现出显著的多模态耦合特征，并导致关键部件（特别是叶片根部）的疲劳损伤急剧加剧。具体表...
+   - 新方法（前2个）:
+     1. 考虑气弹与偏航效应的风力机塔架-叶片耦合结构疲劳寿命集成预测方法
+        本文提出了一套完整的、集成的时域分析框架，用于预测大型水平轴风力机在考虑气弹效应和偏航效应下的风致疲劳寿命。该方法不是单一算法的创新，而是对多个关键环节进行针对性改进和系统整合的创新。核心流程（图6）...
+
+
+[237] Paper ID: 2019_Adjoint_based_high_fidelity_structural_optimization_of_wind_turbine_blade_for_load_stress_minimizati
+   - 标题: Adjoint-based high-fidelity structural optimization of wind-turbine blade for load stress minimization
+   - 作者: Evan M. Anderson, Faisal Hasan Bhuiyan, Dimitri J. Mavriplis et al.
+   - 年份: 2019
+   - 期刊: AIAA Journal
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[238] Paper ID: 2019_Experimental_Study_on_Aerodynamic_Characteristics_of_the_Model_Wind_Rotor_System_and_on_Characteriza
+   - 标题: Experimental Study on Aerodynamic Characteristics of the Model Wind Rotor System and on Characterization of A Wind Generation System
+   - 作者: Long Meng, Yan ping He, Yong sheng Zhao et al.
+   - 年份: 2019
+   - 期刊: China Ocean Engineering
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[239] Paper ID: 2019_Multidisciplinary_design_and_verification_of_the_HB_flatback_airfoil_family
+   - 标题: Multidisciplinary design and verification of the HB flatback airfoil family
+   - 作者: Mehdi Doosttalab, Olaf Frommann
+   - 年份: 2019
+   - 期刊: AIAA Journal
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 平背翼型后缘区域压力恢复现象
+        论文通过风洞实验和CFD模拟，深入揭示并量化了在HB平背翼型上观察到的独特压力恢复现象。与传统尖后缘翼型在接近后缘处压力迅速回升（趋于尾迹压力）不同，该现象表现为：在翼型后缘附近的上表面（吸力面）和下...
+   - 新方法（前2个）:
+     1. 融合模糊逻辑与模拟退火算法的多学科翼型优化方法
+        本文提出并实施了一套完整的多学科设计优化（MDO）流程，专门用于平背翼型设计。该方法的核心创新在于将模糊逻辑系统集成到优化框架中，用以处理多个相互竞争且重要性不同的气动与结构目标。具体流程是：1）使用...
+
+
+[240] Paper ID: 2019_Nonlinear_aeroelastic_analysis_of_large_wind_turbines_under_turbulent_wind_conditions_1
+   - 标题: Nonlinear aeroelastic analysis of large wind turbines under turbulent wind conditions
+   - 作者: Aditya K. Sabale, Nagendra K.V. Gopal
+   - 年份: 2019
+   - 期刊: AIAA Journal
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[241] Paper ID: 2019_Numerical_Simulation_of_Horizontal_Axis_Wind_Turbines_with_Vortex_Generators
+   - 标题: Numerical Simulation of Horizontal Axis Wind Turbines with Vortex Generators
+   - 作者: Hak Min Lee, Oh Joon Kwon
+   - 年份: 2019
+   - 期刊: International Journal of Aeronautical and Space Sciences
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[242] Paper ID: 2019_Numerical_study_on_the_effect_of_blade_surface_deterioration_by_erosion_on_the_performance_of_a_larg
+   - 标题: Numerical study on the effect of blade surface deterioration by erosion on the performance of a large wind turbine
+   - 作者: Heejeon Im, Bumsuk Kim
+   - 年份: 2019
+   - 期刊: Journal of Renewable and Sustainable Energy
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 前缘不规则侵蚀诱导的提前失速现象
+        论文通过CFD模拟揭示了风力机叶片前缘在长期运行后，由于侵蚀损伤导致的非对称、不规则表面形貌会引发一种独特的空气动力学现象——提前失速。这种现象表现为，在远低于设计攻角的条件下，气流在叶片前缘侵蚀区域...
+   - 新方法（前2个）:
+     1. 基于真实废弃叶片形貌的侵蚀建模与三维瞬态CFD性能评估框架
+        本文提出并实施了一套完整的、用于量化前缘侵蚀对大型风力机性能影响的高保真数值研究框架。该方法的核心创新在于其端到端的逼真度：首先，以运行约12年后废弃叶片的实际前缘侵蚀状态为蓝本，对侵蚀形貌进行几何建...
+
+
+[243] Paper ID: 2019_Study_on_wake_induced_fatigue_on_wind_turbine_blade_based_on_elastic_actuator_line_model_and_two_dim
+   - 标题: Study on wake-induced fatigue on wind turbine blade based on elastic actuator line model and two-dimensional finite element model
+   - 作者: Hang Meng, Fue Sang Lien, Gregory Glinka et al.
+   - 年份: 2019
+   - 期刊: Wind Engineering
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[244] Paper ID: 2019_The_influence_of_oscillating_trailing_edge_flap_on_the_dynamic_stall_control_of_a_pitching_wind_turb
+   - 标题: The influence of oscillating trailing-edge flap on the dynamic stall control of a pitching wind turbine airfoil
+   - 作者: Mahbod Seyednia, Mehran Masdari, Shidvash Vakilipour
+   - 年份: 2019
+   - 期刊: Journal of the Brazilian Society of Mechanical Sciences and Engineering
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. DTEF引起的翼型弯度线动态改变对压力分布的主导影响
+        本研究揭示了一个核心新现象：在俯仰振荡的翼型上，安装并与之反相振荡的变形后缘襟翼（DTEF），其控制动态失速和载荷的核心物理机制，并非传统认知中主要通过直接影响动态失速涡的生成、发展和脱落，而是通过D...
+   - 新方法（前2个）:
+     1. 基于URANS与OpenFOAM的“开环流控制”参数化设计与评估方法
+        本文提出并系统应用了一套用于评估振荡式DTEF对俯仰翼型动态失速控制效能的数值研究范式。该方法的核心是“开环流控制”理念，即预先设定DTEF的运动规律（正弦振荡，与翼型运动频率相同但相位相反），并在此...
+
+
+[245] Paper ID: 2020_Equivalent_beam_modeling_scheme_based_on_three_dimensional_structure_with_blade_element_concept
+   - 标题: Equivalent beam modeling scheme based on three-dimensional structure with blade element concept
+   - 作者: Sang Lae Lee
+   - 年份: 2020
+   - 期刊: Advanced Composite Materials
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 1, 对象 0
+   - 新方法（前2个）:
+     1. 基于叶片单元和三维有限元反演的等效梁建模方法
+        本文提出了一种创新的、系统的等效梁建模框架，用于从复杂的三维风机叶片复合材料有限元（FE）模型中提取一维梁的结构属性。该方法的核心是基于‘叶片单元概念’，将整个叶片沿展向离散为多个独立的截面单元。与传...
+
+
+[246] Paper ID: 2020_Hydro_servo_aero_elastic_analysis_of_floating_offshore_wind_turbines
+   - 标题: Hydro-servo-aero-elastic analysis of floating offshore wind turbines
+   - 作者: Dimitris I. Manolas, Vasilis A. Riziotis, George P. Papadakis et al.
+   - 年份: 2020
+   - 期刊: Fluids
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 漂浮式风机在复杂环境载荷下的隐式耦合动力学现象
+        该论文揭示并系统建模了漂浮式海上风机（FOWT）在风、浪、流、结构弹性及控制系统共同作用下，各物理场之间产生的复杂、非线性、隐式耦合动力学现象。这种现象的核心在于，FOWT的六个自由度运动（纵荡、横荡...
+   - 新方法（前2个）:
+     1. 基于非线性多体动力学的全隐式耦合水-控-气-弹仿真框架
+        论文提出并实现了一个全新的、统一的数值仿真框架，用于对FOWT进行全耦合的“水-控-气-弹”分析。该方法的核心是将风力机（包括柔性叶片、塔架、机舱）、浮式基础、系泊系统建模为一个完整的非线性多体系统。...
+
+
+[247] Paper ID: 2020_Influence_of_atmospheric_conditions_on_the_power_production_of_utility_scale_wind_turbines_in_yaw_mi
+   - 标题: Influence of atmospheric conditions on the power production of utility-scale wind turbines in yaw misalignment
+   - 作者: Michael F. Howland, Carlos Moral González, Juan José Pena Martínez et al.
+   - 年份: 2020
+   - 期刊: Journal of Renewable and Sustainable Energy
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 偏航工况下自由流风力机功率产出的非对称性及其与大气条件的非线性耦合
+        该论文通过现场实验，首次在兆瓦级实用风力机上系统性地观测并量化了偏航工况下风力机功率产出的非对称性现象。具体表现为：当风力机向不同方向偏航（例如，顺时针偏航 vs. 逆时针偏航）相同的角度时，其功率损...
+   - 新方法（前2个）:
+     1. 融合大气剪切流与风向偏转的偏航风力机气动-控制耦合功率预测模型
+        本文提出了一种新的物理模型，用于预测偏航工况下风力机的功率输出。该模型的核心创新在于将非均匀的入流风场（包含垂直风剪切和水平风向偏转）完整地集成到叶素动量理论（BEM）框架中，并考虑了风力机变速变桨控...
+
+
+[248] Paper ID: 2020_Parameter_design_and_optimization_for_camber_of_vertical_axis_offshore_wind_turbine_using_CFD
+   - 标题: Parameter design and optimization for camber of vertical axis offshore wind turbine using CFD
+   - 作者: Lin Pan, Zhaoyang Shi, Haodong Xiao
+   - 年份: 2020
+   - 期刊: Journal of Ocean Engineering and Marine Energy
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[249] Paper ID: 2020_Power_prediction_of_wind_farms_via_a_simplified_actuator_disk_model_1
+   - 标题: Power prediction of wind farms via a simplified actuator disk model
+   - 作者: Yen Cheng Chiang, Yu Cheng Hsu, Shiu Wu Chau
+   - 年份: 2020
+   - 期刊: Journal of Marine Science and Engineering
+   - 评分: 73.60
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于典型工况简化的风电场年发电量预测误差收敛现象
+        该论文揭示了一个在风电场长期功率预测中重要的工程现象：通过从SCADA系统中识别并提取有限数量的“典型风况”，并基于这些典型工况构建功率矩阵，可以显著降低计算需求，同时将年发电量（容量因子）的预测误差...
+   - 新方法（前2个）:
+     1. 基于稳态RANS与k-ε湍流模型的简化致动盘（SAD-RANS）非线性尾流预测方法
+        该方法提出了一种介于线性尾流模型与大型涡模拟（LES）之间的中等保真度风电场功率预测模型。其核心是将风电机组转子简化为一个施加体积力的“致动盘”，并将该体积力均匀分布在致动盘所覆盖的笛卡尔网格单元中。...
+
+
+[250] Paper ID: 2020_Structural_damping_sensitivity_affecting_the_flutter_performance_of_a_10_MW_offshore_wind_turbine
+   - 标题: Structural damping sensitivity affecting the flutter performance of a 10-MW offshore wind turbine
+   - 作者: Xugang Hua, Qingshen Meng, Bei Chen et al.
+   - 年份: 2020
+   - 期刊: Advances in Structural Engineering
+   - 评分: 73.60
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[251] Paper ID: 2026_Experimental_investigation_of_the_potential_of_wedge_flaps_for_improving_the_aerodynamic_performance
+   - 标题: Experimental investigation of the potential of wedge flaps for improving the aerodynamic performance of a straight-bladed vertical axis wind turbine
+   - 作者: Asmail A.M. Abdalkarem, Ahmad Fazlizan, Najm Addin Al-Khawlani et al.
+   - 年份: 2026
+   - 期刊: Energy Conversion and Management X
+   - 评分: 63.50
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[252] Paper ID: 2026_Optimized_H_Shaped_VAWT_for_Tilted_Operation_Computational_Fluid_Dynamics_Evaluation_of_Design_and_O
+   - 标题: Optimized H-Shaped VAWT for Tilted Operation: Computational Fluid Dynamics Evaluation of Design and Off-Design Conditions
+   - 作者: Otman Kouaissah, Nicoletta Franchina, Giacomo Persico et al.
+   - 年份: 2026
+   - 期刊: Journal of Engineering for Gas Turbines and Power
+   - 评分: 63.50
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[253] Paper ID: 2024_Aerodynamic_and_Structural_Assessment_of_Floating_Wind_Turbine_Rotor_under_Varying_Tilt_Angle_1
+   - 标题: Aerodynamic and Structural Assessment of Floating Wind Turbine Rotor under Varying Tilt Angle
+   - 作者: H. H. Mian, M. S. Siddiqui, N. Franchina et al.
+   - 年份: 2024
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 60.50
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 动态倾斜角变化下的非定常气动载荷耦合现象
+        该论文深入研究了漂浮式风力机在动态倾斜角变化下，其转子气动载荷与平台运动、结构响应之间产生的复杂耦合现象。传统固定式风力机或稳态分析中，倾斜角通常被视为固定参数或小扰动。然而，对于FOWT，由于波浪引...
+   - 新方法（前2个）:
+     1. 基于高保真度CFD-CSD耦合的FOWT转子动态倾斜气动弹性分析方法
+        本文提出并实施了一套针对FOWT转子在动态倾斜工况下的高保真度气动弹性分析框架。该方法的核心是将瞬态计算流体动力学（CFD）求解器与多体动力学/有限元结构（CSD）求解器进行强耦合（或紧耦合）集成。C...
+
+
+[254] Paper ID: 2024_Qualitative_Investigation_of_Wake_Composition_in_Offshore_Wind_Turbines_A_Combined_Computational_and
+   - 标题: Qualitative Investigation of Wake Composition in Offshore Wind Turbines: A Combined Computational and Statistical Analysis of Inner and Outer Blade Sections
+   - 作者: M. Salman Siddiqui, Abdul Waheed Badar, Liang Yang et al.
+   - 年份: 2024
+   - 期刊: E3s Web of Conferences
+   - 评分: 60.50
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 近尾流中桨叶内段与外段涡结构的能量占比与演化模式差异
+        该研究通过高保真RANS模拟结合本征正交分解（POD）方法，首次系统性地揭示了海上风力机尾流中，由桨叶内段（中央区域）产生的涡结构与桨叶外段（叶尖区域）产生的涡结构在能量含量、空间模态和演化动力学上存...
+   - 新方法（前2个）:
+     1. 基于POD模态能量谱的尾流内外段涡结构定量解耦与表征方法
+        本研究提出并应用了一种结合计算流体力学（CFD）快照数据库与本征正交分解（POD）的混合分析方法，旨在定量解耦和表征风力机尾流中叶尖涡与内段（中央）涡结构的独立贡献。方法的核心流程是：首先，通过高保真...
+
+
+[255] Paper ID: 2024_Research_of_biomimetic_corrugation_on_the_blade_flutter_suppression_in_large_scale_wind_turbine_syst
+   - 标题: Research of biomimetic corrugation on the blade flutter suppression in large-scale wind turbine systems
+   - 作者: Lijun Zhang, Kaifei Wang, Xu Zhang et al.
+   - 年份: 2024
+   - 期刊: Bioinspiration and Biomimetics
+   - 评分: 60.50
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[256] Paper ID: 2024_Study_on_aerodynamic_and_structural_performance_of_floating_offshore_wind_turbine_with_fusion_wingle
+   - 标题: Study on aerodynamic and structural performance of floating offshore wind turbine with fusion winglets
+   - 作者: Danmei Hu, Jie Yin, Li Zeng et al.
+   - 年份: 2024
+   - 期刊: Journal of the Chinese Institute of Engineers Transactions of the Chinese Institute of Engineers Series A
+   - 评分: 60.50
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[257] Paper ID: 2024_Unsteady_dynamic_load_and_output_performance_of_the_rotor_using_the_dynamic_wake_theory
+   - 标题: Unsteady dynamic load and output performance of the rotor using the dynamic wake theory
+   - 作者: Zhiguo Li, Zhiying Gao, Yongyan Chen et al.
+   - 年份: 2024
+   - 期刊: Energy Sources Part A Recovery Utilization and Environmental Effects
+   - 评分: 60.50
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[258] Paper ID: 2021_Aeroelastic_performance_analysis_of_horizontal_axis_wind_turbine_HAWT_swept_blades
+   - 标题: Aeroelastic performance analysis of horizontal axis wind turbine (HAWT) swept blades
+   - 作者: Saravana Kannan Thangavelu, Shin Fatt Chow, Charlie Chin Voon Sia et al.
+   - 年份: 2021
+   - 期刊: Materials Today Proceedings
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[259] Paper ID: 2021_CFD_SIMULATION_ON_WIND_TURBINE_BLADES_WITH_LEADING_EDGE_EROSION1
+   - 标题: CFD SIMULATION ON WIND TURBINE BLADES WITH LEADING EDGE EROSION1
+   - 作者: Yan Wang, Liang Wang, Chenglin Duan et al.
+   - 年份: 2021
+   - 期刊: Journal of Theoretical and Applied Mechanics Poland
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 前缘侵蚀诱导的复杂三维流动分离与再附着现象
+        该论文通过CFD模拟，系统揭示了风力机叶片前缘发生侵蚀后，在叶片吸力面诱导产生的一种非定常、三维的复杂流动分离与再附着现象。具体表现为：在侵蚀坑（如浅坑、沟槽）的下游，原本附着在叶片表面的层流边界层在...
+   - 新方法（前2个）:
+     1. 基于参数化侵蚀几何的CFD性能影响量化评估框架
+        本文提出并应用了一套系统的计算流体力学（CFD）分析框架，用于量化评估前缘侵蚀对风力机叶片气动性能的影响。该框架的核心流程是：首先，对常见的侵蚀类型（如浅坑、沟槽、分层）进行抽象和参数化几何建模；然后...
+
+
+[260] Paper ID: 2021_Effect_of_blade_pitch_angle_on_the_aerodynamic_characteristics_of_a_twisted_blade_horizontal_axis_wi
+   - 标题: Effect of blade pitch angle on the aerodynamic characteristics of a twisted blade horizontal axis wind turbine based on numerical simulations
+   - 作者: Rajendra Roul, Awadhesh Kumar
+   - 年份: 2021
+   - 期刊: International Journal of Power Electronics and Drive Systems
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 高桨距角（25°和28°）下的非单调失速行为与异常性能趋势
+        该研究发现，对于25°和28°的高桨距角设置，在风速从8 m/s变化到24 m/s的范围内，风力机产生的扭矩和功率呈现出单调下降的趋势，这与经典失速控制理念下的性能曲线有显著区别。在传统认知中，固定桨...
+   - 新方法（前2个）:
+     1. 基于高精度CFD的多参数（桨距角-风速-转速）协同优化研究策略
+        本文提出并实施了一种系统性的、基于高保真度计算流体动力学（CFD）的风力机气动性能多参数协同研究方法。该方法的核心思想是摒弃传统的单变量或有限变量研究模式，通过构建一个密集的参数空间网格（7个桨距角 ...
+
+
+[261] Paper ID: 2021_Enhancement_of_a_horizontal_axis_wind_turbine_airfoil_performance_using_single_dielectric_barrier_di
+   - 标题: Enhancement of a horizontal axis wind turbine airfoil performance using single dielectric barrier discharge plasma actuator
+   - 作者: Mohaddeseh Fadaei, Ali R. Davari, Fereidoun Sabetghadam et al.
+   - 年份: 2021
+   - 期刊: Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy
+   - 评分: 56.00
+   - 创新点统计: 现象 2, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 激励参数与气动系数间的确定性线性关系
+        论文通过深入的参数化数值研究发现，在等离子体激励器（SDBD-PA）作用下，翼型的升力系数、阻力系数以及升阻比随激励频率的变化呈现出清晰的线性模式。这一现象是在大范围参数扫描（包括不同激励电压、激励位...
+     2. 多参数间存在显著非线性交互作用
+        论文在系统性的参数化研究中，发现了激励器位置、激励电压、攻角（AOA）和来流速度（雷诺数）这些关键参数之间，对最终气动性能的影响并非简单的独立叠加，而是存在着“显著的非线性交互作用”。这意味着，改变一...
+   - 新方法（前2个）:
+     1. 面向风力涡轮机翼型的系统化参数协同研究范式
+        本论文并非提出一种全新的等离子体模拟算法或实验技术，而是提出并践行了一种针对风力涡轮机应用场景的、全新的 **“系统化参数协同研究范式”**。该方法的核心思想是：将影响等离子体流动控制效果的五个关键维...
+
+
+[262] Paper ID: 2021_Load_control_and_unsteady_aerodynamics_for_floating_wind_turbines
+   - 标题: Load control and unsteady aerodynamics for floating wind turbines
+   - 作者: Xin Shen, Xiaocheng Zhu, Zhaohui Du
+   - 年份: 2021
+   - 期刊: Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[263] Paper ID: 2021_Method_to_control_flow_separation_over_wind_turbine_blade_A_CFD_study
+   - 标题: Method to control flow separation over wind turbine blade: A CFD study
+   - 作者: Pankaj Negi, Maharshi Subhash
+   - 年份: 2021
+   - 期刊: Materials Today Proceedings
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[264] Paper ID: 2021_Modeling_and_simulation_of_forces_applied_to_the_horizontal_axis_wind_turbine_rotors_by_the_vortex_m
+   - 标题: Modeling and simulation of forces applied to the horizontal axis wind turbine rotors by the vortex method coupled with the method of the blade element
+   - 作者: Ibtissem Barkat, Abdelouahab Benretem, Fawaz Massouh et al.
+   - 年份: 2021
+   - 期刊: International Journal of Power Electronics and Drive Systems
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于涡环-叶素耦合模型的尾迹涡结构演化新特征
+        论文通过将自由尾迹涡方法与叶素理论（BEM）耦合，模拟了水平轴风力机转子周围的流场，特别是尾迹中涡结构的详细演化过程。该方法捕捉到了传统BEM理论无法描述的复杂三维非定常涡动力学现象。具体而言，模型揭...
+   - 新方法（前2个）:
+     1. 叶素理论（BEM）与自由尾迹涡方法的紧耦合建模与仿真框架
+        本文提出并实现了一种将叶素动量理论（BEM）与自由尾迹涡方法进行紧耦合的集成建模与仿真框架，用于计算水平轴风力机转子所受的气动载荷。该方法的核心思想是：利用BEM方法计算叶片各剖面在局部入流条件下的升...
+
+
+[265] Paper ID: 2021_NEW_ROTOR_BLADE_PROFILES_PERFORMANCE_DECAY_IN_HORIZONTAL_AXIS_WIND_TURBINES_OPERATING_IN_AGGRESSIVE_
+   - 标题: NEW ROTOR BLADE PROFILES PERFORMANCE DECAY IN HORIZONTAL AXIS WIND TURBINES OPERATING IN AGGRESSIVE ENVIRONMENT
+   - 作者: Giovanni Maria De Pratti
+   - 年份: 2021
+   - 期刊: E3s Web of Conferences
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[266] Paper ID: 2021_Numerical_investigation_of_stall_characteristics_for_winglet_blade_of_a_horizontal_axis_wind_turbine
+   - 标题: Numerical investigation of stall characteristics for winglet blade of a horizontal axis wind turbine
+   - 作者: Shalini Verma, Akshoy Ranjan Paul, Anuj Jain et al.
+   - 年份: 2021
+   - 期刊: E3s Web of Conferences
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[267] Paper ID: 2021_Numerical_optimization_of_horizontal_axis_wind_turbine_blades_with_surrogate_model
+   - 标题: Numerical optimization of horizontal-axis wind turbine blades with surrogate model
+   - 作者: Haipeng Wang, Xiao Jiang, Yun Chao et al.
+   - 年份: 2021
+   - 期刊: Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 基于三维旋转流场的局部扭转角优化诱导的气动与载荷耦合新特性
+        本文在优化过程中，通过结合计算流体力学（CFD）数值模拟，明确捕捉并利用了水平轴风力机叶片在旋转状态下特有的三维流动现象，其中最核心的是“失速延迟”现象。该现象是由于叶片旋转产生的离心力和科里奥利力，...
+   - 新方法（前2个）:
+     1. 基于Kriging代理模型与高效全局优化（EGO）的叶片气动优化框架
+        本文提出并实施了一套完整的、用于水平轴风力机叶片气动外形优化的数值方法框架。该框架的核心是集成三个关键组件：1) **高保真气动评估器**：采用计算流体力学（CFD）方法，作为获取叶片气动性能（功率系...
+
+
+[268] Paper ID: 2022_DBD_Plasma_Actuator_Effect_on_Mid_Blade_Aerodynamics_Enhancement_of_a_NREL_5_MW_Wind_Turbine
+   - 标题: DBD Plasma Actuator Effect on Mid-Blade Aerodynamics Enhancement of a NREL 5-MW Wind Turbine
+   - 作者: Javad Omidi
+   - 年份: 2022
+   - 期刊: International Conference on Futuristic Technologies in Control Systems and Renewable Energy Icfcr 2022
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[269] Paper ID: 2022_Evaluation_of_influence_of_turbulence_models_on_the_vortex_formation_processes_modeling_in_wind_powe
+   - 标题: Evaluation of influence of turbulence models on the vortex formation processes modeling in wind power
+   - 作者: E. V. Solomin, A. A. Terekhin, A. S. Martyanov et al.
+   - 年份: 2022
+   - 期刊: Vestnik Samarskogo Gosudarstvennogo Tekhnicheskogo Universiteta Seriya Fiziko Matematicheskie Nauki
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于涡粘输运（EVT）湍流模型的偏航角预测新特性
+        该论文揭示了一个新现象：在模拟水平轴风力机（HAWT）机舱上方的流动时，单方程涡粘输运（EVT）湍流模型能够以与标准两方程k-ε模型几乎相同的精度，预测流场参数（特别是风速矢量偏转角）。这一现象的核心...
+   - 新方法（前2个）:
+     1. 基于斯特劳哈尔数（Strouhal Number）的湍流模型评估与筛选方法
+        本文提出了一种新颖的、面向特定工程目标的湍流模型评估与筛选方法。该方法的核心思想是：**不以追求全流场所有参数的绝对精度为唯一目标，而是针对风力机运行中一个具体且至关重要的工程需求——偏航系统所需的准...
+
+
+[270] Paper ID: 2022_In_depth_CFD_Analysis_and_Verification_of_Vortex_Generator_Installed_23MW_Horizontal_Axis_Wind_Turbi
+   - 标题: In-depth CFD Analysis and Verification of Vortex Generator Installed 2.3MW Horizontal Axis Wind Turbine
+   - 作者: Hyeon Gi Moon, Sunho Park, Kwangtae Ha et al.
+   - 年份: 2022
+   - 期刊: Proceedings of 2022 12th International Conference on Power Energy and Electrical Engineering Cpeee 2022
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[271] Paper ID: 2022_Offshore_Wind_Turbine_Pitch_Control_with_Aeroelastic_Effect
+   - 标题: Offshore Wind Turbine Pitch Control with Aeroelastic Effect
+   - 作者: Jyotipriyam Baruah, Paladugu Venkaiah, Neeraj Kumar et al.
+   - 年份: 2022
+   - 期刊: 2022 IEEE IAS Global Conference on Emerging Technologies Globconet 2022
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 气动弹性效应诱导的桨距控制非线性迟滞现象
+        该论文揭示了一种在海上风力发电机变桨距控制中，由气动弹性效应（特别是叶片挥舞-扭转耦合）引发的非线性迟滞现象。当控制器试图通过调整桨距角来稳定功率输出时，由于叶片结构柔性导致的动态变形，气动载荷与桨距...
+   - 新方法（前2个）:
+     1. 基于耦合气动弹性仿真的桨距控制器在环（CIL）协同设计与验证框架
+        本文提出了一种创新的风机控制器设计与验证方法框架。其核心是将高保真的气动弹性仿真环境（如基于OpenFAST）与风机主控制器（通常由Simulink/Stateflow实现）进行紧密耦合，构建一个“控...
+
+
+[272] Paper ID: 2022_Quantifying_the_effects_of_high_speed_shaft_braking_on_the_substructural_dynamics_of_monopile_offsho
+   - 标题: Quantifying the effects of high-speed shaft braking on the substructural dynamics of monopile offshore wind turbines
+   - 作者: Xiuxing Yin, Zhansi Jiang, Meizhen Lei
+   - 年份: 2022
+   - 期刊: Energy Sources Part A Recovery Utilization and Environmental Effects
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 高速轴制动引发的单桩基础摇摆/横荡位移与塔顶侧向剪切力振幅振动
+        该论文揭示了一个在海上风电单桩基础动力学中未被充分认知的新现象：高速轴制动（HSB）控制会引发单桩基础在横摇（roll）和横荡（sway）方向上的位移，以及塔顶/偏航轴承处的侧向剪切力，产生显著的振幅...
+   - 新方法（前2个）:
+     1. 基于田口方法的高速轴制动控制参数正交实验与影响量化分析框架
+        本文提出并应用了一套系统性的方法，用于量化高速轴制动（HSB）控制参数对海上风机复杂耦合系统动力响应的综合影响。该方法的核心是**将高保真气动弹性仿真与实验设计（DOE）中的田口方法相结合**。首先，...
+
+
+[273] Paper ID: 2022_Research_on_the_Change_of_Airfoil_Geometric_Parameters_of_Horizontal_Axis_Wind_Turbine_Blades_Caused
+   - 标题: Research on the Change of Airfoil Geometric Parameters of Horizontal Axis Wind Turbine Blades Caused by Atmospheric Icing
+   - 作者: Xiyang Li, Yuhao Jia, Hui Zhang et al.
+   - 年份: 2022
+   - 期刊: Energy Engineering Journal of the Association of Energy Engineering
+   - 评分: 56.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 叶片结冰诱导的翼型几何参数系统性动态演化现象
+        论文深入揭示并量化了在自然低温环境下，风力发电机叶片动态结冰过程中，翼型关键几何参数（弦长、弯度、厚度）发生的系统性、非均匀变化规律。该现象超越了简单的“结冰增厚”常识，表现为一个复杂的时空演化过程：...
+   - 新方法（前2个）:
+     1. 基于自然环境的翼型结冰几何参数高精度测量与建模方法
+        论文提出并实践了一套创新的实验与分析方法，用于在自然低温环境下精确测量叶片结冰对翼型几何参数的动态影响。该方法的核心包括：1）**自然环境模拟测试平台**：在真实冬季户外搭建实验系统，集成轴流风机、水...
+
+
+[274] Paper ID: 2022_Theoretical_and_computational_studies_on_the_optimal_positions_of_NACA_airfoils_used_in_horizontal_a
+   - 标题: Theoretical and computational studies on the optimal positions of NACA airfoils used in horizontal axis wind turbine blades
+   - 作者: Getahun Tefera, Glen Bright, Sarp Adali
+   - 年份: 2022
+   - 期刊: Journal of Energy Systems
+   - 评分: 56.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[275] Paper ID: 2018_A_panel_method_for_floating_offshore_wind_turbine_simulations_with_fully_integrated_aero_and_hydrody
+   - 标题: A panel method for floating offshore wind turbine simulations with fully integrated aero- and hydrodynamic modelling in time domain
+   - 作者: Stefan Netzband, Christian W. Schulz, Ulf G?ttsche et al.
+   - 年份: 2018
+   - 期刊: Ship Technology Research
+   - 评分: 49.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[276] Paper ID: 2019_Review_on_diffuser_augmented_wind_turbine_DAWT
+   - 标题: Review on diffuser augmented wind turbine (DAWT)
+   - 作者: Balasem Abdulameer Jabbar Al-Quraishi, Nor Zelawati Binti Asmuin, Sofian Bin Mohd et al.
+   - 年份: 2019
+   - 期刊: International Journal of Integrated Engineering
+   - 评分: 49.10
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[277] Paper ID: 2018_A_SCADA_data_mining_method_for_precision_assessment_of_performance_enhancement_from_aerodynamic_opti
+   - 标题: A SCADA data mining method for precision assessment of performance enhancement from aerodynamic optimization of wind turbine blades
+   - 作者: Davide Astolfi, Francesco Castellani, Ludovico Terzi
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 复杂地形与尾流交织环境下气动升级效果的真实量化现象
+        本研究观察并量化了在真实、非理想的复杂地形与尾流交织运行环境下，风力发电机组叶片气动优化（安装涡流发生器和被动流动控制装置）所带来的性能提升现象。与制造商通常在理想、无干扰条件下提供的理论评估不同，该...
+   - 新方法（前2个）:
+     1. 基于参考风机功率输入的人工神经网络（ANN）性能提升精准评估方法
+        本文提出了一种创新的数据驱动方法，用于在无法使用目标风机可靠风速数据的极端困难情况下，精准量化其气动升级带来的性能提升。该方法的核心思想是：利用升级前长期的历史SCADA数据，训练一个人工神经网络（A...
+
+
+[278] Paper ID: 2018_Aero_elastic_design_optimization_of_floating_offshore_wind_turbine_blades
+   - 标题: Aero-elastic design optimization of floating offshore wind turbine blades
+   - 作者: Evan M. Gaertner, Matthew A. Lackner
+   - 年份: 2018
+   - 期刊: Wind Energy Symposium 2018
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[279] Paper ID: 2018_Aerodynamic_analysis_of_backward_swept_in_hawt_rotor_blades_using_CFD_1
+   - 标题: Aerodynamic analysis of backward swept in hawt rotor blades using CFD
+   - 作者: Mohammad Sadegh Salari, Behzad Zarif Boushehri, Mehrdad Boroushaki
+   - 年份: 2018
+   - 期刊: International Journal of Renewable Energy Development
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[280] Paper ID: 2018_Aerodynamic_modelling_of_wind_turbine_blade_loads_during_extreme_deflection_events
+   - 标题: Aerodynamic modelling of wind turbine blade loads during extreme deflection events
+   - 作者: Matthew Harrison, Menno Kloosterman, Ricard Buils Urbano
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 大挠度下叶片截面气动载荷的显著非线性耦合效应
+        该论文揭示并建模了在极端偏转事件（如极端阵风或紧急停机）中，风力机叶片发生大挠度时，其结构变形与气动载荷之间存在的显著非线性耦合效应。传统的小挠度假设认为叶片截面始终垂直于桨距轴，气动攻角计算基于未变...
+   - 新方法（前2个）:
+     1. 基于坐标变换的、耦合几何非线性的大挠度BEM建模方法
+        论文提出并实现了对Bladed软件中经典BEM理论的根本性改进。新方法的核心是在每个时间步，根据叶片当前的弹性变形（挠度和扭转），动态计算每个叶片截面相对于轮毂坐标系的局部坐标系方向余弦矩阵（旋转矩阵...
+
+
+[281] Paper ID: 2018_Aerodynamic_performances_of_pitching_wind_turbine_airfoil_using_unsteady_panel_method
+   - 标题: Aerodynamic performances of pitching wind turbine airfoil using unsteady panel method
+   - 作者: Mohamed Mehdi Oueslati, Anouar Wajdi Dahmouni, Sassi Ben Nasrallah
+   - 年份: 2018
+   - 期刊: Green Energy and Technology
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 变桨距运动下的动态失速滞后效应
+        该论文在研究变桨距风力机翼型的气动性能时，明确观测并分析了在周期性俯仰（变桨）运动下翼型周围的非定常流动现象，核心表现为动态失速及其伴随的力与力矩回滞环。当翼型以特定频率和幅度进行俯仰振荡时，其升力系...
+   - 新方法（前2个）:
+     1. 基于非定常面元法的风力机翼型变桨距气动性能分析框架
+        该论文并非发明了全新的面元法，而是系统性地构建并应用了一套完整的基于时间步进式非定常面元法的分析框架，专门用于模拟风力机翼型在变桨距运动下的非定常气动力。该方法的核心在于将经典的Hess-Smith面...
+
+
+[282] Paper ID: 2018_Airfoil_Blender_for_Blade_Optimizations
+   - 标题: Airfoil Blender for Blade Optimizations
+   - 作者: Witold Skrzypiński, Michael McWilliam, Frederik Zahle
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 1, 对象 1
+   - 新方法（前2个）:
+     1. 基于径向基函数（RBF）的多变量非结构化网格翼型数据插值与融合方法（Airfoil Blender）
+        本文提出的核心新方法是一个名为‘Airfoil Blender’的优化友好型翼型数据库插值器。该方法的核心在于构建了一个能够同时处理翼型气动系数（如升力、阻力、力矩系数）和翼型几何坐标的多变量、非结构...
+
+
+[283] Paper ID: 2018_An_assessment_of_compressibility_effects_for_large_wind_turbines_using_the_blade_element_momentum_me
+   - 标题: An assessment of compressibility effects for large wind turbines using the blade element momentum method
+   - 作者: Chi Yan, Yang Pan, Cristina Archer
+   - 年份: 2018
+   - 期刊: Aip Conference Proceedings
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[284] Paper ID: 2018_Analysis_of_winglets_and_sweep_on_wind_turbine_blades_using_a_lifting_line_vortex_particle_method_in
+   - 标题: Analysis of winglets and sweep on wind turbine blades using a lifting line vortex particle method in complex inflow conditions
+   - 作者: Matias Sessarego, Néstor Ramos-Garcia, Wen Zhong Shen
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[285] Paper ID: 2018_CFD_study_of_trailing_edge_flaps_for_load_control_on_wind_turbines_1
+   - 标题: CFD study of trailing edge flaps for load control on wind turbines
+   - 作者: Eva Jost, Mário Firnhaber Beckers, Thorsten Lutz et al.
+   - 年份: 2018
+   - 期刊: Notes on Numerical Fluid Mechanics and Multidisciplinary Design
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[286] Paper ID: 2018_Comparison_of_BEM_and_Full_Navier_Stokes_CFD_Methods_for_Prediction_of_Aerodynamics_Performance_of_H
+   - 标题: Comparison of BEM and Full Navier-Stokes CFD Methods for Prediction of Aerodynamics Performance of HAWT Rotors
+   - 作者: Abdelhamid Bouhelal, Arezki Smaili, Ouahiba Guerri et al.
+   - 年份: 2018
+   - 期刊: Proceedings of 2017 International Renewable and Sustainable Energy Conference Irsec 2017
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[287] Paper ID: 2018_Contribution_to_the_Aerodynamic_Study_of_the_Air_Sand_Flow_Around_a_Wind_Turbine_Blade_Installed_in
+   - 标题: Contribution to the Aerodynamic Study of the Air-Sand Flow Around a Wind Turbine Blade Installed in Desert Environment of Algeria
+   - 作者: Abdelhamid Bouhelal, Ouahiba Guerri, Arezki Smaili et al.
+   - 年份: 2018
+   - 期刊: 2018 International Conference on Wind Energy and Applications in Algeria Icweaa 2018
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 沙漠风沙环境下风力机叶片前缘非均匀侵蚀与气动性能耦合劣化现象
+        该论文通过数值模拟与实验观测，首次系统揭示了在阿尔及利亚沙漠特定风沙环境下，风力机叶片前缘发生的非均匀侵蚀模式及其与气动性能的强耦合劣化现象。具体表现为：沙粒（主要成分为石英砂）在高速气流裹挟下，以特...
+   - 新方法（前2个）:
+     1. 基于真实沙漠环境参数的风沙两相流耦合气动-侵蚀数值模拟框架
+        本文提出并应用了一套整合本地化环境参数的高保真数值模拟方法，用于研究沙漠风沙流绕风力机叶片的气动与侵蚀耦合问题。该方法的完整流程包括：1）**环境参数本地化**：首先采集阿尔及利亚目标沙漠区域的沙样，...
+
+
+[288] Paper ID: 2018_Design_and_Optimization_of_Composite_Horizontal_Axis_Wind_Turbine_Hawt_Blade
+   - 标题: Design and Optimization of Composite Horizontal Axis Wind Turbine (Hawt) Blade
+   - 作者: Rohan Brella, Mayank Sehgal, Naveen Kumar
+   - 年份: 2018
+   - 期刊: SAE Technical Papers
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[289] Paper ID: 2018_Design_and_validation_of_a_multi_scale_model_floating_offshore_test_wind_turbine
+   - 标题: Design and validation of a multi-scale model floating offshore test wind turbine
+   - 作者: Jacob C. Ward, Matthew J. Fowler, Anthony M. Viselli et al.
+   - 年份: 2018
+   - 期刊: ASME 2018 1st International Offshore Wind Technical Conference Iowtc 2018
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[290] Paper ID: 2018_Development_of_a_scaled_rotor_blade_for_tank_tests_of_floating_wind_turbine_systems_1
+   - 标题: Development of a scaled rotor blade for tank tests of floating wind turbine systems
+   - 作者: Paul Schunemann, Timo Zwisele, Frank Adam et al.
+   - 年份: 2018
+   - 期刊: Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[291] Paper ID: 2018_Experimental_evaluation_of_a_non_conventional_flat_back_thick_airfoil_concept_for_large_offshore_win
+   - 标题: Experimental evaluation of a non-conventional flat back thick airfoil concept for large offshore wind turbines
+   - 作者: Ozlem Ceyhan Yilmaz, W. A.Nando Timmer
+   - 年份: 2018
+   - 期刊: 2018 Applied Aerodynamics Conference
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[292] Paper ID: 2018_Fully_coupled_aero_hydro_structural_simulation_of_new_floating_wind_turbine_concept
+   - 标题: Fully coupled aero-hydro-structural simulation of new floating wind turbine concept
+   - 作者: Aengus Connolly, Marc Guyot, Marc Le Boulluec et al.
+   - 年份: 2018
+   - 期刊: ASME 2018 1st International Offshore Wind Technical Conference Iowtc 2018
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[293] Paper ID: 2018_Impact_of_the_aerodynamic_model_on_the_modelling_of_the_behaviour_of_a_Floating_Vertical_Axis_Wind_T
+   - 标题: Impact of the aerodynamic model on the modelling of the behaviour of a Floating Vertical Axis Wind Turbine
+   - 作者: V. Leroy, J. C. Gilloteaux, A. Combourieu et al.
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 漂浮式垂直轴风力机在非定常来流与运动耦合下的气动迟滞效应
+        该论文深入探讨了漂浮式垂直轴风力机在真实海洋环境中运行时，由平台六自由度运动（特别是纵摇、横摇和垂荡）与动态入流（如湍流、风剪切）耦合所引发的一种复杂非定常气动现象。传统准静态气动模型无法捕捉这一现象...
+   - 新方法（前2个）:
+     1. 基于自由涡尾迹（FVW）理论与多体动力学耦合的漂浮式VAWT高保真仿真框架
+        本文并非首创FVW方法，但其核心创新在于构建并系统应用了一个**将高保真自由涡尾迹气动模型与多体系统动力学求解器进行紧密耦合**的集成仿真框架，专门用于分析漂浮式垂直轴风力机的非线性动态响应。该框架中...
+
+
+[294] Paper ID: 2018_Influence_of_vortex_induced_loads_on_the_motion_of_SPARType_wind_turbine_A_coupled_aero_hydro_vortex
+   - 标题: Influence of vortex-induced loads on the motion of SPARType wind turbine: A coupled aero-hydro-vortex-mooring investigation
+   - 作者: Yan Li, Liqin Liu, Qiang Zhu et al.
+   - 年份: 2018
+   - 期刊: Journal of Offshore Mechanics and Arctic Engineering
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 漂浮式海上风机在洋流作用下的涡激运动-内部共振耦合现象
+        该论文揭示了一种在漂浮式海上风机（FOWT）中观察到的复杂流固耦合现象。当风机平台在洋流作用下发生涡激运动（VIM）时，其产生的周期性涡脱频率可能与平台纵荡/横荡的低频固有频率发生特定倍频关系（如2:...
+   - 新方法（前2个）:
+     1. 考虑洋流涡激力与系泊非线性耦合的FOWT全耦合时域仿真方法
+        本文提出并应用了一种用于分析漂浮式海上风机在洋流、波浪、风载荷共同作用下的全耦合时域仿真方法。该方法的核心创新在于**有机整合了三个关键模块**：1）**包含非线性涡激力（VIM）模型的水动力模块**...
+
+
+[295] Paper ID: 2018_Inverse_Design_of_Single_A_nd_Multi_Rotor_Horizontal_Axis_Wind_Turbine_Blades_Using_Computational_Fl
+   - 标题: Inverse Design of Single-A nd Multi-Rotor Horizontal Axis Wind Turbine Blades Using Computational Fluid Dynamics
+   - 作者: Behnam Moghadassian, Anupam Sharma
+   - 年份: 2018
+   - 期刊: Journal of Solar Energy Engineering Transactions of the ASME
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[296] Paper ID: 2018_Investigations_on_the_fatigue_load_reduction_potential_of_advanced_control_strategies_for_multi_MW_w
+   - 标题: Investigations on the fatigue load reduction potential of advanced control strategies for multi-MW wind turbines using a free vortex wake model
+   - 作者: Sebastian Perez-Becker, Joseph Saverin, David Marten et al.
+   - 年份: 2018
+   - 期刊: Proceedings of the ASME Turbo Expo
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于不同气动模型预测的疲劳载荷与变桨行为系统性差异
+        该研究发现，在相同的运行工况和控制策略下，使用经典的叶素动量理论（BEM）与更先进的升力线自由涡尾迹（LLFVW）方法进行气动载荷计算，会导致对风力机关键部件疲劳载荷和变桨系统活动度的系统性不同预测。...
+   - 新方法（前2个）:
+     1. 基于高-低保真气动模型交叉验证的疲劳载荷与控制潜力评估框架
+        本文提出并实践了一种系统性的评估框架，用于量化气动模型保真度对风力机疲劳载荷和先进控制策略潜力评估的影响。该方法的核心不是提出一种新算法，而是建立了一套严谨的比较分析流程：1）使用同一台参考风力机（D...
+
+
+[297] Paper ID: 2018_Load_mitigation_using_slotted_flaps_in_offshore_wind_turbines
+   - 标题: Load mitigation using slotted flaps in offshore wind turbines
+   - 作者: Shilpa Thakur, K. A. Abhinav, Nilanjan Saha
+   - 年份: 2018
+   - 期刊: Journal of Offshore Mechanics and Arctic Engineering
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[298] Paper ID: 2018_Numerical_Fluid_Structure_Interaction_Study_on_the_NREL_5MW_HAWT
+   - 标题: Numerical Fluid-Structure Interaction Study on the NREL 5MW HAWT
+   - 作者: Amr M. Halawa, Matias Sessarego, Wen Z. Shen et al.
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[299] Paper ID: 2018_Numerical_analysis_of_unsteady_aerodynamics_of_floating_offshore_wind_turbines
+   - 标题: Numerical analysis of unsteady aerodynamics of floating offshore wind turbines
+   - 作者: M. Cormier, M. Caboni, T. Lutz et al.
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 平台纵荡运动诱导的非定常气动载荷迟滞效应
+        该论文通过数值模拟揭示了漂浮式海上风机在平台周期性纵荡运动下，其气动载荷（特别是推力系数和功率系数）与平台运动之间存在显著的相位迟滞现象。当平台以特定频率和振幅进行正弦纵荡运动时，作用在风机转子上的气...
+   - 新方法（前2个）:
+     1. 基于多保真度数值方法协同的漂浮式风机气动分析框架
+        该论文并非提出一个全新的单一算法，而是构建并实践了一种**系统性的多保真度数值方法协同分析框架**，用于解构漂浮式风机非定常气动问题。该框架的核心思想是：针对漂浮式风机气动中不同时空尺度的物理问题，有...
+
+
+[300] Paper ID: 2018_Quantification_of_the_axial_induction_exerted_by_utility_scale_wind_turbines_by_coupling_LiDAR_measu
+   - 标题: Quantification of the axial induction exerted by utility-scale wind turbines by coupling LiDAR measurements and RANS simulations
+   - 作者: Giacomo Valerio Iungo, Stefano Letizia, Lu Zhan
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[301] Paper ID: 2018_Some_aspects_of_the_influence_of_the_vertical_wind_speed_gradient_on_the_blade_aerodynamics_loads_in
+   - 标题: Some aspects of the influence of the vertical wind speed gradient on the blade aerodynamics loads in high class wind generators
+   - 作者: Julian Genov
+   - 年份: 2018
+   - 期刊: Matec Web of Conferences
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 垂直风速梯度诱导的气动载荷周期性脉动
+        论文揭示了在兆瓦级大型水平轴风力发电机运行中，由于垂直方向存在显著的风速梯度，即便来流在时间上是定常的，作用在旋转叶片上的气动载荷（推力、扭矩）也会产生强烈的、与方位角相关的周期性脉动。这一现象源于叶...
+   - 新方法（前2个）:
+     1. 基于修正动量理论的梯度相关气动载荷解析计算模型
+        本文提出了一种改进的解析建模方法，用于计算在垂直风速梯度条件下风力机叶片的气动载荷。该方法的核心是对经典叶素动量理论进行扩展，使轴向诱导因子a和切向诱导因子a‘不再仅仅是径向位置r的函数，同时成为叶片...
+
+
+[302] Paper ID: 2018_State_space_realisation_and_model_reduction_of_potential_flow_aerodynamics_for_HAWT_applications
+   - 标题: State space realisation and model reduction of potential-flow aerodynamics for HAWT applications
+   - 作者: S. Maraniello, R. Palacios
+   - 年份: 2018
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[303] Paper ID: 2018_Unsteady_aerodynamic_analysis_of_different_multi_MW_horizontal_axis_wind_turbine_blade_profiles_on_S
+   - 标题: Unsteady aerodynamic analysis of different multi-MW horizontal axis wind turbine blade profiles on SST K-ω model
+   - 作者: Amir Reza Radmanesh, Madjid Abbaspour, Mohamad Reza Soltani
+   - 年份: 2018
+   - 期刊: Green Energy and Technology
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 特定翼型在动态失速下的非定常气动迟滞效应差异
+        该论文通过非定常RANS模拟，深入研究了S809、S822和S823三种不同风力机专用翼型在动态失速条件下的气动响应。研究发现，在相同的周期性俯仰振荡条件下，不同翼型的升力系数（Cl）和阻力系数（Cd...
+   - 新方法（前2个）:
+     1. 基于SST k-ω湍流模型的二维翼型非定常气动性能对比评估框架
+        本文提出并实施了一套系统性的数值方法框架，用于在统一的、相对高保真的湍流模型（SST k-ω）下，对多种风力机专用翼型进行非定常气动性能的对比评估。该框架的核心流程包括：1) **几何与网格标准化**...
+
+
+[304] Paper ID: 2018_Wind_Turbine_Aerodynamic_Load_Fluctuation_Reduction_Using_Model_Based_Iterative_Learning_Control
+   - 标题: Wind Turbine Aerodynamic Load Fluctuation Reduction Using Model Based Iterative Learning Control
+   - 作者: Weronika N. Nowicka, Bing Chu, Owen R. Tutty et al.
+   - 年份: 2018
+   - 期刊: Proceedings of the American Control Conference
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于模型的迭代学习控制对气动载荷波动的系统性抑制现象
+        该论文揭示了一个新现象：通过将风力发电机叶片的气动载荷模型与迭代学习控制（ILC）框架相结合，可以在周期性风况（如风剪切、塔影效应）下，系统性地、可预测地降低叶片根部挥舞力矩（flapwise ben...
+   - 新方法（前2个）:
+     1. 基于线性参数变化（LPV）气动模型的迭代学习控制（MB-ILC）设计方法
+        本文提出了一种创新的控制器设计方法，用于风力发电机周期性气动载荷抑制。该方法的核心是构建一个“学习-模型”协同框架。首先，它采用线性参数变化（LPV）模型来描述从桨距角到叶片根部挥舞力矩的动态关系，该...
+
+
+[305] Paper ID: 2019_A_CFD_based_application_of_support_vector_regression_to_determine_the_optimum_smooth_twist_for_wind
+   - 标题: A CFD based application of support vector regression to determine the optimum smooth twist for wind turbine blades
+   - 作者: Mustafa Kaya
+   - 年份: 2019
+   - 期刊: Sustainability Switzerland
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[306] Paper ID: 2019_A_Detailed_Analysis_of_the_Centrifugal_Pumping_Phenomenon_in_HAWTs_Through_the_Use_of_CFD_Models
+   - 标题: A Detailed Analysis of the Centrifugal Pumping Phenomenon in HAWTs Through the Use of CFD Models
+   - 作者: Stefano Mauro, Rosario Lanzafame, Michele Messina et al.
+   - 年份: 2019
+   - 期刊: Research Topics in Wind Energy
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[307] Paper ID: 2019_A_Reliable_Experimental_Methodology_for_the_Study_of_Wind_Turbine_Rotor_Blade_Aerodynamics
+   - 标题: A Reliable Experimental Methodology for the Study of Wind-Turbine Rotor Blade Aerodynamics
+   - 作者: M. Costantini, C. Fuchs, U. Henne et al.
+   - 年份: 2019
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 高雷诺数下粗糙度诱导边界层转捩的精细化特征
+        该论文通过系统性的风洞实验，揭示了在高达Re=12×10^6的工程相关雷诺数范围内，风力机专用翼型（特别是中跨段和外段翼型）表面粗糙度对边界层转捩位置和形态的复杂影响机制。研究发现，与传统航空翼型在较...
+   - 新方法（前2个）:
+     1. 面向超高雷诺数风力机翼型的可靠实验方法学
+        本文提出并验证了一套系统化的、高可靠性的风洞实验方法，专门用于研究现代大型风力机叶片翼型在超高雷诺数（Re up to 12×10^6）下的气动性能，特别是对粗糙度的敏感性。该方法学的核心在于通过精细...
+
+
+[308] Paper ID: 2019_A_new_approach_for_comparability_of_two_and_three_bladed_20_MW_offshore_wind_turbines
+   - 标题: A new approach for comparability of two- and three-bladed 20 MW offshore wind turbines
+   - 作者: Fabian Anstock, Marcel Schütt, Vera Schorbach
+   - 年份: 2019
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[309] Paper ID: 2019_A_nonlinear_model_for_aerodynamic_configuration_of_wake_behind_horizontal_axis_wind_turbine
+   - 标题: A nonlinear model for aerodynamic configuration of wake behind horizontal-axis wind turbine
+   - 作者: De Shun Li, Tao Guo, Ren Nian Li et al.
+   - 年份: 2019
+   - 期刊: Applied Mathematics and Mechanics English Edition
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 水平轴风力机尾流非线性气动构型
+        该论文揭示并建模了水平轴风力机下游尾流的一种非线性气动构型现象。传统线性或准线性模型通常将尾流视为速度亏损的简单扩散或线性叠加，而本文发现，在特定运行条件下（如高叶尖速比、大湍流强度），尾流内部的速度...
+   - 新方法（前2个）:
+     1. 基于涡动力学与非线性稳定性理论的尾流构型建模方法
+        本文提出了一种全新的、用于描述水平轴风力机尾流非线性气动构型的建模方法。该方法的核心思想不是对尾流速度剖面进行经验参数化，而是从涡动力学基本方程出发，将尾流视为一个由基础剪切流和离散涡结构（叶尖涡等）...
+
+
+[310] Paper ID: 2019_A_study_on_the_capability_of_backward_swept_blades_to_mitigate_loads_of_wind_turbines_in_shear_flow
+   - 标题: A study on the capability of backward swept blades to mitigate loads of wind turbines in shear flow
+   - 作者: Jinge Chen, Xin Shen, Xiaocheng Zhu et al.
+   - 年份: 2019
+   - 期刊: Journal of Energy Resources Technology Transactions of the ASME
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[311] Paper ID: 2019_Aerodynamic_Behavior_Of_A_Floating_Offshore_Wind
+   - 标题: Aerodynamic behavior of a floating offshore wind turbine
+   - 作者: C. Lienard, R. Boisard, C. Daudin
+   - 年份: 2019
+   - 期刊: AIAA Scitech 2019 Forum
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 漂浮式风机平台-叶片气动耦合失稳现象
+        该论文深入揭示了一种在漂浮式海上风机（FOWT）中特有的、由平台六自由度运动（纵荡、横荡、垂荡、横摇、纵摇、艏摇）与叶片旋转气动力强烈耦合所引发的非定常气动失稳现象。与传统固定式风机不同，漂浮式平台在...
+   - 新方法（前2个）:
+     1. 基于运动坐标系变换的耦合气动载荷快速预测方法
+        论文提出了一种新颖的、用于快速分析FOWT非定常气动载荷的混合方法。其核心思想是将复杂的漂浮平台六自由度运动，通过多体运动学变换，精确地映射到每个叶片微段的局部运动坐标系中，从而将FOWT的气动问题转...
+
+
+[312] Paper ID: 2019_Comparative_study_on_the_wake_description_using_actuator_disc_model_with_increasing_level_of_complex
+   - 标题: Comparative study on the wake description using actuator disc model with increasing level of complexity.
+   - 作者: Gonzalo P. Navarro Diaz, A. Celeste Saulo, Alejandro D. Otero
+   - 年份: 2019
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 非均匀力分布对近尾流形态的显著影响及其远尾流趋同现象
+        该论文通过对比不同复杂度的致动盘模型，揭示了一个关键现象：在风力机尾流中，致动盘上力的分布均匀性对近尾流（近距离下游）的形态和结构具有决定性影响，但随着下游距离的增加，所有模型的尾流形态最终会趋于一致...
+   - 新方法（前2个）:
+     1. 一种避免流场求解器与BEM耦合的非均匀力致动盘模型
+        论文的核心创新方法是提出了一种新型的致动盘模型变体。该方法旨在达到与基于叶片元动量理论（BEM）的AD模型（BEM-AD）等效的模拟精度，但避免了在计算流体力学（CFD）流场求解器内部实时耦合求解BE...
+
+
+[313] Paper ID: 2019_Computational_fluid_dynamics_methodology_for_characterisation_of_leading_edge_erosion_in_whirling_ar
+   - 标题: Computational fluid dynamics methodology for characterisation of leading edge erosion in whirling arm test rigs
+   - 作者: R. Herring, K. Dyer, A. MacLeod et al.
+   - 年份: 2019
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 非均匀雨滴冲击动力学与气动干扰耦合现象
+        论文通过CFD模拟揭示了在旋转臂测试台（whirling arm test rig）中，雨滴冲击前缘的过程并非简单的独立弹道学问题，而是一个复杂的多物理场耦合现象。研究发现，旋转臂的高速旋转会在样品周...
+   - 新方法（前2个）:
+     1. 基于高保真CFD-DPM耦合的旋转臂测试台雨滴冲击特性预测与表征方法
+        本文提出了一套完整的计算流体动力学（CFD）方法学，专门用于表征旋转臂雨蚀测试台中样品前缘的雨滴冲击特性。该方法的核心是建立包含旋转臂、测试样品及周围空气域的高精度三维瞬态CFD模型，并采用离散相模型...
+
+
+[314] Paper ID: 2019_Design_and_optimization_of_composite_offshore_wind_turbine_blades
+   - 标题: Design and optimization of composite offshore wind turbine blades
+   - 作者: M. Tarfaoui, O. R. Shah, M. Nachtane
+   - 年份: 2019
+   - 期刊: Journal of Energy Resources Technology Transactions of the ASME
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 绕不同扭转中心叶片结构损伤模式的分化
+        论文在分析两种不同扭转设计的叶片（Blade 1 和 Blade 2）时，观察到一个重要的结构响应现象：虽然两种设计都基于同一NACA 4424翼型，但仅仅改变扭转中心（Blade 1绕前缘扭转，Bl...
+   - 新方法（前2个）:
+     1. 基于参数化研究、Hashin失效准则与FEA的复合材料叶片系统化设计与验证流程
+        本文提出并实践了一套完整、系统的5MW级海上风电复合材料叶片设计与验证方法。该方法的核心思想是**多阶段迭代与高保真度验证相结合**。流程分为：1）**气动与宏观几何设计**：采用BEM理论确定最优叶...
+
+
+[315] Paper ID: 2019_Different_functionalized_chord_and_twist_distributions_in_aerodynamic_design_of_HAWTs_1
+   - 标题: Different functionalized chord and twist distributions in aerodynamic design of HAWTs
+   - 作者: Mojtaba Tahani, Ghazale Kavari, Mojtaba Mirhosseini et al.
+   - 年份: 2019
+   - 期刊: Environmental Progress and Sustainable Energy
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[316] Paper ID: 2019_Dimensional_analysis_of_horizontal_axis_wind_turbine_scaling_design
+   - 标题: Dimensional analysis of horizontal axis wind turbine scaling design
+   - 作者: Sigit Iswahyudi, None Sutrisno, None Prajitno
+   - 年份: 2019
+   - 期刊: Aip Conference Proceedings
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于无量纲分析的风力机缩比设计中的非线性相似失真现象
+        该论文深入探讨了在水平轴风力机缩比设计过程中，当严格遵循传统几何相似和动力相似准则时，叶片结构动力学响应（特别是应力与应变）与气动性能之间出现的系统性、非线性的相似失真现象。具体表现为，当模型尺寸按比...
+   - 新方法（前2个）:
+     1. 基于主导物理机制分解的渐进式无量纲分析与相似准则松弛方法
+        本文提出了一种系统性的风力机缩比设计分析方法。其核心不是追求不可能实现的完全相似，而是采用一种“分而治之”的策略。首先，通过完整的量纲分析（Buckingham π定理），识别出所有影响风力机性能的关...
+
+
+[317] Paper ID: 2019_Experimental_analysis_of_a_wind_turbine_rotor_blade_airfoil_by_means_of_temperature_sensitive_paint
+   - 标题: Experimental analysis of a wind-turbine rotor blade airfoil by means of temperature-sensitive paint
+   - 作者: Marco Costantini, Carsten Fuchs, Ulrich Henne et al.
+   - 年份: 2019
+   - 期刊: AIAA Scitech 2019 Forum
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于温度敏感涂层的非定常流动分离与再附现象的高时空分辨率可视化
+        该论文利用温度敏感涂层技术，在风洞实验中首次实现了对风力机专用翼型（如DU 97-W-300）表面非定常流动现象，特别是动态失速过程中的流动分离与再附过程，进行高时空分辨率的全场可视化。传统压力测量（...
+   - 新方法（前2个）:
+     1. 面向风力机翼型非定常气动测试的温度敏感涂层定量化应用与数据处理流程
+        本文提出并完善了一套专门针对风力机翼型大尺度、低速度、非定常气动测试的TSP实验方法学。这不仅仅是将TSP技术简单移植，而是针对该领域的特殊需求（如模型尺寸大、测试时间长、动态范围宽）进行了系统性优化...
+
+
+[318] Paper ID: 2019_Flow_around_thick_airfoils_at_very_high_reynolds_number_Stall_and_dynamic_stall_applications_1
+   - 标题: Flow around thick airfoils at very high reynolds number. Stall and dynamic stall applications
+   - 作者: F. Barnaud, P. Bénard, G. Lartigue et al.
+   - 年份: 2019
+   - 期刊: Ercoftac Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 高雷诺数下厚翼型动态失速的涡结构演化新机制
+        该论文通过高精度大涡模拟（LES）揭示了在极高雷诺数（Re=10^7量级）条件下，厚翼型（NACA 64-618）动态失速过程中，前缘分离涡与尾缘分离涡之间复杂的非线性相互作用机制。研究发现，在动态失...
+   - 新方法（前2个）:
+     1. 面向极高雷诺数厚翼型动态失速的高效高保真耦合模拟框架
+        本文并非提出一个全新的单一算法，而是集成并优化了一套适用于极端工况（极高Re、厚翼型、大尺度分离）气动问题的高保真数值模拟框架。其核心是结合了自适应网格细化（AMR）、高精度大涡模拟（LES）湍流模型...
+
+
+[319] Paper ID: 2019_Numerical_and_experimental_investigations_of_wind_turbine_blade_aerodynamics_in_the_presence_of_ice
+   - 标题: Numerical and experimental investigations of wind-turbine blade aerodynamics in the presence of ice accretion
+   - 作者: Henry Knobbe-Eschen, Jochen Stemberg, Khalid Abdellaoui et al.
+   - 年份: 2019
+   - 期刊: AIAA Scitech 2019 Forum
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[320] Paper ID: 2019_Numerical_investigation_of_fluid_structure_interaction_of_15MW_wind_turbine_rotor_blade_system
+   - 标题: Numerical investigation of fluid structure interaction of 1.5MW wind turbine rotor blade system
+   - 作者: Rajendra Roul, Awadhesh Kumar, Sukesh Chandra Mohanty
+   - 年份: 2019
+   - 期刊: ACM International Conference Proceeding Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于单向耦合FSI的1.5MW叶片气动-结构耦合响应图谱
+        该研究通过数值模拟，系统地揭示了一个1.5MW三维风力机叶片在五种不同运行工况下，其气动载荷与结构响应（变形与应力）之间的耦合关系图谱。这一现象并非指发现了一个全新的物理效应，而是指通过一套完整的、高...
+   - 新方法（前2个）:
+     1. 基于ANSYS平台集成CFD与FEA的单向耦合FSI工作流
+        本文提出并实践了一套完整的、基于ANSYS Workbench环境的单向流体-结构相互作用数值分析工作流，专门用于兆瓦级风力机转子叶片。该方法的核心是将高保真度的计算流体动力学分析与详细的结构有限元分...
+
+
+[321] Paper ID: 2019_Optimization_of_hurricane_resistance_wind_turbine_blades_1
+   - 标题: Optimization of hurricane resistance wind turbine blades
+   - 作者: Juan Monta?ez, Melvin Nu?ez, Amaury Malave
+   - 年份: 2019
+   - 期刊: Proceedings of the Laccei International Multi Conference for Engineering Education and Technology
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[322] Paper ID: 2019_Optimized_dielectric_barrier_discharge_plasma_actuator_for_active_flow_control_in_wind_turbine
+   - 标题: Optimized dielectric barrier discharge-plasma actuator for active flow control in wind turbine
+   - 作者: Srinivasa sudharsan Govindan, Arockia Edwin Xavier Santiago
+   - 年份: 2019
+   - 期刊: Structural Control and Health Monitoring
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于多目标优化的等离子体激励器协同流场控制现象
+        该论文揭示了一种通过多目标优化算法协调多个等离子体激励器（DBD）工作参数，从而在风力机叶片表面诱导出协同、非定常流场控制的新现象。传统DBD激励器通常采用固定频率和电压的单一激励模式，产生的诱导射流...
+   - 新方法（前2个）:
+     1. 面向风力机多目标性能提升的等离子体激励参数协同优化框架
+        本文提出了一套完整的、集成化的方法框架，用于自动设计DBD等离子体激励器在风力机叶片上的最优控制策略。该方法的核心不是发明新的等离子体物理模型，而是**创新性地将高保真计算流体动力学/计算结构动力学（...
+
+
+[323] Paper ID: 2019_Study_effect_of_extreme_wind_direction_change_on_3_bladed_horizontal_axis_wind_turbine
+   - 标题: Study effect of extreme wind direction change on 3-bladed horizontal axis wind turbine
+   - 作者: Le Quang Sang, Takao Maeda, Yasunari Kamada
+   - 年份: 2019
+   - 期刊: International Journal of Renewable Energy Development
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 极端风向突变下三叶片水平轴风力机非对称气动载荷动态响应现象
+        该研究通过风洞实验，首次系统性地观测并量化了在极端风向突变条件下，三叶片水平轴风力机所表现出的复杂非对称气动载荷动态响应现象。当来流风向在极短时间内发生剧烈变化时，风力机转子平面不再与来流垂直，导致流...
+   - 新方法（前2个）:
+     1. 基于多点同步测量的极端风向突变风洞实验与载荷量化分析方法
+        本文提出并实施了一套针对极端风向突变事件的风洞实验与数据分析新方法。该方法的核心在于，在风力机缩比模型的转子平面关键位置（中心及四个边缘）布置高频率响应的传感器网络，同步采集风向突变瞬态过程中的气动载...
+
+
+[324] Paper ID: 2019_Study_on_the_Performance_of_the_Wind_Turbine_Airfoil_with_Icing
+   - 标题: Study on the Performance of the Wind Turbine Airfoil with Icing
+   - 作者: Wang Long, Wang Cheng, Cheng Jie et al.
+   - 年份: 2019
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 特定不规则结冰形状引起的升力系数周期性振荡现象
+        论文研究发现，对于特定的不规则结冰形状（文中模型2，其结冰位于翼型前缘上表面，形状尖锐且不规则），在0至20度攻角范围内，其升力系数曲线表现出显著的、非单调的振荡特性。与传统认知中结冰导致升力系数平滑...
+   - 新方法（前2个）:
+     1. 基于参数化典型冰形的系统性气动性能对比分析方法
+        本文提出并实践了一种针对结冰翼型气动分析的系统性对比研究方法。其核心不在于开发新的CFD算法，而在于构建一个结构化的分析框架：1）模型构建：并非模拟复杂的随机结冰过程，而是从文献【12】中提取了三种具...
+
+
+[325] Paper ID: 2019_THE_INFLUENCE_OF_AERODYNAMIC_CHARACTERISTICS_OF_A_BLADE_PROFILE_ON_THE_ENERGY_CHARACTERISTICS_OF_A_W
+   - 标题: THE INFLUENCE OF AERODYNAMIC CHARACTERISTICS OF A BLADE PROFILE ON THE ENERGY CHARACTERISTICS OF A WINDOW ROTOR
+   - 作者: V. Golovko, V. Kokhanevich, M. Shikhailov et al.
+   - 年份: 2019
+   - 期刊: Vidnovluvana Energetika
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 翼型气动特性与风轮能量特性之间的非线性耦合效应
+        该论文深入探讨了风力机叶片翼型的气动特性（如升力系数Cl、阻力系数Cd、升阻比L/D）如何非线性和非直观地影响整个风轮的能量特性（如功率系数Cp、扭矩系数Ct）。研究发现，翼型在特定攻角下的最优气动性...
+   - 新方法（前2个）:
+     1. 基于能量特性反推的翼型气动需求分析方法
+        论文提出并实践了一种逆向分析框架：从风轮期望达到的整体能量特性目标（如特定尖速比下的高Cp曲线、宽工作范围）出发，反向推导对叶片各展向位置叶素翼型气动特性的需求。该方法不是先选定翼型再计算风轮性能，而...
+
+
+[326] Paper ID: 2019_Testing_the_performance_characteristics_of_specific_profiles_for_applications_in_wind_turbines
+   - 标题: Testing the performance characteristics of specific profiles for applications in wind turbines
+   - 作者: Krzysztof Pytel, Stanislaw Gumula, Piotr Dudek et al.
+   - 年份: 2019
+   - 期刊: E3s Web of Conferences
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[327] Paper ID: 2019_Towards_numerical_simulation_of_offshore_wind_turbines_using_anisotropic_mesh_adaptation_1
+   - 标题: Towards numerical simulation of offshore wind turbines using anisotropic mesh adaptation
+   - 作者: L. Douteau, L. Silva, H. Digonnet et al.
+   - 年份: 2019
+   - 期刊: Springer Tracts in Mechanical Engineering
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[328] Paper ID: 2019_Transition_characteristics_measured_on_a_2MW_80m_diameter_wind_turbine_rotor_in_comparison_with_tran
+   - 标题: Transition characteristics measured on a 2MW 80m diameter wind turbine rotor in comparison with transition data from wind tunnel measurements
+   - 作者: H. Aa Madsen, S. ?z?akmak, C. Bak et al.
+   - 年份: 2019
+   - 期刊: AIAA Scitech 2019 Forum
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[329] Paper ID: 2019_Uncertainty_Quantification_of_Aerodynamic_Icing_Losses_in_Wind_Turbine_with_Polynomial_Chaos_Expansi
+   - 标题: Uncertainty Quantification of Aerodynamic Icing Losses in Wind Turbine with Polynomial Chaos Expansion
+   - 作者: Narges Tabatabaei, Mehrdad Raisee, Michel J. Cervantes
+   - 年份: 2019
+   - 期刊: Journal of Energy Resources Technology Transactions of the ASME
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[330] Paper ID: 2019_Wind_turbine_design_using_thin_airfoil_SD2030
+   - 标题: Wind turbine design using thin airfoil SD2030
+   - 作者: M. M. Takeyeldein, Tholudin Mat Lazim, N. A.R. Nik Mohd et al.
+   - 年份: 2019
+   - 期刊: Evergreen
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. SD2030薄翼型在Re=1e5下的低阻力“膝盖”（Drag Knee）特性
+        论文观察到并重点分析了SD2030薄翼型在极低雷诺数（Re = 1 × 10^5）下的独特气动特性，特别是在特定攻角范围内出现的‘阻力膝盖’现象。这一现象并非简单的失速或分离，而是指在某一临界攻角下，...
+   - 新方法（前2个）:
+     1. 面向超低雷诺数（Re=1e5）风轮机设计的“CFD验证-选型-BEM优化-实验验证”一体化流程
+        本文提出并实践了一套针对极低雷诺数（Re=1e5）小型水平轴风力发电机（SWT）的集成设计验证方法。该方法并非单一算法创新，而是一个系统性的工程方法学流程。其核心思想是：在概念设计阶段，首先基于低Re...
+
+
+[331] Paper ID: 2020_A_Numerical_Model_for_the_Analysis_of_Leading_Edge_Protection_Tapes_for_Wind_Turbine_Blades
+   - 标题: A Numerical Model for the Analysis of Leading-Edge Protection Tapes for Wind Turbine Blades
+   - 作者: D. Major, J. Palacios, M. Maughmer et al.
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 标准LEP胶带诱发的边界层提前转捩现象
+        本文通过实验和数值模拟揭示了一个关键的新现象：应用于风力机翼型前缘的标准保护胶带（LEP Tape）会在其边缘（即胶带与原始翼面交接形成的台阶处）诱发边界层从层流到湍流的提前转捩。该现象的发生源于胶带...
+   - 新方法（前2个）:
+     1. 面向LEP胶带气动分析的、结合转捩模型的精细化CFD数值建模方法
+        本文提出并验证了一套专门用于分析风力机叶片前缘保护胶带气动影响的CFD数值建模方法。该方法的核心创新在于，首次在针对LEP胶带的研究中，系统性地集成了边界层转捩模型（γ-Reθ模型），以精确捕捉胶带边...
+
+
+[332] Paper ID: 2020_Active_flow_control_in_Horizontal_Axis_Wind_Turbine_using_PI_R_controllers
+   - 标题: Active flow control in Horizontal Axis Wind Turbine using PI-R controllers
+   - 作者: G. Srinivasa Sudharsan, J. Vishnupriyan, K. Vijay Anand
+   - 年份: 2020
+   - 期刊: 2020 6th International Conference on Advanced Computing and Communication Systems Icaccs 2020
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 基于PI-R控制器的动态尾流-气动弹性耦合响应现象
+        该论文通过引入比例-积分-谐振（PI-R）控制器对水平轴风力机进行主动流动控制，揭示了一种新的动态响应现象。传统被动式叶片或简单PID控制主要应对稳态或低频扰动，而该研究发现，在特定谐振频率下，通过P...
+   - 新方法（前2个）:
+     1. 面向水平轴风力机气动载荷控制的PI-R（比例-积分-谐振）控制器综合设计方法
+        该方法是一套完整的控制器设计流程，旨在为水平轴风力机的主动流动控制系统（通常通过叶片上的致动器实现）设计专用的PI-R控制器。核心思想是在经典PI控制的基础上，增加一个或多个谐振（R）环节，该谐振环节...
+
+
+[333] Paper ID: 2020_Advanced_image_processing_for_turbulence_wedge_detection_in_thermographic_flow_visualization_on_wind
+   - 标题: Advanced image processing for turbulence wedge detection in thermographic flow visualization on wind turbines in operation
+   - 作者: Daniel Gleichauf, Dennis Jacob, Michael Sorg et al.
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 运行中风电叶片前缘扰动诱导的湍流楔形区现象
+        该论文深入研究了在役风力涡轮机叶片上，由前缘表面微小扰动（如昆虫撞击、污染物沉积、制造缺陷或运行磨损）所触发的一种特定流动现象——湍流楔形区。这种现象表现为在原本应为层流的区域，由于局部扰动导致边界层...
+   - 新方法（前2个）:
+     1. 用于湍流楔内层流-湍流转捩线定位的二维图像处理方法
+        论文核心创新是提出了一种改进的热成像图像处理算法，专门用于精确识别和定位湍流楔形区域内的层流-湍流转捩线。传统方法是一维的，通常沿叶片展向或弦向提取单条温度曲线进行分析。新方法则升级为二维处理，旨在克...
+
+
+[334] Paper ID: 2020_Aerodynamic_Load_Distribution_and_Wake_Measurements_on_a_Sub_scale_Wind_Turbine
+   - 标题: Aerodynamic Load Distribution and Wake Measurements on a Sub-scale Wind Turbine
+   - 作者: Arash Hassanzadeh, Jonathan W. Naughton, Julian Lotufo et al.
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 2, 对象 1
+   - 新现象（前2个）:
+     1. 亚尺度涡轮机叶片载荷与近尾流速度亏缺结构的清晰关联性
+        该研究并非发现全新的物理现象，而是首次在严格设计的亚尺度实验平台上，清晰、定量地揭示并验证了特定叶片载荷分布与特定近尾流速度亏缺结构之间的直接因果关系。具体而言，研究通过同步测量叶片表面压力（反算为法...
+   - 新方法（前2个）:
+     1. 面向CFD验证的亚尺度风力机“叶片设计-测量-关联”一体化实验方法学
+        本文提出并实践了一套系统化的亚尺度风力机实验方法，其核心思想不再是进行孤立的尾流观测或单纯的性能测试，而是旨在生成一套可用于严格验证高保真度计算流体动力学（CFD）模型的“基准数据集”。该方法包含三个...
+     2. 基于Wiener滤波的远程非定常压力测量信号重构技术
+        为了解决旋转叶片表面压力远程测量中，长连接导管引起的信号严重衰减和相位滞后问题，本文开发并应用了一种基于Wiener滤波系统响应模型（WFSRM）的信号后处理校正技术。该技术不改变硬件，而是通过软件算...
+
+
+[335] Paper ID: 2020_Aerodynamic_behavior_of_an_airfoil_under_extreme_wind_conditions
+   - 标题: Aerodynamic behavior of an airfoil under extreme wind conditions
+   - 作者: Igrid Neunaber, Caroline Braud
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[336] Paper ID: 2020_Aerodynamic_braking_system_analysis_of_horizontal_axis_wind_turbine_using_slotted_airfoil
+   - 标题: Aerodynamic braking system analysis of horizontal axis wind turbine using slotted airfoil
+   - 作者: B. Navin kumar, S. Rajendran, A. Vasudevan et al.
+   - 年份: 2020
+   - 期刊: Materials Today Proceedings
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[337] Paper ID: 2020_Analysis_of_platform_motions_effect_on_the_fatigue_loads_and_aerodynamic_unsteadiness_in_floating_of
+   - 标题: Analysis of platform motions effect on the fatigue loads and aerodynamic unsteadiness in floating offshore wind turbines
+   - 作者: Ahmed Alshuwaykh, Krish Thiagarajan Sharman
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 浮式平台运动与气动非定常性的强耦合效应
+        该论文深入研究了浮式海上风力机（FOWT）平台六自由度运动（纵荡、横荡、垂荡、横摇、纵摇、艏摇）对叶片气动非定常性和疲劳载荷的复杂影响。研究发现，平台运动并非简单地作为外部激励叠加到固定式风机的气动载...
+   - 新方法（前2个）:
+     1. 基于分箱统计与MLife集成的FOWT耦合疲劳载荷高效分析流程
+        本文提出并实践了一套针对FOWT疲劳载荷分析的系统性数值模拟与后处理方法。该方法的核心是：首先，针对不同的设计载荷工况（DLC）和风速区间（wind speed bin），进行长时间（约6小时/工况）...
+
+
+[338] Paper ID: 2020_Analysis_of_the_aerodynamic_loads_on_a_wind_turbine_in_off_design_conditions
+   - 标题: Analysis of the aerodynamic loads on a wind turbine in off-design conditions
+   - 作者: G. Santo, M. Peeters, W. van Paepegem et al.
+   - 年份: 2020
+   - 期刊: Proceedings of the 6th European Conference on Computational Mechanics Solids Structures and Coupled Problems Eccm 2018 and 7th European Conference on Computational Fluid Dynamics Ecfd 2018
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 非设计工况下风力机气动载荷的复杂非定常演化机制
+        该论文深入研究了风力机在偏航、动态入流等非设计工况下，气动载荷表现出的复杂非定常演化行为。研究揭示了在偏航角增大时，叶片展向载荷分布会发生显著畸变，不再是设计工况下的平滑分布。具体表现为：在叶片旋转周...
+   - 新方法（前2个）:
+     1. 基于双向流固耦合的高保真度非设计工况气动载荷分析框架
+        本研究提出并实施了一套完整的、基于双向强耦合算法的流固耦合分析框架，专门用于高精度预测风力机在复杂非设计工况下的气动载荷。该框架的核心是将高保真度的计算流体动力学求解器（用于捕捉复杂的非定常流动，如动...
+
+
+[339] Paper ID: 2020_Assessing_wind_turbine_energy_losses_due_to_blade_leading_edge_erosion_cavities_with_parametric_CAD
+   - 标题: Assessing wind turbine energy losses due to blade leading edge erosion cavities with parametric CAD and 3D CFD
+   - 作者: A. Castorrini, L. Cappugi, A. Bonfiglioli et al.
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 前缘侵蚀空腔诱导的复杂三维分离流与能量损失机制
+        该论文首次通过高保真三维CFD模拟，系统揭示了风力机叶片前缘（LE）因侵蚀形成的空腔结构所引发的复杂三维流动分离现象及其导致的能量损失机制。当叶片前缘出现侵蚀空腔时，来流在空腔前缘发生流动分离，形成一...
+   - 新方法（前2个）:
+     1. 基于参数化CAD与CGAL点云处理的侵蚀空腔三维几何自动生成方法
+        本论文开发了一种创新的、高度自动化的参数化CAD工作流程，专门用于生成带有前缘侵蚀空腔的风力机叶片三维几何模型。该方法的核心是利用开源计算几何算法库（CGAL），从用户定义的参数化点云数据出发，自动构...
+
+
+[340] Paper ID: 2020_CFD_analysis_of_horizontal_axis_wind_turbine_braking_system_using_chordwise_spacing
+   - 标题: CFD analysis of horizontal axis wind turbine braking system using chordwise spacing
+   - 作者: B. Navinkumar, K. M. Parammasivam, S. Rajendran et al.
+   - 年份: 2020
+   - 期刊: Materials Today Proceedings
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 弦向间距引起的可控压力再分布及升力主动衰减现象
+        本文研究发现，在风力机叶片特定弦向位置引入一个贯穿的间距（槽或缝），会引发一种可控的、非传统的空气动力学现象：**在超速工况下，该间距能主动、有效地破坏叶片表面的经典压力分布，从而显著降低升力系数，而...
+   - 新方法（前2个）:
+     1. 基于弦向间距的被动气动制动系统设计方法
+        本文提出了一套完整的、用于设计水平轴风力发电机（HAWT）被动气动制动系统的创新方法。该方法的核心思想是：**在叶片翼型的弦向（沿弦长方向）特定位置，引入一个贯穿叶片厚度的固定间距（Slot），以此作...
+
+
+[341] Paper ID: 2020_Control_of_power_generated_by_a_floating_offshore_wind_turbine_perturbed_by_sea_waves
+   - 标题: Control of power generated by a floating offshore wind turbine perturbed by sea waves
+   - 作者: L. Pustina, C. Lugni, G. Bernardini et al.
+   - 年份: 2020
+   - 期刊: Renewable and Sustainable Energy Reviews
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[342] Paper ID: 2020_Coupled_Dynamic_Analysis_of_a_Tension_Leg_Platform_Floating_Offshore_Wind_Turbine
+   - 标题: Coupled Dynamic Analysis of a Tension Leg Platform Floating Offshore Wind Turbine
+   - 作者: Teng Wang, Hui Jin, Xiaoni Wu
+   - 年份: 2020
+   - 期刊: Journal of Offshore Mechanics and Arctic Engineering
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 1, 对象 0
+   - 新方法（前2个）:
+     1. 基于AQWA与BEMT的耦合气动-水动-平台运动一体化分析方法
+        该方法提出了一种创新的耦合分析框架，用于精确模拟漂浮式风力机的复杂动力学行为。其核心是将空气动力学、水动力学和平台刚体运动学进行一体化求解，而非传统的顺序或解耦分析。具体而言，该方法利用AQWA软件（...
+
+
+[343] Paper ID: 2020_Cross_comparative_analysis_of_loads_and_power_of_pitching_floating_offshore_wind_turbine_rotors_usin
+   - 标题: Cross-comparative analysis of loads and power of pitching floating offshore wind turbine rotors using frequency-domain Navier-Stokes CFD and blade element momentum theory
+   - 作者: A. Ortolani, G. Persico, J. Drofelnik et al.
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. FOWT俯仰运动下气动载荷的非线性频域响应特性
+        该论文通过频域纳维-斯托克斯（NS）CFD方法，首次系统揭示了漂浮式海上风力机（FOWT）转子在平台俯仰运动下，其气动载荷（推力、扭矩、叶片挥舞弯矩）表现出的复杂非线性频域响应特性。研究发现，当转子在...
+   - 新方法（前2个）:
+     1. 基于谐波平衡法的频域纳维-斯托克斯CFD与BEMT的交叉对比分析框架
+        本文提出并实践了一套创新的交叉对比分析框架，用于研究FOWT转子的气动载荷。该框架的核心是将高保真度的频域计算流体力学（CFD）方法与广泛应用的工程方法——叶素动量理论（BEMT）进行系统性的、基于频...
+
+
+[344] Paper ID: 2020_Design_and_optimization_of_wind_turbine_with_axial_induction_factor_and_tip_loss_corrections
+   - 标题: Design and optimization of wind turbine with axial induction factor and tip loss corrections
+   - 作者: Imane Echjijem, Abdelouahed Djebli
+   - 年份: 2020
+   - 期刊: Procedia Manufacturing
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[345] Paper ID: 2020_Influence_of_limiting_the_projection_region_on_coarse_Large_Eddy_Simulation_Actuator_Line_Model_simu
+   - 标题: Influence of limiting the projection region on coarse Large Eddy Simulation-Actuator Line Model simulations
+   - 作者: M. Draper, B. López, A. Guggeri et al.
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 投影区域限制对气动载荷计算的非线性影响
+        论文研究发现，在粗网格大涡模拟-致动线模型（LES-ALM）中，对高斯投影函数施加空间限制（即限制投影区域）会显著影响风力机叶片气动载荷的计算结果，且这种影响呈现出非线性特征。具体表现为：当投影区域被...
+   - 新方法（前2个）:
+     1. 基于投影区域限制敏感性分析的粗网格ALM应用框架
+        本文提出了一种系统化的方法论，用于评估和指导在粗网格大涡模拟中使用致动线模型。该方法的核心不是发明一个全新的算法，而是**建立了一套完整的参数研究与分析流程**，以量化“投影区域限制”这一常用数值技巧...
+
+
+[346] Paper ID: 2020_Innovative_Blade_Trailing_Edge_Flap_Design_Concept_using_Flexible_Torsion_Bar_and_Worm_Drive
+   - 标题: Innovative Blade Trailing Edge Flap Design Concept using Flexible Torsion Bar and Worm Drive
+   - 作者: Kwangtae Ha
+   - 年份: 2020
+   - 期刊: Hightech and Innovation Journal
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 1
+   - 新现象（前2个）:
+     1. 高扭转柔性与高弯曲/轴向刚度解耦现象
+        论文中提出的柔性扭力杆设计展现了一种独特的力学现象：在保持与实心杆相同轴向刚度的前提下，显著降低扭转刚度，同时提高弯曲刚度。这一现象通过特定的几何设计实现，即采用薄壁圆筒结构，并在其表面沿轴向切割出螺...
+   - 新方法（前2个）:
+     1. 基于“柔性扭力杆+蜗杆传动”的集成化襟翼作动系统设计方法
+        本文提出了一种全新的后缘襟翼系统整体设计方法。该方法的核心是将一个具有定制化刚度特性的柔性扭力杆作为襟翼的支撑和传动元件，与一个电机驱动的蜗轮蜗杆机构集成。柔性扭力杆一端固定于叶片主结构，另一端连接襟...
+
+
+[347] Paper ID: 2020_Investigations_of_HAWT_airfoil_shape_characteristics_and_3D_rotational_augmentation_sensitivity_towa_1
+   - 标题: Investigations of HAWT airfoil shape characteristics and 3D rotational augmentation sensitivity toward the aerodynamic performance improvement
+   - 作者: Youjin Kim, Galih Bangga, Antonio Delgado
+   - 年份: 2020
+   - 期刊: Sustainability Switzerland
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[348] Paper ID: 2020_Research_on_the_effect_of_icing_on_aerodynamic_performance_of_airfoil_and_power_generation_performan
+   - 标题: Research on the effect of icing on aerodynamic performance of airfoil and power generation performance of wind turbine
+   - 作者: Feilong Jiang, Tengwei Qiu
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 翼型结冰诱导的流场分离涡提前出现现象
+        该论文通过数值模拟和实验研究发现，当翼型表面发生结冰时，会显著改变其周围的流场结构。具体表现为，在相同来流攻角下，结冰翼型的流动分离点会明显前移，导致流动分离涡比洁净翼型更早地出现和增强。这种现象在翼...
+   - 新方法（前2个）:
+     1. 基于气动性能衰减关联分析的结冰影响评估方法
+        本文采用了一种系统性的分析框架，将结冰过程、气动性能变化与最终的风机发电性能下降进行链条式关联评估。方法的核心路径是：首先通过数值模拟或实验获取特定冰形（如明冰、霜冰）下的翼型气动数据（升力系数Cl、...
+
+
+[349] Paper ID: 2020_Study_on_Influence_of_Environmental_Parameters_on_Dynamic_Stall_Characteristics_of_Wind_Turbine_Blad
+   - 标题: Study on Influence of Environmental Parameters on Dynamic Stall Characteristics of Wind Turbine Blades
+   - 作者: Long Wang, Cheng Wang, Lunye Sun
+   - 年份: 2020
+   - 期刊: Journal of the Institution of Engineers India Series C
+   - 评分: 47.00
+   - 创新点统计: 现象 0, 方法 0, 对象 0
+
+
+[350] Paper ID: 2020_Tower_shadow_excitation_of_a_downwind_rotor_blade_of_a_turbine_with_a_tubular_tower
+   - 标题: Tower shadow excitation of a downwind rotor blade of a turbine with a tubular tower
+   - 作者: P. Van Der Male, R. Van Schaik, M. Vergassola et al.
+   - 年份: 2020
+   - 期刊: Journal of Physics Conference Series
+   - 评分: 47.00
+   - 创新点统计: 现象 1, 方法 1, 对象 0
+   - 新现象（前2个）:
+     1. 下风式风机塔影效应对叶片动态激励的特定模式
+        该论文深入研究了在下风式风机配置中，塔影效应对转子叶片产生的特定动态激励模式。与上风式风机不同，下风式风机的转子位于塔架后方，来流首先经过塔架，形成尾流区，然后才作用于叶片。当叶片旋转通过塔架尾流区时...
+   - 新方法（前2个）:
+     1. 基于Madsen尾流模型与势流理论对比的下风式/上风式风机塔影效应系统分析方法
+        论文提出并实施了一套系统的对比分析方法，用于量化评估下风式风机与等效上风式风机在塔影效应上的差异。该方法的核心在于为两种配置分别建立具有物理代表性的尾流/流场扰动模型，并在相同的入流条件（IEC-3 ...

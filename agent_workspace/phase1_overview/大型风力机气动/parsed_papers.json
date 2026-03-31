@@ -1,0 +1,4202 @@
+[
+  {
+    "paper_id": "2025_Aerodynamic_Design_and_Performance_Analysis_of_a_Large_Scale_Composite_Blade_for_Wind_Turbines",
+    "title": "Aerodynamic Design and Performance Analysis of a Large-Scale Composite Blade for Wind Turbines",
+    "year": 2025,
+    "journal": "Applied Sciences Switzerland",
+    "score": 98.5,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Atmospheric_Turbulence_Modelling_for_Very_Large_Wind_Turbines",
+    "title": "Atmospheric Turbulence Modelling for Very Large Wind Turbines",
+    "year": 2026,
+    "journal": "AIAA Science and Technology Forum and Exposition AIAA Scitech Forum 2026",
+    "score": 98.5,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2026_Highly_Efficient_Vertical_Axis_Wind_Turbine_Concept_Structural_Design_Theoretical_Basis_and_Practica",
+    "title": "Highly Efficient Vertical-Axis Wind Turbine: Concept, Structural Design, Theoretical Basis, and Practical Tests Results",
+    "year": 2026,
+    "journal": "Applied Sciences Switzerland",
+    "score": 98.5,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_Advanced_multi_physics_modeling_of_floating_offshore_wind_turbines_for_aerodynamic_design_and_load_m",
+    "title": "Advanced multi-physics modeling of floating offshore wind turbines for aerodynamic design and load management",
+    "year": 2025,
+    "journal": "Energy Conversion and Management",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_Aerodynamic_and_structural_Co_optimization_of_offshore_wind_turbine_blades_using_a_novel_adaptive_su",
+    "title": "Aerodynamic and structural Co-optimization of offshore wind turbine blades using a novel adaptive surrogate-based optimization method",
+    "year": 2025,
+    "journal": "Ocean Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_Aerodynamic_and_wake_characteristics_for_full_scale_and_model_scale_5_MW_wind_turbines_using_data_dr",
+    "title": "Aerodynamic and wake characteristics for full-scale and model-scale 5 MW wind turbines using data-driven modal decomposition",
+    "year": 2025,
+    "journal": "Ocean Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_Aerodynamic_performance_degradation_of_offshore_wind_turbine_blades_under_icing_with_varying_angles",
+    "title": "Aerodynamic performance degradation of offshore wind turbine blades under icing with varying angles of attack",
+    "year": 2025,
+    "journal": "Ocean Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_An_experimental_comparative_study_of_aerodynamic_thrust_modeling_in_basin_testing_of_floating_wind_t",
+    "title": "An experimental comparative study of aerodynamic thrust modeling in basin testing of floating wind turbines: Real-time hybrid method and thrust-scaled blade model",
+    "year": 2025,
+    "journal": "Energy",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_Analysis_of_platform_motion_effects_on_fatigue_loads_and_aerodynamic_unsteadiness_in_15_MW_novel_flo",
+    "title": "Analysis of platform motion effects on fatigue loads and aerodynamic unsteadiness in 15 MW novel floating offshore wind turbines with transient impact",
+    "year": 2025,
+    "journal": "Ocean Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_Bionic_inspired_flutter_suppression_method_for_offshore_ultra_long_wind_turbine_blades",
+    "title": "Bionic inspired flutter suppression method for offshore ultra-long wind turbine blades",
+    "year": 2025,
+    "journal": "Renewable Energy",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Analysis_of_aerodynamic_damping_characteristics_in_floating_wind_turbines_under_stochastic_wind_and",
+    "title": "Analysis of aerodynamic damping characteristics in floating wind turbines under stochastic wind and wave conditions",
+    "year": 2026,
+    "journal": "Ocean Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Dynamic_response_of_large_scale_offshore_wind_turbine_considering_spatiotemporal_typhoon_impact",
+    "title": "Dynamic response of large-scale offshore wind turbine considering spatiotemporal typhoon impact",
+    "year": 2026,
+    "journal": "Marine Structures",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Experimental_investigation_of_partial_span_slot_effects_on_small_scale_horizontal_axis_wind_turbines",
+    "title": "Experimental investigation of partial-span slot effects on small-scale horizontal-axis wind turbines",
+    "year": 2026,
+    "journal": "Sustainable Energy Technologies and Assessments",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Fully_coupled_aero_hydrodynamic_analysis_of_a_twin_rotor_floating_offshore_wind_turbine",
+    "title": "Fully coupled aero-hydrodynamic analysis of a twin-rotor floating offshore wind turbine",
+    "year": 2026,
+    "journal": "Ocean Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Interaction_between_flow_field_and_blade_forces_on_HAWT_integrating_Lagrangian_interpolation_of_velo",
+    "title": "Interaction between flow field and blade forces on HAWT integrating Lagrangian interpolation of velocities with an actuator volume technique",
+    "year": 2026,
+    "journal": "Renewable Energy",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2026_Modular_structural_design_and_performance_analysis_of_multi_blade_Darrieus_wind_turbines",
+    "title": "Modular structural design and performance analysis of multi-blade Darrieus wind turbines",
+    "year": 2026,
+    "journal": "Results in Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Numerical_simulation_of_the_aerodynamic_characteristics_floating_offshore_wind_turbine_under_inflow",
+    "title": "Numerical simulation of the aerodynamic characteristics floating offshore wind turbine under inflow turbulence",
+    "year": 2026,
+    "journal": "Results in Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Prediction_of_coupled_dynamic_performance_of_floating_offshore_wind_turbine_using_unsteady_aerodynam",
+    "title": "Prediction of coupled dynamic performance of floating offshore wind turbine using unsteady aerodynamic model and nonlinear self-excited hydrodynamic model",
+    "year": 2026,
+    "journal": "Energy",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Synergistic_effect_of_the_small_VAWTs_and_large_HAWTs_for_forced_wake_recovery_of_wind_farm",
+    "title": "Synergistic effect of the small VAWTs and large HAWTs for forced wake recovery of wind farm",
+    "year": 2026,
+    "journal": "Ocean Engineering",
+    "score": 96.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_Investigation_of_the_Impact_of_Airfoil_Geometry_Alteration_on_Horizontal_Axis_Wind_Turbine_Performan",
+    "title": "Investigation of the Impact of Airfoil Geometry Alteration on Horizontal Axis Wind Turbine Performance by CFD Method",
+    "year": 2023,
+    "journal": "El Cezeri Journal of Science and Engineering",
+    "score": 95.5,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2023_Optimizing_Airfoil_Aerodynamic_Characteristics_by_Using_Proposed_CSA_KJ_Method",
+    "title": "Optimizing Airfoil Aerodynamic Characteristics by Using Proposed CSA-KJ Method",
+    "year": 2023,
+    "journal": "Applied Sciences Switzerland",
+    "score": 95.5,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2025_A_synthetic_approach_for_high_fidelity_aerodynamic_performance_optimization_of_large_scale_wind_turb",
+    "title": "A synthetic approach for high-fidelity aerodynamic performance optimization of large-scale wind turbine blades based on hybrid deep learning networks",
+    "year": 2025,
+    "journal": "Physics of Fluids",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_A_comprehensive_review_of_engineered_surface_roughness_on_the_aerodynamic_performance_of_horizontal",
+    "title": "A comprehensive review of engineered surface roughness on the aerodynamic performance of horizontal-axis and vertical-axis wind turbine blades",
+    "year": 2026,
+    "journal": "Physics of Fluids",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Aero_structural_design_optimization_of_wind_turbine_blade_under_quasi_smoothness_constraints",
+    "title": "Aero-structural design optimization of wind turbine blade under quasi-smoothness constraints",
+    "year": 2026,
+    "journal": "Structural and Multidisciplinary Optimization",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Aerodynamic_modeling_and_wake_characterization_of_a_15_MW_offshore_wind_turbine_Insights_from_blade",
+    "title": "Aerodynamic modeling and wake characterization of a 15-MW offshore wind turbine: Insights from blade-resolved URANS simulations",
+    "year": 2026,
+    "journal": "Applied Ocean Research",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 2,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_An_aerodynamic_measurement_system_to_improve_the_efficiency_of_wind_turbine_rotor_blades",
+    "title": "An aerodynamic measurement system to improve the efficiency of wind turbine rotor blades",
+    "year": 2026,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Analysis_of_Structural_Responses_of_a_Horizontal_Axis_Wind_Turbine_at_Maximum_Aerodynamic_Performanc",
+    "title": "Analysis of Structural Responses of a Horizontal Axis Wind Turbine at Maximum Aerodynamic Performance",
+    "year": 2026,
+    "journal": "Journal of Applied and Computational Mechanics",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Blade_icing_characteristics_and_dynamic_response_analysis_of_floating_offshore_wind_turbine_in_cold",
+    "title": "Blade icing characteristics and dynamic response analysis of floating offshore wind turbine in cold marine environments",
+    "year": 2026,
+    "journal": "Cold Regions Science and Technology",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Comparative_analysis_of_numerical_methods_for_predicting_aerodynamic_performance_of_floating_offshor",
+    "title": "Comparative analysis of numerical methods for predicting aerodynamic performance of floating offshore wind turbines in tilted conditions",
+    "year": 2026,
+    "journal": "Applied Ocean Research",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Design_optimisation_of_an_open_source_reference_rotor_library_for_multi_rotor_development_and_innova",
+    "title": "Design optimisation of an open-source reference rotor library for multi-rotor development and innovation",
+    "year": 2026,
+    "journal": "Wind Energy Science",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Harnessing_Energy_and_Engineering_A_Review_of_Design_Transition_of_Bio_Inspired_and_Conventional_Bla",
+    "title": "Harnessing Energy and Engineering: A Review of Design Transition of Bio-Inspired and Conventional Blade Concepts for Wind and Marine Energy Harvesting",
+    "year": 2026,
+    "journal": "Energies",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_High_fidelity_aero_elastic_decoupling_approach_for_dynamic_response_analysis_of_offshore_wind_turbin",
+    "title": "High-fidelity aero-elastic decoupling approach for dynamic response analysis of offshore wind turbines",
+    "year": 2026,
+    "journal": "Soil Dynamics and Earthquake Engineering",
+    "score": 93.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_The_coupling_of_tower_shadow_effect_and_surge_motion_intensifies_aerodynamic_load_variability_in_dow",
+    "title": "The coupling of tower-shadow effect and surge motion intensifies aerodynamic load variability in downwind floating offshore wind turbines",
+    "year": 2023,
+    "journal": "Energy",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2024_A_new_similarity_criterion_for_wind_tunnel_testing_of_floating_wind_turbines_achieving_dynamic_aerod",
+    "title": "A new similarity criterion for wind tunnel testing of floating wind turbines achieving dynamic aerodynamic characteristics similarity",
+    "year": 2024,
+    "journal": "Energy Conversion and Management",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Aerodynamic_rotor_design_for_a_25_MW_offshore_downwind_turbine",
+    "title": "Aerodynamic rotor design for a 25 MW offshore downwind turbine",
+    "year": 2024,
+    "journal": "Applied Energy",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_An_inverse_CFD_actuator_disk_method_for_aerodynamic_design_and_performance_optimization_of_Horizonta",
+    "title": "An inverse CFD actuator disk method for aerodynamic design and performance optimization of Horizontal Axis Wind Turbine blades",
+    "year": 2024,
+    "journal": "Energy Conversion and Management",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Analysis_of_performance_improvement_methods_for_offshore_wind_turbine_blades_affected_by_leading_edg",
+    "title": "Analysis of performance improvement methods for offshore wind turbine blades affected by leading edge erosion",
+    "year": 2024,
+    "journal": "Ocean Engineering",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_CFD_simulation_of_the_aerodynamic_performance_of_co_axial_multi_rotor_wind_turbines_using_the_actuat",
+    "title": "CFD simulation of the aerodynamic performance of co-axial multi-rotor wind turbines using the actuator line method",
+    "year": 2024,
+    "journal": "Ocean Engineering",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Effect_of_surge_motion_on_the_dynamic_stall_of_floating_offshore_wind_turbine_airfoils",
+    "title": "Effect of surge motion on the dynamic stall of floating offshore wind turbine airfoils",
+    "year": 2024,
+    "journal": "Sustainable Energy Technologies and Assessments",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Investigation_of_aero_hydro_elastic_mooring_behavior_of_a_H_type_floating_vertical_axis_wind_turbine",
+    "title": "Investigation of aero-hydro-elastic-mooring behavior of a H-type floating vertical axis wind turbine using coupled CFD-FEM method.",
+    "year": 2024,
+    "journal": "Applied Energy",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_The_aero_hydrodynamic_interference_impact_on_the_NREL_5_MW_floating_wind_turbine_experiencing_surge",
+    "title": "The aero-hydrodynamic interference impact on the NREL 5-MW floating wind turbine experiencing surge motion",
+    "year": 2024,
+    "journal": "Ocean Engineering",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Unsteady_aerodynamics_of_the_floating_offshore_wind_turbine_due_to_the_trailing_vortex_induction_and",
+    "title": "Unsteady aerodynamics of the floating offshore wind turbine due to the trailing vortex induction and airfoil dynamic stall",
+    "year": 2024,
+    "journal": "Energy",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Wake_redirection_control_for_offshore_wind_farm_power_and_fatigue_multi_objective_optimisation_based",
+    "title": "Wake redirection control for offshore wind farm power and fatigue multi-objective optimisation based on a wind turbine load indicator",
+    "year": 2024,
+    "journal": "Energy",
+    "score": 93.4,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Aerodynamic_performance_analysis_of_a_modified_joukowsky_airfoil_Parametric_control_of_trailing_edge",
+    "title": "Aerodynamic performance analysis of a modified joukowsky airfoil: Parametric control of trailing edge thickness",
+    "year": 2021,
+    "journal": "Applied Sciences Switzerland",
+    "score": 91.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Aerodynamic_shape_optimization_of_nrel_s809_airfoil_for_wind_turbine_blades_using_reynolds_averaged",
+    "title": "Aerodynamic shape optimization of nrel s809 airfoil for wind turbine blades using reynolds-averaged navier stokes model—part ii",
+    "year": 2021,
+    "journal": "Applied Sciences Switzerland",
+    "score": 91.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Bionic_coupling_design_and_aerodynamic_analysis_of_horizontal_axis_wind_turbine_blades",
+    "title": "Bionic coupling design and aerodynamic analysis of horizontal axis wind turbine blades",
+    "year": 2021,
+    "journal": "Energy Science and Engineering",
+    "score": 91.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_CFD_analysis_and_shape_optimization_of_airfoils_using_class_shape_transformation_and_genetic_algorit_1",
+    "title": "CFD analysis and shape optimization of airfoils using class shape transformation and genetic algorithm—part i",
+    "year": 2021,
+    "journal": "Applied Sciences Switzerland",
+    "score": 91.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Laminar_turbulent_transition_localization_in_thermographic_flow_visualization_by_means_of_principal",
+    "title": "Laminar-turbulent transition localization in thermographic flow visualization by means of principal component analysis",
+    "year": 2021,
+    "journal": "Applied Sciences Switzerland",
+    "score": 91.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Numerical_investigation_of_threedimensional_and_vortical_flow_phenomena_to_enhance_the_power_perform",
+    "title": "Numerical investigation of three‐dimensional and vortical flow phenomena to enhance the power performance of a wind turbine blade",
+    "year": 2021,
+    "journal": "Applied Sciences Switzerland",
+    "score": 91.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Vortex_ring_theoryAn_alternative_to_the_existing_actuator_disk_and_rotating_annular_stream_tube_theo",
+    "title": "Vortex ring theory—An alternative to the existing actuator disk and rotating annular stream tube theories",
+    "year": 2021,
+    "journal": "Applied Sciences Switzerland",
+    "score": 91.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2023_A_comprehensive_review_of_the_application_of_bio_inspired_tubercles_on_the_horizontal_axis_wind_turb",
+    "title": "A comprehensive review of the application of bio-inspired tubercles on the horizontal axis wind turbine blade",
+    "year": 2023,
+    "journal": "International Journal of Environmental Science and Technology",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_A_large_scale_wind_turbine_model_installed_on_a_floating_structure_experimental_validation_of_the_nu",
+    "title": "A large-scale wind turbine model installed on a floating structure: experimental validation of the numerical design",
+    "year": 2023,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_Comparison_of_aerodynamic_models_for_horizontal_axis_wind_turbine_blades_accounting_for_curved_tip_s",
+    "title": "Comparison of aerodynamic models for horizontal axis wind turbine blades accounting for curved tip shapes",
+    "year": 2023,
+    "journal": "Wind Energy",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami",
+    "title": "Large eddy simulations of a utility-scale horizontal axis wind turbine including unsteady aerodynamics and fluid-structure interaction modelling",
+    "year": 2023,
+    "journal": "Wind Energy",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2023_Noise_simulations_of_flap_devices_for_wind_turbine_rotors",
+    "title": "Noise simulations of flap devices for wind turbine rotors",
+    "year": 2023,
+    "journal": "Wind Energy",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_OF2_coupling_OpenFAST_and_OpenFOAM_for_high_fidelity_aero_hydro_servo_elastic_FOWT_simulations",
+    "title": "OF2: coupling OpenFAST and OpenFOAM for high-fidelity aero-hydro-servo-elastic FOWT simulations",
+    "year": 2023,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_On_the_laminar_Turbulent_transition_mechanism_on_megawatt_wind_turbine_blades_operating_in_atmospher",
+    "title": "On the laminar-Turbulent transition mechanism on megawatt wind turbine blades operating in atmospheric flow",
+    "year": 2023,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 2,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2024_An_experimental_study_on_the_aerodynamic_loads_of_a_floating_offshore_wind_turbine_under_imposed_mot",
+    "title": "An experimental study on the aerodynamic loads of a floating offshore wind turbine under imposed motions",
+    "year": 2024,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Computational_Fluid_Dynamics_CFD_applications_in_Floating_Offshore_Wind_Turbine_FOWT_dynamics_A_revi",
+    "title": "Computational Fluid Dynamics (CFD) applications in Floating Offshore Wind Turbine (FOWT) dynamics: A review",
+    "year": 2024,
+    "journal": "Applied Ocean Research",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Development_and_application_of_a_mesh_generator_intended_for_unsteady_vortex_lattice_method_simulati",
+    "title": "Development and application of a mesh generator intended for unsteady vortex-lattice method simulations of wind turbines and wind farms",
+    "year": 2024,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2024_Hybrid_Lambda_a_low_specific_rating_rotor_concept_for_offshore_wind_turbines",
+    "title": "Hybrid-Lambda: a low-specific-rating rotor concept for offshore wind turbines",
+    "year": 2024,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Influence_of_rotor_blade_flexibility_on_the_near_wake_behavior_of_the_NREL_5MW_wind_turbine",
+    "title": "Influence of rotor blade flexibility on the near-wake behavior of the NREL 5MW wind turbine",
+    "year": 2024,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Numerical_investigation_of_the_coupled_aero_hydrodynamic_performances_of_a_semi_submersible_floating",
+    "title": "Numerical investigation of the coupled aero-hydrodynamic performances of a semi-submersible floating offshore wind turbine with inclined columns",
+    "year": 2024,
+    "journal": "Journal of Hydrodynamics",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_The_near_wake_development_of_a_wind_turbine_operating_in_stalled_conditions_Part_1_Assessment_of_num",
+    "title": "The near-wake development of a wind turbine operating in stalled conditions - Part 1: Assessment of numerical models",
+    "year": 2024,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Unsteady_CFD_simulation_of_a_rotor_blade_under_various_wind_conditions",
+    "title": "Unsteady CFD simulation of a rotor blade under various wind conditions",
+    "year": 2024,
+    "journal": "Scientific Reports",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Wind_turbine_rotors_in_surge_motion_new_insights_into_unsteady_aerodynamics_of_floating_offshore_win",
+    "title": "Wind turbine rotors in surge motion: new insights into unsteady aerodynamics of floating offshore wind turbines (FOWTs) from experiments and simulations",
+    "year": 2024,
+    "journal": "Wind Energy Science",
+    "score": 90.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2025_Aerodynamic_Design_of_Wind_Turbine_Blades_Using_Multi_Fidelity_Analysis_and_Surrogate_Models_",
+    "title": "Aerodynamic Design of Wind Turbine Blades Using Multi-Fidelity Analysis and Surrogate Models ?",
+    "year": 2025,
+    "journal": "International Journal of Turbomachinery Propulsion and Power",
+    "score": 90.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2025_Analysis_of_flutter_characteristics_of_ultra_large_horizontal_axis_wind_turbine_blades_at_low_rotor",
+    "title": "Analysis of flutter characteristics of ultra-large horizontal axis wind turbine blades at low rotor speed",
+    "year": 2025,
+    "journal": "Frontiers in Energy Research",
+    "score": 90.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_An_Experimental_Study_of_Surface_Icing_Characteristics_on_Offshore_Wind_Turbine_Blades_Effects_of_Sa",
+    "title": "An Experimental Study of Surface Icing Characteristics on Offshore Wind Turbine Blades: Effects of Salinity and Liquid Water Content",
+    "year": 2026,
+    "journal": "Coatings",
+    "score": 90.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Detection_of_Wind_Turbine_Blade_Erosion_and_Power_Loss_Analysis_Using_the_Pressure_Coefficient_and_M",
+    "title": "Detection of Wind Turbine Blade Erosion and Power Loss Analysis Using the Pressure Coefficient and Machine Learning",
+    "year": 2026,
+    "journal": "Journal of Failure Analysis and Prevention",
+    "score": 90.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Effect_of_Windblown_Sand_Particles_on_Aerodynamic_Efficiency_of_Wind_Turbines_in_Desert_Environments",
+    "title": "Effect of Windblown Sand Particles on Aerodynamic Efficiency of Wind Turbines in Desert Environments: A 3D Eulerian-Lagrangian Approach",
+    "year": 2026,
+    "journal": "Journal of Applied Fluid Mechanics",
+    "score": 90.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Active_flutter_control_of_the_wind_turbines_using_double_pitched_blades",
+    "title": "Active flutter control of the wind turbines using double-pitched blades",
+    "year": 2021,
+    "journal": "Renewable Energy",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_An_object_oriented_method_for_fully_coupled_analysis_of_floating_offshore_wind_turbines_through_mapp",
+    "title": "An object-oriented method for fully coupled analysis of floating offshore wind turbines through mapping of aerodynamic coefficients",
+    "year": 2021,
+    "journal": "Marine Structures",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Dynamic_stall_of_the_wind_turbine_airfoil_and_blade_undergoing_pitch_oscillations_A_comparative_stud",
+    "title": "Dynamic stall of the wind turbine airfoil and blade undergoing pitch oscillations: A comparative study",
+    "year": 2021,
+    "journal": "Energy",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 2,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Effect_of_blade_pitch_control_on_dynamic_characteristics_of_a_floating_offshore_wind_turbine_under_p",
+    "title": "Effect of blade pitch control on dynamic characteristics of a floating offshore wind turbine under platform pitching motion",
+    "year": 2021,
+    "journal": "Ocean Engineering",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Improvement_of_wind_turbine_aerodynamic_performance_by_vanquishing_stall_with_active_multi_air_jet_b",
+    "title": "Improvement of wind turbine aerodynamic performance by vanquishing stall with active multi air jet blowing",
+    "year": 2021,
+    "journal": "Energy",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Machine_learning_enabled_prediction_of_wind_turbine_energy_yield_losses_due_to_general_blade_leading",
+    "title": "Machine learning-enabled prediction of wind turbine energy yield losses due to general blade leading edge erosion",
+    "year": 2021,
+    "journal": "Energy Conversion and Management",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Nonlinear_effects_and_dynamic_coupling_of_floating_offshore_wind_turbines_using_geometrically_exact",
+    "title": "Nonlinear effects and dynamic coupling of floating offshore wind turbines using geometrically-exact blades and momentum-based methods",
+    "year": 2021,
+    "journal": "Ocean Engineering",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Numerical_analysis_of_unsteady_aerodynamic_performance_of_floating_offshore_wind_turbine_under_platf",
+    "title": "Numerical analysis of unsteady aerodynamic performance of floating offshore wind turbine under platform surge and pitch motions",
+    "year": 2021,
+    "journal": "Renewable Energy",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Numerical_study_on_the_aerodynamics_of_an_experimental_wind_turbine_Influence_of_nacelle_and_tower_o",
+    "title": "Numerical study on the aerodynamics of an experimental wind turbine: Influence of nacelle and tower on the blades and near-wake",
+    "year": 2021,
+    "journal": "Energy Conversion and Management",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Wind_turbine_unsteady_aerodynamics_and_performance_by_a_free_wake_panel_method",
+    "title": "Wind turbine unsteady aerodynamics and performance by a free-wake panel method",
+    "year": 2021,
+    "journal": "Renewable Energy",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_A_review_Approaches_for_aerodynamic_performance_improvement_of_lift_type_vertical_axis_wind_turbine",
+    "title": "A review: Approaches for aerodynamic performance improvement of lift-type vertical axis wind turbine",
+    "year": 2022,
+    "journal": "Sustainable Energy Technologies and Assessments",
+    "score": 88.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2023_Active_control_of_the_edgewise_vibrations_in_wind_turbine_blade_by_optimization_of_the_number_and_lo",
+    "title": "Active control of the edgewise vibrations in wind turbine blade by optimization of the number and locations of the intermediate actuators",
+    "year": 2023,
+    "journal": "International Journal of Dynamics and Control",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2023_Aerodynamic_Noise_Reduction_Based_on_Bionic_Blades_with_Non_Smooth_Leading_Edges_and_Curved_Serrated",
+    "title": "Aerodynamic Noise Reduction Based on Bionic Blades with Non-Smooth Leading Edges and Curved Serrated Trailing Edges",
+    "year": 2023,
+    "journal": "Journal of Applied Fluid Mechanics",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2023_Airfoil_Shape_Optimization_of_a_Horizontal_Axis_Wind_Turbine_Blade_using_a_Discrete_Adjoint_Solver",
+    "title": "Airfoil Shape Optimization of a Horizontal Axis Wind Turbine Blade using a Discrete Adjoint Solver",
+    "year": 2023,
+    "journal": "Journal of Applied Fluid Mechanics",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2023_Numerical_Investigations_on_the_Fluid_Behavior_in_the_Near_Wake_of_an_Experimental_Wind_Turbine_Mode",
+    "title": "Numerical Investigations on the Fluid Behavior in the Near Wake of an Experimental Wind Turbine Model in the Presence of the Nacelle",
+    "year": 2023,
+    "journal": "Journal of Applied Fluid Mechanics",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Aerodynamic_shape_optimization_of_wind_turbine_rotor_blades_using_the_continuous_adjoint_method",
+    "title": "Aerodynamic shape optimization of wind turbine rotor blades using the continuous adjoint method",
+    "year": 2024,
+    "journal": "Optimization and Engineering",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_An_Engineering_Approach_to_Improve_Performance_Predictions_for_Wind_Turbine_Applications_Comparison",
+    "title": "An Engineering Approach to Improve Performance Predictions for Wind Turbine Applications: Comparison with Full Navier-Stokes Model and Experimental Measurements",
+    "year": 2024,
+    "journal": "Journal of Applied Fluid Mechanics",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_An_Experimental_Study_of_Surface_Icing_Characteristics_on_Blade_Airfoil_for_Offshore_Wind_Turbines_E",
+    "title": "An Experimental Study of Surface Icing Characteristics on Blade Airfoil for Offshore Wind Turbines: Effects of Chord Length and Angle of Attack",
+    "year": 2024,
+    "journal": "Coatings",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Numerical_Analysis_of_Leading_Edge_Roughness_Effects_on_the_Aerodynamic_Performance_of_a_Thick_Wind",
+    "title": "Numerical Analysis of Leading-Edge Roughness Effects on the Aerodynamic Performance of a Thick Wind Turbine Airfoil",
+    "year": 2024,
+    "journal": "Journal of Marine Science and Engineering",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Numerical_investigation_of_the_effect_of_winglet_configurations_with_multiple_cant_angles_on_the_aer",
+    "title": "Numerical investigation of the effect of winglet configurations with multiple cant angles on the aerodynamic performance of wind turbine blade",
+    "year": 2024,
+    "journal": "International Journal of Sustainable Energy",
+    "score": 87.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Aerodynamic_shape_optimization_of_wind_turbine_blades_for_minimizing_power_production_losses_due_to",
+    "title": "Aerodynamic shape optimization of wind turbine blades for minimizing power production losses due to icing",
+    "year": 2021,
+    "journal": "Cold Regions Science and Technology",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_An_improved_theory_in_the_determination_of_aerodynamic_damping_for_a_horizontal_axis_wind_turbine_HA",
+    "title": "An improved theory in the determination of aerodynamic damping for a horizontal axis wind turbine (HAWT)",
+    "year": 2021,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Design_and_aerodynamic_performance_analysis_of_a_finite_span_double_split_S809_configuration_for_pas",
+    "title": "Design and aerodynamic performance analysis of a finite span double-split S809 configuration for passive flow control in wind turbines and comparison with single-split geometries",
+    "year": 2021,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Implementation_and_validation_of_an_advanced_wind_energy_controller_in_aero_servo_elastic_simulation",
+    "title": "Implementation and validation of an advanced wind energy controller in aero-servo-elastic simulations using the lifting line free vortex wake model",
+    "year": 2021,
+    "journal": "Energies",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Individual_Blade_Pitch_Control_of_Floating_Offshore_Wind_Turbines_for_Load_Mitigation_and_Power_Regu",
+    "title": "Individual Blade Pitch Control of Floating Offshore Wind Turbines for Load Mitigation and Power Regulation",
+    "year": 2021,
+    "journal": "IEEE Transactions on Control Systems Technology",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Investigating_the_aeroelasticity_effects_on_aeroacoustics_and_aerodynamics_of_a_MW_class_HAWT",
+    "title": "Investigating the aeroelasticity effects on aeroacoustics and aerodynamics of a MW-class HAWT",
+    "year": 2021,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_UNAFLOW_A_holistic_wind_tunnel_experiment_about_the_aerodynamic_response_of_floating_wind_turbines_u_1",
+    "title": "UNAFLOW: A holistic wind tunnel experiment about the aerodynamic response of floating wind turbines under imposed surge motion",
+    "year": 2021,
+    "journal": "Wind Energy Science",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Wind_tunnel_testing_of_a_swept_tip_shape_and_comparison_with_multi_fidelity_aerodynamic_simulations",
+    "title": "Wind tunnel testing of a swept tip shape and comparison with multi-fidelity aerodynamic simulations",
+    "year": 2021,
+    "journal": "Wind Energy Science",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 2,
+      "methods": 2,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2022_Assessment_of_an_actuator_disk_based_approach_for_the_prediction_of_fatigue_loads_in_a_perspective_o",
+    "title": "Assessment of an actuator disk-based approach for the prediction of fatigue loads in a perspective of wind farm-scale application",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Atmospheric_rotating_rig_testing_of_a_swept_blade_tip_and_comparison_with_multi_fidelity_aeroelastic",
+    "title": "Atmospheric rotating rig testing of a swept blade tip and comparison with multi-fidelity aeroelastic simulations",
+    "year": 2022,
+    "journal": "Wind Energy Science",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Challenges_opportunities_and_a_research_roadmap_for_downwind_wind_turbines",
+    "title": "Challenges, opportunities, and a research roadmap for downwind wind turbines",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Development_of_a_passive_adaptive_slat_for_a_wind_turbine_airfoil",
+    "title": "Development of a passive-adaptive slat for a wind turbine airfoil",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Experimental_and_numerical_investigation_of_the_yaw_moment_of_a_downwind_coned_wind_turbine_rotor",
+    "title": "Experimental and numerical investigation of the yaw moment of a downwind coned wind turbine rotor",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Experimental_investigation_of_mini_Gurney_flaps_in_combination_with_vortex_generators_for_improved_w",
+    "title": "Experimental investigation of mini Gurney flaps in combination with vortex generators for improved wind turbine blade performance",
+    "year": 2022,
+    "journal": "Wind Energy Science",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Impact_of_blade_structural_and_aerodynamic_uncertainties_on_wind_turbine_loads",
+    "title": "Impact of blade structural and aerodynamic uncertainties on wind turbine loads",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Investigation_of_the_floating_IEA_Wind_15_MW_RWT_using_vortex_methods_Part_I_Flow_regimes_and_wake_r",
+    "title": "Investigation of the floating IEA Wind 15 MW RWT using vortex methods Part I: Flow regimes and wake recovery",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_The_significance_of_bypass_transition_on_the_annual_energy_production_of_an_offshore_wind_turbine",
+    "title": "The significance of bypass transition on the annual energy production of an offshore wind turbine",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Wind_tunnel_study_on_natural_instability_of_the_normal_force_on_a_full_scale_wind_turbine_blade_sect",
+    "title": "Wind tunnel study on natural instability of the normal force on a full-scale wind turbine blade section at Reynolds number 4.7?·?106",
+    "year": 2022,
+    "journal": "Wind Energy",
+    "score": 86.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_A_Review_on_Modeling_of_Bionic_Flow_Control_Methods_for_Large_Scale_Wind_Turbine_Blades",
+    "title": "A Review on Modeling of Bionic Flow Control Methods for Large-Scale Wind Turbine Blades",
+    "year": 2021,
+    "journal": "Journal of Thermal Science",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_A_numerical_investigation_of_the_effects_of_ice_accretion_on_the_aerodynamic_and_structural_behavior",
+    "title": "A numerical investigation of the effects of ice accretion on the aerodynamic and structural behavior of offshore wind turbine blade",
+    "year": 2021,
+    "journal": "Wind Engineering",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Effect_of_Growth_in_Turbine_Size_on_Rotor_Aerodynamic_Performance_of_Modern_Commercial_Large_Scale_W",
+    "title": "Effect of Growth in Turbine Size on Rotor Aerodynamic Performance of Modern Commercial Large-Scale Wind Turbines",
+    "year": 2021,
+    "journal": "Arabian Journal for Science and Engineering",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Effect_of_the_coupled_pitchyaw_motion_on_the_unsteady_aerodynamic_performance_and_structural_respons",
+    "title": "Effect of the coupled pitch–yaw motion on the unsteady aerodynamic performance and structural response of a floating offshore wind turbine",
+    "year": 2021,
+    "journal": "Processes",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Efficient_estimation_of_the_nonlinear_aerodynamic_loads_of_floating_offshore_wind_turbines_under_ran",
+    "title": "Efficient estimation of the nonlinear aerodynamic loads of floating offshore wind turbines under random waves and wind in frequency domain",
+    "year": 2021,
+    "journal": "Journal of Ocean Engineering and Marine Energy",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Numerical_investigation_of_active_flow_control_with_co_flowing_jet_in_a_horizontal_axis_wind_turbine",
+    "title": "Numerical investigation of active flow control with co-flowing jet in a horizontal axis wind turbine",
+    "year": 2021,
+    "journal": "Wind Engineering",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Study_on_the_aerodynamic_performance_of_floating_offshore_wind_turbine_considering_the_tower_shadow",
+    "title": "Study on the aerodynamic performance of floating offshore wind turbine considering the tower shadow effect",
+    "year": 2021,
+    "journal": "Processes",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Design_fabrication_and_testing_of_an_active_camber_rotor_blade_tip",
+    "title": "Design, fabrication, and testing of an active camber rotor blade tip",
+    "year": 2022,
+    "journal": "Journal of Intelligent Material Systems and Structures",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Effect_of_pitching_motion_on_production_in_a_OFWT",
+    "title": "Effect of pitching motion on production in a OFWT",
+    "year": 2022,
+    "journal": "Journal of Ocean Engineering and Marine Energy",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Improved_Stall_Delay_Model_for_HAWT_Performance_Predictions_using_3D_Navier_Stokes_Solver_and_Actuat",
+    "title": "Improved Stall Delay Model for HAWT Performance Predictions using 3D Navier-Stokes Solver and Actuator Disk Method",
+    "year": 2022,
+    "journal": "Journal of Applied Fluid Mechanics",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Parameter_varying_control_of_wind_turbine_smart_rotor_for_structural_load_mitigation",
+    "title": "Parameter varying control of wind turbine smart rotor for structural load mitigation",
+    "year": 2022,
+    "journal": "European Journal of Control",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Prediction_of_Wind_Turbine_Airfoil_Performance_Using_Artificial_Neural_Network_and_CFD_Approaches",
+    "title": "Prediction of Wind Turbine Airfoil Performance Using Artificial Neural Network and CFD Approaches",
+    "year": 2022,
+    "journal": "International Journal of Engineering and Technology Innovation",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Research_on_Unsteady_Wake_Characteristics_of_the_NREL_5MW_Wind_Turbine_Under_Yaw_Conditions_Based_on",
+    "title": "Research on Unsteady Wake Characteristics of the NREL 5MW Wind Turbine Under Yaw Conditions Based on a LBM-LES Method",
+    "year": 2022,
+    "journal": "Frontiers in Energy Research",
+    "score": 82.6,
+    "innovation": {
+      "phenomena": 2,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Computational_modelling_of_rectangular_sub_boundary_layer_vortex_generators",
+    "title": "Computational modelling of rectangular sub-boundary layer vortex generators",
+    "year": 2018,
+    "journal": "Applied Sciences Switzerland",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Development_of_a_CFD_based_wind_turbine_rotor_optimization_tool_in_considering_wake_effects",
+    "title": "Development of a CFD-based wind turbine rotor optimization tool in considering wake effects",
+    "year": 2018,
+    "journal": "Applied Sciences Switzerland",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Optimize_rotating_wind_energy_rotor_blades_using_the_adjoint_approach_1",
+    "title": "Optimize rotating wind energy rotor blades using the adjoint approach",
+    "year": 2018,
+    "journal": "Applied Sciences Switzerland",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Research_on_Dynamic_Response_Characteristics_of_6MW_Spar_Type_Floating_Offshore_Wind_Turbine",
+    "title": "Research on Dynamic Response Characteristics of 6MW Spar-Type Floating Offshore Wind Turbine",
+    "year": 2018,
+    "journal": "Journal of Shanghai Jiaotong University Science",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Simulating_free_surface_FSI_and_fatigue_damage_in_wind_turbine_structural_systems",
+    "title": "Simulating free-surface FSI and fatigue damage in wind-turbine structural systems",
+    "year": 2018,
+    "journal": "Modeling and Simulation in Science Engineering and Technology",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Theoretical_and_computational_investigations_of_the_optimal_tip_speed_ratio_of_horizontal_axis_wind",
+    "title": "Theoretical and computational investigations of the optimal tip-speed ratio of horizontal-axis wind turbines",
+    "year": 2018,
+    "journal": "Engineering Science and Technology an International Journal",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Tuning_turbine_rotor_design_for_very_large_wind_farms_1",
+    "title": "Tuning turbine rotor design for very large wind farms",
+    "year": 2018,
+    "journal": "Proceedings of the Royal Society A Mathematical Physical and Engineering Sciences",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Development_and_validation_of_aerodynamic_measurement_on_a_horizontal_axiswind_turbine_in_the_field",
+    "title": "Development and validation of aerodynamic measurement on a horizontal axiswind turbine in the field",
+    "year": 2019,
+    "journal": "Applied Sciences Switzerland",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Effect_of_yaw_angle_on_the_global_performances_of_Horizontal_Axis_Wind_Turbine_QBlade_simulation",
+    "title": "Effect of yaw angle on the global performances of Horizontal Axis Wind Turbine - QBlade simulation",
+    "year": 2019,
+    "journal": "Iop Conference Series Materials Science and Engineering",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Evaluation_of_tip_loss_corrections_to_ADNS_simulations_of_wind_turbine_aerodynamic_performance",
+    "title": "Evaluation of tip loss corrections to AD/NS simulations of wind turbine aerodynamic performance",
+    "year": 2019,
+    "journal": "Applied Sciences Switzerland",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_Design_of_Megawatt_Wind_Turbine_Blades_with_NPU_WA_Airfoils",
+    "title": "Aerodynamic Design of Megawatt Wind Turbine Blades with NPU-WA Airfoils",
+    "year": 2020,
+    "journal": "Iop Conference Series Earth and Environmental Science",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Analytical_Assessment_of_the_Effects_of_Blade_Cone_Angle_on_the_Aerodynamic_Performance_of_the_Horiz",
+    "title": "Analytical Assessment of the Effects of Blade Cone Angle on the Aerodynamic Performance of the Horizontal Axis Wind Turbine",
+    "year": 2020,
+    "journal": "Iop Conference Series Materials Science and Engineering",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Contactless_localization_of_premature_laminar_turbulent_flow_transitions_on_wind_turbine_rotor_blade",
+    "title": "Contactless localization of premature laminar-turbulent flow transitions on wind turbine rotor blades in operation",
+    "year": 2020,
+    "journal": "Applied Sciences Switzerland",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Design_and_CFD_analysis_of_Horizontal_Axis_Wind_Turbine_Blade_with_Microtab",
+    "title": "Design and CFD analysis of Horizontal Axis Wind Turbine Blade with Microtab",
+    "year": 2020,
+    "journal": "Iop Conference Series Materials Science and Engineering",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Further_study_on_the_effects_ofwind_turbine_yaw_operation_for_aiding_active_wake_management",
+    "title": "Further study on the effects ofwind turbine yaw operation for aiding active wake management",
+    "year": 2020,
+    "journal": "Applied Sciences Switzerland",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Multi_site_aerodynamic_optimization_of_wind_turbine_blades_for_maximum_annual_energy_production_in_E",
+    "title": "Multi-site aerodynamic optimization of wind turbine blades for maximum annual energy production in East Iran",
+    "year": 2020,
+    "journal": "Energy Science and Engineering",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Over_Speed_Protection_of_Horizontal_Axis_Wind_Turbine_Using_Slot_in_the_Turbine_Blade",
+    "title": "Over Speed Protection of Horizontal Axis Wind Turbine Using Slot in the Turbine Blade",
+    "year": 2020,
+    "journal": "Iop Conference Series Materials Science and Engineering",
+    "score": 82.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Building_a_Digital_Wind_Farm",
+    "title": "Building a Digital Wind Farm",
+    "year": 2018,
+    "journal": "Archives of Computational Methods in Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Comparisons_of_the_dynamical_characteristics_of_a_semi_submersible_floating_offshore_wind_turbine_ba",
+    "title": "Comparisons of the dynamical characteristics of a semi-submersible floating offshore wind turbine based on two different blade concepts",
+    "year": 2018,
+    "journal": "Ocean Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Influence_of_an_off_surface_small_structure_on_the_flow_control_effect_on_horizontal_axis_wind_turbi",
+    "title": "Influence of an off-surface small structure on the flow control effect on horizontal axis wind turbine at different relative inflow angles",
+    "year": 2018,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Investigation_on_aerodynamic_performance_of_horizontal_axis_wind_turbine_by_setting_micro_cylinder_i",
+    "title": "Investigation on aerodynamic performance of horizontal axis wind turbine by setting micro-cylinder in front of the blade leading edge",
+    "year": 2018,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Noise_reduction_of_a_horizontal_wind_turbine_using_different_blade_shapes",
+    "title": "Noise reduction of a horizontal wind turbine using different blade shapes",
+    "year": 2018,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Reduced_frequency_effects_on_combined_oscillations_angle_of_attack_and_free_stream_oscillations_for",
+    "title": "Reduced frequency effects on combined oscillations, angle of attack and free stream oscillations, for a wind turbine blade element",
+    "year": 2018,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Study_of_the_unsteady_aerodynamics_of_floating_wind_turbines_1",
+    "title": "Study of the unsteady aerodynamics of floating wind turbines",
+    "year": 2018,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 2,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Transient_response_of_the_flexible_blade_of_horizontal_axis_wind_turbines_in_wind_gusts_and_rapid_ya",
+    "title": "Transient response of the flexible blade of horizontal-axis wind turbines in wind gusts and rapid yaw changes",
+    "year": 2018,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Wind_turbine_blade_geometry_design_based_on_multi_objective_optimization_using_metaheuristics",
+    "title": "Wind turbine blade geometry design based on multi-objective optimization using metaheuristics",
+    "year": 2018,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_A_new_aero_structural_optimization_method_for_wind_turbine_blades_used_in_low_wind_speed_areas",
+    "title": "A new aero-structural optimization method for wind turbine blades used in low wind speed areas",
+    "year": 2019,
+    "journal": "Composite Structures",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_stall_regulated_wind_turbine_design_to_reduce_fatigue",
+    "title": "A stall-regulated wind turbine design to reduce fatigue",
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Active_flow_control_for_power_enhancement_of_vertical_axis_wind_turbines_Leading_edge_slot_suction",
+    "title": "Active flow control for power enhancement of vertical axis wind turbines: Leading-edge slot suction",
+    "year": 2019,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Aerodynamic_performance_and_wind_induced_effect_of_large_scale_wind_turbine_system_under_yaw_and_win",
+    "title": "Aerodynamic performance and wind-induced effect of large-scale wind turbine system under yaw and wind-rain combination action",
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_An_improved_actuator_disc_model_for_the_numerical_prediction_of_the_far_wake_region_of_a_horizontal_",
+    "title": "An improved actuator disc model for the numerical prediction of the far-wake region of a horizontal axis wind turbine and its performance",
+    "year": 2019,
+    "journal": "Energy Conversion and Management",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Computer_Modeling_of_Wind_Turbines_2_Free_Surface_FSI_and_Fatigue_Damage",
+    "title": "Computer Modeling of Wind Turbines: 2. Free-Surface FSI and Fatigue-Damage",
+    "year": 2019,
+    "journal": "Archives of Computational Methods in Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Coupled_aero_hydro_servo_elastic_methods_for_floating_wind_turbines",
+    "title": "Coupled aero-hydro-servo-elastic methods for floating wind turbines",
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Effects_of_root_Gurney_flaps_on_the_aerodynamic_performance_of_a_horizontal_axis_wind_turbine",
+    "title": "Effects of root Gurney flaps on the aerodynamic performance of a horizontal axis wind turbine",
+    "year": 2019,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Entropy_generation_analysis_of_S825_S822_and_SD7062_offshore_wind_turbine_airfoil_geometries",
+    "title": "Entropy generation analysis of S825, S822, and SD7062 offshore wind turbine airfoil geometries",
+    "year": 2019,
+    "journal": "Ocean Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_IR_thermographic_flow_visualization_for_the_quantification_of_boundary_layer_flow_disturbances_due_t",
+    "title": "IR thermographic flow visualization for the quantification of boundary layer flow disturbances due to the leading edge condition",
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Nonlinear_aeroelastic_response_of_wind_turbines_using_Simo_Vu_Quoc_rods",
+    "title": "Nonlinear aeroelastic response of wind turbines using Simo-Vu-Quoc rods",
+    "year": 2019,
+    "journal": "Applied Mathematical Modelling",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Numerical_investigation_of_the_aerodynamics_and_wake_structures_of_horizontal_axis_wind_turbines_by",
+    "title": "Numerical investigation of the aerodynamics and wake structures of horizontal axis wind turbines by using nonlinear vortex lattice method",
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Powertrain_assessment_of_wind_and_hydrokinetic_turbines_with_diffusers",
+    "title": "Powertrain assessment of wind and hydrokinetic turbines with diffusers",
+    "year": 2019,
+    "journal": "Energy Conversion and Management",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_RANS_and_DDES_simulations_of_a_horizontal_axis_wind_turbine_under_stalled_flow_condition_using_OpenF",
+    "title": "RANS and DDES simulations of a horizontal-axis wind turbine under stalled flow condition using OpenFOAM",
+    "year": 2019,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Scale_resolving_CFD_modeling_of_a_thick_wind_turbine_airfoil_with_application_of_vortex_generators_V",
+    "title": "Scale-resolving CFD modeling of a thick wind turbine airfoil with application of vortex generators: Validation and sensitivity analyses",
+    "year": 2019,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Shape_optimization_under_uncertainty_for_rotor_blades_of_horizontal_axis_wind_turbines",
+    "title": "Shape optimization under uncertainty for rotor blades of horizontal axis wind turbines",
+    "year": 2019,
+    "journal": "Computer Methods in Applied Mechanics and Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Strongly-coupled_aeroelastic_free-vortex_wake_framework_for_floating_offshore_wind_turbine_rotors_Pa",
+    "title": "Strongly-coupled aeroelastic free-vortex wake framework for floating offshore wind turbine rotors. Part 1: Numerical framework",
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Wake_impact_on_aerodynamic_characteristics_of_horizontal_axis_wind_turbine_under_yawed_flow_conditio",
+    "title": "Wake impact on aerodynamic characteristics of horizontal axis wind turbine under yawed flow conditions",
+    "year": 2019,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Wind_shear_effect_on_aerodynamic_performance_and_energy_production_of_horizontal_axis_wind_turbines",
+    "title": "Wind shear effect on aerodynamic performance and energy production of horizontal axis wind turbines with developing blade element momentum theory",
+    "year": 2019,
+    "journal": "Journal of Cleaner Production",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_performance_enhancement_of_horizontal_axis_wind_turbines_by_dimples_on_blades_Numerical",
+    "title": "Aerodynamic performance enhancement of horizontal axis wind turbines by dimples on blades: Numerical investigation",
+    "year": 2020,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_performance_prediction_of_NREL_phase_VI_blade_adopting_biplane_airfoil",
+    "title": "Aerodynamic performance prediction of NREL phase VI blade adopting biplane airfoil",
+    "year": 2020,
+    "journal": "Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_An_improved_dynamic_stall_model_and_its_effect_on_wind_turbine_fatigue_load_prediction",
+    "title": "An improved dynamic stall model and its effect on wind turbine fatigue load prediction",
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Coupled_aerostructural_shape_and_topology_optimization_of_horizontal_axis_wind_turbine_rotor_blades",
+    "title": "Coupled aerostructural shape and topology optimization of horizontal-axis wind turbine rotor blades",
+    "year": 2020,
+    "journal": "Energy Conversion and Management",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Effect_of_morphed_trailing_edge_flap_on_aerodynamic_load_control_for_a_wind_turbine_blade_section",
+    "title": "Effect of morphed trailing-edge flap on aerodynamic load control for a wind turbine blade section",
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Experimental_study_of_the_effective_parameters_on_the_offshore_wind_turbines_airfoil_in_pitching_cas",
+    "title": "Experimental study of the effective parameters on the offshore wind turbine's airfoil in pitching case",
+    "year": 2020,
+    "journal": "Ocean Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_High_order_redesign_method_for_wind_turbine_blade_optimization_in_model_test_considering_aerodynamic",
+    "title": "High-order redesign method for wind turbine blade optimization in model test considering aerodynamic similarity",
+    "year": 2020,
+    "journal": "Ocean Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Improvement_of_aerodynamic_performance_of_an_offshore_wind_turbine_blade_by_moving_surface_mechanism",
+    "title": "Improvement of aerodynamic performance of an offshore wind turbine blade by moving surface mechanism",
+    "year": 2020,
+    "journal": "Ocean Engineering",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Numerical_investigation_of_rain_droplet_impact_on_offshore_wind_turbine_blades_under_different_rainf",
+    "title": "Numerical investigation of rain droplet impact on offshore wind turbine blades under different rainfall conditions: A parametric study",
+    "year": 2020,
+    "journal": "Composite Structures",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Performance_improvement_of_horizontal_axis_wind_turbines_by_aerodynamic_shape_optimization_including",
+    "title": "Performance improvement of horizontal axis wind turbines by aerodynamic shape optimization including aeroealstic deformation",
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Predicting_the_stochastic_aerodynamic_loads_on_blades_of_two_yawed_downwind_hawts_in_uncontrolled_co",
+    "title": "Predicting the stochastic aerodynamic loads on blades of two yawed downwind hawts in uncontrolled conditions using a bem algorithm",
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Simulation_and_analysis_of_wind_turbine_ice_accretion_under_yaw_condition_via_an_Improved_Multi_Shot",
+    "title": "Simulation and analysis of wind turbine ice accretion under yaw condition via an Improved Multi-Shot Icing Computational Model",
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Strongly_coupled_aeroelastic_free_vortex_wake_framework_for_floating_offshore_wind_turbine_rotors_Pa",
+    "title": "Strongly-coupled aeroelastic free-vortex wake framework for floating offshore wind turbine rotors. Part 2: Application",
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_The_Coriolis_force_and_the_direction_of_rotation_of_the_blades_significantly_affect_the_wake_of_wind",
+    "title": "The Coriolis force and the direction of rotation of the blades significantly affect the wake of wind turbines",
+    "year": 2020,
+    "journal": "Applied Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Unsteady_performances_of_a_parked_large_scale_wind_turbine_in_the_typhoon_activity_zones",
+    "title": "Unsteady performances of a parked large-scale wind turbine in the typhoon activity zones",
+    "year": 2020,
+    "journal": "Renewable Energy",
+    "score": 79.9,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_3D_numerical_simulation_of_aerodynamic_performance_of_iced_contaminated_wind_turbine_rotors",
+    "title": "3D numerical simulation of aerodynamic performance of iced contaminated wind turbine rotors",
+    "year": 2018,
+    "journal": "Cold Regions Science and Technology",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_A_Beddoes_Leishmantype_model_with_an_optimization_based_methodology_and_airfoil_shape_parameters",
+    "title": "A Beddoes-Leishman–type model with an optimization-based methodology and airfoil shape parameters",
+    "year": 2018,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_A_CFD_study_of_coupled_aerodynamic_hydrodynamic_loads_on_a_semisubmersible_floating_offshore_wind_tu",
+    "title": "A CFD study of coupled aerodynamic-hydrodynamic loads on a semisubmersible floating offshore wind turbine",
+    "year": 2018,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Aero_elastic_wind_turbine_design_with_active_flaps_for_AEP_maximization",
+    "title": "Aero-elastic wind turbine design with active flaps for AEP maximization",
+    "year": 2018,
+    "journal": "Wind Energy Science",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Aerodynamic_performance_of_a_horizontal_axis_wind_turbine_with_forward_and_backward_swept_blades",
+    "title": "Aerodynamic performance of a horizontal axis wind turbine with forward and backward swept blades",
+    "year": 2018,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Application_of_rod_vortex_generators_for_flow_separation_reduction_on_wind_turbine_rotor",
+    "title": "Application of rod vortex generators for flow separation reduction on wind turbine rotor",
+    "year": 2018,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Effects_of_blade_design_on_ice_accretion_for_horizontal_axis_wind_turbines",
+    "title": "Effects of blade design on ice accretion for horizontal axis wind turbines",
+    "year": 2018,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Enhancement_of_flutter_stability_in_wind_turbines_with_a_new_type_of_passive_damper_of_torsional_rot",
+    "title": "Enhancement of flutter stability in wind turbines with a new type of passive damper of torsional rotation of blades",
+    "year": 2018,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Experimental_assessment_of_an_active_L_shaped_tab_for_dynamic_stall_control",
+    "title": "Experimental assessment of an active L-shaped tab for dynamic stall control",
+    "year": 2018,
+    "journal": "Journal of Fluids and Structures",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Extracting_the_angle_of_attack_on_rotor_blades_from_CFD_simulations",
+    "title": "Extracting the angle of attack on rotor blades from CFD simulations",
+    "year": 2018,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Harmonic_balance_Navier_Stokes_aerodynamic_analysis_of_horizontal_axis_wind_turbines_in_yawed_wind",
+    "title": "Harmonic balance Navier-Stokes aerodynamic analysis of horizontal axis wind turbines in yawed wind",
+    "year": 2018,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Horizontal_AxisWind_Turbine_Blade_Design_Methodologies_for_Efficiency_Enhancement_A_Review",
+    "title": "Horizontal AxisWind Turbine Blade Design Methodologies for Efficiency Enhancement A Review",
+    "year": 2018,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Numerical_Validation_of_Floating_OffshoreWind_Turbine_Scaled_Rotors_for_Surge_Motion",
+    "title": "Numerical Validation of Floating OffshoreWind Turbine Scaled Rotors for Surge Motion",
+    "year": 2018,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Overall_design_optimization_of_dedicated_outboard_airfoils_for_horizontal_axis_wind_turbine_blades",
+    "title": "Overall design optimization of dedicated outboard airfoils for horizontal axis wind turbine blades",
+    "year": 2018,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Parameter_sensitivities_analysis_for_classical_flutter_speed_of_a_horizontal_axis_wind_turbine_blade",
+    "title": "Parameter sensitivities analysis for classical flutter speed of a horizontal axis wind turbine blade",
+    "year": 2018,
+    "journal": "Journal of Central South University",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_Competitive_Cooperative_Game_Method_for_Multi_Objective_Optimization_Design_of_a_Horizontal_Axis_W",
+    "title": "A Competitive-Cooperative Game Method for Multi-Objective Optimization Design of a Horizontal Axis Wind Turbine Blade",
+    "year": 2019,
+    "journal": "IEEE Access",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_An_acoustic_source_model_for_applications_in_low_mach_number_turbulent_flows_such_as_a_large_scale_w",
+    "title": "An acoustic source model for applications in low mach number turbulent flows, such as a large-scale wind turbine blade",
+    "year": 2019,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Combined_effect_of_rotational_augmentation_and_dynamic_stall_on_a_horizontal_axis_wind_turbine_1",
+    "title": "Combined effect of rotational augmentation and dynamic stall on a horizontal axis wind turbine",
+    "year": 2019,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Effect_of_platform_motion_on_aerodynamic_performance_and_aeroelastic_behavior_of_floating_offshore_w_1",
+    "title": "Effect of platform motion on aerodynamic performance and aeroelastic behavior of floating offshore wind turbine blades",
+    "year": 2019,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_High_solidity_straight_bladed_vertical_axis_wind_turbine_Aerodynamic_force_measurements",
+    "title": "High-solidity straight-bladed vertical axis wind turbine: Aerodynamic force measurements",
+    "year": 2019,
+    "journal": "Journal of Wind Engineering and Industrial Aerodynamics",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Impact_of_aerodynamic_modeling_on_seakeeping_performance_of_a_floating_horizontal_axis_wind_turbine",
+    "title": "Impact of aerodynamic modeling on seakeeping performance of a floating horizontal axis wind turbine",
+    "year": 2019,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Influence_of_microcylinders_with_different_vibration_laws_on_the_flow_control_effect_of_a_horizontal",
+    "title": "Influence of microcylinders with different vibration laws on the flow control effect of a horizontal axis wind turbine",
+    "year": 2019,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Investigation_of_laminar_turbulent_transition_on_a_rotating_wind_turbine_blade_of_multimegawatt_clas",
+    "title": "Investigation of laminar-turbulent transition on a rotating wind-turbine blade of multimegawatt class with thermography and microphone array",
+    "year": 2019,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Investigations_on_the_unsteady_aerodynamic_characteristics_of_a_horizontal_axis_wind_turbine_during",
+    "title": "Investigations on the unsteady aerodynamic characteristics of a horizontal-axis wind turbine during dynamic yaw processes",
+    "year": 2019,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Large_eddy_simulation_of_an_onshore_wind_farm_with_the_actuator_line_model_including_wind_turbines_c",
+    "title": "Large eddy simulation of an onshore wind farm with the actuator line model including wind turbine’s control below and above rated wind speed",
+    "year": 2019,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Locating_and_tracking_sound_sources_on_a_horizontal_axis_wind_turbine_using_a_compact_microphone_arr",
+    "title": "Locating and tracking sound sources on a horizontal axis wind turbine using a compact microphone array based on beamforming",
+    "year": 2019,
+    "journal": "Applied Acoustics",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Multipoint_high_fidelity_CFD_based_aerodynamic_shape_optimization_of_a_10_MW_wind_turbine",
+    "title": "Multipoint high-fidelity CFD-based aerodynamic shape optimization of a 10 MW wind turbine",
+    "year": 2019,
+    "journal": "Wind Energy Science",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Predictions_of_ice_formations_on_wind_turbine_blades_and_power_production_losses_due_to_icing",
+    "title": "Predictions of ice formations on wind turbine blades and power production losses due to icing",
+    "year": 2019,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Study_of_adaptive_blades_in_extreme_environment_using_fluidstructure_interaction_method",
+    "title": "Study of adaptive blades in extreme environment using fluid–structure interaction method",
+    "year": 2019,
+    "journal": "Journal of Fluids and Structures",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Wake_effect_of_a_horizontal_axis_wind_turbine_on_the_performance_of_a_downstream_turbine_1",
+    "title": "Wake effect of a horizontal axis wind turbine on the performance of a downstream turbine",
+    "year": 2019,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_analysis_of_coning_effects_on_the_dtu_10_mw_wind_turbine_rotor_1",
+    "title": "Aerodynamic analysis of coning effects on the dtu 10 mw wind turbine rotor",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_investigation_of_a_horizontal_axis_wind_turbine_with_split_winglet_using_computational_f_1",
+    "title": "Aerodynamic investigation of a horizontal axis wind turbine with split winglet using computational fluid dynamics",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Aeroelastic_response_of_a_multi_megawatt_upwind_horizontal_axis_wind_turbine_HAWT_based_on_fluid_str",
+    "title": "Aeroelastic response of a multi-megawatt upwind horizontal axis wind turbine (HAWT) based on fluid-structure interaction simulation",
+    "year": 2020,
+    "journal": "Wind Energy Science",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Design_of_a_robust_adaptive_controller_for_the_pitch_and_torque_control_of_wind_turbines_1",
+    "title": "Design of a robust adaptive controller for the pitch and torque control of wind turbines",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Dynamic_response_of_articulated_offshore_wind_turbines_under_different_water_depths",
+    "title": "Dynamic response of articulated offshore wind turbines under different water depths",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Effect_of_air_ducted_blade_design_on_horizontal_axis_wind_turbine_performance",
+    "title": "Effect of air-ducted blade design on horizontal axis wind turbine performance",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Effect_of_platform_disturbance_on_the_performance_of_offshore_wind_turbine_under_pitch_control",
+    "title": "Effect of platform disturbance on the performance of offshore wind turbine under pitch control",
+    "year": 2020,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Experimental_study_of_ice_accretion_on_S826_S832_wind_turbine_blade_profiles",
+    "title": "Experimental study of ice accretion on S826 & S832 wind turbine blade profiles",
+    "year": 2020,
+    "journal": "Cold Regions Science and Technology",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Identification_of_airfoil_polars_from_uncertain_experimental_measurements",
+    "title": "Identification of airfoil polars from uncertain experimental measurements",
+    "year": 2020,
+    "journal": "Wind Energy Science",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Is_the_Blade_Element_Momentum_theory_overestimating_wind_turbine_loads_An_aeroelastic_comparison_bet",
+    "title": "Is the Blade Element Momentum theory overestimating wind turbine loads?-An aeroelastic comparison between OpenFAST's AeroDyn and QBlade's Lifting-Line Free Vortex Wake method",
+    "year": 2020,
+    "journal": "Wind Energy Science",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_New_vortex_lift_and_tangential_force_models_for_HAWT_aerodynamic_load_prediction",
+    "title": "New vortex-lift and tangential-force models for HAWT aerodynamic load prediction",
+    "year": 2020,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Study_of_ice_accretion_on_horizontal_axis_wind_turbine_blade_using_2d_and_3d_numerical_approach",
+    "title": "Study of ice accretion on horizontal axis wind turbine blade using 2d and 3d numerical approach",
+    "year": 2020,
+    "journal": "IEEE Access",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_The_effect_of_a_leading_edge_erosion_shield_on_the_aerodynamic_performance_of_a_wind_turbine_blade",
+    "title": "The effect of a leading edge erosion shield on the aerodynamic performance of a wind turbine blade",
+    "year": 2020,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_The_impact_of_pitch_to_stall_and_pitch_to_feather_control_on_the_structural_loads_and_the_pitch_mech",
+    "title": "The impact of pitch-to-stall and pitch-to-feather control on the structural loads and the pitch mechanism of a wind turbine",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Tower_shadow_induced_blade_loads_for_an_extreme_scale_downwind_turbine",
+    "title": "Tower shadow induced blade loads for an extreme-scale downwind turbine",
+    "year": 2020,
+    "journal": "Wind Energy",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Wake_statistics_of_different_scalewind_turbines_under_turbulent_boundary_layer_inflow",
+    "title": "Wake statistics of different-scalewind turbines under turbulent boundary layer inflow",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Wind_turbine_blade_optimal_design_considering_multi_parameters_and_response_surface_method",
+    "title": "Wind turbine blade optimal design considering multi-parameters and response surface method",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Wind_turbines_with_truncated_blades_may_be_a_possibility_for_dense_wind_farms_1",
+    "title": "Wind turbines with truncated blades may be a possibility for dense wind farms",
+    "year": 2020,
+    "journal": "Energies",
+    "score": 77.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Aerodynamic_optimization_of_wind_turbine_rotor_using_CFDAD_method",
+    "title": "Aerodynamic optimization of wind turbine rotor using CFD/AD method",
+    "year": 2018,
+    "journal": "Modern Physics Letters B",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Application_of_a_turbulent_vortex_core_model_in_the_free_vortex_wake_scheme_to_predict_wind_turbine",
+    "title": "Application of a turbulent vortex core model in the free vortex wake scheme to predict wind turbine aerodynamics",
+    "year": 2018,
+    "journal": "Journal of Renewable and Sustainable Energy",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Development_of_thick_airfoils_for_outboard_sections_and_investigation_into_their_application_for_lar",
+    "title": "Development of thick airfoils for outboard sections and investigation into their application for large rotors",
+    "year": 2018,
+    "journal": "Wind Engineering",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Numerical_simulations_of_a_large_offshore_wind_turbine_exposed_to_turbulent_inflow_conditions",
+    "title": "Numerical simulations of a large offshore wind turbine exposed to turbulent inflow conditions",
+    "year": 2018,
+    "journal": "Wind Engineering",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Unsteady_aerodynamic_modeling_and_control_of_the_wind_turbine_with_trailing_edge_flap",
+    "title": "Unsteady aerodynamic modeling and control of the wind turbine with trailing edge flap",
+    "year": 2018,
+    "journal": "Journal of Renewable and Sustainable Energy",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Wind_induced_fatigue_of_large_HAWT_coupled_towerblade_structures_considering_aeroelastic_and_yaw_eff",
+    "title": "Wind-induced fatigue of large HAWT coupled tower–blade structures considering aeroelastic and yaw effects",
+    "year": 2018,
+    "journal": "Structural Design of Tall and Special Buildings",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Adjoint_based_high_fidelity_structural_optimization_of_wind_turbine_blade_for_load_stress_minimizati",
+    "title": "Adjoint-based high-fidelity structural optimization of wind-turbine blade for load stress minimization",
+    "year": 2019,
+    "journal": "AIAA Journal",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Experimental_Study_on_Aerodynamic_Characteristics_of_the_Model_Wind_Rotor_System_and_on_Characteriza",
+    "title": "Experimental Study on Aerodynamic Characteristics of the Model Wind Rotor System and on Characterization of A Wind Generation System",
+    "year": 2019,
+    "journal": "China Ocean Engineering",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Multidisciplinary_design_and_verification_of_the_HB_flatback_airfoil_family",
+    "title": "Multidisciplinary design and verification of the HB flatback airfoil family",
+    "year": 2019,
+    "journal": "AIAA Journal",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Nonlinear_aeroelastic_analysis_of_large_wind_turbines_under_turbulent_wind_conditions_1",
+    "title": "Nonlinear aeroelastic analysis of large wind turbines under turbulent wind conditions",
+    "year": 2019,
+    "journal": "AIAA Journal",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Numerical_Simulation_of_Horizontal_Axis_Wind_Turbines_with_Vortex_Generators",
+    "title": "Numerical Simulation of Horizontal Axis Wind Turbines with Vortex Generators",
+    "year": 2019,
+    "journal": "International Journal of Aeronautical and Space Sciences",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Numerical_study_on_the_effect_of_blade_surface_deterioration_by_erosion_on_the_performance_of_a_larg",
+    "title": "Numerical study on the effect of blade surface deterioration by erosion on the performance of a large wind turbine",
+    "year": 2019,
+    "journal": "Journal of Renewable and Sustainable Energy",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Study_on_wake_induced_fatigue_on_wind_turbine_blade_based_on_elastic_actuator_line_model_and_two_dim",
+    "title": "Study on wake-induced fatigue on wind turbine blade based on elastic actuator line model and two-dimensional finite element model",
+    "year": 2019,
+    "journal": "Wind Engineering",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_The_influence_of_oscillating_trailing_edge_flap_on_the_dynamic_stall_control_of_a_pitching_wind_turb",
+    "title": "The influence of oscillating trailing-edge flap on the dynamic stall control of a pitching wind turbine airfoil",
+    "year": 2019,
+    "journal": "Journal of the Brazilian Society of Mechanical Sciences and Engineering",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Equivalent_beam_modeling_scheme_based_on_three_dimensional_structure_with_blade_element_concept",
+    "title": "Equivalent beam modeling scheme based on three-dimensional structure with blade element concept",
+    "year": 2020,
+    "journal": "Advanced Composite Materials",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Hydro_servo_aero_elastic_analysis_of_floating_offshore_wind_turbines",
+    "title": "Hydro-servo-aero-elastic analysis of floating offshore wind turbines",
+    "year": 2020,
+    "journal": "Fluids",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Influence_of_atmospheric_conditions_on_the_power_production_of_utility_scale_wind_turbines_in_yaw_mi",
+    "title": "Influence of atmospheric conditions on the power production of utility-scale wind turbines in yaw misalignment",
+    "year": 2020,
+    "journal": "Journal of Renewable and Sustainable Energy",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Parameter_design_and_optimization_for_camber_of_vertical_axis_offshore_wind_turbine_using_CFD",
+    "title": "Parameter design and optimization for camber of vertical axis offshore wind turbine using CFD",
+    "year": 2020,
+    "journal": "Journal of Ocean Engineering and Marine Energy",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Power_prediction_of_wind_farms_via_a_simplified_actuator_disk_model_1",
+    "title": "Power prediction of wind farms via a simplified actuator disk model",
+    "year": 2020,
+    "journal": "Journal of Marine Science and Engineering",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Structural_damping_sensitivity_affecting_the_flutter_performance_of_a_10_MW_offshore_wind_turbine",
+    "title": "Structural damping sensitivity affecting the flutter performance of a 10-MW offshore wind turbine",
+    "year": 2020,
+    "journal": "Advances in Structural Engineering",
+    "score": 73.6,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Experimental_investigation_of_the_potential_of_wedge_flaps_for_improving_the_aerodynamic_performance",
+    "title": "Experimental investigation of the potential of wedge flaps for improving the aerodynamic performance of a straight-bladed vertical axis wind turbine",
+    "year": 2026,
+    "journal": "Energy Conversion and Management X",
+    "score": 63.5,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2026_Optimized_H_Shaped_VAWT_for_Tilted_Operation_Computational_Fluid_Dynamics_Evaluation_of_Design_and_O",
+    "title": "Optimized H-Shaped VAWT for Tilted Operation: Computational Fluid Dynamics Evaluation of Design and Off-Design Conditions",
+    "year": 2026,
+    "journal": "Journal of Engineering for Gas Turbines and Power",
+    "score": 63.5,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Aerodynamic_and_Structural_Assessment_of_Floating_Wind_Turbine_Rotor_under_Varying_Tilt_Angle_1",
+    "title": "Aerodynamic and Structural Assessment of Floating Wind Turbine Rotor under Varying Tilt Angle",
+    "year": 2024,
+    "journal": "Journal of Physics Conference Series",
+    "score": 60.5,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Qualitative_Investigation_of_Wake_Composition_in_Offshore_Wind_Turbines_A_Combined_Computational_and",
+    "title": "Qualitative Investigation of Wake Composition in Offshore Wind Turbines: A Combined Computational and Statistical Analysis of Inner and Outer Blade Sections",
+    "year": 2024,
+    "journal": "E3s Web of Conferences",
+    "score": 60.5,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Research_of_biomimetic_corrugation_on_the_blade_flutter_suppression_in_large_scale_wind_turbine_syst",
+    "title": "Research of biomimetic corrugation on the blade flutter suppression in large-scale wind turbine systems",
+    "year": 2024,
+    "journal": "Bioinspiration and Biomimetics",
+    "score": 60.5,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Study_on_aerodynamic_and_structural_performance_of_floating_offshore_wind_turbine_with_fusion_wingle",
+    "title": "Study on aerodynamic and structural performance of floating offshore wind turbine with fusion winglets",
+    "year": 2024,
+    "journal": "Journal of the Chinese Institute of Engineers Transactions of the Chinese Institute of Engineers Series A",
+    "score": 60.5,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2024_Unsteady_dynamic_load_and_output_performance_of_the_rotor_using_the_dynamic_wake_theory",
+    "title": "Unsteady dynamic load and output performance of the rotor using the dynamic wake theory",
+    "year": 2024,
+    "journal": "Energy Sources Part A Recovery Utilization and Environmental Effects",
+    "score": 60.5,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Aeroelastic_performance_analysis_of_horizontal_axis_wind_turbine_HAWT_swept_blades",
+    "title": "Aeroelastic performance analysis of horizontal axis wind turbine (HAWT) swept blades",
+    "year": 2021,
+    "journal": "Materials Today Proceedings",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_CFD_SIMULATION_ON_WIND_TURBINE_BLADES_WITH_LEADING_EDGE_EROSION1",
+    "title": "CFD SIMULATION ON WIND TURBINE BLADES WITH LEADING EDGE EROSION1",
+    "year": 2021,
+    "journal": "Journal of Theoretical and Applied Mechanics Poland",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Effect_of_blade_pitch_angle_on_the_aerodynamic_characteristics_of_a_twisted_blade_horizontal_axis_wi",
+    "title": "Effect of blade pitch angle on the aerodynamic characteristics of a twisted blade horizontal axis wind turbine based on numerical simulations",
+    "year": 2021,
+    "journal": "International Journal of Power Electronics and Drive Systems",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Enhancement_of_a_horizontal_axis_wind_turbine_airfoil_performance_using_single_dielectric_barrier_di",
+    "title": "Enhancement of a horizontal axis wind turbine airfoil performance using single dielectric barrier discharge plasma actuator",
+    "year": 2021,
+    "journal": "Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 2,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2021_Load_control_and_unsteady_aerodynamics_for_floating_wind_turbines",
+    "title": "Load control and unsteady aerodynamics for floating wind turbines",
+    "year": 2021,
+    "journal": "Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Method_to_control_flow_separation_over_wind_turbine_blade_A_CFD_study",
+    "title": "Method to control flow separation over wind turbine blade: A CFD study",
+    "year": 2021,
+    "journal": "Materials Today Proceedings",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Modeling_and_simulation_of_forces_applied_to_the_horizontal_axis_wind_turbine_rotors_by_the_vortex_m",
+    "title": "Modeling and simulation of forces applied to the horizontal axis wind turbine rotors by the vortex method coupled with the method of the blade element",
+    "year": 2021,
+    "journal": "International Journal of Power Electronics and Drive Systems",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_NEW_ROTOR_BLADE_PROFILES_PERFORMANCE_DECAY_IN_HORIZONTAL_AXIS_WIND_TURBINES_OPERATING_IN_AGGRESSIVE_",
+    "title": "NEW ROTOR BLADE PROFILES PERFORMANCE DECAY IN HORIZONTAL AXIS WIND TURBINES OPERATING IN AGGRESSIVE ENVIRONMENT",
+    "year": 2021,
+    "journal": "E3s Web of Conferences",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Numerical_investigation_of_stall_characteristics_for_winglet_blade_of_a_horizontal_axis_wind_turbine",
+    "title": "Numerical investigation of stall characteristics for winglet blade of a horizontal axis wind turbine",
+    "year": 2021,
+    "journal": "E3s Web of Conferences",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2021_Numerical_optimization_of_horizontal_axis_wind_turbine_blades_with_surrogate_model",
+    "title": "Numerical optimization of horizontal-axis wind turbine blades with surrogate model",
+    "year": 2021,
+    "journal": "Proceedings of the Institution of Mechanical Engineers Part A Journal of Power and Energy",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2022_DBD_Plasma_Actuator_Effect_on_Mid_Blade_Aerodynamics_Enhancement_of_a_NREL_5_MW_Wind_Turbine",
+    "title": "DBD Plasma Actuator Effect on Mid-Blade Aerodynamics Enhancement of a NREL 5-MW Wind Turbine",
+    "year": 2022,
+    "journal": "International Conference on Futuristic Technologies in Control Systems and Renewable Energy Icfcr 2022",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Evaluation_of_influence_of_turbulence_models_on_the_vortex_formation_processes_modeling_in_wind_powe",
+    "title": "Evaluation of influence of turbulence models on the vortex formation processes modeling in wind power",
+    "year": 2022,
+    "journal": "Vestnik Samarskogo Gosudarstvennogo Tekhnicheskogo Universiteta Seriya Fiziko Matematicheskie Nauki",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_In_depth_CFD_Analysis_and_Verification_of_Vortex_Generator_Installed_23MW_Horizontal_Axis_Wind_Turbi",
+    "title": "In-depth CFD Analysis and Verification of Vortex Generator Installed 2.3MW Horizontal Axis Wind Turbine",
+    "year": 2022,
+    "journal": "Proceedings of 2022 12th International Conference on Power Energy and Electrical Engineering Cpeee 2022",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Offshore_Wind_Turbine_Pitch_Control_with_Aeroelastic_Effect",
+    "title": "Offshore Wind Turbine Pitch Control with Aeroelastic Effect",
+    "year": 2022,
+    "journal": "2022 IEEE IAS Global Conference on Emerging Technologies Globconet 2022",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Quantifying_the_effects_of_high_speed_shaft_braking_on_the_substructural_dynamics_of_monopile_offsho",
+    "title": "Quantifying the effects of high-speed shaft braking on the substructural dynamics of monopile offshore wind turbines",
+    "year": 2022,
+    "journal": "Energy Sources Part A Recovery Utilization and Environmental Effects",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Research_on_the_Change_of_Airfoil_Geometric_Parameters_of_Horizontal_Axis_Wind_Turbine_Blades_Caused",
+    "title": "Research on the Change of Airfoil Geometric Parameters of Horizontal Axis Wind Turbine Blades Caused by Atmospheric Icing",
+    "year": 2022,
+    "journal": "Energy Engineering Journal of the Association of Energy Engineering",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2022_Theoretical_and_computational_studies_on_the_optimal_positions_of_NACA_airfoils_used_in_horizontal_a",
+    "title": "Theoretical and computational studies on the optimal positions of NACA airfoils used in horizontal axis wind turbine blades",
+    "year": 2022,
+    "journal": "Journal of Energy Systems",
+    "score": 56.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_A_panel_method_for_floating_offshore_wind_turbine_simulations_with_fully_integrated_aero_and_hydrody",
+    "title": "A panel method for floating offshore wind turbine simulations with fully integrated aero- and hydrodynamic modelling in time domain",
+    "year": 2018,
+    "journal": "Ship Technology Research",
+    "score": 49.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Review_on_diffuser_augmented_wind_turbine_DAWT",
+    "title": "Review on diffuser augmented wind turbine (DAWT)",
+    "year": 2019,
+    "journal": "International Journal of Integrated Engineering",
+    "score": 49.1,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_A_SCADA_data_mining_method_for_precision_assessment_of_performance_enhancement_from_aerodynamic_opti",
+    "title": "A SCADA data mining method for precision assessment of performance enhancement from aerodynamic optimization of wind turbine blades",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Aero_elastic_design_optimization_of_floating_offshore_wind_turbine_blades",
+    "title": "Aero-elastic design optimization of floating offshore wind turbine blades",
+    "year": 2018,
+    "journal": "Wind Energy Symposium 2018",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Aerodynamic_analysis_of_backward_swept_in_hawt_rotor_blades_using_CFD_1",
+    "title": "Aerodynamic analysis of backward swept in hawt rotor blades using CFD",
+    "year": 2018,
+    "journal": "International Journal of Renewable Energy Development",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Aerodynamic_modelling_of_wind_turbine_blade_loads_during_extreme_deflection_events",
+    "title": "Aerodynamic modelling of wind turbine blade loads during extreme deflection events",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Aerodynamic_performances_of_pitching_wind_turbine_airfoil_using_unsteady_panel_method",
+    "title": "Aerodynamic performances of pitching wind turbine airfoil using unsteady panel method",
+    "year": 2018,
+    "journal": "Green Energy and Technology",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Airfoil_Blender_for_Blade_Optimizations",
+    "title": "Airfoil Blender for Blade Optimizations",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_An_assessment_of_compressibility_effects_for_large_wind_turbines_using_the_blade_element_momentum_me",
+    "title": "An assessment of compressibility effects for large wind turbines using the blade element momentum method",
+    "year": 2018,
+    "journal": "Aip Conference Proceedings",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Analysis_of_winglets_and_sweep_on_wind_turbine_blades_using_a_lifting_line_vortex_particle_method_in",
+    "title": "Analysis of winglets and sweep on wind turbine blades using a lifting line vortex particle method in complex inflow conditions",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_CFD_study_of_trailing_edge_flaps_for_load_control_on_wind_turbines_1",
+    "title": "CFD study of trailing edge flaps for load control on wind turbines",
+    "year": 2018,
+    "journal": "Notes on Numerical Fluid Mechanics and Multidisciplinary Design",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Comparison_of_BEM_and_Full_Navier_Stokes_CFD_Methods_for_Prediction_of_Aerodynamics_Performance_of_H",
+    "title": "Comparison of BEM and Full Navier-Stokes CFD Methods for Prediction of Aerodynamics Performance of HAWT Rotors",
+    "year": 2018,
+    "journal": "Proceedings of 2017 International Renewable and Sustainable Energy Conference Irsec 2017",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Contribution_to_the_Aerodynamic_Study_of_the_Air_Sand_Flow_Around_a_Wind_Turbine_Blade_Installed_in",
+    "title": "Contribution to the Aerodynamic Study of the Air-Sand Flow Around a Wind Turbine Blade Installed in Desert Environment of Algeria",
+    "year": 2018,
+    "journal": "2018 International Conference on Wind Energy and Applications in Algeria Icweaa 2018",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Design_and_Optimization_of_Composite_Horizontal_Axis_Wind_Turbine_Hawt_Blade",
+    "title": "Design and Optimization of Composite Horizontal Axis Wind Turbine (Hawt) Blade",
+    "year": 2018,
+    "journal": "SAE Technical Papers",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Design_and_validation_of_a_multi_scale_model_floating_offshore_test_wind_turbine",
+    "title": "Design and validation of a multi-scale model floating offshore test wind turbine",
+    "year": 2018,
+    "journal": "ASME 2018 1st International Offshore Wind Technical Conference Iowtc 2018",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Development_of_a_scaled_rotor_blade_for_tank_tests_of_floating_wind_turbine_systems_1",
+    "title": "Development of a scaled rotor blade for tank tests of floating wind turbine systems",
+    "year": 2018,
+    "journal": "Proceedings of the International Conference on Offshore Mechanics and Arctic Engineering OMAE",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Experimental_evaluation_of_a_non_conventional_flat_back_thick_airfoil_concept_for_large_offshore_win",
+    "title": "Experimental evaluation of a non-conventional flat back thick airfoil concept for large offshore wind turbines",
+    "year": 2018,
+    "journal": "2018 Applied Aerodynamics Conference",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Fully_coupled_aero_hydro_structural_simulation_of_new_floating_wind_turbine_concept",
+    "title": "Fully coupled aero-hydro-structural simulation of new floating wind turbine concept",
+    "year": 2018,
+    "journal": "ASME 2018 1st International Offshore Wind Technical Conference Iowtc 2018",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Impact_of_the_aerodynamic_model_on_the_modelling_of_the_behaviour_of_a_Floating_Vertical_Axis_Wind_T",
+    "title": "Impact of the aerodynamic model on the modelling of the behaviour of a Floating Vertical Axis Wind Turbine",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Influence_of_vortex_induced_loads_on_the_motion_of_SPARType_wind_turbine_A_coupled_aero_hydro_vortex",
+    "title": "Influence of vortex-induced loads on the motion of SPARType wind turbine: A coupled aero-hydro-vortex-mooring investigation",
+    "year": 2018,
+    "journal": "Journal of Offshore Mechanics and Arctic Engineering",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Inverse_Design_of_Single_A_nd_Multi_Rotor_Horizontal_Axis_Wind_Turbine_Blades_Using_Computational_Fl",
+    "title": "Inverse Design of Single-A nd Multi-Rotor Horizontal Axis Wind Turbine Blades Using Computational Fluid Dynamics",
+    "year": 2018,
+    "journal": "Journal of Solar Energy Engineering Transactions of the ASME",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Investigations_on_the_fatigue_load_reduction_potential_of_advanced_control_strategies_for_multi_MW_w",
+    "title": "Investigations on the fatigue load reduction potential of advanced control strategies for multi-MW wind turbines using a free vortex wake model",
+    "year": 2018,
+    "journal": "Proceedings of the ASME Turbo Expo",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Load_mitigation_using_slotted_flaps_in_offshore_wind_turbines",
+    "title": "Load mitigation using slotted flaps in offshore wind turbines",
+    "year": 2018,
+    "journal": "Journal of Offshore Mechanics and Arctic Engineering",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Numerical_Fluid_Structure_Interaction_Study_on_the_NREL_5MW_HAWT",
+    "title": "Numerical Fluid-Structure Interaction Study on the NREL 5MW HAWT",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Numerical_analysis_of_unsteady_aerodynamics_of_floating_offshore_wind_turbines",
+    "title": "Numerical analysis of unsteady aerodynamics of floating offshore wind turbines",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_Quantification_of_the_axial_induction_exerted_by_utility_scale_wind_turbines_by_coupling_LiDAR_measu",
+    "title": "Quantification of the axial induction exerted by utility-scale wind turbines by coupling LiDAR measurements and RANS simulations",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Some_aspects_of_the_influence_of_the_vertical_wind_speed_gradient_on_the_blade_aerodynamics_loads_in",
+    "title": "Some aspects of the influence of the vertical wind speed gradient on the blade aerodynamics loads in high class wind generators",
+    "year": 2018,
+    "journal": "Matec Web of Conferences",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2018_State_space_realisation_and_model_reduction_of_potential_flow_aerodynamics_for_HAWT_applications",
+    "title": "State space realisation and model reduction of potential-flow aerodynamics for HAWT applications",
+    "year": 2018,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Unsteady_aerodynamic_analysis_of_different_multi_MW_horizontal_axis_wind_turbine_blade_profiles_on_S",
+    "title": "Unsteady aerodynamic analysis of different multi-MW horizontal axis wind turbine blade profiles on SST K-ω model",
+    "year": 2018,
+    "journal": "Green Energy and Technology",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2018_Wind_Turbine_Aerodynamic_Load_Fluctuation_Reduction_Using_Model_Based_Iterative_Learning_Control",
+    "title": "Wind Turbine Aerodynamic Load Fluctuation Reduction Using Model Based Iterative Learning Control",
+    "year": 2018,
+    "journal": "Proceedings of the American Control Conference",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_CFD_based_application_of_support_vector_regression_to_determine_the_optimum_smooth_twist_for_wind",
+    "title": "A CFD based application of support vector regression to determine the optimum smooth twist for wind turbine blades",
+    "year": 2019,
+    "journal": "Sustainability Switzerland",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_Detailed_Analysis_of_the_Centrifugal_Pumping_Phenomenon_in_HAWTs_Through_the_Use_of_CFD_Models",
+    "title": "A Detailed Analysis of the Centrifugal Pumping Phenomenon in HAWTs Through the Use of CFD Models",
+    "year": 2019,
+    "journal": "Research Topics in Wind Energy",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_Reliable_Experimental_Methodology_for_the_Study_of_Wind_Turbine_Rotor_Blade_Aerodynamics",
+    "title": "A Reliable Experimental Methodology for the Study of Wind-Turbine Rotor Blade Aerodynamics",
+    "year": 2019,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_new_approach_for_comparability_of_two_and_three_bladed_20_MW_offshore_wind_turbines",
+    "title": "A new approach for comparability of two- and three-bladed 20 MW offshore wind turbines",
+    "year": 2019,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_nonlinear_model_for_aerodynamic_configuration_of_wake_behind_horizontal_axis_wind_turbine",
+    "title": "A nonlinear model for aerodynamic configuration of wake behind horizontal-axis wind turbine",
+    "year": 2019,
+    "journal": "Applied Mathematics and Mechanics English Edition",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_A_study_on_the_capability_of_backward_swept_blades_to_mitigate_loads_of_wind_turbines_in_shear_flow",
+    "title": "A study on the capability of backward swept blades to mitigate loads of wind turbines in shear flow",
+    "year": 2019,
+    "journal": "Journal of Energy Resources Technology Transactions of the ASME",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Aerodynamic_Behavior_Of_A_Floating_Offshore_Wind",
+    "title": "Aerodynamic behavior of a floating offshore wind turbine",
+    "year": 2019,
+    "journal": "AIAA Scitech 2019 Forum",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Comparative_study_on_the_wake_description_using_actuator_disc_model_with_increasing_level_of_complex",
+    "title": "Comparative study on the wake description using actuator disc model with increasing level of complexity.",
+    "year": 2019,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Computational_fluid_dynamics_methodology_for_characterisation_of_leading_edge_erosion_in_whirling_ar",
+    "title": "Computational fluid dynamics methodology for characterisation of leading edge erosion in whirling arm test rigs",
+    "year": 2019,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Design_and_optimization_of_composite_offshore_wind_turbine_blades",
+    "title": "Design and optimization of composite offshore wind turbine blades",
+    "year": 2019,
+    "journal": "Journal of Energy Resources Technology Transactions of the ASME",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_Different_functionalized_chord_and_twist_distributions_in_aerodynamic_design_of_HAWTs_1",
+    "title": "Different functionalized chord and twist distributions in aerodynamic design of HAWTs",
+    "year": 2019,
+    "journal": "Environmental Progress and Sustainable Energy",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Dimensional_analysis_of_horizontal_axis_wind_turbine_scaling_design",
+    "title": "Dimensional analysis of horizontal axis wind turbine scaling design",
+    "year": 2019,
+    "journal": "Aip Conference Proceedings",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Experimental_analysis_of_a_wind_turbine_rotor_blade_airfoil_by_means_of_temperature_sensitive_paint",
+    "title": "Experimental analysis of a wind-turbine rotor blade airfoil by means of temperature-sensitive paint",
+    "year": 2019,
+    "journal": "AIAA Scitech 2019 Forum",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Flow_around_thick_airfoils_at_very_high_reynolds_number_Stall_and_dynamic_stall_applications_1",
+    "title": "Flow around thick airfoils at very high reynolds number. Stall and dynamic stall applications",
+    "year": 2019,
+    "journal": "Ercoftac Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Numerical_and_experimental_investigations_of_wind_turbine_blade_aerodynamics_in_the_presence_of_ice",
+    "title": "Numerical and experimental investigations of wind-turbine blade aerodynamics in the presence of ice accretion",
+    "year": 2019,
+    "journal": "AIAA Scitech 2019 Forum",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Numerical_investigation_of_fluid_structure_interaction_of_15MW_wind_turbine_rotor_blade_system",
+    "title": "Numerical investigation of fluid structure interaction of 1.5MW wind turbine rotor blade system",
+    "year": 2019,
+    "journal": "ACM International Conference Proceeding Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Optimization_of_hurricane_resistance_wind_turbine_blades_1",
+    "title": "Optimization of hurricane resistance wind turbine blades",
+    "year": 2019,
+    "journal": "Proceedings of the Laccei International Multi Conference for Engineering Education and Technology",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Optimized_dielectric_barrier_discharge_plasma_actuator_for_active_flow_control_in_wind_turbine",
+    "title": "Optimized dielectric barrier discharge-plasma actuator for active flow control in wind turbine",
+    "year": 2019,
+    "journal": "Structural Control and Health Monitoring",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Study_effect_of_extreme_wind_direction_change_on_3_bladed_horizontal_axis_wind_turbine",
+    "title": "Study effect of extreme wind direction change on 3-bladed horizontal axis wind turbine",
+    "year": 2019,
+    "journal": "International Journal of Renewable Energy Development",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Study_on_the_Performance_of_the_Wind_Turbine_Airfoil_with_Icing",
+    "title": "Study on the Performance of the Wind Turbine Airfoil with Icing",
+    "year": 2019,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2019_THE_INFLUENCE_OF_AERODYNAMIC_CHARACTERISTICS_OF_A_BLADE_PROFILE_ON_THE_ENERGY_CHARACTERISTICS_OF_A_W",
+    "title": "THE INFLUENCE OF AERODYNAMIC CHARACTERISTICS OF A BLADE PROFILE ON THE ENERGY CHARACTERISTICS OF A WINDOW ROTOR",
+    "year": 2019,
+    "journal": "Vidnovluvana Energetika",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Testing_the_performance_characteristics_of_specific_profiles_for_applications_in_wind_turbines",
+    "title": "Testing the performance characteristics of specific profiles for applications in wind turbines",
+    "year": 2019,
+    "journal": "E3s Web of Conferences",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Towards_numerical_simulation_of_offshore_wind_turbines_using_anisotropic_mesh_adaptation_1",
+    "title": "Towards numerical simulation of offshore wind turbines using anisotropic mesh adaptation",
+    "year": 2019,
+    "journal": "Springer Tracts in Mechanical Engineering",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Transition_characteristics_measured_on_a_2MW_80m_diameter_wind_turbine_rotor_in_comparison_with_tran",
+    "title": "Transition characteristics measured on a 2MW 80m diameter wind turbine rotor in comparison with transition data from wind tunnel measurements",
+    "year": 2019,
+    "journal": "AIAA Scitech 2019 Forum",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Uncertainty_Quantification_of_Aerodynamic_Icing_Losses_in_Wind_Turbine_with_Polynomial_Chaos_Expansi",
+    "title": "Uncertainty Quantification of Aerodynamic Icing Losses in Wind Turbine with Polynomial Chaos Expansion",
+    "year": 2019,
+    "journal": "Journal of Energy Resources Technology Transactions of the ASME",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2019_Wind_turbine_design_using_thin_airfoil_SD2030",
+    "title": "Wind turbine design using thin airfoil SD2030",
+    "year": 2019,
+    "journal": "Evergreen",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_A_Numerical_Model_for_the_Analysis_of_Leading_Edge_Protection_Tapes_for_Wind_Turbine_Blades",
+    "title": "A Numerical Model for the Analysis of Leading-Edge Protection Tapes for Wind Turbine Blades",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Active_flow_control_in_Horizontal_Axis_Wind_Turbine_using_PI_R_controllers",
+    "title": "Active flow control in Horizontal Axis Wind Turbine using PI-R controllers",
+    "year": 2020,
+    "journal": "2020 6th International Conference on Advanced Computing and Communication Systems Icaccs 2020",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Advanced_image_processing_for_turbulence_wedge_detection_in_thermographic_flow_visualization_on_wind",
+    "title": "Advanced image processing for turbulence wedge detection in thermographic flow visualization on wind turbines in operation",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_Load_Distribution_and_Wake_Measurements_on_a_Sub_scale_Wind_Turbine",
+    "title": "Aerodynamic Load Distribution and Wake Measurements on a Sub-scale Wind Turbine",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 2,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_behavior_of_an_airfoil_under_extreme_wind_conditions",
+    "title": "Aerodynamic behavior of an airfoil under extreme wind conditions",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Aerodynamic_braking_system_analysis_of_horizontal_axis_wind_turbine_using_slotted_airfoil",
+    "title": "Aerodynamic braking system analysis of horizontal axis wind turbine using slotted airfoil",
+    "year": 2020,
+    "journal": "Materials Today Proceedings",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Analysis_of_platform_motions_effect_on_the_fatigue_loads_and_aerodynamic_unsteadiness_in_floating_of",
+    "title": "Analysis of platform motions effect on the fatigue loads and aerodynamic unsteadiness in floating offshore wind turbines",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Analysis_of_the_aerodynamic_loads_on_a_wind_turbine_in_off_design_conditions",
+    "title": "Analysis of the aerodynamic loads on a wind turbine in off-design conditions",
+    "year": 2020,
+    "journal": "Proceedings of the 6th European Conference on Computational Mechanics Solids Structures and Coupled Problems Eccm 2018 and 7th European Conference on Computational Fluid Dynamics Ecfd 2018",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Assessing_wind_turbine_energy_losses_due_to_blade_leading_edge_erosion_cavities_with_parametric_CAD",
+    "title": "Assessing wind turbine energy losses due to blade leading edge erosion cavities with parametric CAD and 3D CFD",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_CFD_analysis_of_horizontal_axis_wind_turbine_braking_system_using_chordwise_spacing",
+    "title": "CFD analysis of horizontal axis wind turbine braking system using chordwise spacing",
+    "year": 2020,
+    "journal": "Materials Today Proceedings",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Control_of_power_generated_by_a_floating_offshore_wind_turbine_perturbed_by_sea_waves",
+    "title": "Control of power generated by a floating offshore wind turbine perturbed by sea waves",
+    "year": 2020,
+    "journal": "Renewable and Sustainable Energy Reviews",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Coupled_Dynamic_Analysis_of_a_Tension_Leg_Platform_Floating_Offshore_Wind_Turbine",
+    "title": "Coupled Dynamic Analysis of a Tension Leg Platform Floating Offshore Wind Turbine",
+    "year": 2020,
+    "journal": "Journal of Offshore Mechanics and Arctic Engineering",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Cross_comparative_analysis_of_loads_and_power_of_pitching_floating_offshore_wind_turbine_rotors_usin",
+    "title": "Cross-comparative analysis of loads and power of pitching floating offshore wind turbine rotors using frequency-domain Navier-Stokes CFD and blade element momentum theory",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Design_and_optimization_of_wind_turbine_with_axial_induction_factor_and_tip_loss_corrections",
+    "title": "Design and optimization of wind turbine with axial induction factor and tip loss corrections",
+    "year": 2020,
+    "journal": "Procedia Manufacturing",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Influence_of_limiting_the_projection_region_on_coarse_Large_Eddy_Simulation_Actuator_Line_Model_simu",
+    "title": "Influence of limiting the projection region on coarse Large Eddy Simulation-Actuator Line Model simulations",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Innovative_Blade_Trailing_Edge_Flap_Design_Concept_using_Flexible_Torsion_Bar_and_Worm_Drive",
+    "title": "Innovative Blade Trailing Edge Flap Design Concept using Flexible Torsion Bar and Worm Drive",
+    "year": 2020,
+    "journal": "Hightech and Innovation Journal",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 1
+    }
+  },
+  {
+    "paper_id": "2020_Investigations_of_HAWT_airfoil_shape_characteristics_and_3D_rotational_augmentation_sensitivity_towa_1",
+    "title": "Investigations of HAWT airfoil shape characteristics and 3D rotational augmentation sensitivity toward the aerodynamic performance improvement",
+    "year": 2020,
+    "journal": "Sustainability Switzerland",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Research_on_the_effect_of_icing_on_aerodynamic_performance_of_airfoil_and_power_generation_performan",
+    "title": "Research on the effect of icing on aerodynamic performance of airfoil and power generation performance of wind turbine",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Study_on_Influence_of_Environmental_Parameters_on_Dynamic_Stall_Characteristics_of_Wind_Turbine_Blad",
+    "title": "Study on Influence of Environmental Parameters on Dynamic Stall Characteristics of Wind Turbine Blades",
+    "year": 2020,
+    "journal": "Journal of the Institution of Engineers India Series C",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 0,
+      "methods": 0,
+      "objects": 0
+    }
+  },
+  {
+    "paper_id": "2020_Tower_shadow_excitation_of_a_downwind_rotor_blade_of_a_turbine_with_a_tubular_tower",
+    "title": "Tower shadow excitation of a downwind rotor blade of a turbine with a tubular tower",
+    "year": 2020,
+    "journal": "Journal of Physics Conference Series",
+    "score": 47.0,
+    "innovation": {
+      "phenomena": 1,
+      "methods": 1,
+      "objects": 0
+    }
+  }
+]

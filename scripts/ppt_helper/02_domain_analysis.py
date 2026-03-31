@@ -18,15 +18,13 @@ from typing import List, Dict, Any
 if sys.platform == "win32":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
     sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
-
-# 添加项目根目录到路径
-project_root = Path(__file__).parent.parent.parent
-sys.path.insert(0, str(project_root))
+# 添加项目根目录到路径（LiteratureHub/）
+sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 
 def load_config():
     """加载配置文件"""
-    config_file = Path("config/ppt_helper_config.yaml")
+    config_file = Path("config/ppt_helper/config.yaml")
     with open(config_file, 'r', encoding='utf-8') as f:
         return yaml.safe_load(f)
 
@@ -76,9 +74,13 @@ def read_full_md_contents(config, paper_ids: List[str]) -> Dict[str, str]:
     contents = {}
     success_count = 0
 
+    # ⭐ 使用 categories 模式的路径（因为从分类文献分析来的）
+    base_dir = Path(config['data_paths'].get('base_dir', 'D:/xfs/phd/github项目/LiteratureHub'))
+    markdowns_path = base_dir / "data/projects/wind_aero/markdown/categories/大型风力机气动"
+
     for i, paper_id in enumerate(paper_ids, 1):
         # 定位 full.md 文件
-        markdown_path = Path(config['data_paths']['source_markdowns']) / paper_id / "full.md"
+        markdown_path = markdowns_path / paper_id / "full.md"
 
         if not markdown_path.exists():
             print(f"  ⚠️ [{i}/{len(paper_ids)}] {paper_id}: 文件不存在")
@@ -112,7 +114,10 @@ def read_agent_results_json(config, paper_ids: List[str]) -> Dict[str, Dict[str,
     """
     print(f"\n📦 读取 {len(paper_ids)} 篇文献的 agent_results JSON...")
 
-    agent_results_path = Path(config['data_paths']['agent_results'])
+    # ⭐ 使用 categories 模式的路径（因为从分类文献分析来的）
+    base_dir = Path(config['data_paths'].get('base_dir', 'D:/xfs/phd/github项目/LiteratureHub'))
+    agent_results_path = base_dir / "data/agent_results/categories/大型风力机气动"
+
     all_results = {}
     success_count = 0
 
@@ -179,11 +184,18 @@ def load_agent_results(config, paper_ids: List[str]) -> Dict[str, Any]:
 
     print(f"\n📦 加载 agent_results...")
 
+    # 获取 base_dir 和模式
+    base_dir = config['data_paths'].get('base_dir', 'D:/xfs/phd/github项目/LiteratureHub')
+
+    # 检查是否是 categories 模式
+    # 这里我们假设使用 categories 模式，因为是从分类文献分析来的
     extractor = ContentExtractor(
-        agent_results_path=config['data_paths']['agent_results']
+        base_dir=base_dir,
+        mode="categories",
+        category="大型风力机气动"
     )
 
-    summaries = extractor.extract_all_summaries(paper_ids)
+    summaries = extractor.extract_all_agent_results(paper_ids)
 
     print(f"✅ 加载了 {len(summaries)} 篇的 agent_results")
 
@@ -194,7 +206,7 @@ def run_domain_analysis(config, domain_name: str, paper_ids: List[str],
                        full_md_contents: Dict[str, str], agent_results: Dict[str, Any],
                        agent_results_json: Dict[str, Dict[str, Any]]):
     """
-    执行领域分析
+    执行领域分析（使用 Claude Code Agent，绕过 API）
 
     Args:
         config: 配置对象
@@ -204,16 +216,10 @@ def run_domain_analysis(config, domain_name: str, paper_ids: List[str],
         agent_results: agent_results 摘要（保留向后兼容）
         agent_results_json: 完整的 agent_results JSON（5 个子智能体输出）
     """
-    from src.ppt_helper.agents.domain_analyzer_agent import DomainAnalyzerAgent
+    import subprocess
 
     print(f"\n🤖 Phase 2: 领域深度分析 - {domain_name}")
     print("-" * 60)
-
-    # 初始化 Agent
-    agent = DomainAnalyzerAgent(
-        keys_file="config/api_keys.txt",
-        model=config['api']['model']
-    )
 
     # ⭐ 加载完整的 Phase 1 结果
     phase1_file = Path(config['data_paths']['processed_data']) / "phase1_overview.json"
@@ -258,26 +264,176 @@ def run_domain_analysis(config, domain_name: str, paper_ids: List[str],
     print(f"  - 相关研究热点: {len(related_hotspots)} 个")
     print(f"  - 高影响力文献: {len(top_papers)} 篇")
     print(f"  - agent_results JSON: {len(agent_results_json)} 篇")
+    print(f"  - full.md 内容: {len(full_md_contents)} 篇")
 
-    # 准备输入数据
-    input_data = {
-        "domain_name": domain_name,
-        "domain_description": domain_description,
-        "paper_ids": paper_ids,
-        "full_md_contents": full_md_contents,
-        # ⭐ 传递完整的 agent_results JSON（5 个子智能体输出）
-        "agent_results_json": agent_results_json,
-        # ⭐ 传递 Phase 1 的上下文数据
-        "phase1_context": {
+    # ⭐ 准备工作目录
+    base_dir = Path(config['data_paths'].get('base_dir', 'D:/xfs/phd/github项目/LiteratureHub'))
+    workspace_dir = base_dir / "agent_workspace" / "phase2_domain_analysis" / domain_name
+    workspace_dir.mkdir(parents=True, exist_ok=True)
+
+    # ⭐ 保存 full.md 内容摘要（因为 full.md 太大，只保存关键部分）
+    full_md_summary_file = workspace_dir / "full_md_summary.txt"
+    with open(full_md_summary_file, 'w', encoding='utf-8') as f:
+        f.write(f"# 领域: {domain_name}\n")
+        f.write(f"# 文献数: {len(full_md_contents)}\n\n")
+        for paper_id, content in full_md_contents.items():
+            # 只保存前 2000 字符（通常包含摘要和引言）
+            summary = content[:2000] if len(content) > 2000 else content
+            f.write(f"## [{paper_id}]\n")
+            f.write(f"{summary}\n")
+            f.write(f"\n{'='*60}\n\n")
+    print(f"  ✓ full.md 摘要已保存: {full_md_summary_file}")
+
+    # ⭐ 保存 agent_results JSON
+    agent_results_file = workspace_dir / "agent_results.json"
+    with open(agent_results_file, 'w', encoding='utf-8') as f:
+        json.dump(agent_results_json, f, ensure_ascii=False, indent=2)
+    print(f"  ✓ agent_results 已保存: {agent_results_file}")
+
+    # ⭐ 保存 Phase 1 上下文
+    phase1_context_file = workspace_dir / "phase1_context.json"
+    with open(phase1_context_file, 'w', encoding='utf-8') as f:
+        json.dump({
+            "domain_name": domain_name,
+            "domain_description": domain_description,
             "related_hotspots": related_hotspots,
-            "time_trends": time_trends,
             "top_papers": top_papers,
-        } if phase1_data else None,
-    }
+        }, f, ensure_ascii=False, indent=2)
+    print(f"  ✓ Phase 1 上下文已保存: {phase1_context_file}")
 
-    # ⭐ 调用 AI 分析
-    print(f"\n🤖 调用 {config['api']['model']} API 进行深度分析...")
-    result = agent.analyze(input_data)
+    # ⭐ 构造 Claude Code Agent Prompt（更直接的指令）
+    agent_prompt = f"""EXECUTE ANALYSIS TASK - PHASE 2 DOMAIN DEEP ANALYSIS
+
+DOMAIN: {domain_name}
+DESCRIPTION: {domain_description}
+
+INPUT FILES (READ THESE FILES):
+1. {full_md_summary_file.name} - {len(full_md_contents)} papers' full.md summaries
+2. {agent_results_file.name} - Complete agent_results JSON (5 sub-agents' outputs)
+3. {phase1_context_file.name} - Phase 1 context data
+
+CONTEXT:
+- Related hotspots: {len(related_hotspots)}
+- High-impact papers: {len(top_papers)}
+
+TASK: Execute domain deep analysis and output ONLY JSON
+
+ANALYSIS SECTIONS:
+1. Domain Overview - core research questions, key challenges, positioning
+2. Technical Roadmap - timeline of major developments and milestones
+3. Key Innovations - major innovations and their impact
+4. Methods & Tools - primary research methods and tools
+5. Representative Work - foundational and breakthrough papers
+6. Gaps & Future - current limitations and future directions
+
+OUTPUT REQUIREMENTS:
+- OUTPUT ONLY PURE JSON (no markdown, no conversational text)
+- Save to: {workspace_dir / "domain_analysis.json"}
+- JSON format:
+{{
+  "domain_overview": {{"core_research_questions": ["question1", "question2"], "key_challenges": ["challenge1"], "positioning": "description"}},
+  "technical_roadmap": [{{"year": 2018, "milestone": "milestone", "description": "description"}}],
+  "key_innovations": [{{"innovation": "innovation", "impact": "impact", "related_papers": ["paper_id"]}}],
+  "methods_and_tools": {{"primary_methods": ["method1", "method2"], "tools": ["tool1"], "comparison": "comparison"}},
+  "representative_work": [{{"paper_id": "id", "title": "title", "reason": "reason", "contribution": "contribution"}}],
+  "gaps_and_future": {{"limitations": ["limitation1"], "future_directions": ["direction1"], "interdisciplinary_opportunities": ["opportunity1"]}},
+  "analysis_summary": {{"total_papers_analyzed": {len(full_md_contents)}, "key_findings": ["finding1"], "recommendations": ["recommendation1"]}}
+}}
+
+CRITICAL: OUTPUT ONLY JSON - NO MARKDOWN, NO CONVERSATIONAL TEXT
+"""
+
+    # ⭐ 调用 Claude Code CLI
+    print("\n" + "=" * 60)
+    print("🤖 正在调用 Claude Code Agent...")
+    print("=" * 60)
+
+    try:
+        # 构造命令（Windows 上需要 shell=True 来执行 .cmd 文件）
+        cmd = [
+            "claude",
+            "--model", "sonnet",
+            "--add-dir", str(workspace_dir),
+            "--allowedTools", "Read,Write,Edit",
+            "-p", agent_prompt
+        ]
+
+        print(f"命令: {' '.join(cmd)}")
+        print()
+
+        # 执行命令（Windows 需要 shell=True）
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            encoding='utf-8',
+            timeout=3600,  # 1小时超时
+            shell=True  # ⭐ Windows 上需要 shell=True 来执行 .cmd 文件
+        )
+
+        # 打印输出
+        if result.stdout:
+            print("📤 Agent 输出:")
+            print("-" * 60)
+            print(result.stdout[:1000])  # 只打印前1000字符
+            if len(result.stdout) > 1000:
+                print(f"\n... (省略 {len(result.stdout) - 1000} 字符)")
+            print("-" * 60)
+
+        if result.stderr:
+            print("⚠️  Agent 错误输出:")
+            print("-" * 60)
+            print(result.stderr)
+            print("-" * 60)
+
+        # 检查返回码
+        if result.returncode != 0:
+            print(f"❌ Claude Code Agent 执行失败（返回码: {result.returncode}）")
+            return None
+
+        print("✅ Claude Code Agent 执行完成")
+
+    except subprocess.CalledProcessError as e:
+        print(f"❌ 调用 Claude Code CLI 失败: {e}")
+        return None
+    except subprocess.TimeoutExpired:
+        print("❌ Claude Code Agent 执行超时（1小时）")
+        return None
+    except FileNotFoundError:
+        print("❌ 找不到 claude 命令！请确保已安装 Claude Code CLI")
+        print("   安装方法: npm install -g @anthropic-ai/claude-code")
+        return None
+    except Exception as e:
+        print(f"❌ 未知错误: {e}")
+        import traceback
+        traceback.print_exc()
+        return None
+
+    # ⭐ 加载 Agent 输出
+    output_file = workspace_dir / "domain_analysis.json"
+    if not output_file.exists():
+        print(f"\n❌ Agent 输出文件不存在: {output_file}")
+        print(f"   请检查 Agent 是否正确生成了输出文件")
+        return None
+
+    try:
+        with open(output_file, 'r', encoding='utf-8') as f:
+            result = json.load(f)
+        print(f"\n✅ 成功加载 Agent 输出: {output_file}")
+    except json.JSONDecodeError as e:
+        print(f"❌ Agent 输出文件 JSON 解析失败: {e}")
+        print(f"   请检查输出文件格式是否正确")
+        return None
+
+    # ⭐ 保存到最终位置
+    output_dir = Path(config['data_paths']['domain_results']) / domain_name
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    final_output_file = output_dir / "domain_analysis.json"
+    with open(final_output_file, 'w', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ 结果已保存到: {final_output_file}")
 
     return result
 

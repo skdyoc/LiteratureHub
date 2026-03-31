@@ -1,0 +1,102 @@
+# 领域: 气动流动控制与主动载荷管理
+# 文献数: 4
+
+## [2026_Experimental_investigation_of_partial_span_slot_effects_on_small_scale_horizontal_axis_wind_turbines]
+# Experimental investigation of partial-span slot effects on small-scale horizontal-axis wind turbines
+
+![](images/1167f7a56a765b7da1d8b5225e9a018a22936bd4019ffcf106862fc1922a8008.jpg)
+
+Himmet Erdi Tanurun<sup>a</sup>, Abdussamed Yildüz<sup>b</sup>, Mehmet Seyhan<sup>b,*</sup>
+
+a Kahramanmas Istiklal University, Energy Systems Engineering Department, Kahramanmas, Türkiye   
+b Karadeniz Technical University, Faculty of Engineering, Department of Mechanical Engineering, 61080 Trabzon, Türkiye
+
+# ARTICLEINFO
+
+Keywords:
+
+HAWT
+
+Passive Flow Control
+
+Slotted blades
+
+Clark-Y
+
+Schmitz equations
+
+Flow visualization
+
+# ABSTRACT
+
+This study experimentally investigates the influence of slot mechanisms on the power performance of a small-scale horizontal-axis wind turbine (ss-HAWT). A total of five rotor blade configurations were evaluated, including a baseline model (B1) and four slot-modified variants (M1-M4), each incorporating full- or partial-span (based on root-based, tip-based) slot geometries at distinct spanwise locations. The implemented slot mechanism was defined by three novel slot radii, the slot inlet pressure side radius $(\mathbf{r_p})$ , the slot outlet suction side radius $(\mathbf{r_t})$ and the Coanda radius $(\mathbf{r_c})$ , which were designed. Experiments were conducted in an open-test-section, blowing-type wind tunnel under two rotational speeds (300 and $400~\mathrm{rpm}$ ). Surface oil flow visualization (SOFV) was employed to analyze the blade surface flow topologies and identify regions of attached flow on both suction and pressure sides. The M1 configuration, featuring a full-span slot configuration, consistently demonstrated superior power coefficient $(C_{\mathrm{P}})$ values across all tip speed ratio ( $\lambda$ or TSR) values at $300~\mathrm{rpm}$ . The full-span slot design (M1) yielded a maximum $C_{\mathrm{P}}$ of 0.46 at $\lambda = 3.9$ , corresponding to a $9.5\%$ improvement over B1 at $400~\mathrm{rpm}$ . The results revealed that slot i
+
+============================================================
+
+## [2024_An_experimental_study_of_surface_icing_characteristics_on_blade_airfoil_for_offshore_wind_turbines_E]
+Article
+
+# An Experimental Study of Surface Icing Characteristics on Blade Airfoil for Offshore Wind Turbines: Effects of Chord Length and Angle of Attack
+
+Dong Liang 1, Pengyu Zhao 1, He Shen 1, Shengbing Yang 1, Haodong Chi 1, Yan Li 1,* and Fang Feng $^ 2 \textcircled { | | }$
+
+1 College of Engineering, Northeast Agriculture University, Harbin 150030, China;   
+liangdong0301@163.com (D.L.); zhaopengyu523@163.com (P.Z.); sh563331515@163.com (H.S.);   
+b20070110@neau.edu.cn (S.Y.); chihaodong1020@126.com (H.C.)   
+2 College of Arts and Sciences, Northeast Agriculture University, Harbin 150030, China; fengfang@neau.edu.cn   
+* Correspondence: liyanneau@neau.edu.cn; Tel.: +86-451-55191123
+
+Abstract: Offshore wind turbines operating in frigid and humid climates may encounter icing on the blade surface. This phenomenon adversely impacts the aerodynamic efficiency of the turbine, consequently diminishing power generation efficacy. Investigating the distribution characteristics of icing on the blade surface is imperative. Hence, this study undertook icing wind tunnel tests on segments of DU25 airfoil, a prevalent type for offshore wind turbines, to examine such characteristics as different chord lengths and angles of attack. The results show a simultaneous increase in the blade icing area and growth rate of the net icing area with augmenting the chord length and angles of attack. The total icing area rate decreases by a factor of two when the chord length is doubled. The relative positioning of icing and the average icing thickness remain consistent across the airfoil blades with varying chord lengths. Comparing the icing shapes on blades of varying scales shows a similarity ranging from $8 4 . 0 6 \%$ to $8 8 . 7 2 \%$ . The results of this study provide insight into the icing characteristics of offshore wind turbines.
+
+![](images/0cac436ddb0d73bd66c801b72390058205cbdeda5fb1e9e37b237b0868d86955.jpg)
+
+check for updates
+
+Citation: Liang, D.; Zhao, P.; Shen, H.;
+
+Yang, S.;
+
+============================================================
+
+## [2023_Active_control_of_the_edgewise_vibrations_in_wind_turbine_blade_by_optimization_of_the_number_and_lo]
+# Active control of the edgewise vibrations in wind turbine blade by optimization of the number and locations of the intermediate actuators
+
+Baher Pishbahar1 · Hamed Moradi1
+
+Received: 10 April 2022 / Revised: 26 July 2022 / Accepted: 9 August 2022 $\circledcirc$ The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022
+
+# Abstract
+
+Vibrations in the horizontal axis wind turbine reduce their efficiency and increase the maintenance costs. In this paper, the blade edgewise vibrations are reduced by using several actuators in different parts of the wind turbine blade and optimization of the number and locations of the actuators. Dynamic behaviour of the wind turbine blade is investigated by using the dynamic modelling. The blade element momentum is used to calculate the aerodynamic forces acting on the blades. The actuators are trusses that are located inside each blade and apply the control force to different parts of the blade. Active control force is applied to reduce the edgewise vibrations. The designed controller is applied and simulated on NREL 5MW wind turbine. By applying the controller, the edgewise vibrations of the wind turbine blades are significantly reduced. The reduction in the edgewise vibrations of the blades can be determined according to the location of closed-loop poles of the system. The locations and number of the intermediate actuators relative to the centre of the hub are effective in the control forces. The greater the distance between the control actuators and centre of the hub, the lower the control force to reduce a certain amount of edgewise vibrations. In the same positions of the control actuators, as the number of control actuators increases, the force required to reduce the edgewise vibrations decreases in each actuator. Although, as the number of actuators increases, the cost of the required control equipment increases, so increasing the number of actuators does not necessarily mean increasin
+
+============================================================
+
+## [2021_Enhancement_of_a_horizontal_axis_wind_turbine_airfoil_performance_using_single_dielectric_barrier_di]
+# Enhancement of a horizontal axis wind turbine airfoil performance using single dielectric barrier discharge plasma actuator
+
+Proc IMechE Part A:
+
+J Power and Energy
+
+0(0) 1–18
+
+! IMechE 2020
+
+Article reuse guidelines:
+
+sagepub.com/journals-permissions
+
+DOI: 10.1177/0957650920936026
+
+journals.sagepub.com/home/pia
+
+SSAGE
+
+Mohaddeseh Fadaei1 , Ali R Davari1 , Fereidoun Sabetghadam1 and Mohammad R Soltani2
+
+# Abstract
+
+Wind turbines are of the most promising devices to cut down carbon emissions. However, some phenomena that adversely affect their performance are inevitable. The aim of the present paper is to investigate flow separation prevention exploiting leading edge (LE) single dielectric barrier discharge plasma actuator (SDBD-PA) on an airfoil belonging to a section of a locally developed wind turbine. The numerical results of the surface pressure distribution over the airfoil were compared with the experimental measurements carried out by the authors on the same blade section, and good agreement was found between numerical and experimental data for both plasma-OFF and plasma-ON cases. An in-depth parametric numerical investigation was then carried out to provide a better understanding of the flow behavior affected by the activation of PA over the same airfoil at post stall angle of attacks (AOAs). According to the results, the frequency and voltage of actuation, AOA, and free stream velocity are shown to have strong impacts on separation delay and actuation effectiveness. In Reynolds number of $2 . 8 5 \times 1 0 ^ { 5 }$ , the maximum PA effectiveness takes place at $2 1 ^ { \circ }$ which is approximately $312 \%$ , $30 \%$ , and $256 \%$ corresponding to the PA location of LE, 0.02 chord, and 0.15 chord, respectively. Also, maximum velocity of the domain is increased three times of the free stream velocity on average for three investigated Reynolds numbers at the frequency and voltage of $1 2 k \mathsf { H z }$ and $1 2 \mathsf { k } \mathsf { V } ,$ respect
+
+============================================================
+

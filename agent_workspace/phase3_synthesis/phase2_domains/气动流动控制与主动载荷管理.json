@@ -1,0 +1,214 @@
+{
+  "domain_name": "气动流动控制与主动载荷管理",
+  "domain_description": "研究通过主动和被动流动控制手段改善风力机叶片气动性能、抑制流动分离、降低结构振动载荷，涵盖等离子体激励器、叶片开槽、主动振动控制、涡流发生器等控制策略。",
+  "generated_at": "2026-03-30T21:12:05.399946",
+  "statistics": {
+    "total_papers": 4,
+    "papers_analyzed": 4,
+    "papers_with_full_analysis": 1,
+    "innovation_score_range": {
+      "min": 8.7,
+      "max": 8.7,
+      "average": 8.7
+    },
+    "recommendation_score_range": {
+      "min": 6.5,
+      "max": 7.5,
+      "average": 7.0
+    }
+  },
+  "key_innovations": {
+    "new_phenomena": [
+      {
+        "name": "激励参数与气动系数间的确定性线性关系",
+        "description": "论文通过深入的参数化数值研究发现，在等离子体激励器（SDBD-PA）作用下，翼型的升力系数、阻力系数以及升阻比随激励频率的变化呈现出清晰的线性模式。这一现象是在大范围参数扫描（包括不同激励电压、激励位置、攻角、雷诺数）后系统性地归纳出来的。具体表现为，在失速后攻角下，随着激励频率的增加，升力系数线性增加，阻力系数线性减小，从而导致升阻比也线性提升。这表明在给定的等离子体物理模型下，激励频率作为一个独立的控制变量，对宏观气动力产生了可预测的、单调的线性影响。",
+        "confidence": 0.88,
+        "paper_id": "2021_Enhancement_of_a_horizontal_axis_wind_turbine"
+      },
+      {
+        "name": "多参数间存在显著非线性交互作用",
+        "description": "论文在系统性的参数化研究中，发现了激励器位置、激励电压、攻角（AOA）和来流速度（雷诺数）这些关键参数之间，对最终气动性能的影响并非简单的独立叠加，而是存在着“显著的非线性交互作用”。这意味着，改变一个参数（如电压）对性能（如升阻比提升百分比）的影响，会强烈地依赖于另一个参数（如激励器位置或攻角）的取值。例如，激励器在前缘（LE）位置的效果，在高攻角下可能被放大，而在低攻角下可能不明显。这种参数间的耦合效应使得系统的整体行为比单一参数研究的结果复杂得多。",
+        "confidence": 0.9,
+        "paper_id": "2021_Enhancement_of_a_horizontal_axis_wind_turbine"
+      }
+    ],
+    "new_methods": [
+      {
+        "name": "面向风力涡轮机翼型的系统化参数协同研究范式",
+        "description": "本论文并非提出一种全新的等离子体模拟算法或实验技术，而是提出并践行了一种针对风力涡轮机应用场景的、全新的 **“系统化参数协同研究范式”**。该方法的核心思想是：将影响等离子体流动控制效果的五个关键维度——**激励器位置（Location）、电学参数（频率f、电压V）、气动工况（攻角AOA、雷诺数Re）**——置于一个统一的研究框架下，进行全参数空间的、网格化的数值实验。通过这种设计，不仅可以评估单个参数的影响，更能系统性地揭示参数之间的交互作用，并最终提炼出如“线性关系”这样的高阶普适规律。该方法超越了孤立研究单一“最佳参数”的传统模式。",
+        "confidence": 0.93,
+        "paper_id": "2021_Enhancement_of_a_horizontal_axis_wind_turbine"
+      }
+    ],
+    "new_objects": [
+      {
+        "name": "面向660kW风力涡轮机关键截面的等离子体控制集成翼型",
+        "description": "本文的研究对象并非一个标准翼型（如NACA系列），而是一个从一台实际运行的**660kW水平轴风力涡轮机叶片**上提取的关键截面翼型。该翼型具有特定的几何造型，其最大厚度为4.5cm（相对厚度18%），位于35%弦长处。论文的创新在于首次将SDBD-PA系统地应用于这个具有明确工程背景的**真实风轮机翼型**上，并研究其在代表实际运行中可能出现的**高负载、失速后工况**下的流动控制效果。这是一个从“实验室标准模型”向“工业应用对象”的关键跨越。",
+        "paper_id": "2021_Enhancement_of_a_horizontal_axis_wind_turbine"
+      }
+    ],
+    "total_phenomena": 2,
+    "total_methods": 1,
+    "total_objects": 1
+  },
+  "research_themes": [
+    {
+      "theme": "等离子体主动流动控制与性能优化",
+      "description": "利用SDBD等离子体激励器在风力机翼型表面产生体积力，主动抑制流动分离，提升升阻比。系统化参数研究表明激励频率与气动系数之间存在线性关系，且各参数间存在显著非线性交互作用。",
+      "paper_count": 1,
+      "representative_papers": [
+        "2021_Enhancement_of_a_horizontal_axis_wind_turbine_airfoil_performance_using_single_dielectric_barrier_di"
+      ]
+    },
+    {
+      "theme": "叶片被动流动控制与开槽设计",
+      "description": "通过在叶片表面设计特定几何形状的开槽（slot），利用Coanda效应延迟流动分离，提升小型风力机功率系数。实验研究揭示了不同展向开槽配置对性能的差异化影响。",
+      "paper_count": 1,
+      "representative_papers": [
+        "2026_Experimental_investigation_of_partial_span_slot_effects_on_small_scale_horizontal_axis_wind_turbines"
+      ]
+    },
+    {
+      "theme": "叶片结构振动主动控制",
+      "description": "针对大型风力机叶片边缘振动问题，研究基于极点配置的主动控制方法中作动器数量与位置的联合优化，实现减振效果与成本效益的平衡。",
+      "paper_count": 1,
+      "representative_papers": [
+        "2023_Active_control_of_the_edgewise_vibrations_in_wind_turbine_blade_by_optimization_of_the_number_and_lo"
+      ]
+    },
+    {
+      "theme": "极端环境下的流动控制与结冰防护",
+      "description": "研究海上风电叶片在结冰条件下的气动性能退化规律，通过实验方法系统研究盐度、攻角等参数对结冰形态和气动性能的影响，为防除冰系统设计提供依据。",
+      "paper_count": 1,
+      "representative_papers": [
+        "2024_An_experimental_study_of_surface_icing_characteristics_on_blade_airfoil_for_offshore_wind_turbines_E"
+      ]
+    }
+  ],
+  "research_methods_overview": {
+    "primary_methods": [
+      {
+        "method": "CFD数值模拟+等离子体体积力模型",
+        "application": "系统参数化研究激励器对翼型流动分离的控制效果",
+        "papers": 1
+      },
+      {
+        "method": "风洞实验+表面油流可视化（SOFV）",
+        "application": "验证开槽构型对小型风机流动附着特性的影响",
+        "papers": 1
+      },
+      {
+        "method": "结构动力学仿真+极点配置控制",
+        "application": "作动器布局优化与振动控制效果评估",
+        "papers": 1
+      },
+      {
+        "method": "冰风洞实验+CFD结冰模拟",
+        "application": "海上风电翼型结冰特性与气动性能退化评估",
+        "papers": 1
+      }
+    ],
+    "simulation_tools": [
+      "ANSYS Fluent",
+      "OpenFAST",
+      "MATLAB/Simulink"
+    ],
+    "reference_models": [
+      "NREL 5MW",
+      "660kW水平轴风力机",
+      "DU25翼型"
+    ]
+  },
+  "temporal_trends": {
+    "years_covered": [
+      2021,
+      2023,
+      2024,
+      2026
+    ],
+    "trend_description": "本领域涵盖2021年至2026年的研究，从传统的被动流动控制和叶片设计向AI辅助的主动优化方向发展。"
+  },
+  "key_challenges": [
+    "主动流动控制系统（如等离子体激励器）在恶劣户外环境下的长期可靠性和耐久性尚未验证",
+    "实验室尺度（低雷诺数、二维翼型）研究结果向全尺寸、三维旋转叶片的外推存在不确定性",
+    "多参数协同优化问题的复杂性高，全局最优解难以快速获得",
+    "主动控制系统（激励器、作动器、高压电源）的附加成本与发电量增益的经济性平衡"
+  ],
+  "future_directions": [
+    "基于发现的结冰形状相似性规律（84%-88%），进一步研究适用于不同翼型和工况的结冰缩比实验准则，降低全尺寸实验成本。",
+    "**多物理场耦合与结构适应性改进**：开展气动-结构耦合分析，研究开槽对叶片振动、噪声和疲劳寿命的影响，并探索采用新型材料或增材制造技术，实现既满足气动要求又保证结构强度的创新型开槽叶片设计。",
+    "多激励器协同布局与优化：研究在叶片不同弦向位置（如前缘、中部）布置多个激励器，探索其协同工作机制（如先后激励、不同频率组合），以应对更复杂的流动分离情况，并优化布局以降低总体能耗。",
+    "**动态工况与真实环境下的性能研究**：研究在非定常来流（湍流、剪切风）、偏航工况以及雨、雪、沙尘等真实环境条件下，开槽叶片的性能变化、鲁棒性及潜在问题（如堵塞）。",
+    "鲁棒性与自适应控制集成：在现有极点配置方法基础上，引入鲁棒控制（如H∞控制）或自适应控制策略，以应对风速、湍流、结冰等不确定的外部激励，提升工程实用性。",
+    "将本研究结论应用于抗冰/疏冰涂层或内嵌加热系统的效能评估与优化设计，开展涂层耐久性、除冰能耗与经济性的综合研究。",
+    "结合本研究定量规律，开发或验证高精度的海上风电叶片三维旋转结冰数值模型，并研究动态结冰过程对气动载荷和结构振动的影响。",
+    "智能闭环控制策略开发：基于本研究揭示的参数影响规律，开发自适应控制算法，根据实时风速、叶片载荷、攻角等信息动态优化激励器的电压、频率，实现能效最大化。"
+  ],
+  "overall_assessment": {
+    "domain_maturity": "发展中",
+    "research_intensity": "中",
+    "practical_impact": "中高",
+    "domain_significance": "流动控制与载荷管理是提升风力机气动效率、延长叶片寿命和增强极端工况适应性的关键技术。本领域研究覆盖了从等离子体主动控制到被动开槽设计、从振动控制到结冰防护的多元技术路线，对推动风电技术进步具有重要价值。",
+    "key_gap": "当前研究多集中于二维翼型或简化模型，缺乏在全尺寸、三维旋转叶片上的集成验证；多种控制策略的协同效应研究几乎空白。",
+    "emerging_trends": [
+      "基于AI/机器学习的智能自适应流动控制",
+      "多物理场耦合（气动-结构-控制）协同优化",
+      "新型主动控制技术（如合成射流、DBD等离子体）的工程化应用",
+      "极端环境下（结冰、台风）的容错控制策略"
+    ]
+  },
+  "paper_details": [
+    {
+      "paper_id": "2026_Experimental_investigation_of_partial_span_slot_effects_on_small_scale_horizontal_axis_wind_turbines",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": null,
+      "recommendation_score": 7.5,
+      "impact_level": "High"
+    },
+    {
+      "paper_id": "2024_An_experimental_study_of_surface_icing_characteristics_on_blade_airfoil_for_offshore_wind_turbines_E",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": null,
+      "recommendation_score": 6.5,
+      "impact_level": "Medium"
+    },
+    {
+      "paper_id": "2023_Active_control_of_the_edgewise_vibrations_in_wind_turbine_blade_by_optimization_of_the_number_and_lo",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": null,
+      "recommendation_score": 6.5,
+      "impact_level": "Medium"
+    },
+    {
+      "paper_id": "2021_Enhancement_of_a_horizontal_axis_wind_turbine_airfoil_performance_using_single_dielectric_barrier_di",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": 8.7,
+      "recommendation_score": 7.5,
+      "impact_level": "High"
+    }
+  ]
+}

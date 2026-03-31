@@ -17,12 +17,16 @@ data_paths:
   source_project: "d:/xfs/phd/github项目/LiteratureHub"
 
   # ⭐ 输入数据路径（直接使用 LiteratureHub 现有数据）
-  source_agent_results: "d:/xfs/phd/github项目/LiteratureHub/data/agent_results"
+  source_agent_results: "d:/xfs/phd/github项目/LiteratureHub/data/agent_results/all"
   source_markdowns: "d:/xfs/phd/github项目/LiteratureHub/data/projects/wind_aero/markdown"
   source_database: ""  # LiteratureHub 暂无数据库
 
-  # ⭐ PPT 辅助模块输出路径（直接输出到 processed）
+  # ⭐ 模板脚本兼容键名（01/02 脚本读取用的键名）
+  agent_results: "d:/xfs/phd/github项目/LiteratureHub/data/agent_results/all"
+  markdowns: "d:/xfs/phd/github项目/LiteratureHub/data/projects/wind_aero/markdown"
   processed_data: "data/ppt_helper/processed"
+
+  # ⭐ PPT 辅助模块输出路径（直接输出到 processed）
   domain_results: "data/ppt_helper/processed/by_domain"
   final_output: "data/ppt_helper/processed/final_ppt_content.json"
 
@@ -31,7 +35,7 @@ data_paths:
 # ============================================================================
 api:
   provider: "zhipu"  # 智谱 AI
-  model: "glm-4.7"  # GLM-4.7 模型
+  model: "glm-5"
   timeout: 300  # 超时时间（秒）
   max_retries: 3  # 最大重试次数
 

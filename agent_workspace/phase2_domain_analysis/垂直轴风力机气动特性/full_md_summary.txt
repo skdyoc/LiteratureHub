@@ -1,0 +1,78 @@
+# 领域: 垂直轴风力机气动特性
+# 文献数: 3
+
+## [2026_Highly_Efficient_Vertical_Axis_Wind_Turbine_Concept_Structural_Design_Theoretical_Basis_and_Practica]
+Article
+
+# Highly Efficient Vertical-Axis Wind Turbine: Concept, Structural Design, Theoretical Basis, and Practical Tests Results
+
+Janis Zakis $^ { 1 , * \oplus }$ , Oleg Efanov 2, Alexander Scerbina 2 and Grigorij Fedotov 2
+
+1 Faculty of Computer Science, Information Technology and Energy, Riga Technical University, Kipsala Street 6A, LV-1048 Riga, Latvia   
+2 SIA Genuine Wind Engineering, Katlakalna Street 11, LV-1073 Riga, Latvia; oleg.jefanov@genuinewind.com (O.E.); alejandro.scerbina@gmail.com (A.S.); grigori.fedotov@genuinewind.com (G.F.)   
+Correspondence: janis.zakis@rtu.lv; Tel.: +371-26541253
+
+# Featured Application
+
+This study presents a theoretical foundation for and the practical test results of a highly efficient vertical-axis wind turbine. It is intended for specialists engaged in research and development in the field of wind energy, as well as for a wider audience interested in the use of wind energy.
+
+# Abstract
+
+Vertical-axis wind turbines (VAWTs) have received increasing research interest due to their structurally simple design and superior adaptability to gusty, multidirectional, and highly turbulent wind conditions. However, their relatively low efficiency of wind utilization remains a significant limitation, necessitating extensive research into design optimization and performance enhancement strategies. As we show, efficiency can be achieved by arranging the blades not evenly around the circumference, as in a traditional VAWT, but in groups called “blocks”, which extracts more energy from the air flow using aerodynamic and thermodynamic phenomena. The experimental results of a $2 0 \mathrm { k W }$ VAWT in an independent certified laboratory strengthen the theoretical study and prove that the efficiency of the proposed system is 1.7 times higher than that of known VAWTs, as well as horizontal-axis wind turbines (HAWTs).
+
+Keywords: horizontal-axis wind turbine (HAWT); vertical-axis wind turbine (VAWT); aerodynamic performance; thermodynamic pe
+
+============================================================
+
+## [2026_Modular_structural_design_and_performance_analysis_of_multi_blade_Darrieus_wind_turbines]
+Research paper
+
+# Modular structural design and performance analysis of multi-blade Darrieus wind turbines
+
+Biyi Cheng $\mathrm { a , b , c , ^ { * } \oplus } _ { \mathrm { b } }$ , Leya Lao ${ \sf a } _ { \oplus }$ , Xueming Yin ${ \sf a } _ { \oplus }$ , Xinde Zhang $\mathsf { a } _ { \oplus }$ , Baihao Chen ${ \sf a } _ { \oplus }$ , Nuo Xu a , ${ \mathrm { a } } _ { \oplus }$ Hongjun Wang a,*
+
+a College of Engineering, South China Agricultural University, Guangzhou, 510642, China   
+b School of Mechanical Engineering and Automation, Harbin Institute of Technology Shenzhen, Shenzhen, Guangdong Province, 518055, China   
+c Key Laboratory of Fluid and Power Machinery (Xihua University), Ministry of Education, China
+
+# A R T I C L E I N F O
+
+# Keywords:
+
+Darrieus wind turbine
+
+Dual-rotor structure
+
+Modular design
+
+CFD simulation
+
+Orthogonal test
+
+Power coefficient
+
+# A B S T R A C T
+
+Vertical-axis wind turbines (VAWTs) are promising for large-scale offshore floating wind power but face challenges in scalability and aerodynamic efficiency. This study proposes a modular multi-blade design for Darrieus turbines, dividing the outer blade into two parts to form a basic aerodynamic module for flexible optimization. Under the conditions of a tip speed ratio (TSR) of 4.0 and an inlet velocity of $1 2 \ \mathrm { m } / s ,$ , orthogonal testing (OT) combined with computational fluid dynamics (CFD) reveals that the Δc chord length ratio has the greatest impact on the power coefficient, followed by Δr radius difference, while Δθ offset angle shows almost no influence. Further torque and flow field analyses identify the $\Delta r { = } 1 0 \mathrm { ~ m ~ }$ , $\Delta c { = } 2$ configuration with balanced performance and easier modular manufacturing. To utilize inner blade aerodynamics and support modular design, the radius difference of double-layer modular turbines is controlled at 5 m, 8 m, and $1 0 \ \mathrm { m } ,$ , and redefine the offset angle as the installation angl
+
+============================================================
+
+## [2020_Parameter_design_and_optimization_for_camber_of_vertical_axis_offshore_wind_turbine_using_CFD]
+# Parameter design and optimization for camber of vertical axis offshore wind turbine using CFD
+
+Lin $\mathsf { P a n } ^ { 1 , 2 , 3 , 4 } ( \oplus$ · Zhaoyang Shi1 · Haodong Xiao1
+
+Received: 30 April 2020 / Accepted: 24 September 2020 $\circledcirc$ Springer Nature Switzerland AG 2020
+
+# Abstract
+
+This paper explores the camber as a variable to parameterize the airfoil of a 3-blade H-shaped vertical axis offshore wind turbine (VAOWT). The influence of airfoil camber $( f )$ on the aerodynamics of H-type VAOWT is investigated. Selecting $v = 4$ , 8, $1 2 \mathrm { m / s }$ as the design conditions, and using NACA0015 airfoil $( f = 0 \% )$ ) as the prototype to perform the parametric design of the airfoil. A total of 6 blades with the camber of $f = [ 0 \% , 5 \% ]$ are designed. A 2D-computational fluid dynamics (CFD) simulation model is established with ANSYS software. Taking the power coefficient $( C _ { \mathfrak { p } } )$ , the high-performance tip speed ratio range $( \varDelta \lambda )$ , and the power $( P )$ of the offshore wind turbine as research objects, the aerodynamic law of VAOWT and the changes in torque, pressure, velocity of the airfoil surface under different azimuth angles are studied. The research results find that the camber has a great influence on the aerodynamic performance of vertical axis wind turbines. Airfoil with smaller camber $f \in [ 0 \% , 2 \% ] )$ has a better aerodynamic performance.
+
+Keywords Vertical axis offshore wind turbine (VAOWT) $\cdot$ Computational fluid dynamics (CFD) · Power Coefficient · Aerodynamic simulation $\cdot$ Aerodynamic performance
+
+# 1 Introduction
+
+Wind resources on the earth are very abundant, and wind power is a hot topic now. According to the installation position of the main shaft relative to the ground, wind turbines can be divided into horizontal axis wind turbines(HAWT) and vertical axis wind turbines(VAWT). With the development of science and technology, vertical axis wind turbines have gradua
+
+============================================================
+

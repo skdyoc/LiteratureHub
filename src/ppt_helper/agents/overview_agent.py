@@ -16,7 +16,7 @@ from ..prompts import OVERVIEW_PROMPT
 class OverviewAgent(BaseAgent):
     """概览 Agent - Phase 1 总"""
 
-    def __init__(self, keys_file: str, model: str = "glm-5"):
+    def __init__(self, keys_file: str, model: str = "glm-4.7"):
         super().__init__(keys_file, model)
         self.agent_name = "OverviewAgent"
 
@@ -242,7 +242,7 @@ if __name__ == "__main__":
 
     # 使用示例
     try:
-        agent = OverviewAgent(keys_file="config/api_keys.txt", model="glm-5")
+        agent = OverviewAgent(keys_file="config/api_keys.txt", model="glm-4.7")
 
         # 模拟输入数据
         input_data = {

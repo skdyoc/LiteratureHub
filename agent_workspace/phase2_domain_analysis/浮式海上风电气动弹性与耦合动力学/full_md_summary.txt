@@ -1,0 +1,163 @@
+# 领域: 浮式海上风电气动弹性与耦合动力学
+# 文献数: 5
+
+## [2026_Atmospheric_Turbulence_Modelling_for_Very_Large_Wind_Turbines]
+Research paper
+
+# Load and response analysis of the IEA 22 MW monopile wind turbine considering marine atmospheric turbulence characteristics
+
+Feng Guo a,b, Zhen Gao a,b,*
+
+$^{a}$ School of Ocean and Civil Engineering, Shanghai Jiao Tong University, Shanghai, China   
+$^{b}$ State Key Laboratory of Ocean Engineering, Shanghai Jiao Tong University, 800 Dongchuan Road, Shanghai, China
+
+# ARTICLE INFO
+
+Keywords:
+
+Offshore wind turbines
+
+Marine atmospheric turbulence
+
+Fatigue load
+
+Blade-averaged wind speed
+
+Rotor-averaged wind speed
+
+# ABSTRACT
+
+Since 2020, offshore wind turbine prototypes have experienced a substantial increase in size. At the same time, wind turbine design standards have not specified requirements for marine atmospheric turbulence. The impact of marine atmospheric turbulence characteristics on the load and response (LaR) of large wind turbines has not been fully studied. This paper compares and evaluates the LaR of the IEA 22 MW bottom-fixed turbine under three turbulence conditions: the marine atmospheric turbulence model by Syed and Mann, with turbulence intensity statistics from the FINO1 platform; the IEC-recommended Mann turbulence spectra with FINO1 platform turbulence intensity; and the Mann turbulence spectra with IEC class C turbulence intensity. The latter configuration is widely used by manufacturers for offshore turbines. We derive and analyze the blade-averaged and rotor-averaged wind speeds, accounting for rotational effects. We then perform statistical, fatigue, and spectral analyses at different mean wind speeds using OpenFAST with the BeamDyn module. We observe that the differences in LaR spectra are consistent with the differences in the blade-averaged and rotor-averaged wind speed spectra. For the same turbulence intensity, the Syed-Mann turbulence model leads to a significant increase in the damage-equivalent fatigue loads of the low-speed shaft below rated wind speeds, by more than $20\%$ . The results obtained using the IEC clas
+
+============================================================
+
+## [2025_Analysis_of_platform_motion_effects_on_fatigue_loads_and_aerodynamic_unsteadiness_in_15_MW_novel_flo]
+Research paper
+
+# Analysis of platform motion effects on fatigue loads and aerodynamic unsteadiness in 15 MW novel floating offshore wind turbines with transient impact
+
+![](images/8d17c41fba530777bb31073ae4d21afc1d0869afd2e97aacc39644a23c56f017.jpg)
+
+Huiwen Meng, Yongqian Liu, De Tian\*, Kai Long, Zhang Han
+
+State Key Laboratory for Alternate Electrical Power System with Renewable Energy Sources, North China Electric Power University, Beijing, 102206, China
+
+# ARTICLEINFO
+
+Keywords:
+
+Floating offshore wind turbine
+
+Fault processes
+
+Fatigue damage
+
+Transient impact
+
+Dynamics response
+
+# ABSTRACT
+
+This study investigates the fatigue behavior of an ultra-large 15 MW semi-submersible floating offshore wind turbine (FOWT) under various transient scenarios, including startup, shutdown, and fault conditions, which are often overlooked in conventional analyses. A high-fidelity simulation framework was developed, integrating TurbSim for three-dimensional wind field, OpenFAST for aero-hydro-servo-elastic load simulation, and MLife for fatigue assessment via damage equivalent load (DEL). The results show that platform motion has a negligible impact on power output but significantly affects structural responses. Compared to fixed platforms, moving configurations reduce blade-root fatigue by up to $41.83\%$ during rotor idling and tower-base fatigue by up to $3.29\%$ under fault-induced shutdowns. In contrast, shutdown transients can amplify tower-base shear and bending DEL by up to $54.16\%$ and $62.26\%$ , respectively, especially at high pitch rates. Overall, moving platforms demonstrate superior fatigue mitigation and more uniform load distribution, particularly during abrupt shutdowns or rotor imbalance.
+
+# 1. Introduction
+
+With the continued expansion of offshore wind power, nearshore shallow waters are becoming increasingly saturated, constraining the further deployment of fixed offshore wind turbines. In contrast, deep-sea wind resources offer significant potential due 
+
+============================================================
+
+## [2026_Analysis_of_aerodynamic_damping_characteristics_in_floating_wind_turbines_under_stochastic_wind_and]
+Research paper
+
+# Analysis of aerodynamic damping characteristics in floating wind turbines under stochastic wind and wave conditions
+
+![](images/873a444ec96173dce376bae3b4e689a733473b0752b193b2f3d5207127a72cd1.jpg)
+
+Jiyuan Men<sup>a</sup>, Zuli Nie<sup>b</sup>, Yao Luo<sup>b</sup>, Yuming Yuan<sup>b,*</sup>, Chenxu Gu<sup>c,**</sup>
+
+a CRRC Qihang New Energy Co., Ltd, Beijing, 100080, China   
+$^{b}$ School of Civil Engineering and Transportation, South China University of Technology, Guangzhou, 510641, China   
+$^{\mathrm{c}}$ School of Ship and Ocean Engineering, Jiangsu Shipping College, Nantong 226000, China
+
+# ARTICLEINFO
+
+Keywords:
+
+FOWT
+
+Aeroelastic
+
+Aeroelastic stability
+
+Damping identification
+
+# ABSTRACT
+
+This paper introduces a continuous wavelet transform-based method for identifying aerodynamic damping in floating offshore wind turbines (FOWTs) with large yaw angles, addressing complex aeroelastic instability under extreme environmental conditions. The method systematically analyzes time-varying aerodynamic damping matrices for FOWT blades under stochastic wind and wave loads. Key findings reveal that under extreme loads, edgewise and flapwise damping coefficients transition from weak to strong negative damping as wind speed increases, driving aeroelastic instability. In contrast, off-diagonal damping coefficients exhibit significant positive damping, highlighting the complexity of multi-degree-of-freedom coupled excitation. Surge and pitch motions significantly influence edgewise damping through coupling coefficients, whereas heave damping exhibits an inverse sensitivity to wind speed. A comprehensive system analysis confirms the method's robustness, maintaining prediction accuracy within $10\%$ even under extreme divergence, thus validating its reliability for engineering applications.
+
+# 1. Introduction
+
+The rapid proliferation of global wind energy installations has spurred the development of large-scale floating offshore wind turbines (FOWTs), whi
+
+============================================================
+
+## [2025_Advanced_multi_physics_modeling_of_floating_offshore_wind_turbines_for_aerodynamic_design_and_load_m]
+# Advanced multi-physics modeling of floating offshore wind turbines for aerodynamic design and load management
+
+![](images/4d9a40e3f247699c85b243b7196840581767a65bce256c3653c653bbea46a033.jpg)
+
+Haoda Huang a, Qingsong Liu b,\* d, Gregorio Iglesias c,d, Chun Li a
+
+$^{a}$ School of Energy and Power Engineering, University of Shanghai for Science and Technology, Shanghai 200093, China   
+$^{b}$ School of Engineering, University of Liverpool, The Quadrangle, Brownlow Hill L69 3GH, United Kingdom   
+$^{c}$ School of Engineering and Architecture, University College Cork, College Rd., Cork T12 K8AF, Ireland   
+$^{\mathrm{d}}$ School of Engineering, Computing and Mathematics, University of Plymouth, Drake Circus, Plymouth PL4 8AA, United Kingdom
+
+# ARTICLEINFO
+
+# Keywords:
+
+Floating offshore wind turbine
+
+Computational fluid dynamics
+
+Finite element analysis
+
+Fully coupled dynamics
+
+Fluid-structure interaction
+
+# ABSTRACT
+
+Floating offshore wind turbines (FOWTs) offer distinct advantages for improving the competitiveness of offshore wind energy. However, their operation involves complex dynamics characterized by multiple sources of loading, considerable temporal variability, and high nonlinearity. Understanding the multi-physics coupling mechanisms and subsystem interactions governing the behavior of FOWTs is essential for enhancing operational safety, increasing power output, and promoting commercial deployment. To address these challenges, this study develops a high-fidelity, fully coupled aero-elastic-hydro-mooring framework by integrating computational fluid dynamics (CFD) and the finite element method (FEM). The NREL 5 MW horizontal-axis wind turbine (HAWT) mounted on a semi-submersible platform is used as an exemplar to investigate its nonlinear dynamic responses under combined wind and wave loading. The results show that the platform's six-degree-of-freedom motion leads to continuous changes in the rotor inflow conditions, resulting in a $6.84\%$ reduction in the av
+
+============================================================
+
+## [2026_Prediction_of_coupled_dynamic_performance_of_floating_offshore_wind_turbine_using_unsteady_aerodynam]
+# Prediction of coupled dynamic performance of floating offshore wind turbine using unsteady aerodynamic model and nonlinear self-excited hydrodynamic model
+
+![](images/3946123905e0ea4ec846a84155112879e30bbdf095a49aa6db2fcb2a4afa8698.jpg)
+
+Yuhao Zhang a,b, Tian Li a,b,* Qingshan Yang a,b, Xuhong Zhou a,b
+
+$^{a}$ School of Civil Engineering, Chongqing University, Chongqing 400045, China   
+<sup>b</sup> State Key Laboratory of Safety and Resilience of Civil Engineering in Mountain Area, Chongqing 400045, China
+
+# ARTICLEINFO
+
+# Keywords:
+
+Floating offshore wind turbine
+
+Unsteady aerodynamic model
+
+Aerodynamic performance
+
+Computational fluid dynamics
+
+# ABSTRACT
+
+The floating offshore wind turbine exhibits a complex coupling relationship both with environmental excitations and among the substructures within the system. Due to the challenges associated with high-fidelity numerical simulations of the wind-wave-current multi-field coupling and multi-body motion, the unsteady aerodynamic-hydrodynamic characteristics and mechanisms of floating offshore wind turbines remain unclear. Simplified models, such as blade element momentum theory and potential flow theory, are limited for accurately predicting the coupled dynamic performance of these structures, in cases of the three-dimensional unsteady flow separation of wind turbine blades and the nonlinear hydrodynamic effects of ocean currents on the floating platform. In this study, an unsteady aerodynamic force model and a nonlinear self-excited hydrodynamic force model are proposed to predict the coupled dynamic performance of a floating offshore wind turbine subjected to wind-wave-current conditions, utilizing a computational-fluid-dynamics based forced oscillation approach. The unsteady aerodynamic thrust and power performances of a rotating wind turbine under the influence of the rigid-body motion of the floating platform, as well as the nonlinear hydrodynamic performance of the floating platform, taking into account flu
+
+============================================================
+

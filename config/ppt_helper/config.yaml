@@ -1,0 +1,157 @@
+# LiteratureHub PPT Helper 配置文件
+# 基于 Wind-Aero-Literature-PPT-Handler 集成
+
+# ============================================================================
+# 项目信息
+# ============================================================================
+project:
+  name: "LiteratureHub PPT Helper"
+  version: "1.0.0"
+  description: "文献研究与汇报 PPT 生成系统（LiteratureHub 集成版）"
+
+# ============================================================================
+# 数据路径配置（适配 LiteratureHub 数据结构）
+# ============================================================================
+data_paths:
+  # LiteratureHub 内部路径（支持 all 和 categories 两种模式）
+  base_dir: "D:/xfs/phd/github项目/LiteratureHub"
+
+  # Agent Results 路径
+  agent_results_all: "data/agent_results/all"           # 所有文献的 agent_results
+  agent_results_categories: "data/agent_results/categories"  # 分类文献的 agent_results
+  agent_results: "data/agent_results/all"  # 默认路径（Phase 2 使用）
+
+  # Markdown 文献路径
+  markdowns_all: "data/projects/wind_aero/markdown/all"  # 所有文献的 markdown
+  markdowns_categories: "data/projects/wind_aero/markdown/categories"  # 分类文献的 markdown
+  markdowns: "data/projects/wind_aero/markdown/all"  # 默认路径（Phase 2 使用）
+
+  # 当前使用的模式（all | categories）
+  current_mode: "all"  # 默认使用 all 模式
+
+  # 输出目录
+  processed_data: "data/ppt_helper/processed"
+  domain_results: "data/ppt_helper/processed/by_domain"
+  final_output: "data/ppt_helper/processed/final_ppt_content.json"
+
+# ============================================================================
+# API 配置
+# ============================================================================
+api:
+  provider: "zhipu"  # 智谱 AI
+  model: "glm-4.7"  # GLM-4.7 模型
+  timeout: 3000  # 超时时间（秒）
+  max_retries: 3  # 最大重试次数
+
+  # API 密钥文件（使用 LiteratureHub PPT Helper 的 API 配置）
+  keys_file: "config/ppt_helper/api_keys.txt"
+
+# ============================================================================
+# 分析配置
+# ============================================================================
+analysis:
+  # 时间范围
+  year_range:
+    start: 2018
+    end: 2026
+    focus_start: 2023  # 重点分析起始年
+
+  # 文献筛选
+  paper_selection:
+    method: "score"  # 按评分筛选
+    max_papers: 100  # 最大文献数量（Top N）
+
+  # 评分权重
+  scoring:
+    impact_factor_weight: 0.7
+    time_weight: 0.3
+
+  # 时间权重
+  time_weights:
+    2026: 1.0
+    2025: 0.9
+    2024: 0.8
+    2023: 0.7
+    2022: 0.5
+    2021: 0.3
+    2020: 0.1
+    2019: 0.1
+    2018: 0.1
+
+# ============================================================================
+# 领域分类配置
+# ============================================================================
+domain_classification:
+  # 领域数量范围（AI 推断）
+  min_domains: 5
+  max_domains: 10
+
+  # 领域命名风格
+  naming_style: "professional"  # professional | concise
+
+# ============================================================================
+# 输出配置
+# ============================================================================
+output:
+  # PPT 内容格式
+  format: "json"  # json | markdown | both
+
+  # 4 部分 PPT 内容
+  parts:
+    - name: "Literature Review"
+      filename: "part1_literature_review.md"
+      max_slides: 15
+
+    - name: "Innovation Points"
+      filename: "part2_innovation_points.md"
+      max_slides: 20
+
+    - name: "Methodology"
+      filename: "part3_methodology.md"
+      max_slides: 15
+
+    - name: "Future Work"
+      filename: "part4_future_work.md"
+      max_slides: 10
+
+  # 每页 PPT 要点数量
+  bullets_per_slide:
+    min: 3
+    max: 5
+
+# ============================================================================
+# 日志配置
+# ============================================================================
+logging:
+  level: "INFO"  # DEBUG | INFO | WARNING | ERROR
+  file: "logs/ppt_helper.log"
+  console: true
+
+# ============================================================================
+# 缓存配置
+# ============================================================================
+cache:
+  enabled: true
+  directory: "data/ppt_helper/cache"
+  ttl: 86400  # 缓存过期时间（秒）
+
+# ============================================================================
+# 性能配置
+# ============================================================================
+performance:
+  # 批处理大小
+  batch_size: 10  # 每批处理的文献数量
+
+  # 并发控制
+  max_concurrent_requests: 1  # 最大并发请求数（避免限流）
+
+  # API 调用间隔（秒）
+  api_call_interval: 2
+
+# ============================================================================
+# 开发模式
+# ============================================================================
+development:
+  debug: false
+  dry_run: false  # 干运行模式（不实际调用 API）
+  verbose: true

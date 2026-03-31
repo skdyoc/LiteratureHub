@@ -1,0 +1,115 @@
+# 领域: 极端环境与恶劣条件下的气动性能
+# 文献数: 4
+
+## [2025_Aerodynamic_performance_degradation_of_offshore_wind_turbine_blades_under_icing_with_varying_angles]
+Research paper
+
+# Aerodynamic performance degradation of offshore wind turbine blades under icing with varying angles of attack
+
+![](images/3d79634d614c58a8a02c3e90a3ec5a2fe2a51c1c507cf0cf08473451324c5ccb.jpg)
+
+Zhongqiu Mu a, Guizhong Tian b, Xiaoming Feng b, Senlin Mu a, Fanting Kong a, Bin Zhang a,\*, Xiangyi Meng b,*
+
+<sup>a</sup> Nanjing Institute of Agricultural Mechanization, Ministry of Agriculture and Rural Affairs, Nanjing, 210000, China   
+<sup>b</sup> College of Mechanical Engineering, Jiangsu University of Science and Technology, Zhenjiang, 212100, China
+
+# ARTICLEINFO
+
+Keywords:
+
+Offshore wind turbine
+
+Blade
+
+Icing
+
+Aerodynamic performance
+
+Wind tunnel test
+
+Numerical simulation
+
+# ABSTRACT
+
+Ice accretion on offshore wind turbine blades under cold and humid marine environments significantly deteriorates aerodynamic performance and threatens operational safety. This study systematically investigates the coupled effects of angle of attack and saline atmospheric icing on the aerodynamic behavior of a NACA0018 blade airfoil, combining wind tunnel experiments and computational fluid dynamics (CFD) simulations. Glaze and rime ice conditions were simulated with varying salinity $(0\mathrm{mg / m}^3$ and $8\mathrm{mg / m}^3)$ across a range of attack angles $(0^{\circ} - 20^{\circ})$ . Ice accumulation characteristics were quantitatively evaluated using the dimensionless icing area ratio (DIAR) and average icing thickness (AIT). Results reveal that increasing salinity mitigates ice accretion, especially under glaze ice, by reducing both DIAR and AIT. However, this mitigating effect diminishes under rime ice, where severe asymmetric accretion dominates at higher attack angles. Aerodynamic analysis demonstrates that icing induces substantial reductions in lift coefficient $(C_L)$ and lift-to-drag ratio $(K)$ while increasing drag, with rime ice without salinity causing the most severe degradation. Flow field analysis further shows enhanced flow separation and ear
+
+============================================================
+
+## [2026_Blade_icing_characteristics_and_dynamic_response_analysis_of_floating_offshore_wind_turbine_in_cold]
+# Blade icing characteristics and dynamic response analysis of floating offshore wind turbine in cold marine environments
+
+![](images/ebe28531d3bb1ec821a8a76cab6808d45d978a82d212f3ac8461bc11301e20e6.jpg)
+
+Haojie Zheng a, Siming Zheng a,b ,∗, Yang Yang c, Koushik Kanti Barman a, Gregorio Iglesias d,b
+
+a State Key Laboratory of Ocean Sensing & Ocean College, Zhejiang University, Zhoushan, 316021, China   
+b School of Engineering, Computing and Mathematics, University of Plymouth, Plymouth, PL4 8AA, UK   
+c Faculty of Maritime and Transportation, Ningbo University, Ningbo, 315211, China   
+d MaREI, Environmental Research Institute & School of Engineering, University College Cork, College Road, Cork, P43 C573, Ireland
+
+# A R T I C L E I N F O
+
+Keywords:
+
+Floating offshore wind turbine
+
+Atmospheric icing
+
+Rotor aerodynamics
+
+CFD
+
+Hydrodynamic analysis
+
+Response degradation
+
+# A B S T R A C T
+
+Floating offshore wind turbines (FOWTs) operating in cold marine environments must confront atmospheric icing. The objective of this work is to study the blade icing characteristics in operation and the dynamic response of FOWT after icing. For this purpose, blade icing is simulated under various operating conditions using the IEA Wind 15 MW reference wind turbine as an exemplar. The Computational Fluid Dynamics (CFD) methodology calculates the aerodynamic performance of the icing airfoil. A fully coupled dynamic analysis of the wind turbine is performed in OpenFAST to assess the response of the FOWT after blade icing. The calculation results indicate that the wind turbine’s operating regions significantly impact ice accretion. Blade icing reduces the aerodynamic performance, leading to power generation loss. The maximum lift coefficient at the blade tip decreases by $1 7 . 7 \%$ . The power generation loss in Region 2 is approximately $6 \%$ , and the maximum power loss of 0.87 MW occurs at $1 1 ~ \mathrm { m } / s$ . Due to different control strategies, the wind turbine response c
+
+============================================================
+
+## [2024_An_experimental_study_of_surface_icing_characteristics_on_blade_airfoil_for_offshore_wind_turbines_E]
+Article
+
+# An Experimental Study of Surface Icing Characteristics on Blade Airfoil for Offshore Wind Turbines: Effects of Chord Length and Angle of Attack
+
+Dong Liang 1, Pengyu Zhao 1, He Shen 1, Shengbing Yang 1, Haodong Chi 1, Yan Li 1,* and Fang Feng $^ 2 \textcircled { | | }$
+
+1 College of Engineering, Northeast Agriculture University, Harbin 150030, China;   
+liangdong0301@163.com (D.L.); zhaopengyu523@163.com (P.Z.); sh563331515@163.com (H.S.);   
+b20070110@neau.edu.cn (S.Y.); chihaodong1020@126.com (H.C.)   
+2 College of Arts and Sciences, Northeast Agriculture University, Harbin 150030, China; fengfang@neau.edu.cn   
+* Correspondence: liyanneau@neau.edu.cn; Tel.: +86-451-55191123
+
+Abstract: Offshore wind turbines operating in frigid and humid climates may encounter icing on the blade surface. This phenomenon adversely impacts the aerodynamic efficiency of the turbine, consequently diminishing power generation efficacy. Investigating the distribution characteristics of icing on the blade surface is imperative. Hence, this study undertook icing wind tunnel tests on segments of DU25 airfoil, a prevalent type for offshore wind turbines, to examine such characteristics as different chord lengths and angles of attack. The results show a simultaneous increase in the blade icing area and growth rate of the net icing area with augmenting the chord length and angles of attack. The total icing area rate decreases by a factor of two when the chord length is doubled. The relative positioning of icing and the average icing thickness remain consistent across the airfoil blades with varying chord lengths. Comparing the icing shapes on blades of varying scales shows a similarity ranging from $8 4 . 0 6 \%$ to $8 8 . 7 2 \%$ . The results of this study provide insight into the icing characteristics of offshore wind turbines.
+
+![](images/0cac436ddb0d73bd66c801b72390058205cbdeda5fb1e9e37b237b0868d86955.jpg)
+
+check for updates
+
+Citation: Liang, D.; Zhao, P.; Shen, H.;
+
+Yang, S.;
+
+============================================================
+
+## [2023_Investigation_of_the_Impact_of_Airfoil_Geometry_Alteration_on_Horizontal_Axis_Wind_Turbine_Performan]
+# Research Paper
+
+# Investigation of the Impact of Airfoil Geometry Alteration on Horizontal Axis Wind Turbine Performance by CFD Method
+
+Hakan İNAN1a, Mahmut KAPLAN2b
+
+1Department of Mechanical Engineering, Institute of Science, Amasya University, Amasya/Türkiye 2Department of Machine and Metal Technology, Naci Topcuoglu Vocational High School, Gaziantep University, Gaziantep/Türkiye mahmutkaplan@gantep.edu.tr
+
+Received: 30.12.2022
+
+Accepted: 19.05.2023
+
+Abstract: As a promising source for sustainable energy, a wind turbine transforms the wind kinetic energy into electrical energy. In wind turbines, the geometry of the airfoil affects the magnitude of the aerodynamic forces on the blade surfaces. In the present work, the influence of the geometrical shape of the standard NACA 63-415 airfoil on the blade performance was investigated with the SST $k$ -ω turbulence model using ANSYS Fluent at different wind speeds $\mathrm { 4 - 1 6 ~ m / s } ,$ ). The CFD results of the standard airfoil were verified by experimental work. In the first step, NCLS30 and NCLSUS 30 airfoils were generated by modifying the surface shape of the standard airfoil. In the second step, the solid blade models were created by calculating the optimum chords and twist angles for a design attack angle of $7 ^ { \circ }$ , design tip speed ratio of 7 and blade length of $2 0 \mathrm { m }$ at 1 m intervals along the blade using SOLIDWORKS program. The highest power coefficient $( C _ { P } )$ value of 0.511 was achieved with the NCLSUS 30 blade at $1 6 ~ \mathrm { m / s }$ wind speed of and the $C _ { P }$ of the blade model increased by $1 0 . 6 2 \%$ in comparison to the standard NACA 63-415 blade. The peak blade velocity for the NCLSUS 30 blade was $7 . 2 \%$ higher than that with the standard blade model. The new blade models introduced in this study is thought to help future research related to the wind turbine blade design.
+
+Keywords: Wind turbine, CFD method, airfoil surface geometry, blade m
+
+============================================================
+

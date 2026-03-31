@@ -1,13 +1,17 @@
 """
-文献元数据提取器
+文献元数据提取器（LiteratureHub 集成版）
 
-职责：从 agent_results JSON 文件中提取元数据（标题、作者、年份、期刊等）
+职责：从 LiteratureHub 的 agent_results JSON 文件中提取元数据
 设计原则：只提取结构化数据，不做文本理解或分析
+
+支持两种模式（与 GUI1/GUI2 MinerU 处理逻辑一致）：
+- all 模式：处理 data/agent_results/all 下的所有文献
+- categories 模式：处理 data/agent_results/categories/{category} 下的分类文献
 """
 
 import json
 from pathlib import Path
-from typing import Dict, Optional, Any
+from typing import Dict, Optional, Any, List
 from dataclasses import dataclass
 
 
@@ -29,67 +33,64 @@ class PaperMetadata:
 
 
 class ContentExtractor:
-    """文献内容提取器"""
+    """文献内容提取器（LiteratureHub 集成版）"""
 
-    def __init__(self, agent_results_path: str, ranked_papers_path: Optional[str] = None):
+    def __init__(self, base_dir: str, mode: str = "all", category: Optional[str] = None):
         """
         初始化提取器
 
         Args:
-            agent_results_path: agent_results 根目录
-                               例如：data/raw/agent_results
-            ranked_papers_path: ranked_papers.json 文件路径
-                               例如：原系统/data/analysis_results/ranked_papers.json
-                               如果不提供，将尝试从原系统默认路径加载
+            base_dir: LiteratureHub 基础目录（例如：D:/xfs/phd/github项目/LiteratureHub）
+            mode: 工作模式，"all" 或 "categories"
+            category: 分类名称（仅在 categories 模式下使用）
         """
-        self.results_path = Path(agent_results_path)
+        self.base_dir = Path(base_dir)
+        self.mode = mode
+        self.category = category
 
-        # 加载文献元数据映射
-        self._metadata_map: Dict[str, Dict[str, Any]] = {}
-        self._load_metadata_map(ranked_papers_path)
+        # 根据模式构建 agent_results 路径
+        if mode == "categories" and category:
+            self.results_path = self.base_dir / "data" / "agent_results" / "categories" / category
+        else:
+            self.results_path = self.base_dir / "data" / "agent_results" / "all"
 
-    def _load_metadata_map(self, ranked_papers_path: Optional[str] = None):
+        # ⭐ 加载元数据索引（从 pdfs/all/metadata.json）
+        self.metadata_index = self._load_metadata_index()
+
+    def _load_metadata_index(self) -> Dict[str, Dict[str, Any]]:
         """
-        加载文献元数据映射表
+        加载元数据索引（从 metadata.json）
 
-        Args:
-            ranked_papers_path: ranked_papers.json 文件路径
+        Returns:
+            字典 {paper_id: metadata_dict}
         """
-        # 如果未提供路径，尝试从原系统默认路径加载
-        if not ranked_papers_path:
-            # 尝试常见路径
-            possible_paths = [
-                Path("../Wind-Aero-Literature-Analysis-System/data/analysis_results/ranked_papers.json"),
-                Path("D:/xfs/phd/github项目/Wind-Aero-Literature-Analysis-System/data/analysis_results/ranked_papers.json"),
-            ]
+        metadata_file = self.base_dir / "data" / "projects" / "wind_aero" / "pdfs" / "all" / "metadata.json"
 
-            ranked_papers_path = None
-            for path in possible_paths:
-                if path.exists():
-                    ranked_papers_path = str(path)
-                    break
-
-        if not ranked_papers_path:
-            print("⚠️  未找到 ranked_papers.json，元数据提取将失败")
-            return
+        if not metadata_file.exists():
+            return {}
 
         try:
-            with open(ranked_papers_path, "r", encoding="utf-8") as f:
-                papers_list = json.load(f)
+            with open(metadata_file, "r", encoding="utf-8") as f:
+                metadata_list = json.load(f)
 
-            # 构建 {paper_id: metadata} 映射
-            for paper in papers_list:
-                paper_id = paper.get("paper_id", "")
-                if paper_id:
-                    self._metadata_map[paper_id] = paper
+            # 构建 paper_id -> metadata 的映射
+            # paper_id 是 pdf_filename 去掉 .pdf 后缀
+            index = {}
+            for item in metadata_list:
+                pdf_filename = item.get("pdf_filename", "")
+                if pdf_filename:
+                    # 去掉 .pdf 后缀得到 paper_id
+                    paper_id = pdf_filename.replace(".pdf", "")
+                    index[paper_id] = item
 
-            print(f"✅ 加载了 {len(self._metadata_map)} 篇文献的元数据映射")
+            return index
         except Exception as e:
-            print(f"⚠️ 加载 ranked_papers.json 失败: {e}")
+            print(f"⚠️ 加载元数据索引失败: {e}")
+            return {}
 
     def extract_metadata(self, paper_id: str) -> Optional[PaperMetadata]:
         """
-        提取单篇文献的元数据
+        从元数据索引中提取单篇文献的元数据
 
         Args:
             paper_id: 论文 ID
@@ -97,137 +98,91 @@ class ContentExtractor:
         Returns:
             PaperMetadata 对象，如果提取失败返回 None
         """
-        # 从元数据映射表中查找
-        if paper_id in self._metadata_map:
-            paper_info = self._metadata_map[paper_id]
-
+        # ⭐ 优先从元数据索引中查找
+        if paper_id in self.metadata_index:
+            meta = self.metadata_index[paper_id]
             return PaperMetadata(
                 paper_id=paper_id,
-                title=paper_info.get("title", ""),
-                authors=paper_info.get("authors", []),
-                year=paper_info.get("year", 0),
-                journal=paper_info.get("journal", ""),
-                volume=paper_info.get("volume"),
-                issue=paper_info.get("issue"),
-                pages=paper_info.get("pages"),
-                doi=paper_info.get("doi"),
-                impact_factor=paper_info.get("impact_factor"),
-                score=paper_info.get("score"),
+                title=self._safe_str(meta.get("title", "")),
+                authors=self._safe_list(meta.get("authors", [])),
+                year=int(meta.get("year", 0) or 0),
+                journal=self._safe_str(meta.get("journal", "")),
+                volume=meta.get("volume"),
+                issue=meta.get("issue"),
+                pages=meta.get("pages"),
+                doi=meta.get("doi"),
+                impact_factor=meta.get("impact_factor"),
+                score=meta.get("relevance_score"),  # 使用 relevance_score 作为初始评分
             )
 
-        # 如果映射表中没有，尝试旧的提取方式（向后兼容）
+        # 降级方案：尝试从 agent_results 中提取（旧逻辑）
         paper_dir = self.results_path / paper_id
+        if not paper_dir.exists():
+            return None
 
         # 尝试从不同的 JSON 文件中提取元数据
-        # 优先级：innovation.json > motivation.json > roadmap.json
         json_files = [
-            paper_dir / "innovation.json",
-            paper_dir / "motivation.json",
-            paper_dir / "roadmap.json",
+            "motivation.json",
+            "innovation.json",
+            "roadmap.json",
+            "mechanism.json",
+            "impact.json"
         ]
 
         metadata_json = None
-        for json_file in json_files:
+        for json_name in json_files:
+            json_file = paper_dir / json_name
             if json_file.exists():
                 try:
                     with open(json_file, "r", encoding="utf-8") as f:
                         data = json.load(f)
-                        if "paper_info" in data or "metadata" in data:
-                            metadata_json = data
+
+                    # 检查数据结构
+                    if isinstance(data, dict):
+                        # 如果有 paper_info 字段
+                        if "paper_info" in data:
+                            metadata_json = data["paper_info"]
                             break
+                        # 如果有 metadata 字段
+                        elif "metadata" in data:
+                            metadata_json = data["metadata"]
+                            break
+                        # 如果有 result 字段，尝试从中提取
+                        elif "result" in data:
+                            result = data["result"]
+                            if isinstance(result, dict):
+                                if "paper_info" in result:
+                                    metadata_json = result["paper_info"]
+                                    break
+                                elif "metadata" in result:
+                                    metadata_json = result["metadata"]
+                                    break
+                                # 直接从 result 中提取
+                                elif "title" in result and "authors" in result:
+                                    metadata_json = result
+                                    break
                 except Exception as e:
-                    print(f"⚠️ 读取 {json_file} 失败: {e}")
                     continue
 
         if not metadata_json:
             return None
 
         # 提取元数据字段
-        paper_info = metadata_json.get("paper_info", metadata_json.get("metadata", {}))
-
         return PaperMetadata(
             paper_id=paper_id,
-            title=paper_info.get("title", ""),
-            authors=paper_info.get("authors", []),
-            year=paper_info.get("year", 0),
-            journal=paper_info.get("journal", ""),
-            volume=paper_info.get("volume"),
-            issue=paper_info.get("issue"),
-            pages=paper_info.get("pages"),
-            doi=paper_info.get("doi"),
-            impact_factor=paper_info.get("impact_factor"),
-            score=paper_info.get("score"),
+            title=self._safe_str(metadata_json.get("title", "")),
+            authors=self._safe_list(metadata_json.get("authors", [])),
+            year=int(metadata_json.get("year", 0) or 0),
+            journal=self._safe_str(metadata_json.get("journal", "")),
+            volume=metadata_json.get("volume"),
+            issue=metadata_json.get("issue"),
+            pages=metadata_json.get("pages"),
+            doi=metadata_json.get("doi"),
+            impact_factor=metadata_json.get("impact_factor"),
+            score=metadata_json.get("score"),
         )
 
-    def extract_innovation_summary(self, paper_id: str) -> Optional[Dict[str, Any]]:
-        """
-        提取创新点摘要（结构化数据，不做理解）
-
-        Args:
-            paper_id: 论文 ID
-
-        Returns:
-            创新点摘要字典，如果提取失败返回 None
-        """
-        innovation_file = self.results_path / paper_id / "innovation.json"
-
-        if not innovation_file.exists():
-            return None
-
-        try:
-            with open(innovation_file, "r", encoding="utf-8") as f:
-                data = json.load(f)
-
-            # ⭐ 添加类型检查
-            if not isinstance(data, dict):
-                # 如果 data 不是字典，尝试解析
-                if isinstance(data, str):
-                    # 可能是 JSON 字符串，尝试再次解析
-                    try:
-                        data = json.loads(data)
-                    except:
-                        print(f"Warning: innovation.json 格式错误（内容是字符串）: {paper_id}")
-                        return None
-                else:
-                    print(f"Warning: innovation.json 格式错误（类型: {type(data)}）: {paper_id}")
-                    return None
-
-            # 数据在 result 字段中
-            result = data.get("result", {})
-            if not isinstance(result, dict):
-                result = {}
-
-            # ⭐ 返回完整的结果，而不是只提取计数
-            return result
-        except Exception as e:
-            print(f"Warning: Failed to extract innovation summary for {paper_id}: {e}")
-            return None
-
-    def extract_all_summaries(self, paper_ids: list[str]) -> Dict[str, Dict[str, Any]]:
-        """
-        批量提取摘要信息
-
-        Args:
-            paper_ids: 论文 ID 列表
-
-        Returns:
-            字典 {paper_id: summary}
-        """
-        summaries = {}
-
-        for paper_id in paper_ids:
-            metadata = self.extract_metadata(paper_id)
-            innovation = self.extract_innovation_summary(paper_id)
-
-            if metadata:
-                summaries[paper_id] = {
-                    "metadata": metadata,
-                    "innovation_summary": innovation,
-                }
-
-        return summaries
-
-    def extract_all_agent_results(self, paper_ids: list[str]) -> Dict[str, Dict[str, Any]]:
+    def extract_all_agent_results(self, paper_ids: List[str]) -> Dict[str, Dict[str, Any]]:
         """
         提取所有论文的完整 agent_results（5 个 JSON 文件）
 
@@ -267,19 +222,18 @@ class ContentExtractor:
 
                         # 提取 result 字段（如果存在）
                         if isinstance(data, dict) and "result" in data:
-                            result = data["result"]
+                            result_data = data["result"]
                             # 如果 result 是字符串（JSON 格式），需要解析
-                            if isinstance(result, str):
+                            if isinstance(result_data, str):
                                 try:
-                                    result = json.loads(result)
+                                    result_data = json.loads(result_data)
                                 except:
-                                    result = {}
-                            paper_results[json_name.replace(".json", "")] = result
+                                    result_data = {}
+                            paper_results[json_name.replace(".json", "")] = result_data
                         else:
                             paper_results[json_name.replace(".json", "")] = data
 
                     except Exception as e:
-                        print(f"⚠️ 读取 {paper_id}/{json_name} 失败: {e}")
                         continue
 
             if paper_results:
@@ -287,7 +241,7 @@ class ContentExtractor:
 
         return all_results
 
-    def get_available_paper_ids(self) -> list[str]:
+    def get_available_paper_ids(self) -> List[str]:
         """
         获取所有可用的论文 ID
 
@@ -295,6 +249,9 @@ class ContentExtractor:
             论文 ID 列表
         """
         paper_ids = []
+
+        if not self.results_path.exists():
+            return paper_ids
 
         for subdir in self.results_path.iterdir():
             if subdir.is_dir():
@@ -305,70 +262,92 @@ class ContentExtractor:
 
         return sorted(paper_ids)
 
+    def get_all_categories(self) -> List[str]:
+        """
+        获取所有可用的分类
+
+        Returns:
+            分类列表
+        """
+        categories_dir = self.base_dir / "data" / "agent_results" / "categories"
+
+        if not categories_dir.exists():
+            return []
+
+        categories = []
+        for item in categories_dir.iterdir():
+            if item.is_dir():
+                categories.append(item.name)
+
+        return sorted(categories)
+
+    def _safe_str(self, s: Any) -> str:
+        """安全转换为字符串"""
+        if s is None:
+            return ""
+        if isinstance(s, str):
+            return s
+        if isinstance(s, list):
+            return ", ".join(str(item) for item in s)
+        return str(s)
+
+    def _safe_list(self, lst: Any) -> list[str]:
+        """安全转换为字符串列表"""
+        if lst is None:
+            return []
+        if isinstance(lst, list):
+            return [str(item) for item in lst]
+        if isinstance(lst, str):
+            return [lst]
+        return [str(lst)]
+
 
 # ============================================================================
 # 使用示例
 # ============================================================================
-
 if __name__ == "__main__":
-    # 初始化提取器
-    extractor = ContentExtractor(agent_results_path="data/raw/agent_results")
+    import sys
+    import io
 
-    # 获取所有论文 ID
-    paper_ids = extractor.get_available_paper_ids()
-    print(f"✅ 找到 {len(paper_ids)} 篇文献")
+    # Windows UTF-8 支持
+    if sys.platform == "win32":
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8", errors="replace")
 
-    # 提取单篇文献元数据
-    if paper_ids:
-        paper_id = paper_ids[0]
-        metadata = extractor.extract_metadata(paper_id)
+    base_dir = "D:/xfs/phd/github项目/LiteratureHub"
+
+    # All 模式
+    print("=" * 60)
+    print("All 模式测试")
+    print("=" * 60)
+
+    extractor_all = ContentExtractor(base_dir=base_dir, mode="all")
+
+    paper_ids_all = extractor_all.get_available_paper_ids()
+    print(f"✅ 找到 {len(paper_ids_all)} 篇文献（all 模式）")
+
+    if paper_ids_all:
+        paper_id = paper_ids_all[0]
+        metadata = extractor_all.extract_metadata(paper_id)
 
         if metadata:
             print(f"\n📄 文献信息:")
-            # ⭐ 安全打印标题（处理特殊字符）
-            try:
-                safe_title = metadata.title.encode('gbk', errors='replace').decode('gbk')
-            except:
-                safe_title = "（标题包含无法显示的字符）"
-            print(f"  标题: {safe_title}")
-
-            # ⭐ 安全打印作者
-            try:
-                safe_authors = ', '.join(metadata.authors).encode('gbk', errors='replace').decode('gbk')
-            except:
-                safe_authors = "（作者名包含无法显示的字符）"
-            print(f"  作者: {safe_authors}")
-
+            print(f"  Paper ID: {metadata.paper_id}")
+            print(f"  标题: {metadata.title[:80]}...")
             print(f"  年份: {metadata.year}")
-
-            # ⭐ 安全打印期刊
-            try:
-                safe_journal = metadata.journal.encode('gbk', errors='replace').decode('gbk')
-            except:
-                safe_journal = "（期刊名包含无法显示的字符）"
-            print(f"  期刊: {safe_journal}")
-
             print(f"  评分: {metadata.score}")
 
-    # 批量提取
-    summaries = extractor.extract_all_summaries(paper_ids[:5])
+    # Categories 模式
+    print("\n" + "=" * 60)
+    print("Categories 模式测试")
+    print("=" * 60)
 
-    print(f"\n📊 前 5 篇文献摘要:")
-    for paper_id, summary in summaries.items():
-        metadata = summary["metadata"]
-        innovation = summary["innovation_summary"]
+    # 获取所有分类
+    extractor_test = ContentExtractor(base_dir=base_dir, mode="categories")
+    categories = extractor_test.get_all_categories()
+    print(f"✅ 找到 {len(categories)} 个分类")
 
-        print(f"\n  {paper_id}:")
-        # ⭐ 安全打印标题
-        try:
-            safe_title = metadata.title[:60].encode('gbk', errors='replace').decode('gbk')
-        except:
-            safe_title = "（标题包含无法显示的字符）"
-        print(f"    标题: {safe_title}...")
-        print(f"    年份: {metadata.year}")
-        if innovation:
-            print(
-                f"    创新点: {innovation['new_phenomena_count']} 现象, "
-                f"{innovation['new_methods_count']} 方法, "
-                f"{innovation['new_objects_count']} 对象"
-            )
+    for cat in categories:
+        extractor_cat = ContentExtractor(base_dir=base_dir, mode="categories", category=cat)
+        paper_ids_cat = extractor_cat.get_available_paper_ids()
+        print(f"  - {cat}: {len(paper_ids_cat)} 篇文献")

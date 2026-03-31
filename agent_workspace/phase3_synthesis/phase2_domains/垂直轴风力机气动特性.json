@@ -1,0 +1,162 @@
+{
+  "domain_overview": {
+    "core_research_questions": [
+      "如何突破垂直轴风力机（VAWT）气动效率低的瓶颈，使其达到或超过水平轴风力机（HAWT）的性能水平？",
+      "如何通过创新的叶片布局和模块化设计实现VAWT的结构优化和规模化制造？",
+      "在复杂风场环境（城市、近海）中，VAWT的气动性能和工程可行性如何？"
+    ],
+    "key_challenges": [
+      "VAWT的气动效率长期低于HAWT，制约了其商业化推广",
+      "大型VAWT的结构设计、制造和运输困难",
+      "动态失速和流场不稳定性导致性能预测困难",
+      "缺乏全尺寸实验验证和长期运行数据"
+    ],
+    "positioning": "垂直轴风力机气动特性是风能技术领域的重要研究方向，近年来因海上浮式风电、城市分布式发电等新兴应用场景而重新受到关注。该领域聚焦于通过创新构型设计和模块化方法提升VAWT的气动效率与工程可行性。"
+  },
+  "technical_roadmap": [
+    {
+      "year": 2018,
+      "milestone": "传统VAWT气动优化研究",
+      "description": "早期的VAWT研究主要集中在Darrieus型和H型风力机的翼型选择、叶片数优化和固定参数研究，气动效率提升有限。"
+    },
+    {
+      "year": 2020,
+      "milestone": "CFD数值模拟方法成熟",
+      "description": "随着计算流体力学（CFD）方法的成熟，研究者能够更精确地模拟VAWT的非定常流场特性，为优化设计提供理论基础。"
+    },
+    {
+      "year": 2023,
+      "milestone": "模块化与多叶片概念提出",
+      "description": "模块化设计理念开始引入VAWT领域，将传统叶片分解为可独立优化的基本气动模块，提高了设计的灵活性和制造的便捷性。"
+    },
+    {
+      "year": 2025,
+      "milestone": "实验验证与概念突破",
+      "description": "Zakis等人通过20kW样机的第三方认证实验，首次验证了'块状'叶片布局概念可将VAWT效率提升至HAWT的1.7倍，为该领域带来了颠覆性突破。"
+    },
+    {
+      "year": 2026,
+      "milestone": "系统化参数分析与双层设计",
+      "description": "正交试验与CFD相结合的系统化方法应用于模块化多叶片VAWT的参数优化，明确了弦长比（Δc）为最关键参数，并提出双层模块化设计以平衡性能与可制造性。"
+    }
+  ],
+  "key_innovations": [
+    {
+      "innovation": "块状叶片布局概念（Zakis et al.）",
+      "impact": "颠覆性创新。打破了传统VAWT叶片均匀圆周分布的设计范式，通过'块状'集中布局实现了效率为已知VAWT及HAWT的1.7倍的突破性结果。",
+      "related_papers": [
+        "2026_Highly_Efficient_Vertical_Axis_Wind_Turbine_Concept_Structural_Design_Theoretical_Basis_and_Practica"
+      ],
+      "evidence": "实验结果表明效率为已知VAWT及HAWT的1.7倍，建立了基于'块状'叶片布局的新型VAWT设计理论框架",
+      "impact_level": "High"
+    },
+    {
+      "innovation": "模块化多叶片设计方法",
+      "impact": "将传统达里厄叶片分解为可灵活优化的基本气动模块，为解决VAWT规模化制造和性能优化提供了新思路。",
+      "related_papers": [
+        "2026_Modular_structural_design_and_performance_analysis_of_multi_blade_Darrieus_wind_turbines"
+      ],
+      "evidence": "将传统达里厄叶片分解为两个部分，形成基本气动模块，最优单层模块化设计比传统设计功率系数提升约4.7%",
+      "impact_level": "Medium-High"
+    },
+    {
+      "innovation": "正交试验+CFD系统化参数优化框架",
+      "impact": "首次系统量化了弦长比（Δc）、半径差（Δr）和偏置角（Δθ）对功率系数的影响权重，明确了Δc为最关键参数，Δθ影响甚微。",
+      "related_papers": [
+        "2026_Modular_structural_design_and_performance_analysis_of_multi_blade_Darrieus_wind_turbines"
+      ],
+      "evidence": "正交试验（OT）结合CFD揭示Δc弦长比对功率系数影响最大，其次为Δr半径差，而Δθ偏置角几乎无影响",
+      "impact_level": "Medium"
+    },
+    {
+      "innovation": "双层模块化涡轮机设计",
+      "impact": "双层设计虽非性能最优，但通过形成稳定的三角框架，在可制造性、装配和运输方面优势更大，从全生命周期成本角度可能更具经济效益。",
+      "related_papers": [
+        "2026_Modular_structural_design_and_performance_analysis_of_multi_blade_Darrieus_wind_turbines"
+      ],
+      "evidence": "双层设计通过形成稳定的三角框架，在可制造性、装配和运输方面优势更大，Δr=10m, Δc=2配置具有均衡性能",
+      "impact_level": "Medium"
+    },
+    {
+      "innovation": "空气动力学与热力学耦合解释高效机理",
+      "impact": "初步结合了空气动力学与热力学现象来解释VAWT高效能机理，为深入理解'块状'布局的物理机制提供了新视角。",
+      "related_papers": [
+        "2026_Highly_Efficient_Vertical_Axis_Wind_Turbine_Concept_Structural_Design_Theoretical_Basis_and_Practica"
+      ],
+      "evidence": "初步结合了空气动力学与热力学现象来解释其高效能机理",
+      "impact_level": "Medium"
+    }
+  ],
+  "methods_and_tools": {
+    "primary_methods": [
+      "计算流体力学（CFD）数值模拟 - 用于非定常流场分析和气动性能预测",
+      "正交试验设计（OT） - 用于系统化参数敏感性分析",
+      "第三方认证实验 - 20kW样机实测验证",
+      "扭矩和流场分析 - 用于机理研究",
+      "模块化设计方法 - 将传统叶片分解为基本气动模块"
+    ],
+    "tools": [
+      "CFD仿真软件（用于RANS/URANS计算）",
+      "正交试验设计工具",
+      "原型机制造与测试设备",
+      "PIV（粒子图像测速）- 规划中的流场测量手段"
+    ],
+    "comparison": "该领域的研究方法从早期单一的翼型优化和经验设计，发展为CFD仿真+实验验证的双轨模式。最新的创新在于将正交试验法与CFD模拟相结合，实现了系统化的多参数优化，而非传统的单参数扫描。模块化设计理念的引入使得参数空间更加灵活，但同时也增加了优化维度。与水平轴风力机（HAWT）成熟的BEM（叶素动量）理论相比，VAWT的气动预测方法仍在发展中，缺乏统一的标准方法。"
+  },
+  "representative_work": [
+    {
+      "paper_id": "2026_Highly_Efficient_Vertical_Axis_Wind_Turbine_Concept_Structural_Design_Theoretical_Basis_and_Practica",
+      "title": "Highly Efficient Vertical-Axis Wind Turbine: Concept, Structural Design, Theoretical Basis, and Practical Tests Results",
+      "reason": "里程碑式研究。首次通过第三方认证实验验证了'块状'叶片布局概念，实现了VAWT效率超越HAWT的突破性结果（1.7倍），被评为High级别影响力。",
+      "contribution": "建立了基于'块状'叶片布局的新型VAWT设计理论框架，初步结合空气动力学与热力学解释高效机理，并通过20kW样机实验验证。在湍流、多风场的复杂风场（如城市环境、近海平台）中具有显著应用潜力。"
+    },
+    {
+      "paper_id": "2026_Modular_structural_design_and_performance_analysis_of_multi_blade_Darrieus_wind_turbines",
+      "title": "Modular structural design and performance analysis of multi-blade Darrieus wind turbines",
+      "reason": "方法创新。创新性地将模块化设计理念引入VAWT领域，建立了关键几何参数与气动性能之间的量化映射关系，为后续模块化设计优化提供了清晰的理论指导。",
+      "contribution": "提出了模块化多叶片达里厄风力机设计方法，通过正交试验+CFD明确了Δc > Δr > Δθ的参数影响力排序，最优单层设计功率系数提升4.7%，双层设计在可制造性方面更具优势。"
+    }
+  ],
+  "gaps_and_future": {
+    "limitations": [
+      "缺乏全尺寸或大比例样机的长期耐久性与疲劳测试数据",
+      "高效能机理（尤其是'块状'布局的空气动力学与热力学耦合机制）尚未被定量解析",
+      "研究多在特定工况（TSR=4.0, 入口速度12 m/s）下进行，结论的普适性有待验证",
+      "模块化连接点的结构强度和疲劳寿命需要进一步评估",
+      "大规模制造工艺（如叶片拉挤成型）的稳定性尚未验证",
+      "MW级大型化缩放规律未知"
+    ],
+    "future_directions": [
+      "通过更精细的CFD模拟和PIV实验，定量解析'块状'布局下空气动力学与热力学效应的具体贡献与耦合机制",
+      "对模块化设计进行多目标优化（气动、结构、噪声），并开展全尺寸或大比例样机的长期耐久性与疲劳测试",
+      "研究新型VAWT在分布式发电、风光互补系统、建筑一体化等特定场景中的阵列布局优化、控制策略及实际并网性能",
+      "开展气动-结构-水动力多场耦合仿真，分析模块连接处的应力分布、振动特性和疲劳损伤",
+      "探索将模块化理念应用于兆瓦级大型VAWT的设计方法与经济性分析",
+      "开发动态变桨距控制等实时控制策略以进一步提升年发电量"
+    ],
+    "interdisciplinary_opportunities": [
+      "与热力学和流体物理学交叉，深入解析VAWT高效能的多物理场耦合机理",
+      "与材料科学交叉，研发适合模块化制造的新型复合材料叶片",
+      "与控制工程交叉，开发适配新型VAWT构型的智能控制策略",
+      "与建筑学交叉，研究城市环境中建筑一体化VAWT的设计方法",
+      "与海洋工程交叉，推动浮动式海上VAWT的系统集成研究"
+    ]
+  },
+  "analysis_summary": {
+    "total_papers_analyzed": 2,
+    "key_findings": [
+      "'块状'叶片布局概念为VAWT领域带来了颠覆性突破，实验验证效率可达传统HAWT的1.7倍（Zakis et al.）",
+      "模块化设计方法将传统叶片分解为基本气动模块，提供了灵活的优化空间和规模化制造路径",
+      "弦长比（Δc）是影响模块化VAWT功率系数的最关键参数，偏置角（Δθ）影响甚微",
+      "双层模块化设计在可制造性方面优势显著，可能比单层高性能设计更具全生命周期经济性",
+      "高效能的深层机理（空气动力学+热力学耦合）尚未完全阐明，是未来研究的重要方向"
+    ],
+    "recommendations": [
+      "优先验证'块状'叶片布局的可扩展性，从20kW向MW级推进",
+      "建立CFD+风洞实验+野外测试的三级验证体系",
+      "重点关注双层模块化设计的工程化可行性",
+      "开展多场景（城市、近海、浮式）的应用适配研究",
+      "加强PIV等先进测量手段的应用，解析流场细节"
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+# 领域: 风力机气动外形优化与设计
+# 文献数: 2
+
+## [2025_Aerodynamic_Design_and_Performance_Analysis_of_a_Large_Scale_Composite_Blade_for_Wind_Turbines]
+Article
+
+# Aerodynamic Design and Performance Analysis of a Large-Scale Composite Blade for Wind Turbines
+
+Semyoung Lim 1, Sungjin Ahn 2 and Hyunbum Park $2 , * \textcircled { \mathbb { D } }$
+
+1 KSNU Advanced Technology Institute for Convergence, 177-1 Sandan Nambuk-ro, Gunsan 54001, Jeollabuk-do, Republic of Korea; amuse30@kunsan.ac.kr   
+2 School of Mechanical Engineering, Kunsan National University, 558 Daehak-ro, Miryong-dong, Gunsan 54150, Jeollabuk-do, Republic of Korea; sjan4319@naver.com   
+* Correspondence: swordship@kunsan.ac.kr; Tel.: $+ 8 2 \cdot$ -(0)63-469-4729
+
+Abstract: In this study, we determined an aerodynamic configuration to design structures applying composites for large-scale horizontal-axis wind turbine blades. A new aerodynamic and structural design method for large wind turbine blades is presented. The rated power of the wind turbine blade is 25 MW class. The tip speed ratio is 7. The diameter of the designed blade is $2 6 0 \mathrm { m }$ . Therefore, thick airfoils were selected to design large-scale wind turbine blades considering structural stiffness and maximum lift coefficients. For the aerodynamic design method, it was designed with the optimal angle of attack having the maximum lift-to-drag ratio. The blade element theory and vortex theory were applied to aerodynamic design. For the aerodynamic design results, its validity was investigated via aerodynamic performance analysis. As a result of analyzing aerodynamic performance, it was confirmed that higher power was generated. At $1 2 . 5 ~ \mathrm { m } / \mathrm { s }$ of rated wind speed, electrical power was 28.32 MW. The structural design considering the aerodynamic design results was carried out. The composite laminate theory was adopted. Structural safety was evaluated for the designed blades. Finally, the structural design results were analyzed as sufficiently valid.
+
+Keywords: wind turbine; blade; aerodynamic design; performance analysis; composite
+
+![](images/11932a9f21d121
+
+============================================================
+
+## [2025_A_synthetic_approach_for_high_fidelity_aerodynamic_performance_optimization_of_large_scale_wind_turb]
+RESEARCH ARTICLE | MAY 12 2025
+
+# A synthetic approach for high-fidelity aerodynamic performance optimization of large-scale wind turbine blades based on hybrid deep learning networks $\circledcirc$
+
+Jingliang Gong (龚敬亮) $\textcircled { \scriptsize { 1 } }$ ; Haijun Zhou (周海俊); Chulong Yuan (袁楚龙); Xigui Huang (黄希桂); Gang Hu (胡钢) ; Chao Li (李朝) $\textcircled{1}$ ; Lixiao Li (李利孝)  $\circledcirc$
+
+![](images/a244c61b09d6001d84ad47ce6d83464b2c5f9a259acc10ff341bec13671447c6.jpg)
+
+Check for updates
+
+Physics of Fluids 37, 057106 (2025)
+
+https://doi.org/10.1063/5.0264659
+
+![](images/b88e2ef219655c17bc296f7df0f78f0f0a2680e3a8b5420dd2c375da685cf40b.jpg)
+
+View Online
+
+![](images/e1ace863855a2a079e4eb439b3e50316c96b3812d9386868893c90a9b503643c.jpg)
+
+Export Citation
+
+# Articles You May Be Interested In
+
+Research on three-dimensional wake model of horizontal axis wind turbine based on Weibull function J. Renewable Sustainable Energy (July 2024)
+
+Design improvement of axial wind turbine performance using new blade design
+
+AIP Conf. Proc. (December 2022)
+
+A new approach for designing small horizontal axis wind turbine blades AIP Conf. Proc. (June 2024)
+
+![](images/0f874d6431070f5e3d4bd786ef1a5bcae18541e05a846cf42a2a4d3dbb3b9163.jpg)
+
+# AIP Advances
+
+Why Publish With Us?
+
+![](images/233d870e0be59dd763ee577069f8b0cba77643713ba43696cb9e3d2c3d0e8f8f.jpg)
+
+21DAYS averagetime to1st decision
+
+![](images/d8a4559426e5a600a87b40070167819a59e1099cabe7eb580d583297a53603c5.jpg)
+
+OVER 4 MILLION viewsinthelastyear
+
+![](images/456db11c5bcf8517841b08a964b91642514816f6ef1d38a4e2cd52a9d437d7d7.jpg)
+
+INCLUSIVE
+
+scope
+
+Learn More
+
+![](images/182902c24afa2e11cc763c0b60e31fef4953d455281d9d7d9c236a334cc6b5dd.jpg)
+
+AIP Publishing
+
+# A synthetic approach for high-fidelity aerodynamic performance optimization of large-scale wind turbine blades based on hybrid deep learning networks
+
+Cite as: Phys. Fluids 37, 057106 (2025); doi: 10.1063/5.0264659
+
+Submitted: 11 February 2025 . Accepted: 19 April 2025 .
+
+Pub
+
+============================================================
+

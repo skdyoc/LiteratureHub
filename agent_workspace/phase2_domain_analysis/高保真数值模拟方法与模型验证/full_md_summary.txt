@@ -1,0 +1,150 @@
+# 领域: 高保真数值模拟方法与模型验证
+# 文献数: 4
+
+## [2025_Aerodynamic_and_wake_characteristics_for_full_scale_and_model_scale_5_MW_wind_turbines_using_data_dr]
+Research paper
+
+# Aerodynamic and wake characteristics for full-scale and model-scale 5 MW wind turbines using data-driven modal decomposition
+
+![](images/6baa5116890c138717add746fe13ef21beeeb0fcac1a20df6c93c9ffc7b9227c.jpg)
+
+Xiaohui Zhang $^{a,b}$ , Mengyun Tao $^{a}$ , Meng Zhang $^{a,b,*}$ , Runyu Zhu $^{b,**}$ , Shihan Wang $^{a}$ , Bo Li $^{a}$ , Bangqi Liu $^{a}$ , Zhongliang Xie $^{c}$
+
+a Yantai Research Institute, Harbin Engineering University, Yantai, 265502, China   
+<sup>b</sup> College of Shipbuilding Engineering, Harbin Engineering University, Harbin, 150001, China   
+$^{c}$ Department of Engineering Mechanics, Northwestern Polytechnical University, Xi'an, 710072, China
+
+# ARTICLEINFO
+
+# Keywords:
+
+Aerodynamics
+
+Wake characteristics
+
+Scale effect
+
+Modal decomposition
+
+NREL 5 MW wind turbine
+
+CFD
+
+# ABSTRACT
+
+This paper examines the aerodynamic performance and wake characteristics for full-scale and 1:50 model-scale wind turbines using data-driven mode decomposition methods. Simulations are performed on a 5 MW horizontal axis wind turbine from NREL, utilizing the SST $k - \omega$ turbulence model along with overset mesh and adaptive mesh refinement techniques. The study analyzes performance coefficients at different blade tip speed ratios (TSRs) and wake velocity losses at different vertical profiles to compare aerodynamic performance and wake characteristics between the full-scale and model-scale turbines. Additionally, the evolutionary characteristics and frequency properties of the wake flows are examined by identifying the wake patterns based on proper orthogonal decomposition (POD) and dynamic mode decomposition (DMD). Findings reveal that Reynolds number primarily influences the aerodynamic performance, while turbulence intensity affects the wake characteristics. Both wake flows undergo vortex generation, shedding, growth, development and breakdown. POD modes extract the highest energy structures in the wake, which accurately describe the generatio
+
+============================================================
+
+## [2026_An_Experimental_Study_of_Surface_Icing_Characteristics_on_Offshore_Wind_Turbine_Blades_Effects_of_Sa]
+Article
+
+# An Experimental Study of Surface Icing Characteristics on Offshore Wind Turbine Blades: Effects of Salinity and Liquid Water Content
+
+Qinghui Wang 1, Yuxiao Dong 1, Jincheng Li 1, Ze Zhang 1 and Fang Feng 2,*
+
+College of Engineering, Northeast Agriculture University, Harbin 150030, China; neauwqh@163.com (Q.W.); dongyuxiao8321@163.com (Y.D.); 13832190157@163.com (J.L.); 19819250936@163.com (Z.Z.)   
+2 College of Arts and Sciences, Northeast Agriculture University, Harbin 150030, China   
+* Correspondence: fengfang@neau.edu.cn
+
+# Abstract
+
+Offshore wind turbine blades operating in cold climates are frequently affected by surface icing, which compromises aerodynamic performance and reduces power output. To address this challenge, the present study conducted controlled icing wind tunnel experiments to investigate how salinity and liquid water content (LWC) influence ice formation on the S809 airfoil surface. Results indicate that increased salinity substantially inhibits ice accretion: as salinity rises from $0 \text{‰}$ to $3 5 \text{‰}$ , the total icing area rate drops by approximately $2 0 . 5 \%$ within 6 min, and the maximum ice thickness declines from 17.21 mm to 6.03 mm. Conversely, LWC emerges as a dominant factor intensifying icing severity: raising LWC from $0 . 5 \mathrm { g } / \mathrm { m } ^ { 3 }$ to $1 . 5 \mathrm { g } / \mathrm { m } ^ { 3 }$ leads to a $1 3 5 \%$ increase in icing area and an increase in maximum ice thickness from $7 . 6 9 \mathrm { m m }$ to 18.17 mm. A notable synergistic interaction is observed—higher LWC enhances the inhibitory effect of salinity on ice formation. These findings offer valuable insights into the icing dynamics under marine atmospheric conditions and provide a theoretical foundation for the development of anti-icing strategies for offshore wind turbine blades.
+
+Keywords: icing wind tunnel test; wind turbine blade; ice distribution characteristics; salinity
+
+# 1. Introduction
+
+Wind energy stands as one o
+
+============================================================
+
+## [2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami]
+# Large eddy simulations of a utility-scale horizontal axis wind turbine including unsteady aerodynamics and fluid-structure interaction modelling
+
+Giacomo Della Posta<sup>1</sup> | Stefano Leonardi<sup>2</sup> | Matteo Bernardini<sup>1</sup>
+
+$^{1}$ Department of Mechanical and Aerospace Engineering, Sapienza University of Rome, Rome, Italy   
+$^{2}$ Department of Mechanical Engineering, University of Texas at Dallas, Richardson, Texas, USA
+
+# Correspondence
+
+Giacomo Della Posta, Department of Mechanical and Aerospace Engineering, Sapienza University of Rome, via Eudossiana 18, Rome, RM, 00184, Italy. Email: giacomo.dellaposta@uniroma1.it
+
+# Abstract
+
+Growing horizontal axis wind turbines are increasingly exposed to significant sources of unsteadiness, such as tower shadowing, yawed or waked conditions and environmental effects. Due to increased dimensions, the use of steady tabulated airfoil coefficients to determine the airloads along long blades can be questioned in those numerical fluid models that do not have the sufficient resolution to solve explicitly and dynamically the flow close to the blade. Various models exist to describe unsteady aerodynamics (UA). However, they have been mainly implemented in engineering models, which lack the complete capability of describing the unsteady and multiscale nature of wind energy. To improve the description of the blades' aerodynamic response, a 2D unsteady aerodynamics model is used in this work to estimate the airloads of the actuator line model in our fluid-structure interaction (FSI) solver, based on 3D large eddy simulation. At each section along the actuator lines, a semiempirical Beddoes-Leishman model includes the effects of noncirculatory terms, unsteady trailing edge separation, and dynamic stall in the dynamic evaluation of the airfoils' aerodynamic coefficients. The aeroelastic response of a utility-scale wind turbine under uniform, laminar and turbulent, sheared inflows is examined with one- and two-way FSI
+
+============================================================
+
+## [2022_Research_on_Unsteady_Wake_Characteristics_of_the_NREL_5MW_Wind_Turbine_Under_Yaw_Conditions_Based_on]
+# Research on Unsteady Wake Characteristics of the NREL 5MW Wind Turbine Under Yaw Conditions Based on a LBM-LES Method
+
+Feifei Xue1 *, Chang Xu1 , Haiqin Huang1,2 , Wenzhong Shen3 , Xingxing Han1 and Zhixiong Jiao1
+
+1 College of Energy and Electrical Engineering, Hohai University, Nanjing, China, 2 Power China Hua Dong Engineering Corporation Limited, Hangzhou, China, 3 College of Electrical, Energy and Power Engineering, Yangzhou University, Yangzhou, China
+
+# OPEN ACCESS
+
+# Edited by:
+
+Jens Nørkær Sørensen,
+
+Technical University of Denmark,
+
+Denmark
+
+# Reviewed by:
+
+Davide Astolfi,
+
+University of Perugia, Italy
+
+Bernhard Stoevesandt,
+
+Fraunhofer IWES, Germany
+
+# *Correspondence:
+
+Feifei Xue
+
+xuefeifeihhu@163.com
+
+# Specialty section:
+
+This article was submitted to
+
+Wind Energy,
+
+a section of the journal
+
+Frontiers in Energy Research
+
+Received: 22 November 2021
+
+Accepted: 02 March 2022
+
+Published: 08 April 2022
+
+# Citation:
+
+Xue F, Xu C, Huang H, Shen W, Han X
+
+and Jiao Z (2022) Research on
+
+Unsteady Wake Characteristics of the
+
+NREL 5MW Wind Turbine Under Yaw
+
+Conditions Based on a LBM-
+
+LES Method.
+
+Front. Energy Res. 10:819774.
+
+doi: 10.3389/fenrg.2022.819774
+
+The yaw of a large-scale wind turbine will change the aerodynamic performance of its substructures. In view of this, this article applied a LBM-LES method to numerically simulate the yawed MEXICO wind turbine and compared the numerical results with the experimental data collected in the New MEXICO experiment to verify the reliability of the method. A rapid dynamic yaw is defined with a yaw speed of $5 \%$ in yaw control, while a slow dynamic yaw is with a yaw speed of $0 . 3 ^ { \circ } / \mathsf { s }$ . The NREL 5 MW offshore wind turbine was used to explore the constant wake characteristics under the conditions of a rapid dynamic yaw and of a slow dynamic yaw. It can be seen from the results that the LBM-LES method captures the detailed characteristics of the complex unsteady flow field of the wind tur
+
+============================================================
+

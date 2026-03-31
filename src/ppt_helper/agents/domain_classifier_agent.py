@@ -13,7 +13,7 @@ from ..prompts import DOMAIN_CLASSIFIER_PROMPT
 class DomainClassifierAgent(BaseAgent):
     """领域分类器 Agent"""
 
-    def __init__(self, keys_file: str, model: str = "glm-5"):
+    def __init__(self, keys_file: str, model: str = "glm-4.7"):
         super().__init__(keys_file, model)
         self.agent_name = "DomainClassifierAgent"
 
@@ -140,7 +140,7 @@ if __name__ == "__main__":
 
     # 使用示例
     try:
-        agent = DomainClassifierAgent(keys_file="config/api_keys.txt", model="glm-5")
+        agent = DomainClassifierAgent(keys_file="config/api_keys.txt", model="glm-4.7")
 
         # 候选领域
         candidate_domains = [

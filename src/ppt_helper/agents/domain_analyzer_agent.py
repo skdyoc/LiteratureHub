@@ -582,7 +582,7 @@ DOMAIN_ANALYZER_PROMPT_TEMPLATE = """
 
 if __name__ == "__main__":
     # 使用示例
-    agent = DomainAnalyzerAgent(keys_file="config/api_keys.txt", model="glm-5")
+    agent = DomainAnalyzerAgent(keys_file="config/api_keys.txt", model="glm-4.7")
 
     # 模拟输入数据
     input_data = {

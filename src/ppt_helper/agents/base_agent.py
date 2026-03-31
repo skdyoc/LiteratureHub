@@ -1,7 +1,7 @@
 """
 AI Agent 基类
 
-所有 AI Agent 的基础类，定义统一的接口和 GLM-5 API 调用逻辑
+所有 AI Agent 的基础类，定义统一的接口和 GLM-4.7 API 调用逻辑
 """
 
 import json
@@ -15,9 +15,6 @@ from zhipuai import ZhipuAI
 class APIKeyManager:
     """API 密钥管理器 - 单密钥模式"""
 
-    # 私人信息文件夹路径
-    PRIVATE_INFO_DIR = Path(r"D:\xfs\phd\.私人信息")
-
     def __init__(self, keys_file: str):
         """
         初始化 API 密钥管理器
@@ -28,45 +25,19 @@ class APIKeyManager:
         self.keys_file = keys_file
         self.api_key = self._load_first_key()
 
-    def _get_project_root(self) -> Path:
-        """获取项目根目录"""
-        # 从当前文件向上查找项目根目录（包含 src/ 的目录）
-        current_file = Path(__file__).resolve()
-        for parent in current_file.parents:
-            if (parent / "src").exists() and (parent / "config").exists():
-                return parent
-        return Path.cwd()
-
     def _load_first_key(self) -> Optional[str]:
         """从文件加载第一个 API 密钥"""
-        project_root = self._get_project_root()
-
-        # 尝试多个可能的密钥文件路径
-        possible_paths = [
-            Path(self.keys_file),  # 原始路径（绝对或相对）
-            project_root / "config" / "api_keys.txt",  # 项目配置
-            self.PRIVATE_INFO_DIR / "glm_api_keys.txt",  # 私人信息文件夹
-            self.PRIVATE_INFO_DIR / "api_keys.txt",  # 私人信息文件夹
-            Path("config/api_keys.txt"),  # 当前工作目录
-        ]
-
-        for key_path in possible_paths:
-            try:
-                if key_path.exists():
-                    with open(key_path, "r", encoding="utf-8") as f:
-                        for line in f:
-                            line = line.strip()
-                            # 跳过空行和注释行
-                            if line and not line.startswith("#"):
-                                print(f"✅ 从 {key_path} 加载 API 密钥")
-                                return line
-            except Exception as e:
-                continue
-
-        print(f"❌ 加载 API 密钥失败：尝试了以下路径")
-        for p in possible_paths:
-            print(f"   - {p}")
-        return None
+        try:
+            with open(self.keys_file, "r", encoding="utf-8") as f:
+                for line in f:
+                    line = line.strip()
+                    # 跳过空行和注释行
+                    if line and not line.startswith("#"):
+                        return line
+            return None
+        except Exception as e:
+            print(f"❌ 加载 API 密钥失败: {e}")
+            return None
 
     def get_key(self) -> Optional[str]:
         """
@@ -84,7 +55,7 @@ class BaseAgent(ABC):
     # ⭐ Coding API 端点
     CODING_API_BASE_URL = "https://open.bigmodel.cn/api/coding/paas/v4"
 
-    def __init__(self, keys_file: str, model: str = "glm-5"):
+    def __init__(self, keys_file: str, model: str = "glm-4.7"):
         """
         初始化 Agent
 
@@ -93,20 +64,22 @@ class BaseAgent(ABC):
             model: 模型名称
         """
         self.model = model
+
+        # ⭐ 直接使用相对路径（不要转换为绝对路径，避免中文路径问题）
         self.api_key_manager = APIKeyManager(keys_file)
 
         # 获取密钥
         self.current_api_key = self.api_key_manager.get_key()
 
         if not self.current_api_key:
-            raise ValueError("⚠️ 没有可用的 API 密钥！请检查 config/api_keys.txt")
+            raise ValueError(f"⚠️ 没有可用的 API 密钥！请检查 {keys_file}")
 
     def _call_glm_api(
         self,
         prompt: str,
         temperature: float = 0.7,
         max_tokens: int = 128000,  # ⭐ GLM-4.7 API 上限（不能超过 128000）
-        timeout: int = 12000,  # ⭐ 设置为 12000 秒（200 分钟）
+        timeout: int = 3000,  # ⭐ 超时时间：3000 秒（50 分钟）
         retry_count: int = 0,
     ) -> Optional[str]:
         """
@@ -116,7 +89,7 @@ class BaseAgent(ABC):
             prompt: Prompt 模板
             temperature: 温度参数
             max_tokens: 最大 token 数
-            timeout: 超时时间（秒），默认 6000 秒
+            timeout: 超时时间（秒），默认 3000 秒
             retry_count: 重试次数
 
         Returns:
@@ -370,7 +343,7 @@ class ExampleAgent(BaseAgent):
 if __name__ == "__main__":
     # 使用示例
     try:
-        agent = ExampleAgent(keys_file="config/api_keys.txt", model="glm-5")
+        agent = ExampleAgent(keys_file="config/api_keys.txt", model="glm-4.7")
 
         # 执行分析
         input_data = {"test": "data"}

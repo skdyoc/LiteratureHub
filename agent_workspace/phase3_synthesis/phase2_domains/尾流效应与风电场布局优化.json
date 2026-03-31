@@ -1,0 +1,253 @@
+{
+  "domain_name": "尾流效应与风电场布局优化",
+  "domain_description": "研究风力机尾流结构、演化机制及其对下游风机的影响，开发尾流模型和风电场布局优化方法以提高整体发电量。涵盖尾流物理建模、风电场功率优化、偏航尾流控制、风电场布局设计等多个研究方向。",
+  "generated_at": "2026-03-30T21:02:16.906410",
+  "statistics": {
+    "total_papers": 5,
+    "papers_analyzed": 5,
+    "papers_with_full_analysis": 3,
+    "innovation_score_range": {
+      "min": 8.0,
+      "max": 8.5,
+      "average": 8.3
+    },
+    "recommendation_score_range": {
+      "min": 6.5,
+      "max": 8.0,
+      "average": 7.5
+    }
+  },
+  "key_innovations": {
+    "new_phenomena": [
+      {
+        "name": "基于模态分解的尾流演化多尺度动态行为解耦",
+        "description": "该研究通过结合POD（本征正交分解）和DMD（动态模态分解）两种数据驱动方法，首次系统性地揭示了全尺寸与缩比模型风力机尾流在涡旋生成、脱落、增长、发展和破碎全过程中的多尺度动态行为。研究发现，尾流并非简单的能量耗散过程，而是由不同时间和空间尺度的相干结构主导的复杂演化。POD模态提取了尾流中能量最高的结构，这些结构精确描述了尾涡的生成和发展阶段，表现为大尺度、准定常的涡旋骨架。而DMD则通过频域解耦，揭示了这些大尺度结构内部或伴随其发生的、具有特定频率的动态行为，例如涡旋的周期性脱落、不稳定性的增长模态以及最终的破碎模式。",
+        "confidence": 0.88,
+        "paper_id": "2025_Aerodynamic_and_wake_characteristics_for_full"
+      },
+      {
+        "name": "大型风力机叶片内段非定常气动现象的主导性",
+        "description": "该研究通过高保真模拟揭示了一个关键现象：对于兆瓦级大型水平轴风力机，在考虑非定常空气动力学（UA）模型后，叶片沿展向的物理主导机制存在明确的空间分区。具体表现为：叶片的外侧半段（靠近叶尖）的气动载荷和结构响应主要由气动弹性效应（流固耦合，FSI）主导；而叶片的内侧半段（靠近轮毂）则被显著的非定常气动现象所支配。这一现象在均匀来流、层流剪切流和湍流剪切流等多种工况下均被观测到。其物理机制在于，叶片内侧段由于旋转线速度较低、弦长相对较大，导致当地减缩频率（k）显著增高，使得流动对攻角变化的响应滞后效应（非定常效应）变得极其重要，超越了结构振动对载荷的反馈影响。非定常气动现象，特别是动态失速和非定常",
+        "confidence": 0.88,
+        "paper_id": "2023_Large_eddy_simulations_of_a_utility_scale_hor"
+      },
+      {
+        "name": "快速与慢速动态偏航下尾流演化的非对称性差异",
+        "description": "该论文系统性地揭示并区分了风力机在快速动态偏航（yaw rate = 5°/s）与慢速动态偏航（yaw rate = 0.3°/s）条件下，尾流结构演化呈现出的截然不同的非定常、非对称特性。在快速动态偏航过程中，尾流场表现出强烈的瞬态响应：近尾流与远尾流的过渡区域出现大角度的、急剧的偏转。而在慢速动态偏航过程中，尾流的响应则相对“平滑”和“滞后”，远尾流会相对于偏航方向发生“前偏”（deflects forward relatively to the yaw）。这两种模式下的尾流横截面均形成类似肾脏的形状，但快速动态偏航产生的尾流具有更明显的非对称结构。风力机的推力响应也截然不同：快速偏航时推",
+        "confidence": 0.82,
+        "paper_id": "2022_Research_on_Unsteady_Wake_Characteristics_of_"
+      },
+      {
+        "name": "动态偏航尾流恢复的加速效应与非对称诱导",
+        "description": "论文发现，在动态偏航条件下，风力机的尾流速度亏损恢复速度比无偏航（对风）状态下的尾流恢复更快。这意味着偏航引起的尾流横向膨胀和动量掺混过程更为剧烈。更进一步的发现是，快速动态偏航产生的尾流具有显著的非对称结构，这种非对称性不仅体现在横截面的形状上，也可能意味着尾流中心线在垂直和水平方向上的弯曲，以及速度亏损分布在左右两侧（相对于偏航方向）的不一致。这种非对称的、加速恢复的尾流结构，改变了传统上认为偏航仅导致尾流整体偏转的认知。",
+        "confidence": 0.78,
+        "paper_id": "2022_Research_on_Unsteady_Wake_Characteristics_of_"
+      }
+    ],
+    "new_methods": [
+      {
+        "name": "基于重叠网格与自适应网格加密（AMR）耦合的高保真度风力机尾流POD/DMD分析框架",
+        "description": "本研究提出并实施了一个集成了高保真度CFD模拟与先进数据驱动模态分解的完整方法框架。其核心是使用SST k-ω湍流模型，结合重叠网格技术处理旋转的叶片与静止的塔架/流域之间的相对运动，并引入自适应网格加密（AMR）在尾流区域（特别是涡旋生成和发展区）动态地加密网格以捕捉精细结构。在此高分辨率非定常流场数据基础上，系统地对速度场数据进行POD和DMD分析。POD用于提取能量最优的相干结构，DMD用于解耦动态频率模态。该方法实现了从高精度数值模拟到深层流动物理机理提取的无缝衔接。",
+        "confidence": 0.9,
+        "paper_id": "2025_Aerodynamic_and_wake_characteristics_for_full"
+      },
+      {
+        "name": "基于执行器线模型与大涡模拟的Beddoes-Leishman非定常气动模型集成框架",
+        "description": "本论文提出并实现了一个创新的高保真数值模拟框架。该方法的核心是将一个二维、时域的**半经验Beddoes-Leishman非定常空气动力学（UA）模型**，深度集成到一个基于**三维大涡模拟（LES）** 和**执行器线模型（ALM）** 的**流固耦合（FSI）求解器**中。具体而言，在传统的ALM方法中，沿每条执行器线分布的多个控制点（代表叶片剖面）上的气动载荷，通常通过查询静态翼型系数表格（基于瞬时当地攻角和雷诺数）获得。本方法彻底改变了这一过程：在每个ALM控制点，不再查询静态表格，而是实时运行一个独立的Beddoes-Leishman UA模型。该UA模型以当地时变的来流速度、攻角（",
+        "confidence": 0.92,
+        "paper_id": "2023_Large_eddy_simulations_of_a_utility_scale_hor"
+      },
+      {
+        "name": "基于LBM-LES方法的大型风力机动态偏航高保真数值模拟框架",
+        "description": "本论文并非首次提出LBM或LES方法，但其核心创新在于成功构建并验证了一套将格子玻尔兹曼方法（LBM）与大涡模拟（LES）湍流模型相结合，并应用于兆瓦级大型风力机（NREL 5MW）在动态偏航（包含快速和慢速）这一极端复杂非定常气动问题的高保真数值模拟框架。该方法的核心是使用LBM作为流场求解器，替代传统的基于Navier-Stokes方程（N-S）的求解器。LBM通过在离散格子节点上模拟粒子群体的碰撞和迁移过程来再现宏观流体动力学。论文中结合了壁面自适应局部涡粘（WALE）亚格子尺度模型进行LES模拟，并可能采用了自适应网格细化（AMR）技术来高效捕捉转子附近及尾流区的精细流场结构。整个框架",
+        "confidence": 0.9,
+        "paper_id": "2022_Research_on_Unsteady_Wake_Characteristics_of_"
+      }
+    ],
+    "new_objects": [
+      {
+        "name": "集成非定常气动模型的高保真风机流固耦合模拟系统",
+        "description": "本论文构建并展示了一个全新的、复杂的**数值模拟系统对象**。这个对象不是一个物理实体，而是一个高度集成的计算框架。它将多个先进的子模块融合为一个协同工作的整体：1) **三维高分辨率流场求解器**：基于大涡模拟（LES）来解析大气湍流、尾流演化及大尺度结构。2) **执行器线模型（ALM）**：作为叶片在流体域中的“代理”，将连续的叶片离散为一系列施加体积力的线源。3) **剖面级非定常气动模型**：在每个ALM节点嵌入Beddoes-Leishman动态模型，作为连接流场信息与气动载荷的“智能转换器”。4) **结构动力学模块**：采用模态叠加法，将叶片简化为有限自由度的弹性系统，计算其动",
+        "paper_id": "2023_Large_eddy_simulations_of_a_utility_scale_hor"
+      },
+      {
+        "name": "基于LBM-LES模拟定义的快速与慢速动态偏航操作模式及对比案例",
+        "description": "本文并未提出一个全新的物理风力机产品或部件，但提出并清晰定义了两个具有明确工程意义的“新对象”——即两种动态偏航操作模式及其对应的标准模拟案例。这两个“对象”是：1) 快速动态偏航过程：定义为偏航速率为5°/s的动态偏航。2) 慢速动态偏航过程：定义为偏航速率为0.3°/s的动态偏航。论文以NREL 5MW这一行业标准海上风力机为具体载体，建立了研究这两种模式尾流特性的标准算例。这组对比案例本身构成了一个可供后续研究参考和对比的基准（Benchmark）。",
+        "paper_id": "2022_Research_on_Unsteady_Wake_Characteristics_of_"
+      }
+    ],
+    "total_phenomena": 4,
+    "total_methods": 3,
+    "total_objects": 2
+  },
+  "research_themes": [
+    {
+      "theme": "尾流高保真数值模拟与机理揭示",
+      "description": "利用LES、LBM-LES等高保真数值方法深入研究风力机尾流的非定常特性、涡结构演化和湍流机制，揭示偏航、平台运动等复杂工况下的尾流物理。",
+      "paper_count": 3,
+      "representative_papers": [
+        "2025_Aerodynamic_and_wake_characteristics_for_full_scale_and_model_scale_5_MW_wind_turbines_using_data_dr",
+        "2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami",
+        "2022_Research_on_Unsteady_Wake_Characteristics_of_the_NREL_5MW_Wind_Turbine_Under_Yaw_Conditions_Based_on"
+      ]
+    },
+    {
+      "theme": "风电场尾流控制与布局优化",
+      "description": "通过偏航偏转、尾流混合等主动控制策略优化风电场功率输出，同时考虑疲劳载荷等多目标优化。",
+      "paper_count": 1,
+      "representative_papers": [
+        "2024_Wake_redirection_control_for_offshore_wind_farm_power_and_fatigue_multi_objective_optimisation_based"
+      ]
+    },
+    {
+      "theme": "新型风电场概念与协同效应",
+      "description": "探索小型垂直轴风机与大型水平轴风机混合布局等新型风电场概念，利用协同效应强制恢复尾流。",
+      "paper_count": 1,
+      "representative_papers": [
+        "2026_Synergistic_effect_of_the_small_VAWTs_and_large_HAWTs_for_forced_wake_recovery_of_wind_farm"
+      ]
+    }
+  ],
+  "research_methods_overview": {
+    "primary_methods": [
+      {
+        "method": "大涡模拟（LES）结合致动线模型（ALM）",
+        "application": "高保真尾流模拟与非定常气动特性分析",
+        "papers": 2
+      },
+      {
+        "method": "LBM-LES（格子Boltzmann方法-LES）",
+        "application": "偏航工况下尾流非定常特性模拟",
+        "papers": 1
+      },
+      {
+        "method": "数据驱动模态分解（POD/DMD）",
+        "application": "从CFD/实验数据中提取尾流相干结构",
+        "papers": 1
+      },
+      {
+        "method": "多目标优化算法",
+        "application": "风电场功率与疲劳载荷协同优化",
+        "papers": 1
+      }
+    ],
+    "simulation_tools": [
+      "OpenFAST",
+      "SOWFA",
+      "PALM",
+      "TurbSim",
+      "FLORIS"
+    ],
+    "reference_models": [
+      "NREL 5MW",
+      "IEA 15MW"
+    ]
+  },
+  "temporal_trends": {
+    "years_covered": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "trend_description": "尾流效应研究从传统的稳态尾流建模向非定常、高保真模拟方向发展，同时风电场级优化（偏航控制、布局优化）成为新的研究热点。2026年出现的新概念（VAWT-HAWT混合布局）代表了更前沿的探索方向。"
+  },
+  "key_challenges": [
+    "高保真LES/LBM模拟计算成本极高，难以应用于大规模风电场",
+    "工程尾流模型（如Jensen、Bastankhah）在复杂工况（偏航、浮式平台运动）下精度不足",
+    "缺乏全尺寸海上风电场尾流测量数据用于模型验证",
+    "风电场级多目标优化（功率+疲劳+成本）的求解效率与全局最优性难以兼顾",
+    "浮式海上风电场的尾流特性与固定式存在本质差异，研究尚处于起步阶段"
+  ],
+  "future_directions": [
+    "多风机尾流相互作用研究：将POD/DMD方法应用于风电场中多台涡轮机的尾流干涉场景，研究复杂尾流场的模态特征与能量传递。",
+    "将非定常气动模型与更详细的结构模型（如复合材料损伤）及先进控制策略（如独立变桨）进行集成，实现全系统耦合仿真",
+    "基于LBM-LES方法的动态偏航与湍流入流耦合研究，探究更真实大气边界层条件下的尾流演化。",
+    "研究偏航过程中叶片非定常气动载荷的精细预测，为叶片结构疲劳寿命分析提供更准确的输入。",
+    "将动态偏航尾流模型降阶，开发适用于风电场级仿真的高效工程模型，以桥接高保真模拟与工程应用。",
+    "发展模型降阶或机器学习代理模型，在保持精度的前提下大幅提升计算效率，促进工程应用",
+    "流动控制策略集成：基于DMD识别出的不稳定模态，设计主动或被动流动控制装置（如涡流发生器、尾缘襟翼），以抑制不利尾流结构或加速尾流恢复。",
+    "数据驱动模型的降阶与实时预测：利用提取的POD和DMD模态，构建尾流演化的低阶模型，用于风电场实时功率预测或优化控制系统。"
+  ],
+  "overall_assessment": {
+    "domain_maturity": "发展中",
+    "research_intensity": "高",
+    "practical_impact": "高",
+    "domain_significance": "尾流效应与风电场布局优化是海上风电大规模部署的核心技术瓶颈之一。随着单机容量突破15-22MW和风电场规模不断扩大，尾流导致的功率损失（可达10-30%）和疲劳载荷增加成为制约风电场经济性的关键因素。本领域的研究对降低LCOE具有直接且重大的工程价值。",
+    "key_gap": "当前研究主要集中在单机或小规模尾流模拟，缺乏对大规模海上风电场（50+风机）尾流相互作用的系统性研究；浮式风电场尾流研究尤为稀缺。",
+    "emerging_trends": [
+      "数据驱动与AI辅助的尾流建模",
+      "浮式风电场尾流特性研究",
+      "风电场数字孪生与实时尾流优化",
+      "VAWT-HAWT混合布局等新型风电场概念"
+    ]
+  },
+  "paper_details": [
+    {
+      "paper_id": "2025_Aerodynamic_and_wake_characteristics_for_full_scale_and_model_scale_5_MW_wind_turbines_using_data_dr",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": 8.5,
+      "recommendation_score": 8.0,
+      "impact_level": "High"
+    },
+    {
+      "paper_id": "2026_Synergistic_effect_of_the_small_VAWTs_and_large_HAWTs_for_forced_wake_recovery_of_wind_farm",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": null,
+      "recommendation_score": 8.0,
+      "impact_level": "High"
+    },
+    {
+      "paper_id": "2024_Wake_redirection_control_for_offshore_wind_farm_power_and_fatigue_multi_objective_optimisation_based",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": null,
+      "recommendation_score": 8.0,
+      "impact_level": "High"
+    },
+    {
+      "paper_id": "2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": 8.5,
+      "recommendation_score": 8.0,
+      "impact_level": "High"
+    },
+    {
+      "paper_id": "2022_Research_on_Unsteady_Wake_Characteristics_of_the_NREL_5MW_Wind_Turbine_Under_Yaw_Conditions_Based_on",
+      "sections": [
+        "motivation",
+        "innovation",
+        "mechanism",
+        "impact",
+        "roadmap"
+      ],
+      "innovation_score": 8.0,
+      "recommendation_score": 6.5,
+      "impact_level": "Medium"
+    }
+  ]
+}

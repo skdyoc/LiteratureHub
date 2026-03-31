@@ -1,0 +1,179 @@
+{
+  "domain_overview": {
+    "core_research_questions": [
+      "风力机叶片在动态条件下（俯仰振荡、平台运动、湍流入流）动态失速的物理机理是什么？分离涡的生成、发展与脱落如何影响气动载荷的迟滞响应？",
+      "三维旋转效应（离心力、科里奥利力）如何从根本上调制动态失速过程？旋转增强效应对失速延迟、流动再附着和气动阻尼有何定量影响？",
+      "浮式海上风电（FOWT）平台六自由度运动（特别是纵荡运动）与叶片俯仰运动耦合下，动态失速行为有何新特征？纵荡方向和频率如何非对称地影响失速趋势？",
+      "如何在工程仿真工具中准确表征非定常气动效应（动态失速、非环量项、非定常尾缘分离），以提升疲劳载荷预测精度？Beddoes-Leishman模型对风力机厚翼型的适用性如何改进？",
+      "大型风力机叶片沿展向不同区域（内段vs外段）的非定常气动主导机制有何差异？气动弹性耦合（FSI）在不同区域的贡献如何？"
+    ],
+    "key_challenges": [
+      "多自由度耦合运动下动态失速机理的高度非线性：浮式风电平台运动（纵荡、垂荡等）与叶片自身俯仰运动的耦合导致非定常、强非线性气动现象，现有工程模型预测误差可达30%以上",
+      "二维翼型到三维旋转叶片的外推困难：基于二维翼型实验或模拟发展的动态失速模型，在预测三维旋转叶片的真实气动行为时存在系统性偏差，旋转增强效应难以参数化",
+      "计算保真度与工程效率的矛盾：高保真方法（LES、DNS）能捕捉动态失速细节但计算成本极高，工程模型（BEM+B-L）计算快速但对复杂非定常现象的表征精度不足",
+      "缺乏全尺寸实测验证数据：大多数研究基于风洞实验或数值模拟，缺乏真实运行条件下大型风力机叶片非定常气动载荷和流场的详细测量数据",
+      "非定常气动对气动弹性稳定性的影响：旋转增强效应在特定参数组合下可能诱发负气动俯仰阻尼，导致失速颤振风险，但其发生边界尚未系统建立"
+    ],
+    "positioning": "动态失速与非定常气动特性是风能空气动力学中最基础也最具挑战性的研究方向之一，位于流体力学基础理论、计算方法创新和工程载荷分析三者的交叉核心。该领域直接支撑风力机叶片气动设计、载荷认证、疲劳寿命评估和气动弹性稳定性分析，是连接翼型级气动性能与全机组级安全可靠性的关键纽带。随着风力机大型化（10MW+）和浮式化（FOWT）趋势加速，非定常气动效应日益凸显，该领域的重要性持续上升。"
+  },
+  "technical_roadmap": [
+    {
+      "year": 2020,
+      "milestone": "经典Beddoes-Leishman模型的风力机化修正",
+      "description": "Liu等人针对风力机专用厚翼型（厚度比>15%，如S809）的低马赫数、大厚度比特性，系统修正了B-L模型的分离点位置函数和涡时间常数。修正后模型法向力系数误差从15%降至5%以内，并首次将修正模型应用于2MW风力机全生命周期疲劳载荷分析，揭示了动态失速模型精度对疲劳损伤等效载荷（DEL）10-15%的影响。这标志着工程动态失速模型从直升机领域向风力机领域的专业化转型。",
+      "related_papers": [
+        "2020_An_improved_dynamic_stall_model_and_its_effect_on_wind_turbine_fatigue_load_prediction"
+      ]
+    },
+    {
+      "year": 2021,
+      "milestone": "旋转增强效应对三维动态失速的定量表征与负阻尼发现",
+      "description": "Zhu等人首次建立了'2D翼型→3D非旋转叶片→3D旋转叶片'的系统性对比框架，基于NREL Phase VI实验数据和URANS模拟，定量揭示了旋转增强对动态失速的双重影响：（1）积极方面——有效抑制上冲程分离扩展、加速下冲程流动再附着，最大升力系数提升4-6%，气动迟滞强度降低61%；（2）潜在风险——在特定参数组合下可能诱发负气动俯仰阻尼，构成失速颤振隐患。这一发现根本性地修正了对风力机动态失速的传统认知。",
+      "related_papers": [
+        "2021_Dynamic_stall_of_the_wind_turbine_airfoil_and_blade_undergoing_pitch_oscillations_A_comparative_stud"
+      ]
+    },
+    {
+      "year": 2023,
+      "milestone": "高保真LES-ALM-UA-FSI集成框架与叶片展向主导机制分区发现",
+      "description": "Della Posta等人首次将Beddoes-Leishman非定常气动模型深度集成到基于三维大涡模拟（LES）和执行器线模型（ALM）的流固耦合（FSI）求解器中。该框架在兆瓦级风力机上应用，发现了叶片沿展向存在'气动弹性主导区'（外半段）和'非定常气动主导区'（内半段）的物理分区，其根本原因在于内段减缩频率k值显著偏高。这一发现为风力机设计中的模型选择和简化提供了关键指导。",
+      "related_papers": [
+        "2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami"
+      ]
+    },
+    {
+      "year": 2024,
+      "milestone": "浮式风电多自由度耦合运动下动态失速机理研究",
+      "description": "Liu等人首次系统研究了浮式海上风电（FOWT）翼型在纵荡-俯仰耦合运动下的动态失速特性。通过分析S809翼型在四种耦合模式（US&DP, DS&DP, US&UP, DS&UP）和两种纵荡频率下的响应，揭示了纵荡运动方向对动态失速的非对称调制作用：向上纵荡抑制分离涡生成、推迟失速，向下纵荡促进分离、提前失速并加剧迟滞。这一发现为FOWT气动设计和平台运动控制提供了直接的理论指导。",
+      "related_papers": [
+        "2024_Effect_of_surge_motion_on_the_dynamic_stall_of_floating_offshore_wind_turbine_airfoils"
+      ]
+    }
+  ],
+  "key_innovations": [
+    {
+      "innovation": "厚翼型动态失速模型的针对性修正——分离点函数与涡时间常数的重标定",
+      "impact": "将经典B-L模型对风力机厚翼型（S809等）的法向力系数预测误差从15%降至5%以内，力矩迟滞环相位误差减少50%以上。应用于2MW风力机疲劳载荷分析，揭示了动态失速模型精度对疲劳损伤等效载荷（DEL）10-15%的影响。推动了工程动态失速模型从直升机旋翼领域向风力机领域的专业化转型，可直接集成到GH Bladed、FAST等商业/开源设计软件中。",
+      "evidence": "论文原文指出：'The B-L model is modified to account for the characteristics of wind turbine aerofoils which operate at lower Mach numbers and have a larger thickness-to-chord ratio compared to aviation aerofoils.' 修正后'法向力误差降至5%以内，力矩误差降至8%以内'。关键修正包括分离点位置函数f(α)的重新参数化和涡时间常数Tv的调整。",
+      "related_papers": [
+        "2020_An_improved_dynamic_stall_model_and_its_effect_on_wind_turbine_fatigue_load_prediction"
+      ]
+    },
+    {
+      "innovation": "旋转增强对三维动态失速双重影响的定量发现——性能改善与负阻尼风险并存",
+      "impact": "首次通过系统性对比量化了旋转增强效应对动态失速的积极影响：最大升力系数提升4-6%，气动迟滞强度降低61%。同时，揭示了这一效应的潜在风险——在特定参数组合下可能诱发负气动俯仰阻尼，导致失速颤振。这一发现根本性地修正了'旋转效应仅改善性能'的传统认知，将旋转增强的影响从静态/动态性能拓展到了气动弹性稳定性领域，对大型柔性叶片设计具有重要意义。",
+      "evidence": "论文原文明确指出：'Rotational augmentation effectively suppresses the extension of separated flow during the upstroke process, and significantly accelerates the flow reattachment during the downstroke process. The onset of dynamic stall is therefore delayed with the maximum lift coefficient increased by 4-6%. The aerodynamic hysteresis intensity is also greatly reduced by 61%.' 以及 'rotational augmentation may unexpectedly produce a negative aerodynamic pitch damping and cause stall flutter on the inboard blade.'",
+      "related_papers": [
+        "2021_Dynamic_stall_of_the_wind_turbine_airfoil_and_blade_undergoing_pitch_oscillations_A_comparative_stud"
+      ]
+    },
+    {
+      "innovation": "大型风力机叶片展向非定常气动主导机制的空间分区发现",
+      "impact": "首次在高保真LES-ALM-UA-FSI集成模拟中明确揭示了兆瓦级风力机叶片沿展向存在'气动弹性主导区'（外半段）与'非定常气动主导区'（内半段）的物理分区。其物理根源在于内段低相对速度、大弦长导致减缩频率k显著偏高（k>0.05）。这一发现为叶片设计中模型简化提供了科学依据：内段必须使用非定常气动模型，外段可侧重气动弹性耦合，指导了下一代设计工具中保真度分配策略。",
+      "evidence": "论文原文指出：'The results show that the external half of the blade is dominated by aeroelastic effects, whereas the internal one is dominated by significant UA phenomena, which was possible to represent only thanks to the additional model implemented.' 内段减缩频率k值显著高于外段是根本原因。",
+      "related_papers": [
+        "2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami"
+      ]
+    },
+    {
+      "innovation": "纵荡运动方向对浮式风电翼型动态失速的非对称调制机制",
+      "impact": "首次系统揭示了浮式海上风电（FOWT）平台纵荡运动方向对翼型动态失速的非对称影响：向上纵荡（US）增加翼型相对速度，对边界层施加向下的抑制力，阻止分离涡生成、推迟失速；向下纵荡（DS）减少相对速度，促进边界层分离、提前失速并产生大尺度分离涡。DS耦合运动下的升力迟滞环面积比US耦合增大30%-50%。这为FOWT平台运动抑制策略和叶片气动控制提供了明确的理论靶点。",
+      "evidence": "论文原文指出：'The results indicate that the surge direction affects the dynamic stall trend of the airfoil. When the surge motion is upward, the airflow near the airfoil exerts a downward force on the boundary layer, preventing the generation of the separation vortex. A downward surge motion advances the stall, creates a large separation vortex, and results in a large hysteretic response of the flow field.'",
+      "related_papers": [
+        "2024_Effect_of_surge_motion_on_the_dynamic_stall_of_floating_offshore_wind_turbine_airfoils"
+      ]
+    },
+    {
+      "innovation": "高保真LES-ALM-UA-FSI多物理场集成仿真框架",
+      "impact": "首次将经典Beddoes-Leishman二维非定常气动模型无缝嵌入到基于三维大涡模拟（LES）和执行器线模型（ALM）的流固耦合（FSI）求解器中，取代传统ALM中的静态翼型数据表格。该框架在计算成本与物理保真度之间取得了当前最优平衡：比全几何解析LES+FSI便宜数个数量级，又比纯工程模型具有更高的非定常气动表征能力。它填补了高端CFD与工程工具之间的关键空白，为超大型风机精细化设计提供了新一代工具。",
+      "evidence": "论文原文描述：'a 2D unsteady aerodynamics model is used in this work to estimate the airloads of the actuator line model in our fluid-structure interaction (FSI) solver, based on 3D large eddy simulation. At each section along the actuator lines, a semiempirical Beddoes-Leishman model includes the effects of noncirculatory terms, unsteady trailing edge separation, and dynamic stall in the dynamic evaluation of the airfoils' aerodynamic coefficients.'",
+      "related_papers": [
+        "2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami"
+      ]
+    }
+  ],
+  "methods_and_tools": {
+    "primary_methods": [
+      "非定常雷诺平均Navier-Stokes（URANS）模拟：用于二维翼型动态失速的高性价比数值预测，结合SST k-omega等湍流模型，可捕捉动态失速的平均运动特征和迟滞响应",
+      "大涡模拟（LES）：用于解析大型风力机周围的三维非定常湍流结构和尾涡演化，结合亚网格尺度模型（如Smagorinsky模型）封闭小尺度湍流",
+      "执行器线模型（ALM）：将叶片参数化为旋转线源，通过高斯核函数将叶素气动力分布到LES网格上，在无需解析叶片表面边界层的条件下捕捉叶片对流场的整体影响",
+      "Beddoes-Leishman（B-L）半经验动态失速模型：将非定常气动力分解为非环量项（附加质量）、环量滞后、非定常尾缘分离和动态失速涡四个物理过程的叠加，在时域内通过状态空间方程求解",
+      "叶素动量理论（BEM）：作为风力机载荷分析的标准工程方法，结合动态失速模型修正用于快速气弹仿真和疲劳载荷评估",
+      "模态叠加法：用于叶片结构动力学求解，将连续弹性叶片降阶为有限个模态坐标的二阶常微分方程组，通过虚功原理与气动力耦合",
+      "流固耦合（FSI）：实现流体求解器与结构动力学模型的交互，支持单向耦合（仅气动载荷传递至结构）和双向耦合（结构变形反馈影响流场）",
+      "系统性对比实验方法：构建'2D翼型→3D非旋转叶片→3D旋转叶片'的控制变量对比链，分离并量化旋转效应的纯贡献"
+    ],
+    "tools": [
+      "URANS求解器（如ANSYS Fluent、OpenFOAM）：二维翼型动态失速模拟",
+      "LES求解器（定制化有限体积法代码）：三维高保真湍流流场计算",
+      "NREL Phase VI实验数据库：风力机三维叶片气动的权威基准数据",
+      "GH Bladed / OpenFAST / HAWC2：行业标准气弹仿真软件，用于全机组载荷分析",
+      "S809翼型风洞实验数据（OSU等）：动态失速模型标定和验证",
+      "高斯核正则化函数：ALM体积力的平滑分布",
+      "动态失速迟滞环分析工具：提取Cl-alpha迟滞环面积、最大升力、失速起始角等特征参数",
+      "疲劳损伤等效载荷（DEL）计算：雨流计数法结合材料S-N曲线"
+    ],
+    "comparison": "本领域研究方法呈现清晰的保真度-效率谱系。在效率端，BEM+B-L工程模型计算速度最快（分钟级），适用于全生命周期载荷扫描和认证计算，但对复杂非定常现象（如三维旋转效应、多自由度耦合）的表征精度有限。在保真端，全几何解析LES+FSI能捕捉最完整的物理细节但计算成本极高（百万核时级），目前仅限于研究用途。中间层次的URANS模拟在翼型尺度提供良好性价比，而LES+ALM+UA+FSI的混合框架代表了当前保真度与效率的最优平衡点。本领域的方法演进趋势是从纯经验/半经验模型向物理保真度更高的混合模型发展，同时通过模型降阶和机器学习代理模型来弥补计算成本差距。"
+  },
+  "representative_work": [
+    {
+      "paper_id": "2021_Dynamic_stall_of_the_wind_turbine_airfoil_and_blade_undergoing_pitch_oscillations_A_comparative_stud",
+      "title": "Dynamic stall of the wind turbine airfoil and blade undergoing pitch oscillations: A comparative study",
+      "reason": "本论文是该领域最具系统性和影响力的工作之一。首次建立了从二维翼型到三维旋转叶片的完整对比框架，填补了2D-3D动态失速研究之间的关键空白。其发现的旋转增强双重影响（性能改善+负阻尼风险）根本性地修正了传统认知，对风力机设计实践具有直接指导意义。创新评分8.5，推荐评分8.0。",
+      "contribution": "（1）定量揭示了旋转增强效应使最大升力系数提升4-6%、气动迟滞强度降低61%的物理机制，明确了离心力和科里奥利力在抑制上冲程分离和加速下冲程再附着中的作用；（2）首次发现了旋转增强可能诱发负气动俯仰阻尼的潜在风险，建立了'旋转增强-迟滞环变形-负阻尼-失速颤振'的关联链条；（3）示范了通过'2D-3D非旋转-3D旋转'系统性对比和11种工况参数化扫描来解构复杂三维气动效应的研究范式。"
+    },
+    {
+      "paper_id": "2023_Large_eddy_simulations_of_a_utility_scale_horizontal_axis_wind_turbine_including_unsteady_aerodynami",
+      "title": "Large eddy simulations of a utility-scale horizontal axis wind turbine including unsteady aerodynamics and fluid-structure interaction modelling",
+      "reason": "本论文代表了风力机非定常气动仿真领域的最前沿方法论水平。首次实现了Beddoes-Leishman模型与LES-ALM-FSI的深度集成，在兆瓦级实际尺度上揭示了叶片展向主导机制的空间分区规律，为未来高保真设计工具的发展设立了新标杆。创新评分8.5，推荐评分8.0。",
+      "contribution": "（1）构建了LES-ALM-UA-FSI多物理场集成仿真框架，在计算成本与物理保真度之间取得了当前最优平衡，填补了高端CFD与工程工具之间的关键空白；（2）首次揭示了大型风力机叶片'外半段气动弹性主导、内半段非定常气动主导'的空间分区规律，物理根源在于内段高减缩频率k值；（3）在均匀、层流剪切和湍流剪切三种来流条件下，通过单向和双向FSI耦合系统验证了框架的分析能力。"
+    },
+    {
+      "paper_id": "2024_Effect_of_surge_motion_on_the_dynamic_stall_of_floating_offshore_wind_turbine_airfoils",
+      "title": "Effect of surge motion on the dynamic stall of floating offshore wind turbine airfoils",
+      "reason": "本论文开创性地将动态失速研究从固定基础拓展到浮式海上风电（FOWT）这一前沿领域。首次系统研究了纵荡-俯仰耦合运动对动态失速的影响，揭示了纵荡方向的非对称调制作用，为FOWT气动设计和安全运行提供了不可或缺的理论基础。创新评分8.0，推荐评分8.0。",
+      "contribution": "（1）首次系统揭示了纵荡运动方向对FOWT翼型动态失速的非对称影响——向上纵荡抑制分离推迟失速、向下纵荡促进分离提前失速，从相对速度和附加惯性力的角度给出了清晰的物理解释；（2）设计了四种纵荡-俯仰耦合工况（US&DP, DS&DP, US&UP, DS&UP）和两种纵荡频率的参数化研究，建立了耦合运动下动态失速的初步分析框架；（3）量化了纵荡频率增加导致非定常气动力幅值增大的趋势，为FOWT载荷评估提供了关键数据。"
+    }
+  ],
+  "gaps_and_future": {
+    "limitations": [
+      "三维旋转效应在工程动态失速模型中的整合不足：现有B-L模型本质上是二维的，未能将离心力和科里奥利力对边界层稳定性的影响参数化纳入。虽然2021年Zhu等人已量化了旋转增强的效应幅度，但尚未发展出能高效预测这些效应的修正模型，全三维高保真CFD计算成本仍然过高",
+      "浮式风电多自由度耦合运动下动态失速研究刚起步：2024年Liu等人的研究仅考虑了纵荡-俯仰两种自由度的周期性耦合运动，实际FOWT经历六自由度随机运动，且运动参数（振幅、频率、相位）范围远超已研究范围。缺乏系统性的参数空间覆盖和随机海况下的动态失速研究",
+      "缺乏全尺度实测验证数据：大多数发现基于数值模拟（URANS、LES）或小尺度风洞实验。缺乏在真实大型风力机（10MW+）运行条件下，叶片非定常气动载荷、动态表面压力分布和流场结构的详细测量数据来验证数值预测的准确性",
+      "非定常气动对气动弹性稳定性影响的系统性研究不足：虽然2021年发现了负阻尼风险，但其发生边界、与叶片结构模态的耦合机制、在不同翼型和叶片设计上的普适性尚未系统建立",
+      "厚翼型动态失速模型的通用性有待扩展：2020年的B-L修正针对S809翼型标定，对DU系列、FFA-W系列等其他风力机翼型的适用性需要进一步验证。模型修正参数与翼型几何特征（厚度比、前缘半径等）之间的泛化关系尚未建立",
+      "非定常气动模型在复杂工况（偏航、尾流、极端阵风）下的鲁棒性验证不足：现有研究多关注简化的单一非定常激励源（如正弦俯仰振荡），对多种非定常因素叠加的真实运行场景下模型的预测性能缺乏系统评估"
+    ],
+    "future_directions": [
+      "发展三维旋转修正的工程动态失速模型：基于2021年Zhu等人揭示的旋转增强定量规律和2023年Della Posta等人的高保真模拟数据，将离心力和科里奥利力效应以修正因子的形式纳入B-L模型框架，发展能高效预测旋转叶片动态失速的三维修正工程模型，实现对旋转增强性能增益和负阻尼风险的快速评估",
+      "构建浮式风电全耦合动态失速分析体系：将研究从纵荡-俯仰两种自由度扩展到完整的六自由度耦合运动，从周期性运动扩展到随机波致运动，建立涵盖不同浮式平台类型（半潜式、Spar、张力腿）、不同海况条件下的动态失速特性图谱。发展适用于FOWT的气弹耦合仿真工具，实现平台水动力学-叶片空气动力学-结构动力学的全耦合分析",
+      "基于机器学习的非定常气动代理模型：利用高保真CFD（LES+ALM+UA+FSI）生成的大规模数据集，训练深度学习模型（如LSTM、Transformer）作为非定常气动的快速代理模型，在保持接近高保真模拟精度的同时，将计算速度提升数个数量级，支持全生命周期载荷扫描和实时控制应用",
+      "全尺度风力机非定常气动实验测量与验证：开展针对10MW+级大型风力机的专项测试，在叶片内段和外段分别布置动态压力传感器、应变片和加速度计，结合机载LiDAR测量来流条件，获取动态失速事件和非定常气动载荷的详细实测数据，用于验证和校准数值模型",
+      "非定常气动与先进控制策略的协同优化：基于对动态失速触发条件和载荷特征的深入理解，发展主动流动控制技术（后缘襟翼、等离子体激励器）和智能变桨策略，在检测到不利动态失速条件（如FOWT向下纵荡、接近负阻尼区域）时主动干预，实现性能与稳定性的兼得"
+    ],
+    "interdisciplinary_opportunities": [
+      "气动弹性力学与结构健康监测的融合：利用非定常气动载荷特征作为叶片结构状态（疲劳损伤、裂纹）的间接指标，发展基于气动信号的结构健康诊断方法",
+      "机器学习与计算流体力学的交叉：利用深度神经网络从CFD数据中学习非定常气动力与运动参数之间的复杂非线性映射，发展数据驱动的动态失速预测模型",
+      "海洋工程与风工程的交叉：将浮式平台的运动响应分析（RAO）与叶片动态失速分析深度耦合，建立'海洋环境-平台运动-叶片气动-结构响应'的全链条预测能力",
+      "材料科学与气动载荷分析的交叉：基于更精确的非定常气动疲劳载荷预测，优化复合材料叶片的铺层设计，实现材料性能与载荷环境的精准匹配",
+      "气象学与风能工程的交叉：将大尺度气象条件（大气稳定度、极端天气事件）与叶片尺度动态失速触发条件关联，发展从气象预报到机组运行安全评估的快速转化方法"
+    ]
+  },
+  "analysis_summary": {
+    "total_papers_analyzed": 4,
+    "key_findings": [
+      "风力机厚翼型（厚度比>15%）的动态失速特性与航空薄翼型存在系统性差异，表现为后缘分离主导、涡发展更慢、迟滞环'软化'，需对经典B-L模型进行针对性修正（2020年Liu等人）",
+      "三维旋转增强效应对动态失速具有双重影响：积极面为最大升力提升4-6%、迟滞强度降低61%；风险面为在特定参数下可能诱发负气动俯仰阻尼和失速颤振（2021年Zhu等人）",
+      "兆瓦级风力机叶片沿展向存在'内段非定常气动主导、外段气动弹性主导'的物理分区，内段高减缩频率k值是根本原因，需对不同区域采用不同保真度的气动模型（2023年Della Posta等人）",
+      "浮式风电平台纵荡运动方向对翼型动态失速具有非对称调制：向上纵荡抑制分离推迟失速，向下纵荡促进分离提前失速，DS耦合下升力迟滞环面积比US增大30%-50%（2024年Liu等人）",
+      "本领域从2020到2024年的技术演进清晰呈现了从'工程模型修正'→'物理机理定量揭示'→'高保真仿真框架构建'→'前沿应用场景（浮式风电）探索'的发展脉络，研究深度和前沿性持续提升"
+    ],
+    "recommendations": [
+      "在风力机载荷认证和疲劳分析中，应优先采用针对风力机厚翼型修正的动态失速模型（如2020年Liu等人的修正B-L模型），替代未修正的经典模型，预计可将关键截面疲劳DEL预测差异降低10-15%",
+      "在进行大型柔性叶片气动弹性稳定性分析时，应系统评估旋转增强可能诱发的负气动俯仰阻尼风险，特别是在叶片内段高平均攻角、小振幅振荡工况下，并据此划定安全运行边界",
+      "对于浮式海上风电项目，应在气动载荷计算中纳入纵荡运动对动态失速的非对称影响，在平台设计时优先考虑抑制向下纵荡运动的方案，在控制策略中探索基于平台运动感知的主动桨距调节",
+      "在研究和高价值设计验证中，推荐采用LES-ALM-UA-FSI混合保真度框架替代传统工程模型，特别是对叶片内段的非定常载荷预测；同时，应加速发展基于该框架数据的机器学习代理模型以降低计算门槛",
+      "亟需建立涵盖更多翼型族（DU、FFA-W、NREL S系列）、更大参数空间（更宽频率/振幅范围、更多自由度耦合）和更真实工况（湍流、偏航、尾流）的动态失速数据库，作为未来模型发展和验证的共同基础"
+    ]
+  }
+}
